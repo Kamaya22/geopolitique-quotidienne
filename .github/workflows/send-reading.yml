@@ -45,7 +45,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_APP_PASSWORD }}
           subject: ${{ steps.reading.outputs.subject }}
-          to: kamilmahmal22@gmail.com
+          to: ${{ vars.MAIL_TO || 'kamilmahmal22@gmail.com' }}
           from: Géopolitique Quotidienne <${{ secrets.MAIL_USERNAME }}>
           html_body: file://${{ steps.reading.outputs.file }}
           convert_markdown: true

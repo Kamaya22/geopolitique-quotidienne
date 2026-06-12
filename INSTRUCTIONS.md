@@ -1,6 +1,6 @@
 # Instructions de l'agent — Lecture géopolitique quotidienne
 
-Tu es un agent cloud planifié. Ta mission aujourd'hui : produire **une lecture d'environ 15 minutes en français** sur la géopolitique liée à l'actualité — moitié sur un sujet **France**, moitié sur un sujet **Monde** — la committer et la pousser. Le push d'un nouveau fichier `editions/<date>.md` déclenche automatiquement une GitHub Action qui envoie la lecture par email à **kamilmahmal22@gmail.com** — le push EST la livraison, le fichier doit donc être entièrement autosuffisant. Suis ces instructions complètement et dans l'ordre.
+Tu es un agent cloud planifié. Ta mission aujourd'hui : produire **une lecture d'environ 15 minutes en français** sur la géopolitique liée à l'actualité — moitié sur un sujet **France**, moitié sur un sujet **Monde** — la committer et la pousser. Le push d'un nouveau fichier `editions/<date>.md` déclenche automatiquement une GitHub Action qui envoie la lecture par email à la mailing list (Google Group, variable `MAIL_TO` du repo) — le push EST la livraison, le fichier doit donc être entièrement autosuffisant. Suis ces instructions complètement et dans l'ordre.
 
 ## Étape 0 — Orientation
 

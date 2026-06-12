@@ -1,12 +1,16 @@
 # Géopolitique quotidienne — 15 minutes par jour
 
-Automatisation personnelle : chaque jour à ~7h00 (Europe/Paris), un agent Claude planifié dans le cloud produit une lecture d'environ 15 minutes sur la géopolitique liée à l'actualité — **moitié sur un sujet France, moitié sur un sujet Monde** — et l'envoie par email à kamilmahmal22@gmail.com. Sources exclusivement issues du journalisme de référence et d'instituts d'études géopolitiques sérieux, avec une règle stricte de **pluralisme** : chaque sujet présente plusieurs points de vue et bords politiques, nommés et étiquetés.
+Automatisation personnelle : chaque jour à ~7h00 (Europe/Paris), un agent Claude planifié dans le cloud produit une lecture d'environ 15 minutes sur la géopolitique liée à l'actualité — **moitié sur un sujet France, moitié sur un sujet Monde** — et l'envoie par email à la mailing list. Sources exclusivement issues du journalisme de référence et d'instituts d'études géopolitiques sérieux, avec une règle stricte de **pluralisme** : chaque sujet présente plusieurs points de vue et bords politiques, nommés et étiquetés.
 
 ## Fonctionnement
 
 - **Routine cloud Claude** : s'exécute tous les jours (cron `0 5 * * *` UTC ≈ 7h00 Paris). Elle clone ce repo, lit `INSTRUCTIONS.md` et le suit intégralement.
 - **Chaque jour** : l'agent choisit un sujet France et un sujet Monde dans l'actualité récente (en évitant les répétitions grâce à `sujets/history.md`), rédige l'édition (`editions/<YYYY-MM-DD>.md`) et la pousse sur GitHub.
-- **Envoi de l'email** : la GitHub Action `.github/workflows/send-reading.yml` détecte chaque nouvelle édition poussée et l'envoie par email (SMTP Gmail). Secrets requis dans le repo : `MAIL_USERNAME` (adresse Gmail) et `MAIL_APP_PASSWORD` (mot de passe d'application Google, créé sur https://myaccount.google.com/apppasswords). Le connecteur Gmail de claude.ai ne sait que créer des brouillons : il n'est pas utilisé pour la livraison.
+- **Envoi de l'email** : la GitHub Action `.github/workflows/send-reading.yml` détecte chaque nouvelle édition poussée et l'envoie par email (SMTP Gmail) au destinataire défini par la variable de repo `MAIL_TO` (la mailing list ; à défaut, kamilmahmal22@gmail.com). Secrets requis dans le repo : `MAIL_USERNAME` (adresse Gmail) et `MAIL_APP_PASSWORD` (mot de passe d'application Google, créé sur https://myaccount.google.com/apppasswords). Le connecteur Gmail de claude.ai ne sait que créer des brouillons : il n'est pas utilisé pour la livraison.
+
+## Mailing list
+
+Les éditions sont envoyées au Google Group **geopolitique-quotidienne@googlegroups.com**. S'abonner / se désabonner : https://groups.google.com/g/geopolitique-quotidienne (chaque mail du groupe contient aussi un lien de désabonnement). Pour changer de destinataire, modifier la variable `MAIL_TO` du repo (Settings → Secrets and variables → Actions → Variables) — aucun commit nécessaire.
 
 ## Comment piloter
 
