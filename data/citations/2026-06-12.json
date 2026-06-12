@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-12",
+  "sujet_fr": "Le G7 d'Évian : la France face à l'Occident fracturé",
+  "sujet_monde": "Iran–États-Unis : le cessez-le-feu du 11 juin",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-11"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/en/live-news/20260611-g7-allies-seek-to-bridge-divide-with-trump-at-france-summit",
+      "titre": "G7 allies seek to bridge divide with Trump at France summit",
+      "date_source": "2026-06-11"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/en/g7-think-tank7-summit",
+      "titre": "G7 / Think Tank7 Summit",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "pwc-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "aie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "axios",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-05-28"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "aiea",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "house-of-commons-library",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-04-08"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/04/08/10-points-iran-trump-guerre/",
+      "titre": "Cessez-le-feu : 8 des 10 points proposés par Téhéran donneraient à l'Iran une position plus forte qu'avant la guerre",
+      "date_source": "2026-04-08"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/04/us-iran-ceasefire-what-it-means-trump-tehran-israel-and-us-allies-early-analysis-chatham",
+      "titre": "US–Iran ceasefire: What it means for Trump, Tehran, Israel and US allies",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/will-the-iran-ceasefire-hold/",
+      "titre": "Will the Iran ceasefire hold?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}

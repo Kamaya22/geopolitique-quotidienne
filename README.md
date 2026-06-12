@@ -12,21 +12,40 @@ Automatisation personnelle : chaque jour à ~7h00 (Europe/Paris), un agent Claud
 
 Les éditions sont envoyées au Google Group **geopolitique-quotidienne@googlegroups.com**. S'abonner / se désabonner : https://groups.google.com/g/geopolitique-quotidienne (chaque mail du groupe contient aussi un lien de désabonnement). Pour changer de destinataire, modifier la variable `MAIL_TO` du repo (Settings → Secrets and variables → Actions → Variables) — aucun commit nécessaire.
 
+## Traçabilité et statistiques des sources
+
+Pour pouvoir **vérifier** (et pas seulement espérer) que la couverture reste pluraliste dans la durée, chaque source citée est enregistrée comme donnée structurée dans `data/` :
+
+- **`data/registry.csv`** — registre canonique des sources, étiquetées par **pays**, **orientation politique** et **type**. C'est le fichier que tu **audites et corriges** : ouvre-le, rectifie un classement erroné, traite les lignes marquées `a-verifier`, puis pousse. Voir `data/README.md` pour la taxonomie complète. **Tu gardes le dernier mot sur l'étiquetage.**
+- **`data/citations/<date>.json`** — toutes les sources citées par une édition (liens « Pour aller plus loin » **et** mentions dans le texte), écrites par l'agent le jour même.
+- **`data/STATS.md`** — tableaux statistiques **déterministes** (par pays, orientation, type, top sources, évolution mensuelle, alertes de concentration), régénérés automatiquement à chaque push par la GitHub Action `build-stats.yml`. Fichier généré : ne pas l'éditer à la main.
+- **Rapport mensuel** : une routine cloud mensuelle (instructions dans `RAPPORT_MENSUEL.md`) lit ces données et envoie par email une **analyse interprétée du pluralisme** (`rapports/<YYYY-MM>.md`, envoyé via `send-report.yml`).
+
 ## Comment piloter
 
 - **Demander un sujet précis** : éditer `sujets/demandes.md` (depuis GitHub web, l'app mobile GitHub, ou ce dossier local). L'agent traite la demande en priorité dans la prochaine édition, puis l'efface.
 - **Ajuster le format, la durée, les sources** : éditer `INSTRUCTIONS.md` — la routine relit ce fichier à chaque exécution, aucun changement de la routine elle-même n'est nécessaire.
+- **Auditer / corriger l'étiquetage des sources** : éditer `data/registry.csv` (pays, orientation, type) — `STATS.md` se recalcule au prochain push.
 - **Renvoyer la dernière édition** : lancer manuellement le workflow `Send daily geopolitics reading by email` (onglet Actions → Run workflow).
 
 ## Structure
 
 ```
-INSTRUCTIONS.md       — instructions complètes de l'agent (format, sources, pluralisme, logique)
-sujets/demandes.md    — demandes de sujets pour les prochaines éditions (éditable à tout moment)
-sujets/history.md     — sujets déjà traités (anti-répétition)
-editions/<date>.md    — archive des éditions quotidiennes
+INSTRUCTIONS.md          — instructions de l'agent quotidien (format, sources, pluralisme, traçabilité)
+RAPPORT_MENSUEL.md       — instructions de la routine mensuelle (rapport de pluralisme)
+sujets/demandes.md       — demandes de sujets pour les prochaines éditions (éditable à tout moment)
+sujets/history.md        — sujets déjà traités (anti-répétition)
+editions/<date>.md       — archive des éditions quotidiennes
+data/README.md           — codebook : colonnes du registre et taxonomie des sources
+data/registry.csv        — registre canonique des sources (auditable)
+data/citations/<date>.json — sources citées par chaque édition
+data/STATS.md            — statistiques déterministes (généré automatiquement)
+rapports/<YYYY-MM>.md    — rapports mensuels de pluralisme
+tools/build_stats.py     — génère data/STATS.md à partir des citations + registre
 ```
 
-## Gestion de la routine
+## Gestion des routines
 
-La routine se gère sur https://claude.ai/code/routines (activer/désactiver, supprimer, voir les exécutions).
+Les routines se gèrent sur https://claude.ai/code/routines (activer/désactiver, supprimer, voir les exécutions) :
+- **Quotidienne** (`INSTRUCTIONS.md`) : produit l'édition du jour.
+- **Mensuelle** (`RAPPORT_MENSUEL.md`, cron `0 6 1 * *` ≈ 8h Paris le 1er du mois) : produit le rapport de pluralisme. À créer sur la même base que la routine quotidienne (même PAT GitHub fine-grained), en pointant l'agent vers `RAPPORT_MENSUEL.md`.

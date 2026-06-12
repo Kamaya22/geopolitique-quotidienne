@@ -84,10 +84,19 @@ Utilise **WebSearch/WebFetch** pour trouver et vérifier les sources. Sources ac
 - Distingue toujours clairement : **faits établis** / **analyses** / **opinions**. Quand un point est réellement contesté (chiffres, causalités, interprétations), dis-le explicitement au lieu de trancher.
 - Pour les sujets internationaux, inclus quand c'est pertinent le point de vue des différentes parties (étiqueté comme tel), pas seulement la lecture occidentale.
 
+## Étape 2 bis — Traçabilité des sources (`data/citations/<YYYY-MM-DD>.json`)
+
+Le projet accumule, édition après édition, **toutes** les sources citées pour pouvoir vérifier le pluralisme dans la durée (voir `data/README.md` — le codebook : colonnes, types et taxonomie d'orientation). Une fois l'édition rédigée :
+
+1. Recense **chaque** source citée — aussi bien les liens des sections « Pour aller plus loin » que les **mentions dans le corps du texte** (« Selon France24… », « Le Figaro a relevé… », « Brookings soulève… », un chiffre attribué à l'INSEE, etc.). Une source citée plusieurs fois = plusieurs entrées.
+2. Écris `data/citations/<YYYY-MM-DD>.json` selon le schéma de `data/README.md` : pour chaque citation, `source_id`, `sujet` (`FR`/`Monde`), `emplacement` (`pour-aller-plus-loin`/`texte`), `role` (`fait`/`analyse`/`opinion`), et `url`/`titre`/`date_source` (`null` si absents).
+3. Pour chaque source, réutilise l'`id` existant dans `data/registry.csv`. **Si la source n'y figure pas encore**, ajoute une ligne au registre (`id,nom,type,pays,orientation,notes`) en respectant strictement la taxonomie de `data/README.md`. Si tu hésites sur l'orientation, inscris `a-verifier` plutôt que de deviner — Kamil tranchera (la ligne sera remontée dans `STATS.md`).
+4. Ne modifie **jamais** `data/STATS.md` : il est régénéré automatiquement par une GitHub Action après ton push.
+
 ## Étape 3 — Historique, commit et push (c'est l'envoi du mail)
 
 1. Ajoute une ligne à `sujets/history.md` : `- <YYYY-MM-DD> — FR : <sujet France> | Monde : <sujet Monde>`.
-2. Committe tous les fichiers modifiés (`editions/...`, `sujets/...`) avec le message `Édition du <YYYY-MM-DD>` et pousse sur la branche par défaut.
+2. Committe tous les fichiers modifiés (`editions/...`, `sujets/...`, `data/citations/<date>.json`, `data/registry.csv` si tu l'as enrichi) avec le message `Édition du <YYYY-MM-DD>` et pousse sur la branche par défaut.
 3. La GitHub Action `.github/workflows/send-reading.yml` détecte le nouveau fichier `editions/*.md` et envoie son contenu rendu par email. La première ligne (sans le `# `) devient le sujet du mail.
 4. **Pousse exactement une fois**, quand l'édition est finale — pas de brouillon, pas de second commit touchant `editions/` (chaque push d'une édition envoie un email).
 

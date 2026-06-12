@@ -1,0 +1,6 @@
+# Aperçu HTML local des statistiques (généré par tools/preview_stats.py)
+stats-preview.html
+
+# Python
+__pycache__/
+*.pyc
