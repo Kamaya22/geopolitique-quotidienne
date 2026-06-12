@@ -1,0 +1,51 @@
+name: Send daily geopolitics reading by email
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "editions/**"
+  workflow_dispatch: {}
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find the edition file from this push
+        id: reading
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            # Manual run / resend: pick the most recently committed edition.
+            FILE=$(git log --name-only --pretty=format: -1 -- 'editions/*.md' | grep -m1 . || true)
+            [ -z "$FILE" ] && FILE=$(ls editions/*.md 2>/dev/null | sort | tail -1)
+          else
+            FILE=$(git diff --name-only HEAD^ HEAD -- 'editions/*.md' | head -1)
+          fi
+          if [ -z "$FILE" ]; then
+            echo "No edition file to send, nothing to do."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          SUBJECT=$(head -1 "$FILE" | sed 's/^# *//')
+          echo "file=$FILE" >> "$GITHUB_OUTPUT"
+          echo "subject=$SUBJECT" >> "$GITHUB_OUTPUT"
+          echo "skip=false" >> "$GITHUB_OUTPUT"
+
+      - name: Send email
+        if: steps.reading.outputs.skip == 'false'
+        uses: dawidd6/action-send-mail@v6
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_APP_PASSWORD }}
+          subject: ${{ steps.reading.outputs.subject }}
+          to: kamilmahmal22@gmail.com
+          from: Géopolitique Quotidienne <${{ secrets.MAIL_USERNAME }}>
+          html_body: file://${{ steps.reading.outputs.file }}
+          convert_markdown: true
