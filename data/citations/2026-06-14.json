@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-14",
+  "sujet_fr": "L'Appel de Paris pour la solution à deux États : la diplomatie française face au mur du réel",
+  "sujet_monde": "Taïwan–Chine : l'escalade silencieuse aux îles Pratas",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-12"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-12"
+    },
+    {
+      "source_id": "paris-peace-forum",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-12"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "attac-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://jp.diplomatie.gouv.fr/fr/appel-de-paris-pour-la-solution-deux-etats-les-societes-civiles-palestiniennes-et-israeliennes",
+      "titre": "Appel de Paris pour la solution à deux États : les sociétés civiles palestiniennes et israéliennes réunies à Paris",
+      "date_source": "2026-06-12"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/en/middle-east/20260612-israeli-and-palestinian-groups-urge-world-not-to-abandon-two-state-solution",
+      "titre": "Israeli and Palestinian groups urge world not to abandon two-state solution",
+      "date_source": "2026-06-12"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.jpost.com/opinion/article-896508",
+      "titre": "Macron's Paris peace summit is unlikely to deliver results",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-12"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-12"
+    },
+    {
+      "source_id": "taipei-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2025"
+    },
+    {
+      "source_id": "stars-and-stripes",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-05-26"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aei.org/articles/china-taiwan-update-june-12-2026/",
+      "titre": "China & Taiwan Update, June 12, 2026",
+      "date_source": "2026-06-12"
+    },
+    {
+      "source_id": "stars-and-stripes",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.stripes.com/branches/coast_guard/2026-05-26/taiwan-china-coast-guard-standoff-21782158.html",
+      "titre": "Coast guard ships from China, Taiwan clash in disputed South China Sea waters",
+      "date_source": "2026-05-26"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/lights-out-wargaming-chinese-blockade-taiwan",
+      "titre": "Lights Out? Wargaming a Chinese Blockade of Taiwan",
+      "date_source": "2025"
+    }
+  ]
+}
