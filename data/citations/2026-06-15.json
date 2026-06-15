@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-15",
+  "sujet_fr": "La gauche française face à 2027 : le pari risqué de la primaire unitaire",
+  "sujet_monde": "Colombie : à six jours du second tour du 21 juin, un pivot géopolitique en jeu",
+  "citations": [
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/ps-eelv-generation-s-la-gauche-unitaire-annonce-l-organisation-d-une-primaire-a-l-automne-2026_7618508.html",
+      "titre": "PS, EELV, Génération.s… La gauche unitaire annonce l'organisation d'une primaire à « l'automne 2026 »",
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/enquete-electorale-francaise-avril-2026-les-grands-enseignements/",
+      "titre": "Enquête électorale française, avril 2026 : les grands enseignements",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-05"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-05"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/en/americas/20260605-colombia-s-petro-blasts-trump-for-supporting-far-right-drug-trafficker-in-upcoming-election",
+      "titre": "Colombia's Petro blasts Trump for supporting far-right 'drug trafficker' in upcoming election",
+      "date_source": "2026-06-05"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.atlanticcouncil.org/dispatches/experts-react-colombias-presidential-runoff-pits-the-far-right-against-the-far-left-whats-next/",
+      "titre": "Experts react: Colombia's presidential runoff pits the far right against the far left. What's next?",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.pbs.org/newshour/world/pro-trump-lawyer-de-la-espriella-pulls-ahead-in-colombias-presidential-race-with-promise-of-crime-crackdown",
+      "titre": "Pro-Trump lawyer De la Espriella pulls ahead in Colombia's presidential race with promise of crime crackdown",
+      "date_source": "2026-05"
+    }
+  ]
+}
