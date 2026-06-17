@@ -8,3 +8,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-06-14 — FR : L'Appel de Paris pour la solution à deux États : la diplomatie française face au mur du réel | Monde : Taïwan–Chine : l'escalade silencieuse aux îles Pratas
 - 2026-06-15 — FR : La gauche française face à 2027 : le pari risqué de la primaire unitaire | Monde : Colombie : à six jours du second tour du 21 juin, un pivot géopolitique en jeu
 - 2026-06-16 — FR : Les finances publiques françaises à la dérive : déficit record, dette incontrôlée et bras de fer avec Bruxelles | Monde : La guerre commerciale UE-Chine : l'instrument anti-surcapacités met l'Europe face à ses contradictions
+- 2026-06-17 — FR : VivaTech 2026 : la France et la course à la souveraineté technologique | Monde : La Laure de Kyiv en flammes : l'escalade russe sous les yeux du G7
