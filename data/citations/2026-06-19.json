@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-19",
+  "sujet_fr": "La politique africaine de la France après le Sahel : le pari du pivot oriental",
+  "sujet_monde": "Ukraine : la guerre des raffineries frappe Moscou",
+  "citations": [
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-05-12"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/afrique/20260511-sommet-africa-forward-emmanuel-macron-annonce-23-milliards-d-euros-d-investissements-en-afrique",
+      "titre": "Sommet Africa Forward : Macron annonce 23 milliards d'euros d'investissements en Afrique",
+      "date_source": "2026-05-11"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/en/memos/after-failure-sahel-rethinking-french-policy-africa",
+      "titre": "After the Failure in the Sahel, Rethinking French Policy in Africa",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/research/2026/02/russia-role-west-southern-africa-junta-wagner-africa-corps",
+      "titre": "Russia in Africa: Examining Moscow's Influence and Its Limits",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-18"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-12"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-18"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "aie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-18"
+    },
+    {
+      "source_id": "russia-matters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-17"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/vladimir-putins-war-machine-may-finally-be-running-out-of-fuel/",
+      "titre": "Vladimir Putin's War Machine May Finally Be Running Out of Fuel",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.pbs.org/newshour/world/ukrainian-drones-set-a-moscow-refinery-ablaze-in-a-major-attack-on-the-russian-capital",
+      "titre": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital",
+      "date_source": "2026-06-18"
+    },
+    {
+      "source_id": "russia-matters",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-june-17-2026",
+      "titre": "Russia-Ukraine War Report Card, June 17, 2026",
+      "date_source": "2026-06-17"
+    }
+  ]
+}
