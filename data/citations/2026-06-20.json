@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-20",
+  "sujet_fr": "La SNCF en crise : ouverture à la concurrence, malaise social et premier test pour Castex",
+  "sujet_monde": "Cachemire pakistanais : répression d'une société civile dans une région sous tension nucléaire",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/info-en-continu/20260608-jean-castex-face-%C3%A0-son-premier-bras-de-fer-social-%C3%A0-la-sncf",
+      "titre": "Jean Castex face à son premier bras de fer social à la SNCF",
+      "date_source": "2026-06-08"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/info-en-continu/20260608-jean-castex-face-%C3%A0-son-premier-bras-de-fer-social-%C3%A0-la-sncf",
+      "titre": "Jean Castex face à son premier bras de fer social à la SNCF",
+      "date_source": "2026-06-08"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/societe/greve-a-la-sncf-louverture-a-la-concurrence-des-trains-regionaux-au-coeur-du-malaise-syndical",
+      "titre": "Grève à la SNCF : l'ouverture à la concurrence des trains régionaux au cœur du malaise syndical",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/societe/greve-a-la-sncf-louverture-a-la-concurrence-des-trains-regionaux-au-coeur-du-malaise-syndical",
+      "titre": "Grève à la SNCF : l'ouverture à la concurrence des trains régionaux au cœur du malaise syndical",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.senat.fr/salle-de-presse/communiques-de-presse/presse/03-04-2026/concurrence-ferroviaire-du-mieux-pour-lorganisation-et-le-financement-du-rail.html",
+      "titre": "Concurrence ferroviaire : du mieux pour l'organisation et le financement du rail ?",
+      "date_source": "2026-04-03"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.senat.fr/salle-de-presse/communiques-de-presse/presse/03-04-2026/concurrence-ferroviaire-du-mieux-pour-lorganisation-et-le-financement-du-rail.html",
+      "titre": "Concurrence ferroviaire : du mieux pour l'organisation et le financement du rail ?",
+      "date_source": "2026-04-03"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2023"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on",
+      "titre": "Deadly protests in Pakistan-administered Kashmir: What's going on?",
+      "date_source": "2026-06-09"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/longform/2026/6/12/mountain-of-war-the-india-pakistan-conflicts-deadliest-battle-zone",
+      "titre": "Mountain of war: The India-Pakistan conflict's deadliest battle zone",
+      "date_source": "2026-06-12"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.amnesty.org/en/latest/news/2026/06/pakistan-terrorism-designation-of-protest-movement-marks-dangerous-escalation-in-jammu-and-kashmir-crackdown/",
+      "titre": "Pakistan: \"Terrorism\" designation of protest movement marks dangerous escalation in Jammu and Kashmir crackdown",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.amnesty.org/en/latest/news/2026/06/pakistan-terrorism-designation-of-protest-movement-marks-dangerous-escalation-in-jammu-and-kashmir-crackdown/",
+      "titre": "Pakistan: \"Terrorism\" designation of protest movement marks dangerous escalation in Jammu and Kashmir crackdown",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "the-diplomat",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://thediplomat.com/2026/06/what-the-banning-of-the-jaac-reveals-about-power-in-azad-kashmir/",
+      "titre": "What the Banning of the JAAC Reveals About Power in Azad Kashmir",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "the-diplomat",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://thediplomat.com/2026/06/what-the-banning-of-the-jaac-reveals-about-power-in-azad-kashmir/",
+      "titre": "What the Banning of the JAAC Reveals About Power in Azad Kashmir",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "dawn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.dawn.com/news/2005788",
+      "titre": "AJK govt cracks down on JAAC after imposition of ban",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "dawn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.dawn.com/news/2006025",
+      "titre": "Four cops martyred, 20 injured as AJK protest spirals",
+      "date_source": "2026-06"
+    }
+  ]
+}

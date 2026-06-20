@@ -11,3 +11,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-06-17 — FR : VivaTech 2026 : la France et la course à la souveraineté technologique | Monde : La Laure de Kyiv en flammes : l'escalade russe sous les yeux du G7
 - 2026-06-18 — FR : Le Pacte européen sur la migration et l'asile entre en vigueur : la France prise de court | Monde : L'accord États-Unis–Iran à Bürgenstock : un mémorandum, pas encore une paix
 - 2026-06-19 — FR : La politique africaine de la France après le Sahel : le pari du pivot oriental | Monde : Ukraine : la guerre des raffineries frappe Moscou
+- 2026-06-20 — FR : La SNCF en crise : ouverture à la concurrence, malaise social et premier test pour Castex | Monde : Cachemire pakistanais : répression d'une société civile dans une région sous tension nucléaire
