@@ -1,0 +1,187 @@
+{
+  "date": "2026-06-21",
+  "sujet_fr": "Brexit 10 ans après : la France face au paradoxe britannique",
+  "sujet_monde": "Liban-Israël : le cessez-le-feu du 19 juin dans l'engrenage d'une guerre sans horizon",
+  "citations": [
+    {
+      "source_id": "institute-for-government",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.instituteforgovernment.org.uk/comment/brexit-10-economy",
+      "titre": "Brexit at 10: The economy",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "bnp-paribas-economic-research",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://economic-research.bnpparibas.com/html/fr-FR/10-vote-Royaume-fait-face-consequences-Brexit-17/06/2026,53558",
+      "titre": "10 ans après le vote, le Royaume-Uni fait face aux conséquences du Brexit",
+      "date_source": "2026-06-17"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/06/19/le-brexit-dix-ans-apres/",
+      "titre": "Le Brexit, dix ans après : 10 points pour chiffrer l'addition",
+      "date_source": "2026-06-19"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/fonctionnement-de-l-ue/brexit-la-chronologie-des-evenements-dix-ans-apres-le-referendum/",
+      "titre": "Brexit : la chronologie des événements, dix ans après le référendum",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/en/memos/rebooting-entente-agenda-renewed-uk-france-defense-cooperation",
+      "titre": "Rebooting the Entente: An Agenda for Renewed UK-France Defense Cooperation",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/06/19/le-brexit-dix-ans-apres/",
+      "titre": "Le Brexit, dix ans après : 10 points pour chiffrer l'addition",
+      "date_source": "2026-06-19"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://tnova.fr/democratie/politique-institutions/les-desillusions-du-brexit/",
+      "titre": "Les désillusions du Brexit",
+      "date_source": null
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.publicsenat.fr/actualites/international/10-ans-du-brexit-un-desastre-economique-pour-le-royaume-uni-estime-cet-eurodepute-et-ancien-ministre-italien",
+      "titre": "10 ans du Brexit : « un désastre économique pour le Royaume-Uni », estime cet eurodéputé",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/06/19/le-brexit-dix-ans-apres/",
+      "titre": "Le Brexit, dix ans après : 10 points pour chiffrer l'addition",
+      "date_source": "2026-06-19"
+    },
+    {
+      "source_id": "bnp-paribas-economic-research",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://economic-research.bnpparibas.com/html/fr-FR/10-vote-Royaume-fait-face-consequences-Brexit-17/06/2026,53558",
+      "titre": "10 ans après le vote, le Royaume-Uni fait face aux conséquences du Brexit",
+      "date_source": "2026-06-17"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://tnova.fr/democratie/politique-institutions/les-desillusions-du-brexit/",
+      "titre": "Les désillusions du Brexit",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/audio-presse-contenus-repris-sur-le-site-video/guerre-au-moyen-orient-les-objectifs-disrael-et-des",
+      "titre": "Guerre au Moyen-Orient : « Les objectifs d'Israël et des États-Unis sont en train de diverger »",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-19"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/cessez-le-feu-temporaire-entre-israel-et-le-liban",
+      "titre": "Cessez-le-feu temporaire entre Israël et le Liban",
+      "date_source": "2026-06-19"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/en/israel-hezbollah-the-drivers-of-escalation-and-its-implications-for-lebanon/",
+      "titre": "Israël – Hezbollah : les ressorts d'une escalade et ses implications pour le Liban",
+      "date_source": null
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/cessez-le-feu-temporaire-entre-israel-et-le-liban",
+      "titre": "Cessez-le-feu temporaire entre Israël et le Liban",
+      "date_source": "2026-06-19"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/audio-presse-contenus-repris-sur-le-site-video/guerre-au-moyen-orient-les-objectifs-disrael-et-des",
+      "titre": "Guerre au Moyen-Orient : « Les objectifs d'Israël et des États-Unis sont en train de diverger »",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/en/israel-hezbollah-the-drivers-of-escalation-and-its-implications-for-lebanon/",
+      "titre": "Israël – Hezbollah : les ressorts d'une escalade et ses implications pour le Liban",
+      "date_source": null
+    }
+  ]
+}
