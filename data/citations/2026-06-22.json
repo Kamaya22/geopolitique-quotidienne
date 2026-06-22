@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-22",
+  "sujet_fr": "L'affaire Lyhanna : la justice française en crise",
+  "sujet_monde": "Colombie : de la Espriella et le basculement de l'Amérique latine",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260605-affaire-lyhanna-l-ex%C3%A9cutif-d%C3%A9plore-des-dysfonctionnements-accablants-des-services-de-l-%C3%A9tat",
+      "titre": "Affaire Lyhanna : le corps identifié, Darmanin présente ses « excuses » à la famille « au nom de la Justice »",
+      "date_source": "2026-06-05"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/une-priorite-en-chasse-une-autre-critiques-dans-l-affaire-lyhanna-magistrats-et-enqueteurs-pointent-la-politique-changeante-du-ministere_8053910.html",
+      "titre": "« Une priorité en chasse une autre » : critiqués dans l'affaire Lyhanna, magistrats et enquêteurs pointent la politique changeante du ministère",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/affaire-lyhanna-le-projet-de-loi-sur-la-protection-des-enfants-ne-sera-pas-examine-par-le-senat-avant-le-mois-doctobre",
+      "titre": "Affaire Lyhanna : le projet de loi sur la protection des enfants ne sera pas examiné par le Sénat avant le mois d'octobre",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Tableau de bord de la justice dans l'UE (EU Justice Scoreboard 2024)",
+      "date_source": "2024"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/france/20260608-affaire-lyhanna-dysfonctionnements-ou-manque-de-moyens-de-la-justice-en-france",
+      "titre": "Affaire Lyhanna : « dysfonctionnements » ou manque de moyens de la justice en France ?",
+      "date_source": "2026-06-08"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "politis",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.politis.fr/articles/2026/06/regard-denis-sieffert-affaire-lyhanna-le-pire-de-la-politique/",
+      "titre": "Affaire Lyhanna : le pire de la politique",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/france/20260608-affaire-lyhanna-dysfonctionnements-ou-manque-de-moyens-de-la-justice-en-france",
+      "titre": "Affaire Lyhanna : « dysfonctionnements » ou manque de moyens de la justice en France ?",
+      "date_source": "2026-06-08"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/affaire-lyhanna-que-proposent-les-partis-face-aux-dysfonctionnements-de-la-justice",
+      "titre": "Affaire Lyhanna : que proposent les partis face aux « dysfonctionnements » de la justice ?",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "politis",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.politis.fr/articles/2026/06/regard-denis-sieffert-affaire-lyhanna-le-pire-de-la-politique/",
+      "titre": "Affaire Lyhanna : le pire de la politique",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260622-colombie-bascule-extreme-droite-election-abelardo-de-la-espriella-ivan-cepeda",
+      "titre": "La Colombie bascule à son tour à l'extrême droite avec l'élection d'Abelardo de la Espriella",
+      "date_source": "2026-06-22"
+    },
+    {
+      "source_id": "acled",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://acleddata.com/report/total-peace-paradox-colombia-petros-policy-reduced-violence-armed-groups-grew-stronger",
+      "titre": "Total Peace paradox in Colombia: Petro's policy reduced violence, but armed groups grew stronger",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/06/will-colombia-elect-far-right-president",
+      "titre": "Will Colombia elect a far-right president?",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "cato",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.cato.org/blog/colombia-strikes-latest-blow-latin-american-left",
+      "titre": "Colombia Strikes the Latest Blow to the Latin American Left",
+      "date_source": "2026-06-22"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/21/colombians-to-vote-in-presidential-run-off-pitting-leftist-against-hardliner",
+      "titre": "Colombians to vote in a presidential runoff pitting leftist against hardliner",
+      "date_source": "2026-06-21"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260622-colombie-bascule-extreme-droite-election-abelardo-de-la-espriella-ivan-cepeda",
+      "titre": "La Colombie bascule à son tour à l'extrême droite avec l'élection d'Abelardo de la Espriella",
+      "date_source": "2026-06-22"
+    },
+    {
+      "source_id": "rts",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.rts.ch/info/monde/2026/article/la-colombie-elit-le-millionnaire-d-extreme-droite-abelardo-de-la-espriella-29282057.html",
+      "titre": "La Colombie élit le millionnaire d'extrême droite pro-Trump Abelardo de la Espriella",
+      "date_source": "2026-06-22"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/06/will-colombia-elect-far-right-president",
+      "titre": "Will Colombia elect a far-right president?",
+      "date_source": "2026-06"
+    }
+  ]
+}

@@ -13,3 +13,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-06-19 — FR : La politique africaine de la France après le Sahel : le pari du pivot oriental | Monde : Ukraine : la guerre des raffineries frappe Moscou
 - 2026-06-20 — FR : La SNCF en crise : ouverture à la concurrence, malaise social et premier test pour Castex | Monde : Cachemire pakistanais : répression d'une société civile dans une région sous tension nucléaire
 - 2026-06-21 — FR : Brexit 10 ans après : la France face au paradoxe britannique | Monde : Liban-Israël : le cessez-le-feu du 19 juin dans l'engrenage d'une guerre sans horizon
+- 2026-06-22 — FR : L'affaire Lyhanna : la justice française en crise | Monde : Colombie : de la Espriella et le basculement de l'Amérique latine
