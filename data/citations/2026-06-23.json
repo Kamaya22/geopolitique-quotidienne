@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-23",
+  "sujet_fr": "Le verdict du 7 juillet : Marine Le Pen et l'avenir de la présidentielle 2027",
+  "sujet_monde": "Pologne-Ukraine : la guerre des médailles et les fractures de la mémoire",
+  "citations": [
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/proces-en-appel-de-marine-le-pen-la-decision-de-la-cour-qui-se-prononcera-sur-l-ineligibilite-de-la-leader-du-rn-sera-rendue-le-7-juillet_7799435.html",
+      "titre": "Procès en appel de Marine Le Pen : la décision de la cour sera rendue le 7 juillet",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/institutions/proces-en-appel-des-assistants-du-rn-le-parquet-requiert-la-confirmation-des-condamnations-et-des-peines-d-ineligibilite/",
+      "titre": "Procès en appel des assistants du RN : le parquet requiert la confirmation des condamnations et des peines d'inéligibilité",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+      "titre": "Présidentielle 2027 : qui sont les candidats officiellement déclarés ?",
+      "date_source": "2026-05-24"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-jdd",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.lejdd.fr/politique/proces-de-marine-le-pen-le-rn-en-apnee-a-un-mois-du-verdict-175764",
+      "titre": "Procès de Marine Le Pen : le RN en apnée à un mois du verdict",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+      "titre": "Présidentielle 2027 : qui sont les candidats officiellement déclarés ?",
+      "date_source": "2026-05-24"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/institutions/proces-en-appel-des-assistants-du-rn-le-parquet-requiert-la-confirmation-des-condamnations-et-des-peines-d-ineligibilite/",
+      "titre": "Procès en appel des assistants du RN : le parquet requiert la confirmation des condamnations et des peines d'inéligibilité",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "le-jdd",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.lejdd.fr/politique/proces-de-marine-le-pen-le-rn-en-apnee-a-un-mois-du-verdict-175764",
+      "titre": "Procès de Marine Le Pen : le RN en apnée à un mois du verdict",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/20/top-ukrainian-officials-return-polish-awards-in-wwii-dispute",
+      "titre": "Zelenskyy and top Ukrainian officials return Polish awards in WWII dispute",
+      "date_source": "2026-06-20"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/06/21/poland-and-ukraines-honours-war-intensifies",
+      "titre": "Row between Poland and Ukraine over medals intensifies",
+      "date_source": "2026-06-21"
+    },
+    {
+      "source_id": "kyivpost",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.kyivpost.com/analysis/77265",
+      "titre": "Analysis: Poland and Ukraine are Fighting the Past, and Only Moscow Gains",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/the-prodigal-power-how-poland-could-make-a-diplomatic-comeback/",
+      "titre": "The prodigal power: How Poland could make a diplomatic comeback",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/research/2026/04/kindred-nations-uneasy-neighbors-polish-ukrainian-relations-in-the-crucible-of-russias-war",
+      "titre": "Kindred Nations, Uneasy Neighbors: Polish-Ukrainian Relations in the Crucible of Russia's War",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/20/top-ukrainian-officials-return-polish-awards-in-wwii-dispute",
+      "titre": "Zelenskyy and top Ukrainian officials return Polish awards in WWII dispute",
+      "date_source": "2026-06-20"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/research/2026/04/kindred-nations-uneasy-neighbors-polish-ukrainian-relations-in-the-crucible-of-russias-war",
+      "titre": "Kindred Nations, Uneasy Neighbors: Polish-Ukrainian Relations in the Crucible of Russia's War",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/the-prodigal-power-how-poland-could-make-a-diplomatic-comeback/",
+      "titre": "The prodigal power: How Poland could make a diplomatic comeback",
+      "date_source": "2026"
+    }
+  ]
+}
