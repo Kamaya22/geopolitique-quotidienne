@@ -1,0 +1,205 @@
+{
+  "date": "2026-06-26",
+  "sujet_fr": "La France à la conférence de reconstruction de l'Ukraine (Gdańsk)",
+  "sujet_monde": "Détroit d'Ormuz : le mémorandum de Versailles à l'épreuve du feu",
+  "citations": [
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-pologne-accueille-une-conference-sur-la-reconstruction-de-l-ukraine-deux-voisins-brouilles-mais-pourtant-allies_8077955.html",
+      "titre": "La Pologne accueille une conférence sur la reconstruction de l'Ukraine, deux voisins brouillés mais pourtant alliés",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fr.euronews.com/my-europe/2026/06/26/conference-sur-la-reconstruction-de-lukraine-en-pologne-200-accords-attendus",
+      "titre": "Conférence sur la reconstruction de l'Ukraine en Pologne : 200 accords attendus",
+      "date_source": "2026-06-26"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/europe/20260624-une-conf%C3%A9rence-sur-l-ukraine-s-ouvre-%C3%A0-gdansk-en-pologne-sans-volodymyr-zelensky",
+      "titre": "Une conférence sur l'Ukraine s'ouvre à Gdansk, en Pologne, sans Volodymyr Zelensky",
+      "date_source": "2026-06-24"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-pologne-accueille-une-conference-sur-la-reconstruction-de-l-ukraine-deux-voisins-brouilles-mais-pourtant-allies_8077955.html",
+      "titre": "La Pologne accueille une conférence sur la reconstruction de l'Ukraine, deux voisins brouillés mais pourtant alliés",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/europe/20260624-une-conf%C3%A9rence-sur-l-ukraine-s-ouvre-%C3%A0-gdansk-en-pologne-sans-volodymyr-zelensky",
+      "titre": "Ukraine : Zelensky absent de la conférence sur la reconstruction en Pologne",
+      "date_source": "2026-06-24"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://fr.euronews.com/my-europe/2026/06/26/conference-sur-la-reconstruction-de-lukraine-en-pologne-200-accords-attendus",
+      "titre": "Conférence sur la reconstruction de l'Ukraine en Pologne : 200 accords attendus",
+      "date_source": "2026-06-26"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3358398/singapore-flagged-cargo-ship-hit-unknown-projectile-while-crossing-hormuz",
+      "titre": "Singapore-flagged cargo ship hit by 'unknown projectile' while crossing Hormuz",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+      "titre": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
+      "date_source": "2026-06-26"
+    },
+    {
+      "source_id": "newsweek",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.newsweek.com/why-iran-still-attacking-ships-in-strait-hormuz-12124424",
+      "titre": "Why Is Iran Still Attacking Ships in the Strait of Hormuz?",
+      "date_source": "2026-06-26"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-ships-what-we-know",
+      "titre": "IRGC warns against new Hormuz route for ships: What we know",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/spectatrice-et-pourtant-affectee-leurope-et-la-guerre-en-iran/",
+      "titre": "Spectatrice et pourtant affectée : l'Europe et la guerre en Iran",
+      "date_source": null
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+      "titre": "Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships",
+      "date_source": "2026-06-26"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-ships-what-we-know",
+      "titre": "IRGC warns against new Hormuz route for ships: What we know",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "newsweek",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.newsweek.com/why-iran-still-attacking-ships-in-strait-hormuz-12124424",
+      "titre": "Why Is Iran Still Attacking Ships in the Strait of Hormuz?",
+      "date_source": "2026-06-26"
+    }
+  ]
+}
