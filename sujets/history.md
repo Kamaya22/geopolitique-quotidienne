@@ -16,3 +16,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-06-22 — FR : L'affaire Lyhanna : la justice française en crise | Monde : Colombie : de la Espriella et le basculement de l'Amérique latine
 - 2026-06-23 — FR : Le verdict du 7 juillet : Marine Le Pen et l'avenir de la présidentielle 2027 | Monde : Pologne-Ukraine : la guerre des médailles et les fractures de la mémoire
 - 2026-06-26 — FR : La France à la conférence de reconstruction de l'Ukraine (Gdańsk) | Monde : Détroit d'Ormuz : le mémorandum de Versailles à l'épreuve du feu
+- 2026-06-27 — FR : Le sommet franco-italien d'Antibes : Macron, Meloni et l'après-FINUL | Monde : Éthiopie : la supermajorité d'Abiy Ahmed et la poudrière de la Corne de l'Afrique

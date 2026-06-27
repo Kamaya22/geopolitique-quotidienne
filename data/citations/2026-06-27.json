@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-27",
+  "sujet_fr": "Le sommet franco-italien d'Antibes : Macron, Meloni et l'après-FINUL",
+  "sujet_monde": "Éthiopie : la supermajorité d'Abiy Ahmed et la poudrière de la Corne de l'Afrique",
+  "citations": [
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/06/25/36e-sommet-franco-italien",
+      "titre": "36e Sommet franco-italien",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fr.euronews.com/my-europe/2026/06/25/sommet-dantibes-convergences-italie-france-sur-liban-nucleaire-et-espace",
+      "titre": "Sommet d'Antibes : convergences Italie-France sur Liban, nucléaire et espace",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/europe/20260625-bises-et-sourires-macron-et-meloni-vont-mettre-en-sc%C3%A8ne-leur-bonne-entente-sur-la-c%C3%B4te-d-azur",
+      "titre": "Sur la Côte d'Azur, Macron et Meloni affichent une relation \"sérieuse\" mais pas \"glaciale\"",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "lorient-le-jour",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.lorientlejour.com/article/1539394/la-france-et-litalie-veulent-mettre-en-place-une-coalition-multinationale-pour-succeder-a-la-finul.html",
+      "titre": "La France et l'Italie veulent mettre en place une « coalition » multinationale pour succéder à la Finul",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/06/25/36e-sommet-franco-italien",
+      "titre": "36e Sommet franco-italien",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://fr.euronews.com/my-europe/2026/06/25/sommet-dantibes-convergences-italie-france-sur-liban-nucleaire-et-espace",
+      "titre": "Sommet d'Antibes : convergences Italie-France sur Liban, nucléaire et espace",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/europe/20260625-bises-et-sourires-macron-et-meloni-vont-mettre-en-sc%C3%A8ne-leur-bonne-entente-sur-la-c%C3%B4te-d-azur",
+      "titre": "Sur la Côte d'Azur, Macron et Meloni affichent une relation \"sérieuse\" mais pas \"glaciale\"",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "the-hill",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://thehill.com/homenews/ap/ap-international/ap-ethiopias-ruling-party-retains-parliamentary-majority-election-marred-by-insecurity/",
+      "titre": "Ethiopia's ruling party retains parliamentary majority in election marred by insecurity",
+      "date_source": "2026-06-21"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/1/ethiopia-holds-elections-with-pm-abiys-party-expected-to-dominate",
+      "titre": "Ethiopia holds elections with PM Abiy's party expected to dominate",
+      "date_source": "2026-06-01"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/after-supermajority-ethiopias-trajectory-following-2026-election",
+      "titre": "After the Supermajority: Ethiopia's Trajectory Following the 2026 Election",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
+      "titre": "Ethiopia, Eritrea and Tigray: A Powder Keg in the Horn of Africa",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
+      "titre": "Ethiopia, Eritrea and Tigray: A Powder Keg in the Horn of Africa",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/after-supermajority-ethiopias-trajectory-following-2026-election",
+      "titre": "After the Supermajority: Ethiopia's Trajectory Following the 2026 Election",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/1/ethiopia-holds-elections-with-pm-abiys-party-expected-to-dominate",
+      "titre": "Ethiopia holds elections with PM Abiy's party expected to dominate",
+      "date_source": "2026-06-01"
+    }
+  ]
+}
