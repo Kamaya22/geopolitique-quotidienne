@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-28",
+  "sujet_fr": "La canicule record de juin 2026 et le défi de l'adaptation climatique",
+  "sujet_monde": "Le corridor IMEC à l'épreuve de la guerre d'Iran",
+  "citations": [
+    {
+      "source_id": "meteo-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "sante-publique-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "world-weather-attribution",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Analyse d'attribution climatique immédiate — canicule Europe juin 2026",
+      "date_source": "2026-06-26"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/apres-une-pause-relative-une-troisieme-canicule-tres-probable-jusqu-au-14-juillet-selon-la-ministre-de-la-transition-ecologique_8077091.html",
+      "titre": "Après une \"pause relative\", une troisième canicule très probable \"jusqu'au 14 juillet\", selon la ministre de la Transition écologique",
+      "date_source": "2026-06-27"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.info.gouv.fr/actualite/canicule-le-premier-ministre-annonce-de-nouvelles-mesures-pour-proteger-les-francais",
+      "titre": "Canicule : le Premier ministre annonce de nouvelles mesures pour protéger les Français",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/canicule-le-gouvernement-pointe-du-doigt-pour-le-manque-de-moyens-mis-sur-ladaptation-au-changement-climatique",
+      "titre": "Canicule : le gouvernement pointé du doigt pour le manque de moyens mis sur l'adaptation au changement climatique",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/canicule-le-gouvernement-pointe-du-doigt-pour-le-manque-de-moyens-mis-sur-ladaptation-au-changement-climatique",
+      "titre": "Canicule : le gouvernement pointé du doigt pour le manque de moyens mis sur l'adaptation au changement climatique",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/apres-une-pause-relative-une-troisieme-canicule-tres-probable-jusqu-au-14-juillet-selon-la-ministre-de-la-transition-ecologique_8077091.html",
+      "titre": "Après une \"pause relative\", une troisième canicule très probable \"jusqu'au 14 juillet\", selon la ministre de la Transition écologique",
+      "date_source": "2026-06-27"
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://reporterre.net/Juin-2026-la-canicule-de-tous-les-records",
+      "titre": "Juin 2026, la canicule de tous les records",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "fortune",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fortune.com/2026/04/17/imec-india-middle-east-europe-corridor-hormuz-trade-supply-chain/",
+      "titre": "With Hormuz under strain, a trade corridor built for resilience faces a real-world test",
+      "date_source": "2026-04-17"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/bypassing-the-straits-the-india-middle-east-europe-corridor-needs-a-wartime-redesign/",
+      "titre": "Bypassing the straits: The India-Middle East-Europe corridor needs a wartime redesign",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "orf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://orfme.org/expert-speak/the-paradox-of-resilience-imec-and-the-iran-conflict/",
+      "titre": "The Paradox of Resilience: IMEC and the Iran Conflict",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/bypassing-the-straits-the-india-middle-east-europe-corridor-needs-a-wartime-redesign/",
+      "titre": "Bypassing the straits: The India-Middle East-Europe corridor needs a wartime redesign",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "geopolitical-monitor",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.geopoliticalmonitor.com/imec-corridor-seeks-reboot-after-hormuz-stress-test/",
+      "titre": "IMEC Corridor Seeks Reboot after Hormuz Stress Test",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fortune",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://fortune.com/2026/04/17/imec-india-middle-east-europe-corridor-hormuz-trade-supply-chain/",
+      "titre": "With Hormuz under strain, a trade corridor built for resilience faces a real-world test",
+      "date_source": "2026-04-17"
+    }
+  ]
+}
