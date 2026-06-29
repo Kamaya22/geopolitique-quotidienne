@@ -1,0 +1,187 @@
+{
+  "date": "2026-06-29",
+  "sujet_fr": "La réforme SURE et la crise de la justice pénale",
+  "sujet_monde": "Ukraine-Russie : la mécanique du retournement à l'été 2026",
+  "citations": [
+    {
+      "source_id": "vie-publique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.vie-publique.fr/loi/302487-projet-de-loi-justice-criminelle-respect-des-victimes-plaider-coupable",
+      "titre": "Projet de loi SURE : les principales dispositions",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/justice-criminelle-que-contient-le-projet-de-loi-controverse-en-examen-au-senat",
+      "titre": "Justice criminelle : que contient le projet de loi controversé en examen au Sénat ?",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "syndicat-magistrature",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "ldh-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "cepej",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Rapport 2024 de la CEPEJ sur les systèmes judiciaires européens",
+      "date_source": "2024"
+    },
+    {
+      "source_id": "vie-publique",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.vie-publique.fr/loi/302487-projet-de-loi-justice-criminelle-respect-des-victimes-plaider-coupable",
+      "titre": "Projet de loi SURE : les principales dispositions",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/justice-criminelle-que-contient-le-projet-de-loi-controverse-en-examen-au-senat",
+      "titre": "Justice criminelle : que contient le projet de loi controversé en examen au Sénat ?",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "syndicat-magistrature",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.syndicat-magistrature.fr/notre-action/justice-penale/justice-criminelle/communiqu%C3%A9-commun-2-pjl-sure-ensemble-contre-un-projet-d%C3%A9vastateur-pour-la-justice-et-les-libert%C3%A9s-fondamentales/",
+      "titre": "Communiqué commun — PJL SURE : ensemble contre un projet dévastateur pour la justice et les libertés fondamentales",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-june-25-2026",
+      "titre": "Russian Offensive Campaign Assessment, June 25, 2026",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "russia-matters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-june-24-2026",
+      "titre": "Russia-Ukraine War Report Card — 24 juin 2026",
+      "date_source": "2026-06-24"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia",
+      "titre": "As Ukraine seizes 'first chance to win', war horrors come home to Russia",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-june-25-2026",
+      "titre": "Russian Offensive Campaign Assessment, June 25, 2026",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "russia-matters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-june-24-2026",
+      "titre": "Russia-Ukraine War Report Card — 24 juin 2026",
+      "date_source": "2026-06-24"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "prio",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.prio.org/comments/1897",
+      "titre": "Shadow of Anchorage no-deal looms over Ukraine peace no-talks",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "russia-matters",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-june-24-2026",
+      "titre": "Russia-Ukraine War Report Card — 24 juin 2026",
+      "date_source": "2026-06-24"
+    },
+    {
+      "source_id": "prio",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.prio.org/comments/1897",
+      "titre": "Shadow of Anchorage no-deal looms over Ukraine peace no-talks",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-june-25-2026",
+      "titre": "Russian Offensive Campaign Assessment, June 25, 2026",
+      "date_source": "2026-06-25"
+    }
+  ]
+}

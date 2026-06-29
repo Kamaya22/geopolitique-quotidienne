@@ -18,3 +18,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-06-26 — FR : La France à la conférence de reconstruction de l'Ukraine (Gdańsk) | Monde : Détroit d'Ormuz : le mémorandum de Versailles à l'épreuve du feu
 - 2026-06-27 — FR : Le sommet franco-italien d'Antibes : Macron, Meloni et l'après-FINUL | Monde : Éthiopie : la supermajorité d'Abiy Ahmed et la poudrière de la Corne de l'Afrique
 - 2026-06-28 — FR : La canicule record de juin 2026 et le défi de l'adaptation climatique | Monde : Le corridor IMEC à l'épreuve de la guerre d'Iran
+- 2026-06-29 — FR : La réforme SURE et la crise de la justice pénale | Monde : Ukraine-Russie : la mécanique du retournement à l'été 2026
