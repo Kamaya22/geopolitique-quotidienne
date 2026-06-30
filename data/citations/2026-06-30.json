@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-30",
+  "sujet_fr": "La loi SURE : la réforme de la justice criminelle au banc des accusés",
+  "sujet_monde": "Ukraine-Russie : l'échéance de Trump et l'impasse diplomatique",
+  "citations": [
+    {
+      "source_id": "vie-publique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.vie-publique.fr/loi/302487-projet-de-loi-justice-criminelle-respect-des-victimes-plaider-coupable",
+      "titre": "Projet de loi sur la justice criminelle et le respect des victimes",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53940",
+      "titre": "Dossier législatif — Projet de loi sur la justice criminelle et le respect des victimes",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "barreau-paris",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.avocatparis.org/projet-de-loi-sure-le-barreau-de-paris-appelle-une-journee-justice-penale-morte-le-29-juin-12h00",
+      "titre": "Projet de loi SURE : le barreau de Paris appelle à une journée « Justice pénale morte » le 29 juin",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "syndicat-magistrature",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.syndicat-magistrature.fr/notre-action/justice-penale/justice-criminelle/communiqu%C3%A9-commun-projet-de-loi-sure-le-choix-dune-justice-criminelle-au-rabaix/",
+      "titre": "[Communiqué commun] Projet de loi SURE : le choix d'une justice criminelle au rabais",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ldh",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.ldh-france.org/appel-a-mobilisation-le-29-juin-ensemble-contre-un-projet-devastateur-pour-la-justice-et-les-libertes-fondamentales/",
+      "titre": "Appel à mobilisation : Ensemble contre un projet dévastateur pour la justice et les libertés fondamentales",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.justice.gouv.fr/actualites/actualite/projet-loi-justice-criminelle-respect-victimes-principales-dispositions",
+      "titre": "Projet de loi sur la justice criminelle et le respect des victimes : les principales dispositions",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "vie-publique",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.vie-publique.fr/loi/302487-projet-de-loi-justice-criminelle-respect-des-victimes-plaider-coupable",
+      "titre": "Projet de loi sur la justice criminelle et le respect des victimes",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "syndicat-magistrature",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.syndicat-magistrature.fr/notre-action/justice-penale/justice-criminelle/communiqu%C3%A9-commun-projet-de-loi-sure-le-choix-dune-justice-criminelle-au-rabaix/",
+      "titre": "[Communiqué commun] Projet de loi SURE : le choix d'une justice criminelle au rabais",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ldh",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.ldh-france.org/appel-a-mobilisation-le-29-juin-ensemble-contre-un-projet-devastateur-pour-la-justice-et-les-libertes-fondamentales/",
+      "titre": "Appel à mobilisation : Ensemble contre un projet dévastateur pour la justice et les libertés fondamentales",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5705967/u-s-gave-ukraine-and-russia-june-deadline-to-reach-peace-agreement-zelenskyy-says",
+      "titre": "U.S. gave Ukraine and Russia June deadline to reach peace agreement, Zelenskyy says",
+      "date_source": "2026-02-08"
+    },
+    {
+      "source_id": "the-hill",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://thehill.com/policy/international/5727697-zelensky-trump-us-ukraine-russia-peace-deal-deadline/",
+      "titre": "Volodymyr Zelensky: US set June deadline for Russia-Ukraine peace deal",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://uk.diplomatie.gouv.fr/en/robust-security-guarantees-solid-and-lasting-peace-ukraine",
+      "titre": "Robust security guarantees for a solid and lasting peace in Ukraine — Paris Declaration",
+      "date_source": "2026-01-06"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/02/europe-helping-ukraine-resist-us-push-peace-any-price",
+      "titre": "Europe is helping Ukraine resist a US push for peace at any price",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/assessing-current-peace-deal-ukraine-opportunity-or-strategic-trap",
+      "titre": "Assessing the Current Peace Deal for Ukraine: Opportunity or Strategic Trap?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia",
+      "titre": "As Ukraine seizes 'first chance to win', war horrors come home to Russia",
+      "date_source": "2026-06-25"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/experts-analyze-ukraine-ceasefire-negotiations-and-what-putin-wants-from-the-us",
+      "titre": "Experts Analyze Ukraine Ceasefire Negotiations and What Putin Wants From the U.S.",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5705967/u-s-gave-ukraine-and-russia-june-deadline-to-reach-peace-agreement-zelenskyy-says",
+      "titre": "U.S. gave Ukraine and Russia June deadline to reach peace agreement, Zelenskyy says",
+      "date_source": "2026-02-08"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/02/europe-helping-ukraine-resist-us-push-peace-any-price",
+      "titre": "Europe is helping Ukraine resist a US push for peace at any price",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/assessing-current-peace-deal-ukraine-opportunity-or-strategic-trap",
+      "titre": "Assessing the Current Peace Deal for Ukraine: Opportunity or Strategic Trap?",
+      "date_source": "2026"
+    }
+  ]
+}
