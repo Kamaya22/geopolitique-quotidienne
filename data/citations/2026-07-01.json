@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-01",
+  "sujet_fr": "La France et Oman face au détroit d'Ormuz : la diplomatie du déminage",
+  "sujet_monde": "L'ACEUM/USMCA au bord du précipice : Trump refuse le renouvellement",
+  "citations": [
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/06/29/declaration-conjointe-de-la-france-et-doman-a-lissue-de-la-visite-officielle-de-sa-majeste-haitham-ben-tariq-sultan-doman-en-france",
+      "titre": "Déclaration conjointe de la France et d'Oman à l'issue de la visite officielle de Sa Majesté Haitham ben Tariq, Sultan d'Oman",
+      "date_source": "2026-06-29"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/moyen-orient/20260630-pourquoi-la-france-mise-t-elle-sur-oman-dans-la-crise-d-ormuz",
+      "titre": "Pourquoi la France mise-t-elle sur Oman dans la crise d'Ormuz ?",
+      "date_source": "2026-06-30"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/audio-presse-contenus-repris-sur-le-site/le-detroit-dormuz-carrefour-dun-monde-en-crises",
+      "titre": "Le détroit d'Ormuz, carrefour d'un monde en crises",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/oman/presentation-d-oman",
+      "titre": "Présentation d'Oman — France Diplomatie",
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/moyen-orient/20260630-pourquoi-la-france-mise-t-elle-sur-oman-dans-la-crise-d-ormuz",
+      "titre": "Pourquoi la France mise-t-elle sur Oman dans la crise d'Ormuz ?",
+      "date_source": "2026-06-30"
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/06/29/declaration-conjointe-de-la-france-et-doman-a-lissue-de-la-visite-officielle-de-sa-majeste-haitham-ben-tariq-sultan-doman-en-france",
+      "titre": "Déclaration conjointe de la France et d'Oman à l'issue de la visite officielle de Sa Majesté Haitham ben Tariq, Sultan d'Oman",
+      "date_source": "2026-06-29"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/audio-presse-contenus-repris-sur-le-site/le-detroit-dormuz-carrefour-dun-monde-en-crises",
+      "titre": "Le détroit d'Ormuz, carrefour d'un monde en crises",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/trump-says-us-won-t-renew-usmca-setting-up-months-of-talks",
+      "titre": "Trump Says US Will Not Renew USMCA, Pushing Trade Talks With Canada, Mexico",
+      "date_source": "2026-06-10"
+    },
+    {
+      "source_id": "cbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cbc.ca/news/politics/trump-cusma-usmca-trade-renew-9.7230164",
+      "titre": "Trump threatens not to renew trade deal with Canada, Mexico",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses",
+      "titre": "If USMCA is not renewed, analysts expect uncertainty for businesses",
+      "date_source": "2026-06-28"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/usmca-review-2026-six-scenarios-north-americas-future",
+      "titre": "USMCA Review 2026: Six Scenarios for North America's Future",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/unfulfilled-promises-why-the-usmca-joint-review-must-deliver-for-workers/",
+      "titre": "Unfulfilled promises: Why the USMCA joint review must deliver for workers",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "cato",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.cato.org/blog/not-renewing-usmca-isnt-deals-death-knell-it-isnt-costless-either",
+      "titre": "Not Renewing USMCA Isn't the Deal's Death Knell—But It Isn't Costless Either",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.atlanticcouncil.org/blogs/econographics/the-five-stages-of-a-usmca-shakeup/",
+      "titre": "The five stages of a USMCA shakeup",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/usmca-review-2026-six-scenarios-north-americas-future",
+      "titre": "USMCA Review 2026: Six Scenarios for North America's Future",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses",
+      "titre": "If USMCA is not renewed, analysts expect uncertainty for businesses",
+      "date_source": "2026-06-28"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/unfulfilled-promises-why-the-usmca-joint-review-must-deliver-for-workers/",
+      "titre": "Unfulfilled promises: Why the USMCA joint review must deliver for workers",
+      "date_source": "2026"
+    }
+  ]
+}
