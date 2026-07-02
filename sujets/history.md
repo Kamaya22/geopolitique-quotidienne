@@ -20,3 +20,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-06-28 — FR : La canicule record de juin 2026 et le défi de l'adaptation climatique | Monde : Le corridor IMEC à l'épreuve de la guerre d'Iran
 - 2026-06-30 — FR : La loi SURE : la réforme de la justice criminelle au banc des accusés | Monde : Ukraine-Russie : l'échéance de Trump et l'impasse diplomatique
 - 2026-07-01 — FR : La France et Oman face au détroit d'Ormuz : la diplomatie du déminage | Monde : L'ACEUM/USMCA au bord du précipice : Trump refuse le renouvellement
+- 2026-07-02 — FR : La France, nation-cadre de la Force de réaction alliée de l'OTAN (ARF26) | Monde : Le génocide du Darfour : El Fasher, crimes contre l'humanité et impuissance internationale

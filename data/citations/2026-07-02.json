@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-02",
+  "sujet_fr": "La France, nation-cadre de la Force de réaction alliée de l'OTAN (ARF26)",
+  "sujet_monde": "Le génocide du Darfour : El Fasher, crimes contre l'humanité et impuissance internationale",
+  "citations": [
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.defense.gouv.fr/cnd/actualites/arf26-ep01-france-nation-cadre-du-dispositif-reaction-rapide-lotan-2026",
+      "titre": "ARF26 EP01 — La France, nation-cadre du dispositif de réaction rapide de l'OTAN en 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.defense.gouv.fr/terre/actualites/larmee-terre-commandera-composante-terrestre-larf26-premiere-france",
+      "titre": "L'armée de Terre commandera la composante terrestre de l'ARF26, une première pour la France",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "otan",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.nato.int/en/what-we-do/deterrence-and-defence/allied-reaction-force-arf",
+      "titre": "Allied Reaction Force (ARF) — NATO Topic",
+      "date_source": null
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.defense.gouv.fr/actualites/evolution-dissuasion-nucleaire-francaise-dissuasion-avancee",
+      "titre": "Évolution de la dissuasion nucléaire française : vers une dissuasion avancée",
+      "date_source": "2026-03-02"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "sipri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/briefings/la-dissuasion-nucleaire-francaise-lepreuve-dun-nouvel-ordre-europeen-analyse-du-discours",
+      "titre": "La dissuasion nucléaire française à l'épreuve d'un nouvel ordre européen — Analyse du discours présidentiel du 2 mars 2026",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/briefings/la-dissuasion-nucleaire-francaise-lepreuve-dun-nouvel-ordre-europeen-analyse-du-discours",
+      "titre": "La dissuasion nucléaire française à l'épreuve d'un nouvel ordre européen — Analyse du discours présidentiel du 2 mars 2026",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.defense.gouv.fr/cnd/actualites/arf26-ep01-france-nation-cadre-du-dispositif-reaction-rapide-lotan-2026",
+      "titre": "ARF26 EP01 — La France, nation-cadre du dispositif de réaction rapide de l'OTAN en 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://news.un.org/fr/story/2026/02/1158437",
+      "titre": "À El Fasher, une enquête de l'ONU relève les « signes distinctifs d'un génocide »",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.amnesty.org/en/latest/news/2026/07/sudan-rsf-atrocities-in-el-fasher-a-stain-on-the-conscience-of-humanity-new-report/",
+      "titre": "Sudan: RSF Atrocities in El Fasher — A Stain on the Conscience of Humanity",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.hrw.org/news/2026/02/24/un-body-finds-hallmarks-of-genocide-in-darfur",
+      "titre": "UN Body Finds 'Hallmarks of Genocide' in Darfur",
+      "date_source": "2026-02-24"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "acled",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://news.un.org/fr/story/2026/02/1158437",
+      "titre": "À El Fasher, une enquête de l'ONU relève les « signes distinctifs d'un génocide »",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.amnesty.org/en/latest/news/2026/07/sudan-rsf-atrocities-in-el-fasher-a-stain-on-the-conscience-of-humanity-new-report/",
+      "titre": "Sudan: RSF Atrocities in El Fasher — A Stain on the Conscience of Humanity",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.hrw.org/news/2026/02/24/un-body-finds-hallmarks-of-genocide-in-darfur",
+      "titre": "UN Body Finds 'Hallmarks of Genocide' in Darfur",
+      "date_source": "2026-02-24"
+    }
+  ]
+}
