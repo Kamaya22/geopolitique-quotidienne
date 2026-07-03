@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-03",
+  "sujet_fr": "La rupture France-Burkina Faso : la fin du pré carré sahélien",
+  "sujet_monde": "Myanmar, nouveau front de la rivalité Chine-Inde",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/afrique/20260626-burkina-faso-rupture-relations-diplomatiques-france-junte-ibrahim-traore",
+      "titre": "Le Burkina Faso affirme 'rompre ses relations diplomatiques' avec la France",
+      "date_source": "2026-06-26"
+    },
+    {
+      "source_id": "jeune-afrique",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jeuneafrique.com/1807911/politique/rupture-des-relations-diplomatiques-entre-le-burkina-faso-et-la-france-le-divorce-est-consomme/",
+      "titre": "Rupture des relations diplomatiques entre le Burkina Faso et la France : le divorce est consommé",
+      "date_source": "2026-06-26"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/sahel-au-mali-et-au-burkina-faso-les-services-de-securite-sont",
+      "titre": "Sahel : 'Au Mali et au Burkina Faso, les services de sécurité sont quasiment effondrés'",
+      "date_source": null
+    },
+    {
+      "source_id": "le-monde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07-01"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-26"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-26"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "the-diplomat",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://thediplomat.com/2026/06/how-myanmar-fits-into-indias-troubled-neighborhood-policy/",
+      "titre": "How Myanmar Fits Into India's Troubled Neighborhood Policy",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "isp-myanmar",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://ispmyanmar.com/op2026-05/",
+      "titre": "Between Two Giants: How China and India Maneuver in Myanmar for Security, Economy and Influence",
+      "date_source": "2026-07-02"
+    },
+    {
+      "source_id": "irrawaddy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.irrawaddy.com/news/burma/bri-scams-and-border-security-takeaways-from-min-aung-hlaing-xi-meeting.html",
+      "titre": "BRI, Scams, and Border Security: Takeaways From Min Aung Hlaing-Xi Meeting",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "orf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "irrawaddy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "isp-myanmar",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}
