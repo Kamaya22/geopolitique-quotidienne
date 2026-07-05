@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-05",
+  "sujet_fr": "Le sommet de l'OTAN à Ankara : la France face au test du 5 %",
+  "sujet_monde": "RDC — Ebola Bundibugyo, guerre et obstruction humanitaire",
+  "citations": [
+    {
+      "source_id": "reuters",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration finale OTAN : Reuters obtient le projet de texte",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/le-sommet-de-lotan-implications-pour-la-france-et-lallemagne",
+      "titre": "Le sommet de l'OTAN : implications pour la France et l'Allemagne",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "politis",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.euronews.com/my-europe/2026/07/03/nato-to-reaffirm-iron-clad-commitment-to-article-5-at-ankara-summit",
+      "titre": "NATO to reaffirm iron-clad commitment to Article 5 at Ankara summit",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/sommet-de-l-otan-en-approuvant-une-hausse-des-depenses-militaires-l-europe-franchit-un-seuil-strategique/",
+      "titre": "Sommet de l'OTAN : en approuvant une hausse des dépenses militaires, l'Europe franchit un seuil stratégique",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/le-sommet-de-lotan-implications-pour-la-france-et-lallemagne",
+      "titre": "Le sommet de l'OTAN : implications pour la France et l'Allemagne",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "oms",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.who.int/fr/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+      "titre": "L'épidémie de maladie d'Ebola en RDC et en Ouganda constitue une USPPI",
+      "date_source": "2026-05-17"
+    },
+    {
+      "source_id": "oms",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026",
+      "titre": "Ebola outbreak – DRC 2026 (situation overview)",
+      "date_source": "2026-07-01"
+    },
+    {
+      "source_id": "oms",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Citation du Dr Tedros sur l'accès humanitaire",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/rdc-la-riposte-ebola-face-a-linstabilite-politique-et-securitaire/",
+      "titre": "RDC : la riposte Ebola face à l'instabilité politique et sécuritaire",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "africa-center",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://africacenter.org/spotlight/ebola-drc/",
+      "titre": "Ebola Epidemic in the DRC: Explainer",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "msf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "irc-rescueorg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "medecins-du-monde",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5873364/drc-congo-ebola-health-workers-doctors",
+      "titre": "'It takes a lot of courage': DR Congo health workers battle Ebola",
+      "date_source": "2026-06-30"
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://news.un.org/en/story/2026/05/1167592",
+      "titre": "Ebola outbreak in DR Congo collides with conflict and hunger, WHO warns",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5873364/drc-congo-ebola-health-workers-doctors",
+      "titre": "'It takes a lot of courage': DR Congo health workers battle Ebola",
+      "date_source": "2026-06-30"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/rdc-la-riposte-ebola-face-a-linstabilite-politique-et-securitaire/",
+      "titre": "RDC : la riposte Ebola face à l'instabilité politique et sécuritaire",
+      "date_source": "2026-06"
+    }
+  ]
+}

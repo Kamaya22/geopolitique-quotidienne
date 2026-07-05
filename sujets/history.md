@@ -23,3 +23,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-02 — FR : La France, nation-cadre de la Force de réaction alliée de l'OTAN (ARF26) | Monde : Le génocide du Darfour : El Fasher, crimes contre l'humanité et impuissance internationale
 - 2026-07-03 — FR : La rupture France-Burkina Faso : l'effondrement du dernier pré carré sahélien | Monde : Myanmar, nouvelle ligne de front de la rivalité Chine-Inde
 - 2026-07-04 — FR : La loi Duplomb et la bataille de la souveraineté agricole | Monde : Les États-Unis à 250 ans sous Trump : démocratie ou identité nationale ?
+- 2026-07-05 — FR : Le sommet de l'OTAN à Ankara : la France face au test du 5 % | Monde : RDC — Ebola Bundibugyo, guerre et obstruction humanitaire
