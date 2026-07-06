@@ -2,7 +2,7 @@ name: Send daily geopolitics reading by email
 
 on:
   push:
-    branches: [main, "claude/*"]
+    branches: [main]
     paths:
       - "editions/**"
   workflow_dispatch: {}
@@ -23,7 +23,7 @@ jobs:
             FILE=$(git log --name-only --pretty=format: -1 -- 'editions/*.md' | grep -m1 . || true)
             [ -z "$FILE" ] && FILE=$(ls editions/*.md 2>/dev/null | sort | tail -1)
           else
-            FILE=$(git diff --name-only HEAD^ HEAD -- 'editions/*.md' | head -1)
+            FILE=$(git diff --name-only HEAD^ HEAD -- 'editions/*.md' | sort | tail -1)
           fi
           if [ -z "$FILE" ]; then
             echo "No edition file to send, nothing to do."
