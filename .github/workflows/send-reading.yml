@@ -2,7 +2,7 @@ name: Send daily geopolitics reading by email
 
 on:
   push:
-    branches: [main]
+    branches: [main, "claude/*"]
     paths:
       - "editions/**"
   workflow_dispatch: {}
