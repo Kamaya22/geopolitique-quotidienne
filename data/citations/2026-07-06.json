@@ -1,0 +1,286 @@
+{
+  "date": "2026-07-06",
+  "sujet_fr": "Macron à Damas : la France en quête de son rôle en Syrie",
+  "sujet_monde": "Les funérailles de Khamenei : l'Iran post-guerre entre deuil et fractures",
+  "citations": [
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/syrie/emmanuel-macron-attendu-a-damas-selon-la-presidence-syrienne_8095007.html",
+      "titre": "Emmanuel Macron attendu à Damas selon la présidence syrienne",
+      "date_source": "2026-07-05"
+    },
+    {
+      "source_id": "lorient-le-jour",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.lorientlejour.com/article/1540260/emmanuel-macron-va-se-rendre-en-syrie-selon-la-presidence-syrienne-1.html",
+      "titre": "Emmanuel Macron va se rendre en Syrie selon la présidence syrienne",
+      "date_source": "2026-07-05"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.nbcnews.com/world/europe/macron-will-visit-syria-rcna353038",
+      "titre": "Macron will visit Syria",
+      "date_source": "2026-07-05"
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.elysee.fr/en/emmanuel-macron/2025/05/07/meeting-with-ahmed-al-charaa-interim-president-of-the-syrian-transitional-authorities",
+      "titre": "Réception d'Ahmad al-Charaa à l'Élysée, 7 mai 2025",
+      "date_source": "2025-05-07"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/05/28/syria-eu-adopts-legal-acts-to-lift-economic-sanctions-on-syria-enacting-recent-political-agreement/",
+      "titre": "Syria: EU adopts legal acts to lift economic sanctions on Syria",
+      "date_source": "2025-05-28"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/11/syria-council-restores-full-application-of-eu-syria-cooperation-agreement/",
+      "titre": "Syria: Council restores full application of EU-Syria Cooperation Agreement",
+      "date_source": "2026-05-11"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Estimation du coût de reconstruction de la Syrie (216-400 Md$)",
+      "date_source": null
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Engagement UE de 2,5 milliards d'euros pour la Syrie 2025-2026",
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/expressions/un-syrien-paris-le-double-pari-demmanuel-macron",
+      "titre": "Un Syrien à Paris : le double pari d'Emmanuel Macron",
+      "date_source": "2025-05"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/expressions/un-syrien-paris-le-double-pari-demmanuel-macron",
+      "titre": "Un Syrien à Paris : le double pari d'Emmanuel Macron",
+      "date_source": "2025-05"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/audio-presse-contenus-repris-sur-le-site/en-syrie-des-promesses-en-chantier",
+      "titre": "En Syrie, des promesses en chantier",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/audio-presse-contenus-repris-sur-le-site/en-syrie-des-promesses-en-chantier",
+      "titre": "En Syrie, des promesses en chantier",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.euronews.com/my-europe/2025/05/08/macron-supports-easing-sanctions-on-syria-after-meeting-interim-president-al-sharaa",
+      "titre": "Marine Le Pen qualifie la réception d'al-Charaa d'irresponsable et provocatrice",
+      "date_source": "2025-05-08"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.euronews.com/my-europe/2025/05/08/macron-supports-easing-sanctions-on-syria-after-meeting-interim-president-al-sharaa",
+      "titre": "Wauquiez : réception d'al-Charaa, une grave erreur",
+      "date_source": "2025-05-08"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2025/12/12/la-syrie-dal-charaa-est-elle-au-bord-de-leclatement/",
+      "titre": "La Syrie d'al-Charaa est-elle au bord de l'éclatement ?",
+      "date_source": "2025-12-12"
+    },
+    {
+      "source_id": "lorient-le-jour",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.lorientlejour.com/article/1540260/emmanuel-macron-va-se-rendre-en-syrie-selon-la-presidence-syrienne-1.html",
+      "titre": "Emmanuel Macron va se rendre en Syrie selon la présidence syrienne",
+      "date_source": "2026-07-05"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/3/mapping-irans-ali-khamenei-funeral-where-mourners-will-gather-each-day",
+      "titre": "Mapping Iran's Ali Khamenei funeral: where mourners will gather each day",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "times-of-israel",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.timesofisrael.com/iran-warns-us-israel-against-attacks-ahead-of-long-delayed-khamenei-funeral/",
+      "titre": "Iran warns US, Israel against attacks ahead of long-delayed Khamenei funeral",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/07/03/iran-to-host-dozens-of-foreign-leaders-for-khameneis-funeral-with-western-nations-absent",
+      "titre": "Iran to host dozens of foreign leaders for Khamenei's funeral with Western nations absent",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.pbs.org/newshour/world/iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali-khamenei-killed-in-war",
+      "titre": "Iran begins dayslong funeral for Khamenei, killed in war",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.washingtonpost.com/national-security/2026/03/16/iran-regime-intelligence-irgc-war/",
+      "titre": "Le CGRI passe de défenseurs d'une révolution à administrateurs d'un État",
+      "date_source": "2026-03-16"
+    },
+    {
+      "source_id": "soufan-center",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://thesoufancenter.org/intelbrief-2026-march-26/",
+      "titre": "IntelBrief : Iran — IRGC stratégie post-guerre",
+      "date_source": "2026-03-26"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Mojtaba Khamenei : plus radical que son père",
+      "date_source": null
+    },
+    {
+      "source_id": "iran-international",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Pressions du CGRI sur l'Assemblée des experts lors de l'élection de Mojtaba Khamenei",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "rand",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.rand.org/pubs/commentary/2026/03/who-or-what-will-replace-irans-supreme-leader-ali-khamenei.html",
+      "titre": "Who or What Will Replace Iran's Supreme Leader Ali Khamenei?",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "rand",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.rand.org/pubs/commentary/2026/03/who-or-what-will-replace-irans-supreme-leader-ali-khamenei.html",
+      "titre": "Who or What Will Replace Iran's Supreme Leader Ali Khamenei?",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/iran",
+      "titre": "Iran — Iran at a critical crossroads",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.stimson.org/2026/iran-after-khamenei-recalibration-or-retrenchment/",
+      "titre": "Iran After Khamenei: Recalibration or Retrenchment?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.stimson.org/2026/iran-after-khamenei-recalibration-or-retrenchment/",
+      "titre": "Iran After Khamenei: Recalibration or Retrenchment?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/17/read-the-us-account-of-unreleased-14-point-iran-ceasefire-memorandum",
+      "titre": "Read: The US account of the 14-point Iran ceasefire memorandum",
+      "date_source": "2026-06-17"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/3/mapping-irans-ali-khamenei-funeral-where-mourners-will-gather-each-day",
+      "titre": "Mapping Iran's Ali Khamenei funeral: where mourners will gather each day",
+      "date_source": "2026-07-03"
+    }
+  ]
+}
