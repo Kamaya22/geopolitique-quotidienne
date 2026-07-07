@@ -25,3 +25,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-04 — FR : La loi Duplomb et la bataille de la souveraineté agricole | Monde : Les États-Unis à 250 ans sous Trump : démocratie ou identité nationale ?
 - 2026-07-05 — FR : Le sommet de l'OTAN à Ankara : la France face au test du 5 % | Monde : RDC — Ebola Bundibugyo, guerre et obstruction humanitaire
 - 2026-07-06 — FR : Macron à Damas : la France en quête de son rôle en Syrie | Monde : Les funérailles de Khamenei : l'Iran post-guerre entre deuil et fractures
+- 2026-07-07 — FR : Le verdict Le Pen : la justice face à la politique | Monde : Venezuela : sous les décombres, une crise d'État

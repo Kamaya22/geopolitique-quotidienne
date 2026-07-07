@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-07",
+  "sujet_fr": "Le verdict Le Pen : la justice face à la politique",
+  "sujet_monde": "Venezuela : sous les décombres, une crise d'État",
+  "citations": [
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Les instituts de sondage testent désormais systématiquement un scénario Bardella",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Bardella : « serein et prêt à assumer les conséquences »",
+      "date_source": "2026-07-06"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "politis",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Note sur la rhétorique de « justice politique » du RN",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-club-des-juristes",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.leclubdesjuristes.com/justice/affaire-des-assistants-parlementaires-du-fn-les-enjeux-de-la-decision-quattend-marine-le-pen-16691/",
+      "titre": "Affaire des assistants parlementaires du FN : les enjeux de la décision qu'attend Marine Le Pen",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/france/20260702-proces-appel-marine-le-pen-quels-scenarios-possibles-7-juillet-ineligibilite-rassemblement-national-eurodeputes-fn-jugement",
+      "titre": "Jugement en appel de Marine Le Pen : quels scénarios possibles en vue de la présidentielle ?",
+      "date_source": "2026-07-02"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.washingtonpost.com/world/2026/07/05/france-le-pen-verdict-presidential-election-explainer/beebf610-7838-11f1-b665-5f8be87f3787_story.html",
+      "titre": "How Paris appeals court ruling could upend Marine Le Pen's 2027 presidential bid",
+      "date_source": "2026-07-05"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/en/france/20260705-marine-le-pen-appeal-will-she-be-barred-from-running-for-french-presidency",
+      "titre": "Marine Le Pen appeal verdict: Will the far-right leader be barred from the French presidency?",
+      "date_source": "2026-07-05"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Bilan des séismes du Venezuela au 7 juillet 2026",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.nbcnews.com/world/south-america/venezuelas-earthquakes-death-toll-reaches-3533-survivors-look-missing-rcna353135",
+      "titre": "Venezuela's earthquake death toll reaches 3,535 as survivors look for missing relatives",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Humanitaire Venezuela : 12 800 personnes dans des abris",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "unicef",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.unicef.fr/article/seismes-au-venezuela-lunicef-livre-une-premiere-cargaison-daide-durgence-aux-populations-affectees/",
+      "titre": "Séismes au Venezuela : l'UNICEF achemine une cargaison d'aide humanitaire d'urgence",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "25 équipes internationales de secours coordonnées par l'ONU au Venezuela",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/07/01/venezuela-earthquakes-us-politics-rodriguez-maduro-machado/",
+      "titre": "The Political Aftershocks of Venezuela's Earthquakes",
+      "date_source": "2026-07-01"
+    },
+    {
+      "source_id": "americas-quarterly",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.americasquarterly.org/article/venezuelas-earthquakes-are-exposing-the-fault-lines-in-u-s-policy/",
+      "titre": "Venezuela's Earthquakes Are Exposing the Fault Lines in U.S. Policy",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Position de l'administration Trump sur la politique au Venezuela",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500",
+      "titre": "Venezuela earthquakes death toll jumps to more than 3,500",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/07/01/venezuela-earthquakes-us-politics-rodriguez-maduro-machado/",
+      "titre": "The Political Aftershocks of Venezuela's Earthquakes",
+      "date_source": "2026-07-01"
+    },
+    {
+      "source_id": "americas-quarterly",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.americasquarterly.org/article/venezuelas-earthquakes-are-exposing-the-fault-lines-in-u-s-policy/",
+      "titre": "Venezuela's Earthquakes Are Exposing the Fault Lines in U.S. Policy",
+      "date_source": "2026-07"
+    }
+  ]
+}
