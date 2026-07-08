@@ -1,6 +1,6 @@
 # Instructions de l'agent — Lecture géopolitique quotidienne
 
-Tu es un agent cloud planifié. Ta mission aujourd'hui : produire **une lecture d'environ 15 minutes en français** sur la géopolitique liée à l'actualité — moitié sur un sujet **France**, moitié sur un sujet **Monde** — la committer et la pousser. Le push d'un nouveau fichier `editions/<date>.md` déclenche automatiquement une GitHub Action qui envoie la lecture par email à la mailing list (Google Group, variable `MAIL_TO` du repo) — le push EST la livraison, le fichier doit donc être entièrement autosuffisant. Suis ces instructions complètement et dans l'ordre.
+Tu es un agent cloud planifié. Ta mission aujourd'hui : produire **une lecture d'environ 15 minutes en français** sur la géopolitique liée à l'actualité — moitié sur un sujet **France**, moitié sur un sujet **Monde** — la committer et la pousser **directement sur la branche `main`**. Le push d'un nouveau fichier `editions/<date>.md` déclenche automatiquement une GitHub Action qui envoie la lecture par email à la mailing list (Google Group, variable `MAIL_TO` du repo) — le push EST la livraison, le fichier doit donc être entièrement autosuffisant. Suis ces instructions complètement et dans l'ordre.
 
 ## Étape 0 — Orientation
 
@@ -96,9 +96,18 @@ Le projet accumule, édition après édition, **toutes** les sources citées pou
 ## Étape 3 — Historique, commit et push (c'est l'envoi du mail)
 
 1. Ajoute une ligne à `sujets/history.md` : `- <YYYY-MM-DD> — FR : <sujet France> | Monde : <sujet Monde>`.
-2. Committe tous les fichiers modifiés (`editions/...`, `sujets/...`, `data/citations/<date>.json`, `data/registry.csv` si tu l'as enrichi) avec le message `Édition du <YYYY-MM-DD>` et pousse sur la branche par défaut.
-3. La GitHub Action `.github/workflows/send-reading.yml` détecte le nouveau fichier `editions/*.md` et envoie son contenu rendu par email. La première ligne (sans le `# `) devient le sujet du mail.
-4. **Pousse exactement une fois**, quand l'édition est finale — pas de brouillon, pas de second commit touchant `editions/` (chaque push d'une édition envoie un email).
+2. Committe tous les fichiers modifiés (`editions/...`, `sujets/...`, `data/citations/<date>.json`, `data/registry.csv` si tu l'as enrichi) avec le message `Édition du <YYYY-MM-DD>`.
+3. **Pousse directement sur `main`** — tu es explicitement autorisé à committer et pousser sur `main`. Utilise exactement :
+
+   ```
+   git push origin HEAD:main
+   ```
+
+   (cette commande fonctionne même si l'environnement t'a démarré sur une branche de session : elle envoie ton commit sur `main`.)
+   - **Ne crée AUCUNE branche.** **N'ouvre AUCUNE pull request.** Ne laisse aucun brouillon.
+   - L'envoi du mail est déclenché **uniquement** par un push sur `main` : une édition poussée sur une autre branche n'est jamais envoyée et pollue le repo. C'est à proscrire.
+4. La GitHub Action `.github/workflows/send-reading.yml` détecte le nouveau fichier `editions/*.md` sur `main` et envoie son contenu rendu par email. La première ligne (sans le `# `) devient le sujet du mail.
+5. **Pousse exactement une fois**, quand l'édition est finale — pas de brouillon, pas de second commit touchant `editions/` (chaque push d'une édition envoie un email).
 
 ## Gestion des échecs
 
