@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-08",
+  "sujet_fr": "L'alerte budgétaire du 7 juillet : la France entre coupes d'urgence et crédibilité internationale",
+  "sujet_monde": "Gaza : la dissolution du gouvernement Hamas, tournant historique ou manœuvre tactique ?",
+  "citations": [
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/le-gouvernement-francais-abaisse-la-prevision-de-croissance-de-la-france-pour-2026_8098076.html",
+      "titre": "Le gouvernement français abaisse la prévision de croissance de la France pour 2026, de 0,9% à 0,7%",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/le-gouvernement-francais-abaisse-la-prevision-de-croissance-de-la-france-pour-2026_8098076.html",
+      "titre": "Le gouvernement français abaisse la prévision de croissance de la France pour 2026, de 0,9% à 0,7%",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Comité d'alerte des finances publiques — annonce du 7 juillet 2026",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "hcfp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifrap.org/budget-et-fiscalite/croissance-07-en-2026-la-boule-de-neige-de-la-dette-est-en-route",
+      "titre": "Croissance à 0,7 % en 2026 : la boule de neige de la dette est en route",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifrap.org/budget-et-fiscalite/croissance-07-en-2026-la-boule-de-neige-de-la-dette-est-en-route",
+      "titre": "Croissance à 0,7 % en 2026 : la boule de neige de la dette est en route",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/publications/finances-publiques-la-fin-des-illusions",
+      "titre": "Finances publiques : la fin des illusions",
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/publications/finances-publiques-la-fin-des-illusions",
+      "titre": "Finances publiques : la fin des illusions",
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://tnova.fr/economie-social/finances-macro-economie/comptes-publics-en-finir-avec-le-nimporte-quoi-quil-en-coute/",
+      "titre": "Comptes publics : en finir avec le n'importe quoi (qu'il en coûte)",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://tnova.fr/economie-social/finances-macro-economie/comptes-publics-en-finir-avec-le-nimporte-quoi-quil-en-coute/",
+      "titre": "Comptes publics : en finir avec le n'importe quoi (qu'il en coûte)",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body",
+      "titre": "Hamas announces dissolution of Gaza governing body",
+      "date_source": "2026-07-06"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/07/06/hamas-announces-dissolution-gaza-governing-body-paves-way-for-technocratic-committee",
+      "titre": "Hamas announces dissolution of Gaza governing body, paves way for technocratic committee",
+      "date_source": "2026-07-06"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.pbs.org/newshour/world/hamas-says-it-has-dissolved-its-government-in-gaza-to-transfer-power-to-a-un-backed-committee",
+      "titre": "Hamas says it has dissolved its government in Gaza to transfer power to a UN-backed committee",
+      "date_source": "2026-07-06"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Résolution 2803 du Conseil de sécurité",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "fdd",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.fdd.org/analysis/2026/07/07/hamas-dissolved-its-government-on-paper-but-still-rules-in-practice/",
+      "titre": "Hamas Dissolved Its Government on Paper but Still Rules in Practice",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government",
+      "titre": "What is the new Gaza administration as Hamas dissolves government?",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/07/06/hamas-announces-dissolution-gaza-governing-body-paves-way-for-technocratic-committee",
+      "titre": "Hamas announces dissolution of Gaza governing body, paves way for technocratic committee",
+      "date_source": "2026-07-06"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/guide-trumps-twenty-point-gaza-peace-deal",
+      "titre": "A Guide to the Gaza Peace Deal",
+      "date_source": "2026"
+    }
+  ]
+}

@@ -26,3 +26,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-05 — FR : Le sommet de l'OTAN à Ankara : la France face au test du 5 % | Monde : RDC — Ebola Bundibugyo, guerre et obstruction humanitaire
 - 2026-07-06 — FR : Macron à Damas : la France en quête de son rôle en Syrie | Monde : Les funérailles de Khamenei : l'Iran post-guerre entre deuil et fractures
 - 2026-07-07 — FR : Le verdict Le Pen : la justice face à la politique | Monde : Venezuela : sous les décombres, une crise d'État
+- 2026-07-08 — FR : L'alerte budgétaire du 7 juillet : la France entre coupes d'urgence et crédibilité internationale | Monde : Gaza : la dissolution du gouvernement Hamas, tournant historique ou manœuvre tactique ?
