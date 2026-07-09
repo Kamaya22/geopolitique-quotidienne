@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-09",
+  "sujet_fr": "La France face à la relance de la guerre Iran–États-Unis : la doctrine de la 'légitimité sans légalité'",
+  "sujet_monde": "La rupture du mémorandum du 17 juin : Washington et Téhéran de retour en guerre",
+  "citations": [
+    {
+      "source_id": "times-of-israel",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://fr.timesofisrael.com/macron-les-frappes-us-legitimes-mais-illegales-partage-lobjectif-dun-iran-sans-nucleaire/",
+      "titre": "Macron : les frappes US légitimes mais illégales ; partage l'objectif d'un Iran sans nucléaire",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "times-of-israel",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://fr.timesofisrael.com/macron-les-frappes-us-legitimes-mais-illegales-partage-lobjectif-dun-iran-sans-nucleaire/",
+      "titre": "Macron : les frappes US légitimes mais illégales ; partage l'objectif d'un Iran sans nucléaire",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclarations d'Emmanuel Macron au sommet de l'OTAN d'Ankara, 8 juillet 2026",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://us.diplomatie.gouv.fr/en/situation-middle-east",
+      "titre": "Situation in the Middle East — Position officielle de la France",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/guerre-en-iran-pourrait-aboutir-une-situation-de-ni-paix-ni",
+      "titre": "Guerre en Iran : on pourrait aboutir à une situation de 'ni paix, ni guerre'",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/guerre-au-moyen-orient-quels-scenarios-apres-lechec-des-negociations",
+      "titre": "Guerre au Moyen-Orient : quels scénarios après l'échec des négociations ?",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/guerre-et-paix-en-iran-le-choc-des-rationalites/",
+      "titre": "Guerre et paix en Iran : le choc des rationalités",
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/guerre-et-paix-en-iran-le-choc-des-rationalites/",
+      "titre": "Guerre et paix en Iran : le choc des rationalités",
+      "date_source": null
+    },
+    {
+      "source_id": "le-jdd",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.lejdd.fr/politique/interventions-imperialistes-lfi-vent-debout-contre-les-frappes-israelo-americaines-en-iran-167469",
+      "titre": "«Interventions impérialistes» : LFI vent debout contre les frappes israélo-américaines en Iran",
+      "date_source": null
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/07/07/world/live-news/nato-summit-trump",
+      "titre": "July 7, 2026 — US hits more than 80 Iran targets, reimposes oil sanctions",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-attacks-gulf-us-strikes-tehran-ships-hormuz-oil-rcna353439",
+      "titre": "Live updates: U.S. military completes latest strikes on Iran after Trump says ceasefire is 'over'",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels",
+      "titre": "Oil prices surge as US strikes Iran, reversing fall to pre-war levels",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels",
+      "titre": "Oil prices surge as US strikes Iran, reversing fall to pre-war levels",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
+      "titre": "Trump says ceasefire with Iran is 'over' as NATO summit wraps",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
+      "titre": "Trump says ceasefire with Iran is 'over' as NATO summit wraps",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/from-chokepoint-to-crisis-the-strait-of-hormuz-and-global-oil-markets/",
+      "titre": "From chokepoint to crisis: The Strait of Hormuz and global oil markets",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/from-chokepoint-to-crisis-the-strait-of-hormuz-and-global-oil-markets/",
+      "titre": "From chokepoint to crisis: The Strait of Hormuz and global oil markets",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "aie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Évaluation de la disruption pétrolière liée au conflit Iran-États-Unis 2026",
+      "date_source": null
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration de Kaja Kallas sur les attaques iraniennes au Bahreïn et au Koweït",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "otan",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration du sommet de l'OTAN d'Ankara sur la liberté de navigation dans le détroit d'Ormuz",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/guerre-au-moyen-orient-quels-scenarios-apres-lechec-des-negociations",
+      "titre": "Guerre au Moyen-Orient : quels scénarios après l'échec des négociations ?",
+      "date_source": "2026-07"
+    }
+  ]
+}
