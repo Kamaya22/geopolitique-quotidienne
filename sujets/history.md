@@ -28,3 +28,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-07 — FR : Le verdict Le Pen : la justice face à la politique | Monde : Venezuela : sous les décombres, une crise d'État
 - 2026-07-08 — FR : L'alerte budgétaire du 7 juillet : la France entre coupes d'urgence et crédibilité internationale | Monde : Gaza : la dissolution du gouvernement Hamas, tournant historique ou manœuvre tactique ?
 - 2026-07-09 — FR : La France face à la relance de la guerre Iran–États-Unis : la doctrine de la légitimité sans légalité | Monde : La rupture du mémorandum du 17 juin : Washington et Téhéran de retour en guerre
+- 2026-07-10 — FR : France-Maroc au Mondial 2026 : le match de la recomposition diplomatique | Monde : La marine nucléaire nord-coréenne sort de l'ombre — le destroyer Kang Kon

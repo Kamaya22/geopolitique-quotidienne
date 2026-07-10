@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-10",
+  "sujet_fr": "France-Maroc : le match de la recomposition diplomatique",
+  "sujet_monde": "La marine nucléaire nord-coréenne sort de l'ombre : le destroyer Kang Kon",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "France bat Maroc 2-0 en quart de finale du Mondial 2026 à Boston",
+      "date_source": "2026-07-09"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Figaro — perspective droite libérale sur le rapprochement franco-marocain",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Libération — critique de gauche sur la normalisation franco-marocaine et le Sahara occidental",
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Mediapart — analyse critique du traité franco-marocain et des droits du peuple sahraoui",
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/de-la-diplomatie-a-l-incommunication-le-cas-franco-marocain/",
+      "titre": "De la diplomatie à l'« incommunication » — le cas franco-marocain",
+      "date_source": null
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.hrw.org/fr/world-report/2026/country-chapters/morocco-and-western-sahara",
+      "titre": "Rapport mondial 2026 — Maroc et Sahara occidental",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/la-relation-france-maroc-un-partenariat-strategique-renforce-petit-dejeuner-debat-avec-samira",
+      "titre": "La relation France-Maroc : un partenariat stratégique renforcé",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/la-relation-france-maroc-un-partenariat-strategique-renforce-petit-dejeuner-debat-avec-samira",
+      "titre": "La relation France-Maroc : un partenariat stratégique renforcé",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/de-la-diplomatie-a-l-incommunication-le-cas-franco-marocain/",
+      "titre": "De la diplomatie à l'« incommunication » — le cas franco-marocain",
+      "date_source": null
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.hrw.org/fr/world-report/2026/country-chapters/morocco-and-western-sahara",
+      "titre": "Rapport mondial 2026 — Maroc et Sahara occidental",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ap",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-observes-weapons-tests-new-134487809",
+      "titre": "North Korean leader Kim observes weapons tests from new naval destroyer",
+      "date_source": "2026-07-04"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aei.org/articles/korean-peninsula-update-july-7-2026/",
+      "titre": "Korean Peninsula Update — 7 juillet 2026",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/china-is-confronting-new-realities-on-the-korean-peninsula/",
+      "titre": "China is confronting new realities on the Korean Peninsula",
+      "date_source": "2026-04-30"
+    },
+    {
+      "source_id": "the-diplomat",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Previewing North Korea's Grand Strategy for 2026",
+      "date_source": "2025-12"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aei.org/articles/korean-peninsula-update-july-7-2026/",
+      "titre": "Korean Peninsula Update — 7 juillet 2026",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/china-is-confronting-new-realities-on-the-korean-peninsula/",
+      "titre": "China is confronting new realities on the Korean Peninsula",
+      "date_source": "2026-04-30"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/06/24/asia/north-korea-commissioning-largest-ever-warship-intl-hnk-ml",
+      "titre": "North Korea jump-starts naval buildup by commissioning its largest-ever warship",
+      "date_source": "2026-06-24"
+    }
+  ]
+}
