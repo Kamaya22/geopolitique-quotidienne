@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-11",
+  "sujet_fr": "Élargissement UE aux Balkans occidentaux",
+  "sujet_monde": "Srebrenica 31 ans : négationnisme géopolitique",
+  "citations": [
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Benjamin Haddad : l'intégration des Balkans est une nécessité géopolitique",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "L'IFRI sur l'élargissement stratégique des Balkans et la hiérarchisation des candidats",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Fondation Jean-Jaurès : ambivalence de la gauche française sur l'élargissement rapide",
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Institut Montaigne : élargissement comme instrument d'influence économique",
+      "date_source": null
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "L'Opinion (centre-droit) : mieux vaut lier les économies balkaniques à l'UE avant Pékin et Moscou",
+      "date_source": null
+    },
+    {
+      "source_id": "bruegel",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.bruegel.org/first-glance/macron-and-merz-need-tackle-veto-really-unlock-eu-enlargement",
+      "titre": "Macron and Merz need to tackle the veto to really unlock EU enlargement",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/en/enlargement-european-union-strategic-choice-france-western-balkans-and-eu-uncertain-geopolitical",
+      "titre": "The Enlargement of the European Union: A Strategic Choice? France, the Western Balkans and the EU in an Uncertain Geopolitical Context",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/5/germanys-merz-says-eu-to-initiate-integration-of-western-balkans",
+      "titre": "Germany's Merz says EU to initiate integration of Western Balkans",
+      "date_source": "2026-06-05"
+    },
+    {
+      "source_id": "bruegel",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.bruegel.org/first-glance/macron-and-merz-need-tackle-veto-really-unlock-eu-enlargement",
+      "titre": "Macron and Merz need to tackle the veto to really unlock EU enlargement",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "tpiy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "TPIY : arrêts définitifs reconnaissant le génocide de Srebrenica (dont condamnation de Ratko Mladić)",
+      "date_source": null
+    },
+    {
+      "source_id": "cij",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "CIJ, arrêt du 26 février 2007 : Bosnie-Herzégovine c. Serbie-et-Monténégro — reconnaissance du génocide de Srebrenica",
+      "date_source": "2007-02-26"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Résolution A/RES/78/282 de l'Assemblée générale de l'ONU instituant le 11 juillet comme Journée internationale de commémoration du génocide de Srebrenica (mai 2024)",
+      "date_source": "2024-05"
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://news.un.org/en/story/2026/07/1167909",
+      "titre": "Remembering the Srebrenica genocide: 'Fear is all that kept me moving'",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/bosnia-and-herzegovina",
+      "titre": "Rapport mondial 2026 : Bosnie-Herzégovine",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "just-security",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.justsecurity.org/146250/srebrenica-genocide-islamophobic-narratives/",
+      "titre": "31 Years On, Srebrenica Genocide Denial Resurges in Bosnia",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Amnesty International sur la responsabilité des États face au négationnisme génocidaire en Europe",
+      "date_source": null
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://news.un.org/en/story/2026/07/1167909",
+      "titre": "Remembering the Srebrenica genocide: 'Fear is all that kept me moving'",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "just-security",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.justsecurity.org/146250/srebrenica-genocide-islamophobic-narratives/",
+      "titre": "31 Years On, Srebrenica Genocide Denial Resurges in Bosnia",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/bosnia-and-herzegovina",
+      "titre": "Rapport mondial 2026 : Bosnie-Herzégovine",
+      "date_source": "2026"
+    }
+  ]
+}
