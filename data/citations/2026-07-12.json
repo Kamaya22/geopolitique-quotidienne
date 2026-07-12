@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-12",
+  "sujet_fr": "Alfred Dreyfus : première journée nationale de commémoration",
+  "sujet_monde": "Mer de Chine méridionale : 10e anniversaire de la sentence arbitrale",
+  "citations": [
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/culture/patrimoine/histoire/une-premiere-ceremonie-d-hommage-national-a-alfred-dreyfus-organisee-dimanche-en-presence-d-emmanuel-macron_8104097.html",
+      "titre": "Première cérémonie d'hommage national à Alfred Dreyfus",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Macron préside la première journée nationale de commémoration de la réhabilitation de Dreyfus, 120 ans après l'arrêt de la Cour de cassation",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "crif",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.crif.org/articles/actualites/2026-02-12/les-chiffres-de-lantisemitisme-en-france-en-2025-un-enracinement-de-la-haine-antijuive/",
+      "titre": "Les chiffres de l'antisémitisme en France en 2025 : un enracinement de la haine antijuive",
+      "date_source": "2026-02-12"
+    },
+    {
+      "source_id": "crif",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "1 320 actes antisémites recensés en France en 2025, représentant 53 % des actes antireligieux",
+      "date_source": "2026-02-12"
+    },
+    {
+      "source_id": "fondation-shoah",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.fondationshoah.org/commemorations/premiere-journee-nationale-de-commemoration-de-la-rehabilitation-dalfred-dreyfus-en",
+      "titre": "Première journée nationale de commémoration de la réhabilitation d'Alfred Dreyfus en 1906",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fondation-shoah",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Organisation pédagogique de la journée dans les établissements scolaires par la Fondation pour la Mémoire de la Shoah",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ministere-interieur",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Statistiques officielles sur les actes antisémites en France en 2025 : 67,4 % d'atteintes aux personnes, 126 violences physiques, 88 départements touchés",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Libération (gauche) : la journée Dreyfus comme acte symboliquement nécessaire mais insuffisant sans mesures concrètes",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Figaro (droite libérale) : bilan de l'antisémitisme insuffisant malgré la portée symbolique de la commémoration",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "le-monde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Le Monde (centre-gauche) : la commémoration comme réaffirmation de la laïcité républicaine face au rétrécissement identitaire",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Terra Nova (centre-gauche) : l'antisémitisme contemporain est plurivoque — d'extrême droite, islamiste, d'extrême gauche — et toute lecture monocausale fausse le diagnostic",
+      "date_source": null
+    },
+    {
+      "source_id": "us-state-dept",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/joint-statement-on-the-tenth-anniversary-of-the-philippines-china-south-china-sea-arbitral-tribunal-award/",
+      "titre": "Joint Statement on the Tenth Anniversary of the Philippines-China South China Sea Arbitral Tribunal Award",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "us-state-dept",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration conjointe de 14 pays réaffirmant le caractère définitif et juridiquement contraignant de la sentence arbitrale de 2016",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/how-slay-giant-reviving-south-china-sea-arbitration",
+      "titre": "How to Slay a Giant: Reviving the South China Sea Arbitration",
+      "date_source": "2025-01"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "CSIS (Gregory Poling) : seule une stratégie coordonnée de pression diplomatique et économique peut contraindre Pékin à modifier ses pratiques",
+      "date_source": "2025-01"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.scmp.com/news/china/military/article/3358063/china-and-philippines-have-rare-naval-stand-near-disputed-scarborough-shoal",
+      "titre": "China and Philippines have a rare naval stand-off near disputed Scarborough Shoal",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Confrontation navale au banc de Scarborough : quatre navires PLAN encerclent la frégate BRP Diego Silang",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "the-diplomat",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "The Diplomat : la présidence philippine de l'ASEAN permettra-t-elle à l'organisation de rompre son silence institutionnel sur la sentence de 2016 ?",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "chinese-foreign-ministry",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Pékin (point de vue officiel) : la sentence est une « pièce de papier déchirée » ; les exercices Salaknib sont une provocation orchestrée pour endiguer la Chine",
+      "date_source": "2026-07"
+    }
+  ]
+}
