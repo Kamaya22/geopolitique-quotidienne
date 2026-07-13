@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-13",
+  "sujet_fr": "Le 14-Juillet comme démonstration géostratégique : Coalition des Volontaires et réveil stratégique européen",
+  "sujet_monde": "La Lituanie supprime l'interdiction constitutionnelle des armes nucléaires",
+  "citations": [
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Défilé du 14 juillet 2026 : 6 800 militaires (record), 500 soldats de 35 pays de la coalition, 25 soldats ukrainiens, 65 aéronefs, thème « Réveil stratégique de l'Europe »",
+      "date_source": "2026-07-13"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "25 chefs d'État à l'Hôtel des Invalides pour le sommet de la Coalition des Volontaires le 13 juillet 2026 ; Moldova et Macédoine du Nord rejoignent la coalition (37 pays)",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Macron accueille 25 chefs d'État et de gouvernement dont Zelensky dans le cadre de la Coalition des Volontaires le 13 juillet à Paris",
+      "date_source": "2026-07-12"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Démenti des intox sur la Marseillaise prétendument remplacée et sur l'existence d'une 'armée européenne' défilant le 14 juillet 2026",
+      "date_source": "2026-06-17"
+    },
+    {
+      "source_id": "otan",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sommet de l'OTAN à Ankara (7-8 juillet) : engagement à 5 % du PIB pour la défense ; 70 milliards d'euros d'aide militaire à l'Ukraine en 2026",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Héloïse Fayet (IFRI) : la dissuasion avancée française constitue une 'étape structurante et durable' ; 9 pays partenaires associés sans partage de la décision finale",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.defense.gouv.fr/defile-du-14-juillet-2026/defile-du-14-juillet-2026",
+      "titre": "Défilé du 14 juillet 2026 — programme officiel",
+      "date_source": "2026-07-13"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260617-marseillaise-remplacee-defile-armee-europeene-double-intox-14-juillet-macron-facebook",
+      "titre": "Marseillaise remplacée, défilé d'une 'armée européenne' : double intox autour du 14-Juillet",
+      "date_source": "2026-06-17"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/briefings/la-dissuasion-nucleaire-francaise-lepreuve-dun-nouvel-ordre-europeen-analyse-du-discours",
+      "titre": "La dissuasion nucléaire française à l'épreuve d'un nouvel ordre européen — Analyse du discours présidentiel du 2 mars 2026",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Nauseda (2 juillet 2026) : 'La situation géopolitique se dégrade. Notre constitution a été rédigée dans des circonstances géopolitiques totalement différentes.' Pas d'armes nucléaires immédiates prévues ; Lituanie reste au TNP",
+      "date_source": "2026-07-02"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Procédure constitutionnelle lituanienne : 2 votes à 94/141 minimum avec un délai de 3 mois ; 51 co-parainages déposés le 3 juillet 2026",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Washington engage des discussions confidentielles sur une éventuelle extension du programme de partage nucléaire (nuclear sharing) à de nouveaux alliés du flanc est de l'OTAN — une première potentielle depuis la Guerre froide",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "defense-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Lituanie : 50 membres du Seimas déposent formellement l'amendement constitutionnel le 3 juillet ; Iskander-M à Kaliningrad depuis 2018, armes nucléaires tactiques russes en Biélorussie depuis 2023",
+      "date_source": "2026-07-02"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Finlande : la loi levant l'interdiction des armes nucléaires entre en vigueur le 1er juillet 2026, après signature du Président Stubb fin juin",
+      "date_source": "2026-07-01"
+    },
+    {
+      "source_id": "defense-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.defensenews.com/global/europe/2026/07/02/lithuania-moves-to-end-nuclear-weapon-ban-as-situation-getting-worse/",
+      "titre": "Lithuania Moves to End Nuclear Weapon Ban as 'Situation Getting Worse'",
+      "date_source": "2026-07-02"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/07/03/lithuania-moves-to-lift-nuclear-weapons-ban-following-finlands-lead",
+      "titre": "Lithuania moves to lift nuclear weapons ban, following Finland's lead",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "constitutionnet",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://constitutionnet.org/news/lithuania-legislators-support-removing-constitutional-ban-nuclear-weapons",
+      "titre": "In Lithuania, legislators support removing constitutional ban on nuclear weapons",
+      "date_source": "2026-07"
+    }
+  ]
+}

@@ -31,3 +31,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-10 — FR : France-Maroc au Mondial 2026 : le match de la recomposition diplomatique | Monde : La marine nucléaire nord-coréenne sort de l'ombre — le destroyer Kang Kon
 - 2026-07-11 — FR : L'élargissement de l'UE aux Balkans occidentaux : de la méfiance stratégique au pragmatisme géopolitique | Monde : Srebrenica, 31 ans : le négationnisme comme arme géopolitique dans les Balkans
 - 2026-07-12 — FR : Alfred Dreyfus : la première journée nationale de commémoration, entre héritage républicain et antisémitisme contemporain | Monde : Mer de Chine méridionale : dix ans après la sentence, la loi du plus fort
+- 2026-07-13 — FR : Le 14-Juillet comme démonstration géostratégique : Coalition des Volontaires et réveil stratégique européen | Monde : La Lituanie supprime l'interdiction constitutionnelle des armes nucléaires
