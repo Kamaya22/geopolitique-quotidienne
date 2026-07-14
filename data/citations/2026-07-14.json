@@ -1,0 +1,169 @@
+{
+  "date": "2026-07-14",
+  "sujet_fr": "L'après-SCAF : la France condamnée à voler en solo",
+  "sujet_monde": "Ukraine sans bouclier balistique : la crise des Patriot et le pari de la production licenciée",
+  "citations": [
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Macron-Merz confirment l'abandon du SCAF après ultime échange le 8 juin 2026 ; l'Élysée confirme la décision, Berlin l'annonce publiquement le 9 juin",
+      "date_source": "2026-06-08"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Dernier discours de Macron aux armées, 13 juillet 2026 : 'Je regrette profondément' l'échec du SCAF ; appel à poursuivre les projets industriels européens de défense",
+      "date_source": "2026-07-13"
+    },
+    {
+      "source_id": "zone-militaire",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Zone Militaire : désaccord industriel Dassault-Airbus sur le partage des tâches (80 % réclamé par Dassault sous le modèle 'best athlete' vs refus d'Airbus) ; incompatibilités doctrinales (porte-avions, portée nucléaire)",
+      "date_source": "2026-06-08"
+    },
+    {
+      "source_id": "zone-militaire",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.opex360.com/2026/06/08/scaf-berlin-et-paris-conviennent-de-mettre-un-terme-a-leur-projet-conjoint-davion-de-combat-de-6e-generation/",
+      "titre": "SCAF : Berlin et Paris conviennent de mettre un terme à leur projet conjoint d'avion de combat de 6e génération",
+      "date_source": "2026-06-08"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "IRIS (juin 2026) : l'abandon du SCAF est 'un échec dommageable pour la coopération industrielle de défense et pour l'Europe' ; révèle la contradiction entre idéal de souveraineté collective et réalité des intérêts nationaux divergents",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/en/scaf-a-damaging-failure-for-defence-industrial-cooperation-and-for-europe/",
+      "titre": "SCAF: A Damaging Failure for Defence Industrial Cooperation and for Europe",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Cédric Perrin (LR), commission défense du Sénat : 'dès le départ, tout le monde n'était pas sur la même longueur d'onde' — Allemands et Espagnols voulaient acquérir des compétences, la France protéger ses savoir-faire",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.publicsenat.fr/actualites/international/abandon-du-scaf-des-le-depart-tout-le-monde-netait-pas-sur-la-meme-longueur-donde-releve-le-president-de-la-commission-defense-du-senat-cedric-perri",
+      "titre": "Abandon du Scaf : « Dès le départ, tout le monde n'était pas sur la même longueur d'onde », relève le président de la commission défense du Sénat, Cédric Perrin",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Espagne — ministre Margarita Robles : abandon du SCAF 'très préoccupant pour l'autonomie stratégique européenne' ; Airbus propose un projet alternatif de chasseur européen sans Dassault",
+      "date_source": "2026-06-09"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "OHCHR (chiffres préliminaires) : 265 civils tués et 1 816 blessés en Ukraine en juin 2026, l'un des bilans mensuels les plus élevés depuis le début de la guerre, en raison des frappes balistiques non interceptées",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "otan",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sommet OTAN Ankara, 8 juillet 2026 : Trump annonce la licence de production de Patriot pour l'Ukraine — 3e pays au monde après l'Allemagne et le Japon à obtenir ce droit",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Bloomberg, 7 juillet 2026 : stocks américains de PAC-3 à 25 % du minimum requis par le Pentagone dès juillet 2025 ; stocks des alliés du Golfe et d'Israël en chute d'environ 86 % pendant la phase active du conflit iranien",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ukraine-air-force-data-expose-shortfall-in-us-patriot-missiles",
+      "titre": "Ukraine Air Defense Data Reveal US Patriot Missile Shortfall in Russia Strikes",
+      "date_source": "2026-07-07"
+    },
+    {
+      "source_id": "defense-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Defense News : Lockheed Martin produit 500-600 PAC-3 par an toutes destinations confondues ; première production licenciée prévue en Allemagne, installation opérationnelle en septembre 2026, premiers missiles en 2027, capacité cible 180/an",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "defense-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.defensenews.com/global/europe/2026/07/08/ukraine-to-get-license-for-making-patriot-interceptors-trump-pledges/",
+      "titre": "Ukraine to Get License for Making Patriot Interceptors, Trump Pledges",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "kyivpost",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Kyiv Post : production des Patriot licenciés prévue initialement en Allemagne (Ukraine = cible prioritaire des frappes russes) ; Ukraine aussi considérée comme futur site de production après cessation des hostilités",
+      "date_source": "2026-07-10"
+    },
+    {
+      "source_id": "kyivpost",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.kyivpost.com/post/80023",
+      "titre": "EXPLAINER: 5 Things to Know About Ukraine and Patriot Missiles",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Washington Post éditorial (7 juillet 2026) : l'Occident a encore la capacité de livrer davantage de Patriot, mais manque de la volonté politique ; la licence n'est pas suffisante sans livraisons d'urgence immédiates",
+      "date_source": "2026-07-07"
+    }
+  ]
+}

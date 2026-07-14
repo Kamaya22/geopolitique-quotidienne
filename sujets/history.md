@@ -32,3 +32,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-11 — FR : L'élargissement de l'UE aux Balkans occidentaux : de la méfiance stratégique au pragmatisme géopolitique | Monde : Srebrenica, 31 ans : le négationnisme comme arme géopolitique dans les Balkans
 - 2026-07-12 — FR : Alfred Dreyfus : la première journée nationale de commémoration, entre héritage républicain et antisémitisme contemporain | Monde : Mer de Chine méridionale : dix ans après la sentence, la loi du plus fort
 - 2026-07-13 — FR : Le 14-Juillet comme démonstration géostratégique : Coalition des Volontaires et réveil stratégique européen | Monde : La Lituanie supprime l'interdiction constitutionnelle des armes nucléaires
+- 2026-07-14 — FR : L'après-SCAF : la France condamnée à voler en solo | Monde : Ukraine sans bouclier balistique : la crise des Patriot et le pari de la production licenciée
