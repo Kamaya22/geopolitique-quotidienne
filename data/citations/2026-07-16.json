@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-16",
+  "sujet_fr": "Nice, dix ans : la France face au terrorisme islamiste",
+  "sujet_monde": "Yémen : les Houthis relancent la guerre des détroits",
+  "citations": [
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/07/14/commemoration-des-10-ans-de-lattentat-de-nice",
+      "titre": "Commémoration des 10 ans de l'attentat de Nice",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/07/14/commemoration-des-10-ans-de-lattentat-de-nice",
+      "titre": "Discours de Macron lors de la commémoration des 10 ans de l'attentat de Nice",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "le-jdd",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.lejdd.fr/politique/dix-ans-apres-nice-la-victoire-sur-daech-une-illusion-dangereuse-178941",
+      "titre": "Dix ans après Nice : la victoire sur Daech, une illusion dangereuse",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "le-jdd",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.lejdd.fr/politique/dix-ans-apres-nice-la-victoire-sur-daech-une-illusion-dangereuse-178941",
+      "titre": "Dix ans après Nice : la victoire sur Daech, une illusion dangereuse",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-455.html",
+      "titre": "Proposition de loi visant à lutter contre l'entrisme islamiste en France",
+      "date_source": "2026-05-05"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-455.html",
+      "titre": "Adoption de la proposition de loi sur l'entrisme islamiste (208 pour, 124 contre)",
+      "date_source": "2026-05-05"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.cnews.fr/france/2026-07-14/10-ans-de-lattentat-de-nice-comment-la-menace-terroriste-evolue-depuis-1890474",
+      "titre": "10 ans de l'attentat de Nice : comment la menace terroriste a évolué depuis",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/07/14/houthis-iran-war-saudi-arabia-bab-el-mandeb-strait-hormuz-oil/",
+      "titre": "Yemen's Houthis Add Bab el-Mandeb to Worries About Hormuz",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://foreignpolicy.com/2026/07/14/houthis-iran-war-saudi-arabia-bab-el-mandeb-strait-hormuz-oil/",
+      "titre": "Yemen's Houthis Add Bab el-Mandeb to Worries About Hormuz",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/07/14/yemen-houthis-saudi-arabia-iran-war-united-states/65923dae-7fa9-11f1-8a16-393bd03340b0_story.html",
+      "titre": "Yemen at risk of getting dragged back into war as Saudis and Houthis exchange airstrikes",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/07/14/yemen-houthis-saudi-arabia-iran-war-united-states/65923dae-7fa9-11f1-8a16-393bd03340b0_story.html",
+      "titre": "Yemen at risk of getting dragged back into war as Saudis and Houthis exchange airstrikes",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending",
+      "titre": "Why Yemen's long 'no war, no peace' deadlock may be ending",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://responsiblestatecraft.org/houthis-saudi-arabia/",
+      "titre": "The Houthis are increasingly setting their own agenda",
+      "date_source": "2026-07-01"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://responsiblestatecraft.org/houthis-saudi-arabia/",
+      "titre": "The Houthis are increasingly setting their own agenda",
+      "date_source": "2026-07-01"
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "marad",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.maritime.dot.gov/msci/2026-006-red-sea-bab-el-mandeb-strait-gulf-aden-arabian-sea-and-somali-basin-houthi-attacks",
+      "titre": "MSCI 2026-006 — Red Sea, Bab el Mandeb Strait — Houthi Attacks on Commercial Vessels",
+      "date_source": "2026-07-01"
+    }
+  ]
+}
