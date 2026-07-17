@@ -35,3 +35,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-14 — FR : L'après-SCAF : la France condamnée à voler en solo | Monde : Ukraine sans bouclier balistique : la crise des Patriot et le pari de la production licenciée
 - 2026-07-15 — FR : La réconciliation franco-marocaine : Lecornu à Rabat pour relancer le partenariat d'exception | Monde : Retour du blocus américain d'Ormuz : la guerre de l'énergie s'emballe
 - 2026-07-16 — FR : Nice, dix ans : la menace islamiste a mué, le débat politique reste ouvert | Monde : Yémen — les Houthis relancent la guerre des détroits (Bab el-Mandeb)
+- 2026-07-17 — FR : Le couple franco-allemand refonde sa défense à Brühl : dissuasion nucléaire avancée et fractures persistantes | Monde : Soudan — le siège d'El-Obeid et les massacres de Kordofan

@@ -1,0 +1,169 @@
+{
+  "date": "2026-07-17",
+  "sujet_fr": "Le CMFA de Brühl : Macron et Merz refondent la relation franco-allemande sur la dissuasion nucléaire",
+  "sujet_monde": "Soudan : le siège d'El-Obeid et les massacres de Kordofan",
+  "citations": [
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/briefings/la-dissuasion-nucleaire-francaise-lepreuve-dun-nouvel-ordre-europeen-analyse-du-discours",
+      "titre": "La dissuasion nucléaire française à l'épreuve d'un nouvel ordre européen – Analyse du discours présidentiel du 2 mars 2026",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/en/expressions/new-french-forward-nuclear-deterrence-ile-longue-roadmap",
+      "titre": "The New French Forward Nuclear Deterrence, the Île Longue Roadmap",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "defense-news",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.defensenews.com/global/europe/2026/07/16/franco-german-defense-cooperation-under-strain-as-macron-merz-meet/",
+      "titre": "Franco-German defense cooperation under strain as Macron, Merz meet",
+      "date_source": "2026-07-16"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/briefings/la-dissuasion-nucleaire-francaise-lepreuve-dun-nouvel-ordre-europeen-analyse-du-discours",
+      "titre": "La dissuasion nucléaire française à l'épreuve d'un nouvel ordre européen",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/03/02/nucleaire-macron-ile-longue/",
+      "titre": "La dissuasion avancée : le discours intégral d'Emmanuel Macron (Île Longue)",
+      "date_source": "2026-03-02"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/macron-annonce-la-dissuasion-avancee/",
+      "titre": "Macron annonce la dissuasion avancée",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/en/expressions/new-french-forward-nuclear-deterrence-ile-longue-roadmap",
+      "titre": "The New French Forward Nuclear Deterrence, the Île Longue Roadmap",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "defense-news",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.defensenews.com/global/europe/2026/07/16/franco-german-defense-cooperation-under-strain-as-macron-merz-meet/",
+      "titre": "Franco-German defense cooperation under strain as Macron, Merz meet",
+      "date_source": "2026-07-16"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher",
+      "titre": "El-Obeid under siege by RSF: Could this be Sudan's next el-Fasher?",
+      "date_source": "2026-07-06"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.hrw.org/news/2026/07/03/sudan-risk-of-imminent-atrocities-in-and-around-el-obeid-requires-urgent-action",
+      "titre": "Sudan: Risk of Imminent Atrocities In and Around El-Obeid Requires Urgent Action",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "ohchr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.ohchr.org/en/press-releases/2026/06/sudan-imminent-offensive-el-obeid-must-be-halted-turk-warns-catastrophic",
+      "titre": "Sudan: Imminent offensive on El Obeid must be halted – Türk warns of catastrophic impact on civilians",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.hrw.org/news/2026/07/03/sudan-risk-of-imminent-atrocities-in-and-around-el-obeid-requires-urgent-action",
+      "titre": "Sudan: Risk of Imminent Atrocities In and Around El-Obeid Requires Urgent Action",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher",
+      "titre": "El-Obeid under siege by RSF: Could this be Sudan's next el-Fasher?",
+      "date_source": "2026-07-06"
+    },
+    {
+      "source_id": "ohchr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.ohchr.org/en/press-releases/2026/06/sudan-imminent-offensive-el-obeid-must-be-halted-turk-warns-catastrophic",
+      "titre": "Sudan: Imminent offensive on El Obeid must be halted – Türk warns of catastrophic impact on civilians",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/sites/default/files/2026-04/ifri_el_obeid_sudan_wartime_online_propaganda_2026.pdf",
+      "titre": "Sudan Wartime Online Propaganda",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/africa/horn-africa/sudan",
+      "titre": "Sudan — International Crisis Group",
+      "date_source": null
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://news.un.org/en/story/2026/07/1167871",
+      "titre": "Sudan's people subject to 'relentless' drone strikes in El Obeid",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "acled",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}
