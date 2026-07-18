@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-18",
+  "sujet_fr": "L'été des mégafeux : la France débordée",
+  "sujet_monde": "Inde-Pakistan : la guerre froide de l'eau",
+  "citations": [
+    {
+      "source_id": "meteo-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Feux de forêt et canicule : le Gouvernement mobilisé",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ministere-interieur",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07-15"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déplacement à Fontainebleau",
+      "date_source": "2026-07-16"
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://reporterre.net/Canadair-peu-nombreux-Il-est-anormal-de-devoir-choisir-entre-ce-que-nous-sauvons-et-ce-qu",
+      "titre": "Coûteux et peu nombreux : les Canadair indispensables pour lutter contre les incendies monstres",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-les-flammes-ont-deja-parcouru-plus-de-800-hectares-dans-la-foret-de-fontainebleau-en-region-parisienne_8105603.html",
+      "titre": "Incendies : les flammes ont parcouru plus de 800 hectares dans la forêt de Fontainebleau",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/emmanuel-macron-se-rendra-jeudi-matin-a-fontainebleau-gravement-touche-par-deux-incendies_8109356.html",
+      "titre": "Emmanuel Macron se rendra jeudi matin à Fontainebleau, gravement touché par deux incendies",
+      "date_source": "2026-07-16"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07-16"
+    },
+    {
+      "source_id": "politis",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.politis.fr/articles/2026/07/limage-une-france-ravagee-par-les-flammes/",
+      "titre": "L'image : une France ravagée par les flammes",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2025"
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://reporterre.net/Canadair-peu-nombreux-Il-est-anormal-de-devoir-choisir-entre-ce-que-nous-sauvons-et-ce-qu",
+      "titre": "Coûteux et peu nombreux : les Canadair indispensables pour lutter contre les incendies monstres",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/ca-brouille-le-debat-pourquoi-la-gauche-et-les-ecologistes-s-inquietent-de-la-focalisation-sur-les-pyromanes-a-propos-des-incendies_8109227.html",
+      "titre": "« Ça brouille le débat » : pourquoi la gauche et les écologistes s'inquiètent de la focalisation sur les pyromanes à propos des incendies",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/09062026_DP_Feux_0.pdf",
+      "titre": "Dossier de presse : campagne de prévention des feux de forêt et de végétation 2026",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "cpa-pca",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Indus Waters Western Rivers Arbitration — Award Concerning Maximum Pondage (Supplemental)",
+      "date_source": "2026-05-15"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2025-04-22"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2025-05-10"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/04/india-and-pakistan-still-cannot-agree-restore-indus-waters-treaty-re-engagement-could-help",
+      "titre": "India and Pakistan still cannot agree to restore the Indus Waters Treaty – but re-engagement could help bring lasting peace",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/what-led-recent-crisis-between-india-and-pakistan",
+      "titre": "What Led to the Recent Crisis Between India and Pakistan?",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026"
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026"
+    },
+    {
+      "source_id": "orf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026"
+    },
+    {
+      "source_id": "dawn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/04/india-and-pakistan-still-cannot-agree-restore-indus-waters-treaty-re-engagement-could-help",
+      "titre": "India and Pakistan still cannot agree to restore the Indus Waters Treaty – but re-engagement could help bring lasting peace",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/06/22/india-pakistan-indus-waters-treaty-water-dispute-war-risk.html",
+      "titre": "Indus water treaty becomes latest India-Pakistan flashpoint",
+      "date_source": "2026-06-22"
+    },
+    {
+      "source_id": "geopolitical-monitor",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.geopoliticalmonitor.com/indus-waters-treaty-and-india-pakistan-ties-a-year-after-pahalgam/",
+      "titre": "Indus Waters Treaty and India-Pakistan Ties: A Year after Pahalgam",
+      "date_source": "2026"
+    }
+  ]
+}
