@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-19",
+  "sujet_fr": "France-Algérie : la normalisation des visas",
+  "sujet_monde": "Finale du Mondial 2026 : Argentine-Espagne et Gaza en filigrane",
+  "citations": [
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/le-retour-de-christophe-gleizes-c-est-notre-devoir-notre-responsabilite-c-est-mon-obsession-affirme-l-ambassadeur-de-france-en-algerie_8026673.html",
+      "titre": "Le retour de Christophe Gleizes : « c'est notre devoir, notre responsabilité, c'est mon obsession »",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnews.fr/france/2026-07-17/faire-en-sorte-que-ce-volume-puisse-redemarrer-la-hausse-la-france-souhaite-de",
+      "titre": "« Faire en sorte que ce volume puisse redémarrer à la hausse » : la France souhaite de nouveau délivrer 250 000 visas par an aux Algériens",
+      "date_source": "2026-07-17"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "jeune-afrique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/afrique/algerie/capitulation-aplaventrisme-le-rn-et-la-droite-s-insurgent-contre-la-hausse-des-visas-pour-les-algeriens-envisagee-par-paris_8111960.html",
+      "titre": "« Capitulation », « aplaventrisme » : le RN et la droite s'insurgent contre la hausse des visas pour les Algériens envisagée par Paris",
+      "date_source": "2026-07-18"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/afrique/20251230-crise-france-algerie-2025-sansal-oqtf-sahara",
+      "titre": "Crise franco-algérienne : en 2025, une bascule irrémédiable ?",
+      "date_source": "2025-12-30"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/le-retour-de-christophe-gleizes-c-est-notre-devoir-notre-responsabilite-c-est-mon-obsession-affirme-l-ambassadeur-de-france-en-algerie_8026673.html",
+      "titre": "Le retour de Christophe Gleizes : « c'est notre devoir, notre responsabilité, c'est mon obsession »",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final",
+      "titre": "In New York's 'Little Palestine', fans cheer for Spain in World Cup final",
+      "date_source": "2026-07-18"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "times-of-israel",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.timesofisrael.com/argentina-and-spains-world-cup-final-becomes-a-proxy-for-the-israel-palestinian-conflict/",
+      "titre": "Argentina and Spain's World Cup final becomes a proxy for the Israel-Palestinian conflict",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "jta",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.jta.org/2026/07/17/sports/why-argentina-and-spains-world-cup-final-has-become-a-proxy-for-the-israeli-palestinian-conflict",
+      "titre": "Why Argentina and Spain's World Cup final has become a proxy for the Israeli-Palestinian conflict",
+      "date_source": "2026-07-17"
+    },
+    {
+      "source_id": "jta",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jta.org/2026/07/17/sports/why-argentina-and-spains-world-cup-final-has-become-a-proxy-for-the-israeli-palestinian-conflict",
+      "titre": "Why Argentina and Spain's World Cup final has become a proxy for the Israeli-Palestinian conflict",
+      "date_source": "2026-07-17"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final",
+      "titre": "In New York's 'Little Palestine', fans cheer for Spain in World Cup final",
+      "date_source": "2026-07-18"
+    },
+    {
+      "source_id": "times-of-israel",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.timesofisrael.com/argentina-and-spains-world-cup-final-becomes-a-proxy-for-the-israel-palestinian-conflict/",
+      "titre": "Argentina and Spain's World Cup final becomes a proxy for the Israel-Palestinian conflict",
+      "date_source": "2026-07"
+    }
+  ]
+}
