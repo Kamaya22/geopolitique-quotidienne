@@ -28,13 +28,25 @@ CITATIONS_GLOB = os.path.join(DATA_DIR, "citations", "*.json")
 OUT = os.path.join(DATA_DIR, "STATS.md")
 
 
+def _clean(value):
+    """Normalise une valeur de cellule CSV en chaîne nettoyée.
+
+    csv.DictReader range les champs surnuméraires (virgule non échappée dans une
+    ligne) dans une liste sous la clé restkey ; on les recolle plutôt que de
+    laisser .strip() planter sur une liste.
+    """
+    if isinstance(value, list):
+        value = ",".join(v or "" for v in value)
+    return (value or "").strip()
+
+
 def load_registry():
     reg = {}
     with open(REGISTRY, encoding="utf-8-sig", newline="") as f:
         for row in csv.DictReader(f):
-            sid = (row.get("id") or "").strip()
+            sid = _clean(row.get("id"))
             if sid:
-                reg[sid] = {k: (v or "").strip() for k, v in row.items()}
+                reg[sid] = {k: _clean(v) for k, v in row.items() if k is not None}
     return reg
 
 
