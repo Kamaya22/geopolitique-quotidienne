@@ -1,6 +1,6 @@
 # Statistiques des sources citées
 
-*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-07-19 10:07 UTC.*
+*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-07-19 10:11 UTC.*
 
 ## Résumé
 
@@ -8,8 +8,8 @@
 - **Éditions analysées** : 35
 - **Citations totales** : 680
 - **Sources distinctes citées** : 136
-- **Pays distincts** : 20
-- **Orientations distinctes** : 11
+- **Pays distincts** : 19
+- **Orientations distinctes** : 10
 
 ## Alertes
 
@@ -29,7 +29,7 @@
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
 | France | 332 | 48.8 % | ██████████ |
-| États-Unis | 155 | 22.8 % | █████ |
+| États-Unis | 156 | 22.9 % | █████ |
 | International | 94 | 13.8 % | ███ |
 | Qatar | 32 | 4.7 % | █ |
 | Royaume-Uni | 21 | 3.1 % | █ |
@@ -47,7 +47,6 @@
 | Belgique | 2 | 0.3 % |  |
 | Taïwan | 1 | 0.1 % |  |
 | Chine | 1 | 0.1 % |  |
-| institution | 1 | 0.1 % |  |
 
 ### Par orientation politique
 
@@ -55,7 +54,7 @@
 |---|---:|---:|---|
 | centre | 225 | 33.1 % | ███████ |
 | independant | 163 | 24.0 % | █████ |
-| factuel | 143 | 21.0 % | ████ |
+| factuel | 144 | 21.2 % | ████ |
 | gauche | 48 | 7.1 % | █ |
 | centre-gauche | 29 | 4.3 % | █ |
 | droite | 22 | 3.2 % | █ |
@@ -63,7 +62,6 @@
 | liberal | 13 | 1.9 % |  |
 | droite-liberale | 12 | 1.8 % |  |
 | centre-droit | 7 | 1.0 % |  |
-| États-Unis | 1 | 0.1 % |  |
 
 ### Par type de source
 
@@ -71,10 +69,9 @@
 |---|---:|---:|---|
 | presse | 285 | 41.9 % | ████████ |
 | think-tank | 223 | 32.8 % | ███████ |
-| institution | 128 | 18.8 % | ████ |
+| institution | 129 | 19.0 % | ████ |
 | revue | 26 | 3.8 % | █ |
 | agence | 17 | 2.5 % |  |
-| États-Unis) | 1 | 0.1 % |  |
 
 ### Par sujet (France / Monde)
 
@@ -123,4 +120,4 @@
 | Mois | Éditions | Citations | Pays distincts | Orientations distinctes |
 |---|---:|---:|---:|---:|
 | 2026-06 | 16 | 295 | 16 | 10 |
-| 2026-07 | 19 | 385 | 18 | 11 |
+| 2026-07 | 19 | 385 | 17 | 10 |
