@@ -38,3 +38,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-17 — FR : Le couple franco-allemand refonde sa défense à Brühl : dissuasion nucléaire avancée et fractures persistantes | Monde : Soudan — le siège d'El-Obeid et les massacres de Kordofan
 - 2026-07-18 — FR : L'été des mégafeux : la France débordée | Monde : Inde-Pakistan : la guerre froide de l'eau
 - 2026-07-19 — FR : France-Algérie : la normalisation des visas | Monde : Finale du Mondial 2026 : Argentine-Espagne et Gaza en filigrane
+- 2026-07-20 — FR : La loi sur l'aide à mourir : adoption historique, Conseil constitutionnel arbitre | Monde : Andy Burnham Premier ministre : le Royaume-Uni cherche sa place dans l'Europe

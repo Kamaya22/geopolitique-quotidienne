@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-20",
+  "sujet_fr": "La loi sur l'aide à mourir : adoption historique, Conseil constitutionnel arbitre",
+  "sujet_monde": "Andy Burnham Premier ministre : le Royaume-Uni cherche sa place dans l'Europe",
+  "citations": [
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Vote de la loi aide à mourir — 291 pour, 241 contre, 29 abstentions",
+      "date_source": "2026-07-15"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.info.gouv.fr/actualite/fin-de-vie-le-parlement-adopte-definitivement-la-proposition-de-loi",
+      "titre": "Fin de vie : le Parlement adopte définitivement la proposition de loi",
+      "date_source": "2026-07-15"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-relative-au-droit-a-laide-a-mourir.html",
+      "titre": "Proposition de loi relative au droit à l'aide à mourir",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/info-franceinfo-loi-sur-la-fin-de-vie-sebastien-lecornu-va-saisir-le-conseil-constitutionnel-sur-une-partie-des-dispositions-apres-le-vote_8107604.html",
+      "titre": "Info Franceinfo : loi sur la fin de vie — Sébastien Lecornu va saisir le Conseil constitutionnel",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.info.gouv.fr/actualite/fin-de-vie-le-parlement-adopte-definitivement-la-proposition-de-loi",
+      "titre": "Fin de vie : le Parlement adopte définitivement la proposition de loi",
+      "date_source": "2026-07-15"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-relative-au-droit-a-laide-a-mourir.html",
+      "titre": "Proposition de loi relative au droit à l'aide à mourir",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/info-franceinfo-loi-sur-la-fin-de-vie-sebastien-lecornu-va-saisir-le-conseil-constitutionnel-sur-une-partie-des-dispositions-apres-le-vote_8107604.html",
+      "titre": "Info Franceinfo : loi sur la fin de vie — Sébastien Lecornu va saisir le Conseil constitutionnel",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm",
+      "titre": "Burnham confirmed as leader of UK's governing Labour Party, headed for PM",
+      "date_source": "2026-07-17"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
+      "titre": "What to know about Andy Burnham, new UK prime minister",
+      "date_source": "2026-07-19"
+    },
+    {
+      "source_id": "uk-in-changing-europe",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://ukandeu.ac.uk/what-will-andy-burnham-mean-for-eu-relations/",
+      "titre": "What will Andy Burnham mean for EU relations?",
+      "date_source": "2026-07-13"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://uk.diplomatie.gouv.fr/en/france-absolutely-ready-open-eus-door-uk-foreign-minister",
+      "titre": "France is \"absolutely ready\" to open EU's door to the UK — Foreign Minister Barrot",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/07/burnham-should-use-makerfield-test-ground-uk-foreign-policy-real-places",
+      "titre": "Burnham should use a 'Makerfield Test' to ground UK foreign policy in real places",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "institute-for-government",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.instituteforgovernment.org.uk/comment/burnham-avoid-consumed-foreign-affairs",
+      "titre": "Burnham will need to work hard to avoid his time being consumed by foreign affairs",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Brexit EU Reset Faces Resistance as Burnham Poised for Power",
+      "date_source": "2026-07-06"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/07/burnham-should-use-makerfield-test-ground-uk-foreign-policy-real-places",
+      "titre": "Burnham should use a 'Makerfield Test' to ground UK foreign policy in real places",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "uk-in-changing-europe",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://ukandeu.ac.uk/what-will-andy-burnham-mean-for-eu-relations/",
+      "titre": "What will Andy Burnham mean for EU relations?",
+      "date_source": "2026-07-13"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
+      "titre": "What to know about Andy Burnham, new UK prime minister",
+      "date_source": "2026-07-19"
+    }
+  ]
+}
