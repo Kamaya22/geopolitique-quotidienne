@@ -1,13 +1,13 @@
 # Statistiques des sources citées
 
-*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-07-19 10:12 UTC.*
+*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-07-20 05:19 UTC.*
 
 ## Résumé
 
-- **Période couverte** : 2026-06-12 → 2026-07-19
-- **Éditions analysées** : 35
-- **Citations totales** : 680
-- **Sources distinctes citées** : 136
+- **Période couverte** : 2026-06-12 → 2026-07-20
+- **Éditions analysées** : 36
+- **Citations totales** : 697
+- **Sources distinctes citées** : 137
 - **Pays distincts** : 19
 - **Orientations distinctes** : 10
 
@@ -28,11 +28,11 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| France | 332 | 48.8 % | ██████████ |
-| États-Unis | 156 | 22.9 % | █████ |
-| International | 94 | 13.8 % | ███ |
-| Qatar | 32 | 4.7 % | █ |
-| Royaume-Uni | 21 | 3.1 % | █ |
+| France | 340 | 48.8 % | ██████████ |
+| États-Unis | 159 | 22.8 % | █████ |
+| International | 94 | 13.5 % | ███ |
+| Qatar | 33 | 4.7 % | █ |
+| Royaume-Uni | 26 | 3.7 % | █ |
 | Israël | 11 | 1.6 % |  |
 | Suède | 4 | 0.6 % |  |
 | Myanmar | 4 | 0.6 % |  |
@@ -52,64 +52,64 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| centre | 225 | 33.1 % | ███████ |
-| independant | 163 | 24.0 % | █████ |
-| factuel | 144 | 21.2 % | ████ |
-| gauche | 48 | 7.1 % | █ |
-| centre-gauche | 29 | 4.3 % | █ |
+| centre | 231 | 33.1 % | ███████ |
+| independant | 168 | 24.1 % | █████ |
+| factuel | 150 | 21.5 % | ████ |
+| gauche | 48 | 6.9 % | █ |
+| centre-gauche | 29 | 4.2 % | █ |
 | droite | 22 | 3.2 % | █ |
-| a-verifier | 17 | 2.5 % |  |
+| a-verifier | 17 | 2.4 % |  |
 | liberal | 13 | 1.9 % |  |
-| droite-liberale | 12 | 1.8 % |  |
+| droite-liberale | 12 | 1.7 % |  |
 | centre-droit | 7 | 1.0 % |  |
 
 ### Par type de source
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| presse | 285 | 41.9 % | ████████ |
-| think-tank | 223 | 32.8 % | ███████ |
-| institution | 129 | 19.0 % | ████ |
-| revue | 26 | 3.8 % | █ |
-| agence | 17 | 2.5 % |  |
+| presse | 291 | 41.8 % | ████████ |
+| think-tank | 228 | 32.7 % | ███████ |
+| institution | 135 | 19.4 % | ████ |
+| revue | 26 | 3.7 % | █ |
+| agence | 17 | 2.4 % |  |
 
 ### Par sujet (France / Monde)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| FR | 346 | 50.9 % | ██████████ |
-| Monde | 334 | 49.1 % | ██████████ |
+| FR | 353 | 50.6 % | ██████████ |
+| Monde | 344 | 49.4 % | ██████████ |
 
 ### Par emplacement (lien formel / mention)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| texte | 473 | 69.6 % | ██████████████ |
-| pour-aller-plus-loin | 207 | 30.4 % | ██████ |
+| texte | 484 | 69.4 % | ██████████████ |
+| pour-aller-plus-loin | 213 | 30.6 % | ██████ |
 
 ### Par rôle (fait / analyse / opinion)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| fait | 310 | 45.6 % | █████████ |
-| analyse | 287 | 42.2 % | ████████ |
-| opinion | 83 | 12.2 % | ██ |
+| fait | 321 | 46.1 % | █████████ |
+| analyse | 293 | 42.0 % | ████████ |
+| opinion | 83 | 11.9 % | ██ |
 
 ## Sources les plus citées (top 15)
 
 | Source | Citations | Part |
 |---|---:|---:|
-| IFRI — Institut français des relations internationales | 41 | 6.0 % |
-| France 24 | 36 | 5.3 % |
-| Al Jazeera | 32 | 4.7 % |
-| Le Figaro | 19 | 2.8 % |
-| Franceinfo | 17 | 2.5 % |
-| Euronews | 17 | 2.5 % |
-| Libération | 16 | 2.4 % |
+| IFRI — Institut français des relations internationales | 41 | 5.9 % |
+| France 24 | 36 | 5.2 % |
+| Al Jazeera | 33 | 4.7 % |
+| Le Figaro | 19 | 2.7 % |
+| Franceinfo | 19 | 2.7 % |
+| Euronews | 17 | 2.4 % |
+| Libération | 16 | 2.3 % |
 | CSIS — Center for Strategic and International Studies | 15 | 2.2 % |
-| France Diplomatie (Ministère de l'Europe et des Affaires étrangères) | 13 | 1.9 % |
+| France Diplomatie (Ministère de l'Europe et des Affaires étrangères) | 14 | 2.0 % |
 | Institut Montaigne | 13 | 1.9 % |
-| Fondation Jean-Jaurès | 12 | 1.8 % |
+| Fondation Jean-Jaurès | 12 | 1.7 % |
 | Union européenne (déclarations officielles) | 11 | 1.6 % |
 | Organisation des Nations Unies (ONU) | 11 | 1.6 % |
 | Public Sénat | 11 | 1.6 % |
@@ -120,4 +120,4 @@
 | Mois | Éditions | Citations | Pays distincts | Orientations distinctes |
 |---|---:|---:|---:|---:|
 | 2026-06 | 16 | 295 | 16 | 10 |
-| 2026-07 | 19 | 385 | 17 | 10 |
+| 2026-07 | 20 | 402 | 17 | 10 |
