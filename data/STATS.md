@@ -1,13 +1,13 @@
 # Statistiques des sources citées
 
-*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-07-20 05:19 UTC.*
+*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-07-21 05:17 UTC.*
 
 ## Résumé
 
-- **Période couverte** : 2026-06-12 → 2026-07-20
-- **Éditions analysées** : 36
-- **Citations totales** : 697
-- **Sources distinctes citées** : 137
+- **Période couverte** : 2026-06-12 → 2026-07-21
+- **Éditions analysées** : 37
+- **Citations totales** : 714
+- **Sources distinctes citées** : 139
 - **Pays distincts** : 19
 - **Orientations distinctes** : 10
 
@@ -28,12 +28,12 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| France | 340 | 48.8 % | ██████████ |
-| États-Unis | 159 | 22.8 % | █████ |
-| International | 94 | 13.5 % | ███ |
-| Qatar | 33 | 4.7 % | █ |
-| Royaume-Uni | 26 | 3.7 % | █ |
-| Israël | 11 | 1.6 % |  |
+| France | 350 | 49.0 % | ██████████ |
+| États-Unis | 165 | 23.1 % | █████ |
+| International | 94 | 13.2 % | ███ |
+| Qatar | 34 | 4.8 % | █ |
+| Royaume-Uni | 26 | 3.6 % | █ |
+| Israël | 11 | 1.5 % |  |
 | Suède | 4 | 0.6 % |  |
 | Myanmar | 4 | 0.6 % |  |
 | Pakistan | 3 | 0.4 % |  |
@@ -52,14 +52,14 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| centre | 231 | 33.1 % | ███████ |
-| independant | 168 | 24.1 % | █████ |
-| factuel | 150 | 21.5 % | ████ |
-| gauche | 48 | 6.9 % | █ |
-| centre-gauche | 29 | 4.2 % | █ |
-| droite | 22 | 3.2 % | █ |
+| centre | 236 | 33.1 % | ███████ |
+| independant | 169 | 23.7 % | █████ |
+| factuel | 154 | 21.6 % | ████ |
+| gauche | 50 | 7.0 % | █ |
+| centre-gauche | 32 | 4.5 % | █ |
+| droite | 23 | 3.2 % | █ |
 | a-verifier | 17 | 2.4 % |  |
-| liberal | 13 | 1.9 % |  |
+| liberal | 14 | 2.0 % |  |
 | droite-liberale | 12 | 1.7 % |  |
 | centre-droit | 7 | 1.0 % |  |
 
@@ -67,57 +67,57 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| presse | 291 | 41.8 % | ████████ |
-| think-tank | 228 | 32.7 % | ███████ |
-| institution | 135 | 19.4 % | ████ |
-| revue | 26 | 3.7 % | █ |
+| presse | 298 | 41.7 % | ████████ |
+| think-tank | 234 | 32.8 % | ███████ |
+| institution | 139 | 19.5 % | ████ |
+| revue | 26 | 3.6 % | █ |
 | agence | 17 | 2.4 % |  |
 
 ### Par sujet (France / Monde)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| FR | 353 | 50.6 % | ██████████ |
-| Monde | 344 | 49.4 % | ██████████ |
+| FR | 363 | 50.8 % | ██████████ |
+| Monde | 351 | 49.2 % | ██████████ |
 
 ### Par emplacement (lien formel / mention)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| texte | 484 | 69.4 % | ██████████████ |
-| pour-aller-plus-loin | 213 | 30.6 % | ██████ |
+| texte | 496 | 69.5 % | ██████████████ |
+| pour-aller-plus-loin | 218 | 30.5 % | ██████ |
 
 ### Par rôle (fait / analyse / opinion)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| fait | 321 | 46.1 % | █████████ |
-| analyse | 293 | 42.0 % | ████████ |
-| opinion | 83 | 11.9 % | ██ |
+| fait | 328 | 45.9 % | █████████ |
+| analyse | 301 | 42.2 % | ████████ |
+| opinion | 85 | 11.9 % | ██ |
 
 ## Sources les plus citées (top 15)
 
 | Source | Citations | Part |
 |---|---:|---:|
-| IFRI — Institut français des relations internationales | 41 | 5.9 % |
-| France 24 | 36 | 5.2 % |
-| Al Jazeera | 33 | 4.7 % |
-| Le Figaro | 19 | 2.7 % |
+| IFRI — Institut français des relations internationales | 41 | 5.7 % |
+| France 24 | 38 | 5.3 % |
+| Al Jazeera | 34 | 4.8 % |
+| Le Figaro | 20 | 2.8 % |
 | Franceinfo | 19 | 2.7 % |
+| Libération | 17 | 2.4 % |
 | Euronews | 17 | 2.4 % |
-| Libération | 16 | 2.3 % |
-| CSIS — Center for Strategic and International Studies | 15 | 2.2 % |
+| CSIS — Center for Strategic and International Studies | 16 | 2.2 % |
 | France Diplomatie (Ministère de l'Europe et des Affaires étrangères) | 14 | 2.0 % |
-| Institut Montaigne | 13 | 1.9 % |
-| Fondation Jean-Jaurès | 12 | 1.7 % |
-| Union européenne (déclarations officielles) | 11 | 1.6 % |
-| Organisation des Nations Unies (ONU) | 11 | 1.6 % |
-| Public Sénat | 11 | 1.6 % |
-| IRIS — Institut de relations internationales et stratégiques | 11 | 1.6 % |
+| Institut Montaigne | 14 | 2.0 % |
+| Fondation Jean-Jaurès | 13 | 1.8 % |
+| Brookings Institution | 12 | 1.7 % |
+| Union européenne (déclarations officielles) | 11 | 1.5 % |
+| Organisation des Nations Unies (ONU) | 11 | 1.5 % |
+| Public Sénat | 11 | 1.5 % |
 
 ## Évolution mensuelle
 
 | Mois | Éditions | Citations | Pays distincts | Orientations distinctes |
 |---|---:|---:|---:|---:|
 | 2026-06 | 16 | 295 | 16 | 10 |
-| 2026-07 | 20 | 402 | 17 | 10 |
+| 2026-07 | 21 | 419 | 17 | 10 |
