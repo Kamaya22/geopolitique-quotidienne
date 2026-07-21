@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-21",
+  "sujet_fr": "La France à onze mois de 2027 : Le Pen en tête, le bloc central fragmenté",
+  "sujet_monde": "Trump déclenche la « bombe atomique » tarifaire sur le Canada (section 338)",
+  "citations": [
+    {
+      "source_id": "elabe",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sondage ELABE pour le Journal du Dimanche — intentions de vote présidentielle 2027",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/",
+      "titre": "Procès des assistants du RN : Marine Le Pen condamnée en appel, mais éligible à l'élection présidentielle 2027",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260708-marine-le-pen-candidate-en-2027-un-choix-dynastique-du-rn-qui-%C3%A9clipse-jordan-bardella",
+      "titre": "Marine Le Pen candidate en 2027 : le choix dynastique du RN qui éclipse Jordan Bardella",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspective droite libérale sur la candidature Philippe et la fragmentation centriste",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspective gauche sur l'érosion du front républicain et les risques d'abstention",
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse Terra Nova sur l'abstention de gauche au second tour et l'érosion du front républicain",
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse Institut Montaigne sur l'agenda programmatique dominé par les thèmes RN",
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse Fondation Jean-Jaurès sur l'inadéquation perçue des candidats et le risque d'abstention",
+      "date_source": null
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/france/20260708-marine-le-pen-candidate-en-2027-un-choix-dynastique-du-rn-qui-%C3%A9clipse-jordan-bardella",
+      "titre": "Marine Le Pen candidate en 2027 : le choix dynastique du RN qui éclipse Jordan Bardella",
+      "date_source": "2026-07-08"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/",
+      "titre": "Procès des assistants du RN : Marine Le Pen condamnée en appel, mais éligible à l'élection présidentielle 2027",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "maison-blanche",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/",
+      "titre": "Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada",
+      "date_source": "2026-07-20"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
+      "titre": "Trump slaps 50% tariffs on Canada goods on trade discrimination claims",
+      "date_source": "2026-07-20"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/the-trump-paradox-how-trade-tensions-may-strengthen-canadas-position-in-an-integrated-market/",
+      "titre": "The Trump paradox: How trade tensions may strengthen Canada's position in an integrated market",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/usmca-review-2026",
+      "titre": "USMCA Review 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination",
+      "titre": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "fortune",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://fortune.com/2026/07/20/trump-tariffs-canada-50-percent-section-338-nuclear-option-inflation-usmca/",
+      "titre": "Trump to impose 50% tariffs on most Canadian goods, invoking the Section 338 'nuclear option'",
+      "date_source": "2026-07-20"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/the-trump-paradox-how-trade-tensions-may-strengthen-canadas-position-in-an-integrated-market/",
+      "titre": "The Trump paradox: How trade tensions may strengthen Canada's position in an integrated market",
+      "date_source": "2026"
+    }
+  ]
+}
