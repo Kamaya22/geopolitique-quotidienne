@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-22",
+  "sujet_fr": "Paris et Berlin exigent une refonte radicale du service diplomatique de l'UE (SEAE)",
+  "sujet_monde": "Ukraine : Zelensky limoge son chef d'état-major sous la pression de la rue",
+  "citations": [
+    {
+      "source_id": "financial-times",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "France and Germany call for sweeping overhaul of EU diplomatic service (EEAS)",
+      "date_source": "2026-07-20"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.touteleurope.eu/fonctionnement-de-l-ue/role-renforce-du-haut-representant-rattachement-a-la-commission-ou-au-conseil-paris-esquisse-une-refonte-de-la-diplomatie-europeenne/",
+      "titre": "Rôle renforcé du haut-représentant, rattachement à la Commission ou au Conseil… Paris esquisse une refonte de la diplomatie européenne",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "The Diplomatic Unraveling: Why Europe's Capitals Want to Tear Apart the EEAS",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/06/11/kallas-kallas-defends-eu-foreign-service-before-staff-as-debate-over-its-future-intensifie",
+      "titre": "Kallas defends EU foreign service before staff as debate over its future intensifies",
+      "date_source": "2026-06-11"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Avertissements de l'ECFR sur la bilatéralisation comme vecteur d'influence étrangère",
+      "date_source": null
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/fonctionnement-de-l-ue/role-renforce-du-haut-representant-rattachement-a-la-commission-ou-au-conseil-paris-esquisse-une-refonte-de-la-diplomatie-europeenne/",
+      "titre": "Rôle renforcé du haut-représentant, rattachement à la Commission ou au Conseil… Paris esquisse une refonte de la diplomatie européenne",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.euronews.com/my-europe/2026/06/11/kallas-kallas-defends-eu-foreign-service-before-staff-as-debate-over-its-future-intensifie",
+      "titre": "Kallas defends EU foreign service before staff as debate over its future intensifies",
+      "date_source": "2026-06-11"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/07/21/ukraine-zelenskyy-syrskyi-army-chief/384ea9fa-853e-11f1-9cec-0fb26676f07e_story.html",
+      "titre": "Ukraine's Zelenskyy fires his military chief after protests and names a replacement",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5899777/protests-continue-in-ukraine-over-defense-ministers-firing",
+      "titre": "Protests continue in Ukraine over defense minister's firing",
+      "date_source": "2026-07-20"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://kyivindependent.com/draft-ukrainians-take-to-streets-for-3rd-consecutive-day-of-protests-over-military-leadership-crisis/",
+      "titre": "'Changes are definitely coming' — Ukrainians take to streets for 3rd day of protests over military leadership crisis",
+      "date_source": "2026-07-18"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analysis: Why many Ukrainians feel Commander-in-Chief Syrskyi must go",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/07/21/europe/ukraine-military-chief-sacked-intl",
+      "titre": "Zelensky sacks Ukraine's military chief following widespread protests",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraines-zelenskyy-fires-commander-chief-protests-major-rift-rcna588159",
+      "titre": "Ukraine's Zelenskyy fires his commander in chief after protests and major rift",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Perspectives d'analystes sur les implications stratégiques du limogeage de Syrskyi",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/07/21/ukraine-zelenskyy-syrskyi-army-chief/384ea9fa-853e-11f1-9cec-0fb26676f07e_story.html",
+      "titre": "Ukraine's Zelenskyy fires his military chief after protests and names a replacement",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5899777/protests-continue-in-ukraine-over-defense-ministers-firing",
+      "titre": "Protests continue in Ukraine over defense minister's firing",
+      "date_source": "2026-07-20"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://kyivindependent.com/mykhailo-drapatyi-the-man-some-protesters-want-to-replace-syrskyi/",
+      "titre": "Who is Mykhailo Drapatyi, Ukraine's next army chief?",
+      "date_source": "2026-07-21"
+    }
+  ]
+}
