@@ -41,3 +41,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-20 — FR : La loi sur l'aide à mourir : adoption historique, Conseil constitutionnel arbitre | Monde : Andy Burnham Premier ministre : le Royaume-Uni cherche sa place dans l'Europe
 - 2026-07-21 — FR : La France à onze mois de 2027 : Le Pen en tête, le bloc central fragmenté | Monde : Trump déclenche la « bombe atomique » tarifaire sur le Canada (section 338)
 - 2026-07-22 — FR : Paris et Berlin exigent une refonte radicale du service diplomatique de l'UE (SEAE) | Monde : Ukraine : Zelensky limoge son chef d'état-major sous la pression de la rue
+- 2026-07-23 — FR : Sénatoriales 2026 : le RN aux portes du Sénat, la gauche à l'épreuve des alliances | Monde : Lavrov et Rubio à Manille (ASEAN) : l'Ukraine absente de sa propre diplomatie

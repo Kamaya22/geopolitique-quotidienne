@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-23",
+  "sujet_fr": "Sénatoriales 2026 : le RN aux portes du Sénat, la gauche à l'épreuve des alliances",
+  "sujet_monde": "Lavrov et Rubio à Manille : l'Ukraine absente de sa propre diplomatie",
+  "citations": [
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/dossier/elections-senatoriales-2026",
+      "titre": "Dossier élections sénatoriales 2026",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/des-elections-senatoriales-historiques/",
+      "titre": "Des élections sénatoriales historiques ?",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/des-elections-senatoriales-historiques/",
+      "titre": "Des élections sénatoriales historiques ?",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/senatoriales-2026-mode-de-scrutin-departements-concernes-enjeux-politiques-tout-comprendre-des-elections-du-27-septembre-en-six-questions",
+      "titre": "Sénatoriales 2026 : mode de scrutin, départements concernés, enjeux politiques… tout comprendre en six questions",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "courrier-des-maires",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.courrierdesmaires.fr/article/senatoriales-2026-vers-un-nouveau-groupe-rn.60128",
+      "titre": "Sénatoriales 2026 : vers un nouveau groupe... RN ?",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse post-municipales 2026 : paradoxes de la représentation sénatoriale de LFI",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Le rôle du Sénat dans les révisions constitutionnelles et la navette législative",
+      "date_source": null
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://senatoriales2026.senat.fr/",
+      "titre": "Site officiel des élections sénatoriales 2026",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/des-elections-senatoriales-historiques/",
+      "titre": "Des élections sénatoriales historiques ?",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "courrier-des-maires",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.courrierdesmaires.fr/article/senatoriales-2026-vers-un-nouveau-groupe-rn.60128",
+      "titre": "Sénatoriales 2026 : vers un nouveau groupe... RN ?",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/senatoriales-2026-mode-de-scrutin-departements-concernes-enjeux-politiques-tout-comprendre-des-elections-du-27-septembre-en-six-questions",
+      "titre": "Sénatoriales 2026 : mode de scrutin, départements concernés, enjeux politiques… tout comprendre en six questions",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Lavrov et Rubio se rencontrent en marge du sommet ASEAN à Manille pour discuter de l'Ukraine",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "meduza",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://meduza.io/en/feature/2026/07/03/how-the-trump-putin-summit-in-alaska-spawned-the-kremlin-s-myth-of-the-spirit-of-anchorage-and-why-it-collapsed",
+      "titre": "How the Trump-Putin summit in Alaska spawned the Kremlin's myth of the 'spirit of Anchorage' — and why it collapsed",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://kyivindependent.com/russias-lavrov-says-hell-meet-rubio-in-manila-on-july-23-discuss-ukraine/",
+      "titre": "Russia's Lavrov says he'll meet Rubio in Manila on July 23, discuss Ukraine",
+      "date_source": "2026-07-22"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse des conditions russes non négociables à Manille",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Diplomatie des tiers et stratégie européenne sur le dossier ukrainien — ASEAN et Sud global",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "the-hill",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "US attention shift to Iran weakens leverage in Ukraine talks",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La fenêtre d'opportunité russe dans le repli américain sur l'Iran",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "meduza",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://meduza.io/en/feature/2026/07/03/how-the-trump-putin-summit-in-alaska-spawned-the-kremlin-s-myth-of-the-spirit-of-anchorage-and-why-it-collapsed",
+      "titre": "How the Trump-Putin summit in Alaska spawned the Kremlin's myth of the 'spirit of Anchorage' — and why it collapsed",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "ap",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.news4jax.com/news/world/2026/07/23/rubio-to-revive-prospect-of-us-helping-end-war-in-ukraine-in-meeting-with-russian-counterpart/",
+      "titre": "Rubio to revive prospect of US helping end war in Ukraine in meeting with Russian counterpart",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://kyivindependent.com/russias-lavrov-says-hell-meet-rubio-in-manila-on-july-23-discuss-ukraine/",
+      "titre": "Russia's Lavrov says he'll meet Rubio in Manila on July 23, discuss Ukraine",
+      "date_source": "2026-07-22"
+    }
+  ]
+}
