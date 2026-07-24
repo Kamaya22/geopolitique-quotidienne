@@ -1,0 +1,241 @@
+{
+  "date": "2026-07-24",
+  "sujet_fr": "La gauche française en ordre dispersé : PS, gauche unitaire et LFI avant 2027",
+  "sujet_monde": "Iran–États-Unis : rejet du cessez-le-feu irakien, Trump menace d'une attaque massive",
+  "citations": [
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/ps-eelv-generation-s-la-gauche-unitaire-annonce-l-organisation-d-une-primaire-a-l-automne-2026_7618508.html",
+      "titre": "PS, EELV, Génération.s… La gauche unitaire annonce une primaire à l'automne 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/les-adherents-du-ps-ont-decide-d-enterrer-la-primaire-marine-tondelier-acte-la-rupture",
+      "titre": "Les adhérents du PS ont décidé d'enterrer la primaire : Marine Tondelier acte la rupture",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "europe1",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.europe1.fr/politique/presidentielle-2027-le-parti-socialiste-choisit-une-primaire-fermee-faure-desavoue-glucksmann-attendu-969987",
+      "titre": "Présidentielle 2027 : le PS choisit une primaire fermée, Faure désavoué, Glucksmann attendu",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ipsos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sondage : 82 % des sympathisants de gauche favorables à un candidat unique pour 2027",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Bilan des municipales 2026 : paradoxes de la représentation sénatoriale et présidentielle de LFI",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "La fragmentation de la gauche et le scénario du second tour 2027 vu par Le Figaro",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "La dispersion de la gauche, aubaine structurelle pour le camp présidentiel",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "LFI et la logique du vote utile de gauche pour 2027",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/les-adherents-du-ps-ont-decide-d-enterrer-la-primaire-marine-tondelier-acte-la-rupture",
+      "titre": "Les adhérents du PS ont décidé d'enterrer la primaire : Marine Tondelier acte la rupture",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "europe1",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.europe1.fr/politique/presidentielle-2027-le-parti-socialiste-choisit-une-primaire-fermee-faure-desavoue-glucksmann-attendu-969987",
+      "titre": "Présidentielle 2027 : le PS choisit une primaire fermée, Faure désavoué, Glucksmann attendu",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/ps-eelv-generation-s-la-gauche-unitaire-annonce-l-organisation-d-une-primaire-a-l-automne-2026_7618508.html",
+      "titre": "PS, EELV, Génération.s… La gauche unitaire annonce une primaire à l'automne 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Frappes américaines sur l'Iran pour la 13e nuit consécutive — Iran attaque Koweït, Bahreïn, Jordanie",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Iran rejects Iraqi PM's ceasefire proposal; oil near $100 per barrel",
+      "date_source": "2026-07-24"
+    },
+    {
+      "source_id": "new-york-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Iran rejects ceasefire proposal carried by Iraqi prime minister to Tehran",
+      "date_source": "2026-07-24"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-903531",
+      "titre": "Iran, uninterested in 'temporary deal' with US, rejects Iraqi-led ceasefire proposal",
+      "date_source": "2026-07-24"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf",
+      "titre": "US attacks Iran for 13th night as Trump threatens 'bigger' strikes",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/07/23/world/live-news/iran-war-trump",
+      "titre": "Live updates: US says it hit Iranian military targets in 13th consecutive night of strikes",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Impact de la guerre Iran–États-Unis sur les marchés pétroliers et l'assurance maritime",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "bnp-paribas-economic-research",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Impact d'un pétrole à 90-100 dollars sur l'inflation de la zone euro et la politique monétaire de la BCE",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/04/23/prix-reel-de-la-guerre-en-iran/",
+      "titre": "Le prix réel de la guerre en Iran",
+      "date_source": "2026-04-23"
+    },
+    {
+      "source_id": "fdd",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "FDD — Pour des frappes sur l'infrastructure industrielle iranienne afin d'accélérer la capitulation",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "rand",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "RAND Corporation — risque de miscalcul et scénario d'escalade non contrôlée dans le conflit Iran–États-Unis",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Quincy Institute — contre l'escalade militaire, appel à une désescalade diplomatique dans la guerre Iran–États-Unis",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf",
+      "titre": "US attacks Iran for 13th night as Trump threatens 'bigger' strikes",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "axios",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops",
+      "titre": "Iran mediators push new ceasefire as Trump eyes all-out war",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/04/23/prix-reel-de-la-guerre-en-iran/",
+      "titre": "Le prix réel de la guerre en Iran",
+      "date_source": "2026-04-23"
+    }
+  ]
+}
