@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-26",
+  "sujet_fr": "Programme EPR2 : souveraineté énergétique, coûts et enquête de Bruxelles",
+  "sujet_monde": "Contre-représailles chinoises : 14 entités de l'UE sur liste noire après le 21e paquet de sanctions",
+  "citations": [
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/sites/default/files/2025-07/ifri_maisonneuve_adn_nucleaire_europe_2025.pdf",
+      "titre": "Renouer avec l'ADN nucléaire de l'Europe — une question politique",
+      "date_source": "2025-07"
+    },
+    {
+      "source_id": "edf",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.edf.fr/groupe-edf/produire-une-energie-respectueuse-du-climat/lenergie-nucleaire/nouveau-nucleaire/programme-epr2",
+      "titre": "Programme EPR2 — EDF",
+      "date_source": "2025-12"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/institutions/nucleaire-la-commission-europeenne-ouvre-une-enquete-approfondie-sur-les-aides-de-la-france-prevues-pour-edf/",
+      "titre": "Nucléaire : la Commission européenne ouvre une enquête approfondie sur les aides de la France prévues pour EDF",
+      "date_source": "2026-03-31"
+    },
+    {
+      "source_id": "sfen",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.sfen.org/rgn/programme-epr2-un-plafond-a-728-milliards-deuros-pour-les-six-premiers-reacteurs/",
+      "titre": "Programme EPR2 : un plafond à 72,8 milliards d'euros pour les six premiers réacteurs",
+      "date_source": "2025-12"
+    },
+    {
+      "source_id": "greenpeace-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.greenpeace.fr/espace-presse/nucleaire-greenpeace-denonce-un-detournement-inadmissible-de-lepargne-des-francais-pour-financer-les-epr2/",
+      "titre": "Nucléaire : Greenpeace dénonce un détournement inadmissible de l'épargne des Français pour financer les EPR2",
+      "date_source": null
+    },
+    {
+      "source_id": "fne-france-nature-environnement",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://fne.asso.fr/actualites/ppe3-la-france-sacrifie-t-elle-sa-souverainete-energetique-et-sa-transition-ecologique",
+      "titre": "PPE3 : la France sacrifie-t-elle sa souveraineté énergétique et sa transition écologique ?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "les-energies-renouvelables",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.les-energies-renouvelables.eu/article/actualites/energies/edf-aurait-truque-la-facture-du-nouveau-nucleaire-europe-qui-tranchera-971/",
+      "titre": "Nucléaire : EDF accusé de sous-estimer le coût des EPR2",
+      "date_source": null
+    },
+    {
+      "source_id": "connaissances-energies",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.connaissancedesenergies.org/afp/nouveaux-reacteurs-dedf-lue-ouvre-une-enquete-approfondie-sur-les-aides-de-letat-francais-260331",
+      "titre": "Nouveaux réacteurs d'EDF : l'UE ouvre une enquête approfondie sur les aides de l'État français",
+      "date_source": "2026-03-31"
+    },
+    {
+      "source_id": "sfen",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.sfen.org/rgn/programme-epr2-un-plafond-a-728-milliards-deuros-pour-les-six-premiers-reacteurs/",
+      "titre": "Programme EPR2 : un plafond à 72,8 milliards d'euros pour les six premiers réacteurs",
+      "date_source": "2025-12"
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://reporterre.net/EPR2-les-aides-d-Etat-pour-EDF-dans-le-viseur-de-la-Commission-europeenne",
+      "titre": "EPR2 : les aides d'État pour EDF dans le viseur de la Commission européenne",
+      "date_source": null
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/",
+      "titre": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "mofcom-chine",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Annonce n° 30 de 2026 — Ministère du Commerce de la République populaire de Chine",
+      "date_source": "2026-07-24"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "geopolitechs",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.geopolitechs.org/p/beijings-export-control-counterpunch",
+      "titre": "Beijing's Export Control Counterpunch: 14 EU Entities Added to China's Controlled List",
+      "date_source": "2026-07-25"
+    },
+    {
+      "source_id": "merics",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/rare-earth-export-restrictions-one-year-later",
+      "titre": "Rare Earth Export Restrictions One Year Later",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/",
+      "titre": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/china-hits-back-at-eu-with-export-curbs-that-ensnare-rheinmetall",
+      "titre": "China Hits Back EU With Export Curbs on Rheinmetall, Others",
+      "date_source": "2026-07-24"
+    },
+    {
+      "source_id": "geopolitechs",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.geopolitechs.org/p/beijings-export-control-counterpunch",
+      "titre": "Beijing's Export Control Counterpunch: 14 EU Entities Added to China's Controlled List",
+      "date_source": "2026-07-25"
+    }
+  ]
+}

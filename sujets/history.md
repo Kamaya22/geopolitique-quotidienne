@@ -43,3 +43,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-22 — FR : Paris et Berlin exigent une refonte radicale du service diplomatique de l'UE (SEAE) | Monde : Ukraine : Zelensky limoge son chef d'état-major sous la pression de la rue
 - 2026-07-23 — FR : Sénatoriales 2026 : le RN aux portes du Sénat, la gauche à l'épreuve des alliances | Monde : Lavrov et Rubio à Manille (ASEAN) : l'Ukraine absente de sa propre diplomatie
 - 2026-07-24 — FR : La gauche française en ordre dispersé : PS, gauche unitaire et LFI — trois primaires avant 2027 | Monde : Iran–États-Unis : rejet du cessez-le-feu irakien, Trump menace d'une « attaque massive »
+- 2026-07-26 — FR : Le programme EPR2 à la croisée des chemins : souveraineté énergétique, dérive des coûts et enquête de Bruxelles | Monde : La Chine weaponise les contrôles à l'export — 14 entités européennes sur liste noire en représailles au 21e paquet de sanctions anti-russes
