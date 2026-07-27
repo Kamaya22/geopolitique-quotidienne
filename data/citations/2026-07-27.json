@@ -1,0 +1,223 @@
+{
+  "date": "2026-07-27",
+  "sujet_fr": "Dix ans après l'assassinat du père Hamel : la menace islamiste a mué",
+  "sujet_monde": "Google, DMA et tarifs : l'UE défend sa souveraineté numérique face à Trump",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260726-france-l-hommage-au-p%C3%A8re-jacques-hamel-tu%C3%A9-dans-un-attentat-il-y-a-dix-ans",
+      "titre": "France : l'hommage au père Jacques Hamel, assassiné voilà dix ans dans une église",
+      "date_source": "2026-07-26"
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Discours de commémoration du dixième anniversaire de l'attentat de Saint-Étienne-du-Rouvray",
+      "date_source": "2026-07-26"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Commémoration de l'attentat de Saint-Étienne-du-Rouvray — présence du Premier ministre",
+      "date_source": "2026-07-26"
+    },
+    {
+      "source_id": "dgsi",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.dgsi.interieur.gouv.fr/dgsi-a-vos-cotes/lutte-contre-terrorisme/letat-de-menace-terroriste-en-france",
+      "titre": "L'état de la menace terroriste en France",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/lutte-contre-le-terrorisme-en-10-ans-la-france-sest",
+      "titre": "Lutte contre le terrorisme : en 10 ans, la France s'est considérablement renforcée",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/la-france-est-la-cible-dun-traitement-specifique-dans-la",
+      "titre": "La France est la cible d'un traitement spécifique dans la propagande djihadiste",
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "la-croix",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/comment-a-evolue-la-menace-terroriste-en-france-dix-ans-apres-les-attentats-du-13-novembre_7609862.html",
+      "titre": "Comment a évolué la menace terroriste en France dix ans après les attentats du 13-Novembre ?",
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/lutte-contre-le-terrorisme-en-10-ans-la-france-sest",
+      "titre": "Lutte contre le terrorisme : en 10 ans, la France s'est considérablement renforcée",
+      "date_source": null
+    },
+    {
+      "source_id": "le-jdd",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.lejdd.fr/Societe/dix-ans-apres-le-bataclan-la-france-face-aux-djihadistes-20-163827",
+      "titre": "Dix ans après le Bataclan, la France face aux djihadistes 2.0",
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "dgsi",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.dgsi.interieur.gouv.fr/dgsi-a-vos-cotes/lutte-contre-terrorisme/letat-de-menace-terroriste-en-france",
+      "titre": "L'état de la menace terroriste en France",
+      "date_source": null
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en",
+      "titre": "Commission fines Google €890 million for breaches of the Digital Markets Act",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+      "titre": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+      "date_source": "2026-07-24"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/trump-vows-fresh-tariffs-on-european-union-over-google-fine",
+      "titre": "Trump Threatens New EU Tariffs After Google Hit With $1 Billion Fine",
+      "date_source": "2026-07-24"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20260129-souverainet%C3%A9-num%C3%A9rique-1-3-menace-donald-trump-r%C3%A9veil-pays-europ%C3%A9ens",
+      "titre": "Souveraineté numérique (1/3) : face à la menace Trump, le réveil des pays européens ?",
+      "date_source": "2026-01-29"
+    },
+    {
+      "source_id": "itif",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://itif.org/publications/2026/07/24/trump-admin-is-right-to-use-section-301-to-counter-the-eu-discriminatory-tech-rules/",
+      "titre": "Trump Admin Is Right to Use Section 301 to Counter the EU's Discriminatory Tech Rules",
+      "date_source": "2026-07-24"
+    },
+    {
+      "source_id": "axios",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.axios.com/2026/07/24/trump-eu-tariff-threat-tech-regulation",
+      "titre": "Trump escalates EU tech fight with new tariff threat",
+      "date_source": "2026-07-24"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/7/23/eu-hits-google-with-new-1bn-fine-saying-it-broke-digital-antitrust-rules",
+      "titre": "EU hits Google with new $1bn fine, saying it broke digital antitrust rules",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en",
+      "titre": "Commission fines Google €890 million for breaches of the Digital Markets Act",
+      "date_source": "2026-07-23"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+      "titre": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+      "date_source": "2026-07-24"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20260129-souverainet%C3%A9-num%C3%A9rique-1-3-menace-donald-trump-r%C3%A9veil-pays-europ%C3%A9ens",
+      "titre": "Souveraineté numérique (1/3) : face à la menace Trump, le réveil des pays européens ?",
+      "date_source": "2026-01-29"
+    }
+  ]
+}
