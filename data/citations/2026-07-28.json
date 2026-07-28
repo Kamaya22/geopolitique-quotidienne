@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-28",
+  "sujet_fr": "Le mégafeu de Gironde : l'État face à l'urgence climatique",
+  "sujet_monde": "Corée du Nord — 30 000 soldats supplémentaires pour Moscou",
+  "citations": [
+    {
+      "source_id": "reporterre",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://reporterre.net/EN-DIRECT-Incendie-en-Gironde-le-feu-est-stabilise-mais-pas-fixe",
+      "titre": "EN DIRECT — Incendie en Gironde : le feu est stabilisé mais pas fixé",
+      "date_source": "2026-07-27"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.senat.fr/rap/l25-139-328-2/l25-139-328-27.html",
+      "titre": "Projet de loi de finances 2026 : Sécurité civile",
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/environnement/incendie-en-gironde-plus-de-2000-hectares-devores-par-les-flammes-des-milliers-de-personnes-evacuees",
+      "titre": "Incendie en Gironde : déclenchement de FR-Alert pour l'évacuation de nouvelles communes",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "la-croix",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "csis",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "newsweek",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.newsweek.com/russia-north-korea-30000-troops-ukraine-war-12245147",
+      "titre": "Russia Wants 30,000 More North Korean Troops for Ukraine War, Zelensky Says",
+      "date_source": "2026-07-26"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.scmp.com/week-asia/politics/article/3361943/north-korea-sending-30000-troops-russia-win-win-analysts",
+      "titre": "North Korea Sending 30,000 Troops to Russia — A Win-Win, Analysts Say",
+      "date_source": "2026-07-26"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/sites/default/files/2024-12/2024-12-04-north-korea-russia-dangerous-partnership-howell.pdf",
+      "titre": "North Korea and Russia's Dangerous Partnership",
+      "date_source": "2024-12"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}
