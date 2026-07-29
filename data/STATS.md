@@ -1,12 +1,12 @@
 # Statistiques des sources citées
 
-*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-07-28 05:13 UTC.*
+*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-07-29 05:21 UTC.*
 
 ## Résumé
 
-- **Période couverte** : 2026-06-12 → 2026-07-28
-- **Éditions analysées** : 43
-- **Citations totales** : 839
+- **Période couverte** : 2026-06-12 → 2026-07-29
+- **Éditions analysées** : 44
+- **Citations totales** : 856
 - **Sources distinctes citées** : 157
 - **Pays distincts** : 20
 - **Orientations distinctes** : 10
@@ -31,11 +31,11 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| France | 412 | 49.1 % | ██████████ |
-| États-Unis | 196 | 23.4 % | █████ |
-| International | 106 | 12.6 % | ███ |
-| Qatar | 37 | 4.4 % | █ |
-| Royaume-Uni | 30 | 3.6 % | █ |
+| France | 419 | 48.9 % | ██████████ |
+| États-Unis | 204 | 23.8 % | █████ |
+| International | 108 | 12.6 % | ███ |
+| Qatar | 37 | 4.3 % | █ |
+| Royaume-Uni | 30 | 3.5 % | █ |
 | Israël | 12 | 1.4 % |  |
 | Ukraine | 9 | 1.1 % |  |
 | Hong Kong | 5 | 0.6 % |  |
@@ -56,72 +56,72 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| centre | 282 | 33.6 % | ███████ |
-| independant | 191 | 22.8 % | █████ |
-| factuel | 176 | 21.0 % | ████ |
-| gauche | 62 | 7.4 % | █ |
-| centre-gauche | 36 | 4.3 % | █ |
-| droite | 26 | 3.1 % | █ |
-| a-verifier | 24 | 2.9 % | █ |
+| centre | 285 | 33.3 % | ███████ |
+| independant | 199 | 23.2 % | █████ |
+| factuel | 180 | 21.0 % | ████ |
+| gauche | 63 | 7.4 % | █ |
+| centre-gauche | 36 | 4.2 % | █ |
+| droite | 27 | 3.2 % | █ |
+| a-verifier | 24 | 2.8 % | █ |
 | liberal | 17 | 2.0 % |  |
-| droite-liberale | 14 | 1.7 % |  |
+| droite-liberale | 14 | 1.6 % |  |
 | centre-droit | 11 | 1.3 % |  |
 
 ### Par type de source
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| presse | 363 | 43.3 % | █████████ |
-| think-tank | 265 | 31.6 % | ██████ |
-| institution | 157 | 18.7 % | ████ |
-| revue | 32 | 3.8 % | █ |
-| agence | 22 | 2.6 % | █ |
+| presse | 366 | 42.8 % | █████████ |
+| think-tank | 275 | 32.1 % | ██████ |
+| institution | 159 | 18.6 % | ████ |
+| revue | 32 | 3.7 % | █ |
+| agence | 24 | 2.8 % | █ |
 
 ### Par sujet (France / Monde)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| FR | 424 | 50.5 % | ██████████ |
-| Monde | 415 | 49.5 % | ██████████ |
+| FR | 432 | 50.5 % | ██████████ |
+| Monde | 424 | 49.5 % | ██████████ |
 
 ### Par emplacement (lien formel / mention)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| texte | 586 | 69.8 % | ██████████████ |
-| pour-aller-plus-loin | 253 | 30.2 % | ██████ |
+| texte | 597 | 69.7 % | ██████████████ |
+| pour-aller-plus-loin | 259 | 30.3 % | ██████ |
 
 ### Par rôle (fait / analyse / opinion)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| fait | 371 | 44.2 % | █████████ |
-| analyse | 368 | 43.9 % | █████████ |
-| opinion | 100 | 11.9 % | ██ |
+| analyse | 379 | 44.3 % | █████████ |
+| fait | 375 | 43.8 % | █████████ |
+| opinion | 102 | 11.9 % | ██ |
 
 ## Sources les plus citées (top 15)
 
 | Source | Citations | Part |
 |---|---:|---:|
-| IFRI — Institut français des relations internationales | 45 | 5.4 % |
-| France 24 | 41 | 4.9 % |
-| Al Jazeera | 37 | 4.4 % |
-| Le Figaro | 23 | 2.7 % |
-| CSIS — Center for Strategic and International Studies | 20 | 2.4 % |
-| Franceinfo | 20 | 2.4 % |
-| Libération | 19 | 2.3 % |
-| Euronews | 19 | 2.3 % |
+| IFRI — Institut français des relations internationales | 47 | 5.5 % |
+| France 24 | 41 | 4.8 % |
+| Al Jazeera | 37 | 4.3 % |
+| Le Figaro | 24 | 2.8 % |
+| CSIS — Center for Strategic and International Studies | 22 | 2.6 % |
+| Libération | 20 | 2.3 % |
+| Franceinfo | 20 | 2.3 % |
+| Euronews | 19 | 2.2 % |
 | Institut Montaigne | 17 | 2.0 % |
 | Union européenne (déclarations officielles) | 16 | 1.9 % |
 | Fondation Jean-Jaurès | 16 | 1.9 % |
 | Public Sénat | 15 | 1.8 % |
-| France Diplomatie (Ministère de l'Europe et des Affaires étrangères) | 14 | 1.7 % |
+| France Diplomatie (Ministère de l'Europe et des Affaires étrangères) | 14 | 1.6 % |
+| Agence France-Presse (AFP) | 14 | 1.6 % |
 | Brookings Institution | 13 | 1.5 % |
-| Le Grand Continent | 12 | 1.4 % |
 
 ## Évolution mensuelle
 
 | Mois | Éditions | Citations | Pays distincts | Orientations distinctes |
 |---|---:|---:|---:|---:|
 | 2026-06 | 16 | 295 | 16 | 10 |
-| 2026-07 | 27 | 544 | 19 | 10 |
+| 2026-07 | 28 | 561 | 19 | 10 |
