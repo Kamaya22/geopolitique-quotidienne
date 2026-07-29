@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-29",
+  "sujet_fr": "L'autonomie stratégique française à l'épreuve : Villepin défie Macron avant 2027",
+  "sujet_monde": "Venezuela : le dialogue du 1er août face à la fracture de l'opposition",
+  "citations": [
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La fureur tombée du ciel — Analyse stratégique de la campagne aérienne contre l'Iran",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Macron's Île-Longue Speech: Updating France's Nuclear Doctrine for a New Era",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.elysee.fr/en/emmanuel-macron/2026/03/02/visit-to-the-ile-longue-operational-base",
+      "titre": "Visite à la base opérationnelle de l'Île-Longue — Discours du Président sur la dissuasion nucléaire",
+      "date_source": "2026-03-02"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspective éditoriale : solidarité alliée et critique de l'obstruction française",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspective éditoriale : refus de la guerre iranienne et primauté du droit international",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/etudes/la-fureur-tombee-du-ciel-analyse-strategique-de-la-campagne-aerienne-contre-liran",
+      "titre": "La fureur tombée du ciel — Analyse stratégique de la campagne aérienne contre l'Iran",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/macrons-ile-longue-speech-updating-frances-nuclear-doctrine-new-era",
+      "titre": "Macron's Île-Longue Speech: Updating France's Nuclear Doctrine for a New Era",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://responsiblestatecraft.org/villepin-france-iran/",
+      "titre": "As Trump squeezes, can de Villepin give new backbone to France?",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Venezuela : manifestations des deux camps le 28 juillet, deuxième anniversaire de la fraude électorale",
+      "date_source": "2026-07-28"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse ICG : dissonance sémantique entre Washington et Rodríguez sur les objectifs du dialogue",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "americas-quarterly",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse sur la situation constitutionnelle de Rodríguez après le délai expiré du 3 juillet",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Upcoming Venezuela negotiations are an opportunity for the US to lock in a victory",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "us-state-dept",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/advancing-venezuelas-institutional-democratic-transition",
+      "titre": "Advancing Venezuela's Institutional Democratic Transition",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration de Diosdado Cabello : « dialoguer ne signifie pas capituler »",
+      "date_source": "2026-07-27"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.atlanticcouncil.org/dispatches/upcoming-venezuela-negotiations-are-an-opportunity-for-the-us-to-lock-in-a-victory/",
+      "titre": "Upcoming Venezuela negotiations are an opportunity for the US to lock in a victory",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/latin-america-caribbean/andes/venezuela",
+      "titre": "Venezuela — Suivi de crise",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/time-for-progress-toward-democracy-in-venezuela",
+      "titre": "Time for Progress Toward Democracy in Venezuela",
+      "date_source": "2026"
+    }
+  ]
+}

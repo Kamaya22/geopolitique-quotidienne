@@ -46,3 +46,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-26 — FR : Le programme EPR2 à la croisée des chemins : souveraineté énergétique, dérive des coûts et enquête de Bruxelles | Monde : La Chine weaponise les contrôles à l'export — 14 entités européennes sur liste noire en représailles au 21e paquet de sanctions anti-russes
 - 2026-07-27 — FR : Dix ans après l'assassinat du père Hamel : la menace islamiste a mué | Monde : Google, DMA et tarifs : l'UE défend sa souveraineté numérique face à Trump
 - 2026-07-28 — FR : Le mégafeu de Gironde : l'État face à l'urgence climatique | Monde : Corée du Nord — 30 000 soldats supplémentaires pour Moscou
+- 2026-07-29 — FR : L'autonomie stratégique française à l'épreuve : Villepin défie Macron avant 2027 | Monde : Venezuela — le dialogue du 1er août face à la fracture de l'opposition
