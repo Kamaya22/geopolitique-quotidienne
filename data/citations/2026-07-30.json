@@ -1,0 +1,241 @@
+{
+  "date": "2026-07-30",
+  "sujet_fr": "Suspension de la réforme des retraites : compte à rebours avant le 1er septembre 2026",
+  "sujet_monde": "Gaza — la phase 2 du cessez-le-feu dans l'impasse, Force internationale de stabilisation approuvée",
+  "citations": [
+    {
+      "source_id": "cnav",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Chiffres sur les départs en retraite 2026 (Renaud Villard, directeur)",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ofce.sciences-po.fr/blog2024/fr/2026/20260129_MD/",
+      "titre": "Réforme et suspension de la réforme des retraites : quels impacts sur les projections de population active",
+      "date_source": "2026-01-29"
+    },
+    {
+      "source_id": "cor",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Projections du COR sur le déficit du système de retraites à l'horizon 2035",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifrap.org/retraite/suspension-de-la-reforme-des-retraites-20-milliards-de-dette-en-plus-en-2035",
+      "titre": "Suspension de la réforme des retraites : 20 milliards de dette en plus en 2035 ?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspective droite libérale sur la suspension de la réforme des retraites",
+      "date_source": null
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique libérale-conservatrice de la suspension de la réforme des retraites",
+      "date_source": null
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Impact limité de la suspension en 2026 : analyse de l'OFCE",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "vie-publique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.vie-publique.fr/loi/300445-loi-de-financement-de-la-securite-sociale-2026-retraites-lfss",
+      "titre": "Loi de financement de la sécurité sociale 2026 — Retraites (LFSS 2026)",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Le Sénat rejette la suspension de la réforme des retraites (vote automne 2025)",
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Vote de suspension de la réforme des retraites — 255 pour, 146 contre, 104 abstentions",
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifrap.org/retraite/suspension-de-la-reforme-des-retraites-20-milliards-de-dette-en-plus-en-2035",
+      "titre": "Suspension de la réforme des retraites : 20 milliards de dette en plus en 2035 ?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ofce.sciences-po.fr/blog2024/fr/2026/20260129_MD/",
+      "titre": "Réforme et suspension de la réforme des retraites : quels impacts sur les projections de population active à court et moyen terme",
+      "date_source": "2026-01-29"
+    },
+    {
+      "source_id": "vie-publique",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.vie-publique.fr/loi/300445-loi-de-financement-de-la-securite-sociale-2026-retraites-lfss",
+      "titre": "Loi de financement de la sécurité sociale 2026 — Retraites",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Délégation Hamas au Caire pour les négociations sur la phase 2 du cessez-le-feu (28 juillet 2026)",
+      "date_source": "2026-07-28"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza",
+      "titre": "Israeli government nods to international stabilisation force in Gaza",
+      "date_source": "2026-07-26"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say",
+      "titre": "Israel's approval of limited Gaza force a calculated manoeuvre, experts say",
+      "date_source": "2026-07-27"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.jpost.com/middle-east/article-903922",
+      "titre": "Hamas negotiation delegation travels to Cairo for Israel ceasefire talks",
+      "date_source": "2026-07-28"
+    },
+    {
+      "source_id": "xinhua",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://english.news.cn/20260728/0cc48404d40a47ce949883ea23c93885/c.html",
+      "titre": "Hamas delegation heads to Cairo for Gaza ceasefire talks",
+      "date_source": "2026-07-28"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/rescuing-the-gaza-ceasefire-what-to-do-with-hamass-weapons/",
+      "titre": "Rescuing the Gaza ceasefire: What to do with Hamas's weapons",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/01/phase-two-gazas-ceasefire-will-fail-without-political-vision-palestine",
+      "titre": "Phase Two of Gaza's ceasefire will fail without a political vision for Palestine",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "OCHA — Bilan humanitaire à Gaza (juillet 2026) : Gaza maintenue par des workarounds humanitaires",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Données humanitaires Gaza : 44 Palestiniens tués entre le 30 juin et le 8 juillet 2026",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "fdd",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.fdd.org/analysis/2026/07/28/israel-approves-entry-of-international-stabilization-force-into-gaza/",
+      "titre": "Israel approves entry of International Stabilization Force into Gaza",
+      "date_source": "2026-07-28"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza",
+      "titre": "Israeli government nods to international stabilisation force in Gaza",
+      "date_source": "2026-07-26"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/rescuing-the-gaza-ceasefire-what-to-do-with-hamass-weapons/",
+      "titre": "Rescuing the Gaza ceasefire: What to do with Hamas's weapons",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/01/phase-two-gazas-ceasefire-will-fail-without-political-vision-palestine",
+      "titre": "Phase Two of Gaza's ceasefire will fail without a political vision for Palestine",
+      "date_source": "2026-01"
+    }
+  ]
+}
