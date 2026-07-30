@@ -1,13 +1,13 @@
 # Statistiques des sources citées
 
-*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-07-29 05:21 UTC.*
+*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-07-30 05:18 UTC.*
 
 ## Résumé
 
-- **Période couverte** : 2026-06-12 → 2026-07-29
-- **Éditions analysées** : 44
-- **Citations totales** : 856
-- **Sources distinctes citées** : 157
+- **Période couverte** : 2026-06-12 → 2026-07-30
+- **Éditions analysées** : 45
+- **Citations totales** : 882
+- **Sources distinctes citées** : 160
 - **Pays distincts** : 20
 - **Orientations distinctes** : 10
 
@@ -22,6 +22,7 @@
 - 🔎 Orientation à vérifier : MOFCOM — Ministère du Commerce de la République populaire de Chine (`mofcom-chine`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : SFEN — Société française d'énergie nucléaire (`sfen`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : The Times of Israel (`times-of-israel`) — à trancher dans registry.csv.
+- 🔎 Orientation à vérifier : Agence Xinhua (Chine nouvelle) (`xinhua`) — à trancher dans registry.csv.
 
 *Seuils : orientation > 50 %, pays unique > 60 % (hors `International`). « factuel » est exclu du calcul de concentration politique.*
 
@@ -31,24 +32,24 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| France | 419 | 48.9 % | ██████████ |
-| États-Unis | 204 | 23.8 % | █████ |
-| International | 108 | 12.6 % | ███ |
-| Qatar | 37 | 4.3 % | █ |
-| Royaume-Uni | 30 | 3.5 % | █ |
-| Israël | 12 | 1.4 % |  |
-| Ukraine | 9 | 1.1 % |  |
+| France | 433 | 49.1 % | ██████████ |
+| États-Unis | 205 | 23.2 % | █████ |
+| International | 112 | 12.7 % | ███ |
+| Qatar | 40 | 4.5 % | █ |
+| Royaume-Uni | 32 | 3.6 % | █ |
+| Israël | 13 | 1.5 % |  |
+| Ukraine | 9 | 1.0 % |  |
 | Hong Kong | 5 | 0.6 % |  |
 | Suède | 4 | 0.5 % |  |
 | Myanmar | 4 | 0.5 % |  |
-| Allemagne | 3 | 0.4 % |  |
-| Pakistan | 3 | 0.4 % |  |
-| Liban | 3 | 0.4 % |  |
-| Inde | 3 | 0.4 % |  |
-| Canada | 3 | 0.4 % |  |
+| Allemagne | 3 | 0.3 % |  |
+| Pakistan | 3 | 0.3 % |  |
+| Liban | 3 | 0.3 % |  |
+| Inde | 3 | 0.3 % |  |
+| Canada | 3 | 0.3 % |  |
+| Chine | 3 | 0.3 % |  |
 | Suisse | 2 | 0.2 % |  |
 | Belgique | 2 | 0.2 % |  |
-| Chine | 2 | 0.2 % |  |
 | Lettonie | 2 | 0.2 % |  |
 | Taïwan | 1 | 0.1 % |  |
 
@@ -56,72 +57,73 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| centre | 285 | 33.3 % | ███████ |
-| independant | 199 | 23.2 % | █████ |
-| factuel | 180 | 21.0 % | ████ |
-| gauche | 63 | 7.4 % | █ |
-| centre-gauche | 36 | 4.2 % | █ |
-| droite | 27 | 3.2 % | █ |
-| a-verifier | 24 | 2.8 % | █ |
-| liberal | 17 | 2.0 % |  |
-| droite-liberale | 14 | 1.6 % |  |
-| centre-droit | 11 | 1.3 % |  |
+| centre | 288 | 32.7 % | ███████ |
+| independant | 203 | 23.0 % | █████ |
+| factuel | 189 | 21.4 % | ████ |
+| gauche | 63 | 7.1 % | █ |
+| centre-gauche | 39 | 4.4 % | █ |
+| droite | 28 | 3.2 % | █ |
+| a-verifier | 25 | 2.8 % | █ |
+| droite-liberale | 18 | 2.0 % |  |
+| liberal | 17 | 1.9 % |  |
+| centre-droit | 12 | 1.4 % |  |
 
 ### Par type de source
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| presse | 366 | 42.8 % | █████████ |
-| think-tank | 275 | 32.1 % | ██████ |
-| institution | 159 | 18.6 % | ████ |
-| revue | 32 | 3.7 % | █ |
-| agence | 24 | 2.8 % | █ |
+| presse | 371 | 42.1 % | ████████ |
+| think-tank | 286 | 32.4 % | ██████ |
+| institution | 167 | 18.9 % | ████ |
+| revue | 32 | 3.6 % | █ |
+| agence | 25 | 2.8 % | █ |
+| media-etat | 1 | 0.1 % |  |
 
 ### Par sujet (France / Monde)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| FR | 432 | 50.5 % | ██████████ |
-| Monde | 424 | 49.5 % | ██████████ |
+| FR | 445 | 50.5 % | ██████████ |
+| Monde | 437 | 49.5 % | ██████████ |
 
 ### Par emplacement (lien formel / mention)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| texte | 597 | 69.7 % | ██████████████ |
-| pour-aller-plus-loin | 259 | 30.3 % | ██████ |
+| texte | 617 | 70.0 % | ██████████████ |
+| pour-aller-plus-loin | 265 | 30.0 % | ██████ |
 
 ### Par rôle (fait / analyse / opinion)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| analyse | 379 | 44.3 % | █████████ |
-| fait | 375 | 43.8 % | █████████ |
-| opinion | 102 | 11.9 % | ██ |
+| analyse | 390 | 44.2 % | █████████ |
+| fait | 388 | 44.0 % | █████████ |
+| opinion | 104 | 11.8 % | ██ |
 
 ## Sources les plus citées (top 15)
 
 | Source | Citations | Part |
 |---|---:|---:|
-| IFRI — Institut français des relations internationales | 47 | 5.5 % |
-| France 24 | 41 | 4.8 % |
-| Al Jazeera | 37 | 4.3 % |
-| Le Figaro | 24 | 2.8 % |
-| CSIS — Center for Strategic and International Studies | 22 | 2.6 % |
+| IFRI — Institut français des relations internationales | 47 | 5.3 % |
+| France 24 | 41 | 4.6 % |
+| Al Jazeera | 40 | 4.5 % |
+| Le Figaro | 25 | 2.8 % |
+| CSIS — Center for Strategic and International Studies | 22 | 2.5 % |
 | Libération | 20 | 2.3 % |
 | Franceinfo | 20 | 2.3 % |
 | Euronews | 19 | 2.2 % |
-| Institut Montaigne | 17 | 2.0 % |
-| Union européenne (déclarations officielles) | 16 | 1.9 % |
-| Fondation Jean-Jaurès | 16 | 1.9 % |
-| Public Sénat | 15 | 1.8 % |
+| Institut Montaigne | 17 | 1.9 % |
+| Union européenne (déclarations officielles) | 16 | 1.8 % |
+| Fondation Jean-Jaurès | 16 | 1.8 % |
+| Agence France-Presse (AFP) | 15 | 1.7 % |
+| Public Sénat | 15 | 1.7 % |
+| Chatham House (Royal Institute of International Affairs) | 14 | 1.6 % |
 | France Diplomatie (Ministère de l'Europe et des Affaires étrangères) | 14 | 1.6 % |
-| Agence France-Presse (AFP) | 14 | 1.6 % |
-| Brookings Institution | 13 | 1.5 % |
 
 ## Évolution mensuelle
 
 | Mois | Éditions | Citations | Pays distincts | Orientations distinctes |
 |---|---:|---:|---:|---:|
 | 2026-06 | 16 | 295 | 16 | 10 |
-| 2026-07 | 28 | 561 | 19 | 10 |
+| 2026-07 | 29 | 587 | 19 | 10 |
