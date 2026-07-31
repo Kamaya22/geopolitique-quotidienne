@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-31",
+  "sujet_fr": "PIB +0,2 % au 2e trimestre 2026 : rebond fragile sous contrainte budgétaire",
+  "sujet_monde": "Gaza — l'accord de désarmement du Hamas : percée historique ou faux espoir ?",
+  "citations": [
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.insee.fr/fr/statistiques/9033097",
+      "titre": "Le PIB rebondit au deuxième trimestre 2026 (+0,2 % après -0,1 %) — Informations rapides n° 184",
+      "date_source": "2026-07-30"
+    },
+    {
+      "source_id": "banque-de-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Prévisions de croissance de la Banque de France (0,5 % pour 2026)",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ofce.sciences-po.fr/prev/prev2603/",
+      "titre": "Prévisions de l'OFCE pour la France — Printemps 2026",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.oecd.org/en/publications/2026/06/oecd-economic-surveys-france-2026_9d9a60a5.html",
+      "titre": "Études économiques de l'OCDE : France 2026",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Analyses IFRAP sur la trajectoire budgétaire française 2026",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.insee.fr/fr/statistiques/9033097",
+      "titre": "Le PIB rebondit au deuxième trimestre 2026 (+0,2 % après -0,1 %) — Informations rapides n° 184",
+      "date_source": "2026-07-30"
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.oecd.org/en/publications/2026/06/oecd-economic-surveys-france-2026_9d9a60a5.html",
+      "titre": "Études économiques de l'OCDE : France 2026",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ofce.sciences-po.fr/prev/prev2603/",
+      "titre": "Prévisions de l'OFCE pour la France — Printemps 2026",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza",
+      "titre": "Hamas reaches Gaza disarmament agreement with Board of Peace",
+      "date_source": "2026-07-30"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Source politique israélienne citée par l'AFP sur les exigences israéliennes vis-à-vis de l'accord Hamas",
+      "date_source": "2026-07-30"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/moyen-orient/20260730-en-direct-moyen-orient-gaza-iran-accord-desarmement-hamas-israel-donald-trump-ormuz",
+      "titre": "En direct : le Hamas consent à un accord sur le désarmement à Gaza",
+      "date_source": "2026-07-30"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-31/ty-article/.premium/trump-announces-historic-hamas-disarmament-deal-new-gaza-government/0000019f-b537-d993-af9f-b577383f0001",
+      "titre": "Trump Announces 'Historic' Gaza Deal; Hamas: Disarmament After IDF Withdrawal",
+      "date_source": "2026-07-31"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/rescuing-the-gaza-ceasefire-what-to-do-with-hamass-weapons/",
+      "titre": "Rescuing the Gaza ceasefire: What to do with Hamas's weapons",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "times-of-israel",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.timesofisrael.com/liveblog-july-31-2026/",
+      "titre": "Trump will be 'very disappointed' if Israel blocks advancement of his Gaza plan — US official",
+      "date_source": "2026-07-31"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza",
+      "titre": "Hamas reaches Gaza disarmament agreement with Board of Peace",
+      "date_source": "2026-07-30"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-07-31/ty-article/.premium/trump-announces-historic-hamas-disarmament-deal-new-gaza-government/0000019f-b537-d993-af9f-b577383f0001",
+      "titre": "Trump Announces 'Historic' Gaza Deal; Hamas: Disarmament After IDF Withdrawal",
+      "date_source": "2026-07-31"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/rescuing-the-gaza-ceasefire-what-to-do-with-hamass-weapons/",
+      "titre": "Rescuing the Gaza ceasefire: What to do with Hamas's weapons",
+      "date_source": "2026-05"
+    }
+  ]
+}
