@@ -49,3 +49,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-07-29 — FR : L'autonomie stratégique française à l'épreuve : Villepin défie Macron avant 2027 | Monde : Venezuela — le dialogue du 1er août face à la fracture de l'opposition
 - 2026-07-30 — FR : La suspension de la réforme des retraites : compte à rebours avant le 1er septembre | Monde : Gaza — la phase 2 du cessez-le-feu dans l'impasse, la Force internationale de stabilisation approuvée à 200 soldats
 - 2026-07-31 — FR : PIB +0,2 % au 2e trimestre 2026 : rebond fragile sous contrainte budgétaire | Monde : Gaza — l'accord de désarmement du Hamas : percée historique ou faux espoir ?
+- 2026-08-01 — FR : Affaire Fedorova : la France expulse la propagande russe des médias Bolloré | Monde : Venezuela — le dialogue de la dernière chance s'ouvre à Caracas
