@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-02",
+  "sujet_fr": "Paris 2024, deux ans après : l'héritage olympique entre soft power réel et fractures sociales",
+  "sujet_monde": "Ceuta : quand le Maroc weaponize la migration et que l'Europe se fracture",
+  "citations": [
+    {
+      "source_id": "ioc",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.olympics.com/ioc/news/two-years-on-paris-2024-is-part-of-everyday-life-in-the-french-capital",
+      "titre": "Two years on, Paris 2024 is part of everyday life in the French capital",
+      "date_source": "2026-07-26"
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.oecd.org/en/publications/2025/09/the-legacy-of-the-paris-2024-olympic-and-paralympic-games_fa7c7102/",
+      "titre": "The Legacy of the Paris 2024 Olympic and Paralympic Games",
+      "date_source": "2025-09"
+    },
+    {
+      "source_id": "cnosf",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://cnosf.franceolympique.com/un-premier-anniversaire-sous-le-signe-de-lheritage",
+      "titre": "Un premier anniversaire sous le signe de l'Héritage",
+      "date_source": "2025-07"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/espace-media/lifri-medias/geopolitique-jeux-olympiques-entre-soft-power-nation-branding",
+      "titre": "Géopolitique des Jeux olympiques : entre soft power et nation branding",
+      "date_source": null
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/",
+      "titre": "Championnats d'Europe de natation 2026 à Paris : épreuves dans la Seine et au Centre aquatique olympique",
+      "date_source": "2026-07-31"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Lecture géopolitique des méga-événements sportifs et de la concurrence d'influence mondiale",
+      "date_source": null
+    },
+    {
+      "source_id": "ioc",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.olympics.com/ioc/news/two-years-on-paris-2024-is-part-of-everyday-life-in-the-french-capital",
+      "titre": "Two years on, Paris 2024 is part of everyday life in the French capital",
+      "date_source": "2026-07-26"
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.oecd.org/en/publications/2025/09/the-legacy-of-the-paris-2024-olympic-and-paralympic-games_fa7c7102/",
+      "titre": "The Legacy of the Paris 2024 Olympic and Paralympic Games",
+      "date_source": "2025-09"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/espace-media/lifri-medias/geopolitique-jeux-olympiques-entre-soft-power-nation-branding",
+      "titre": "Géopolitique des Jeux olympiques : entre soft power et nation branding",
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/07/31/more-than-40000-migrants-crossed-into-ceuta-over-past-24-hours-spain-says",
+      "titre": "60,000 migrants cross into Spain's Ceuta from Morocco in a single day",
+      "date_source": "2026-07-31"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border",
+      "titre": "Spanish enclave of Ceuta raises alarm as thousands cross Morocco border",
+      "date_source": "2026-07-30"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/07/ceuta-border-crisis-heaps-pressure-spains-sanchez-government-and-european-unity",
+      "titre": "The Ceuta border crisis heaps pressure on Spain's Sánchez government – and European unity",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
+      "titre": "Alone at the border: Ceuta and Europe's solidarity failure",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
+      "titre": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/espagne/direct-crise-des-migrants-a-ceuta-la-france-va-renforcer-sans-attendre-les-controles-a-la-frontiere-espagnole-annonce-laurent-nunez_8129753.html",
+      "titre": "Crise des migrants à Ceuta : le renfort de policiers et gendarmes multiplié par cinq à la frontière franco-espagnole",
+      "date_source": "2026-07-31"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/07/31/italy-suspends-schengen-with-spain-over-ceuta-migrant-crisis-shuts-air-and-sea-borders",
+      "titre": "Italy temporarily reintroduces border controls with Spain",
+      "date_source": "2026-07-31"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/07/ceuta-border-crisis-heaps-pressure-spains-sanchez-government-and-european-unity",
+      "titre": "The Ceuta border crisis heaps pressure on Spain's Sánchez government – and European unity",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
+      "titre": "Alone at the border: Ceuta and Europe's solidarity failure",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/features/2026/7/31/spain-deploys-military-to-ceuta-after-migrant-surge-what-we-know",
+      "titre": "Spain deploys military to Ceuta after migrant surge: What we know",
+      "date_source": "2026-07-31"
+    }
+  ]
+}
