@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-03",
+  "sujet_fr": "L'économie française sous le choc Iran : entre bouclier nucléaire et vulnérabilité industrielle",
+  "sujet_monde": "Trump évite « la plus grande opération depuis 1945 » — reprise des négociations États-Unis–Iran",
+  "citations": [
+    {
+      "source_id": "banque-de-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Révision des prévisions de croissance et d'inflation — guerre en Iran",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "banque-de-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "OAT 10 ans — plus haut depuis 2009",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "aie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Caractérisation de la fermeture d'Ormuz comme la plus grande perturbation de l'histoire du marché pétrolier",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "france-chimie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Part du gaz dans les coûts variables des activités gazo-intensives",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "france-chimie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.usinenouvelle.com/chimie/guerre-en-iran-france-chimie-evalue-les-impacts-sur-les-prix-et-la-disponibilite-de-nombreux-produits.PW4BIG62VJCNXLF6QGJY4SKQ2U.html",
+      "titre": "Guerre en Iran : France Chimie évalue les impacts sur les prix et la disponibilité de nombreux produits",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "pwc-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.pwc.fr/fr/publications/2026/03/guerre-en-iran.html",
+      "titre": "Guerre en Iran : exposition énergétique de la France et implications macroéconomiques",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/04/23/prix-reel-de-la-guerre-en-iran/",
+      "titre": "Le prix réel de la guerre en Iran",
+      "date_source": "2026-04-23"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Couverture éditoriale : avantage compétitif nucléaire français / critique de la sortie nucléaire allemande",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aei.org/economics/frances-strait-of-hormuz-problem/",
+      "titre": "France's Strait of Hormuz Problem",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Impact distributif du choc énergétique sur les ménages modestes",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/04/23/prix-reel-de-la-guerre-en-iran/",
+      "titre": "Le prix réel de la guerre en Iran",
+      "date_source": "2026-04-23"
+    },
+    {
+      "source_id": "pwc-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.pwc.fr/fr/publications/2026/03/guerre-en-iran.html",
+      "titre": "Guerre en Iran : exposition énergétique de la France et implications macroéconomiques",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "banque-de-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.banque-france.fr/en/publications-and-statistics/publications/financial-stability-report-june-2026",
+      "titre": "Financial Stability Report – June 2026",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+      "titre": "Trump says Iran talks to resume Monday after calling off planned strikes",
+      "date_source": "2026-08-03"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Trump quote — deal on Hormuz and denuclearization",
+      "date_source": "2026-08-03"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/08/02/trump-cancels-iran-attack-citing-progress-deal-tehran-israel-alert/",
+      "titre": "Trump cancels Iran attack, citing progress toward deal",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "the-hill",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://thehill.com/homenews/administration/6004829-trump-iran-deal-negotiations/",
+      "titre": "Negotiations with Iran set for Monday as Trump avoids further killing",
+      "date_source": "2026-08-03"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday",
+      "titre": "Trump says new round of Iran talks will begin Monday",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Europe comme spectateur diplomatique des négociations Iran-US",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Complexité structurelle d'un accord sur le nucléaire iranien",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+      "titre": "Trump says Iran talks to resume Monday after calling off planned strikes",
+      "date_source": "2026-08-03"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday",
+      "titre": "Trump says new round of Iran talks will begin Monday",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "the-hill",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://thehill.com/homenews/administration/6004829-trump-iran-deal-negotiations/",
+      "titre": "Negotiations with Iran set for Monday as Trump avoids further killing",
+      "date_source": "2026-08-03"
+    }
+  ]
+}
