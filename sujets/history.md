@@ -52,3 +52,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-01 — FR : Affaire Fedorova : la France expulse la propagande russe des médias Bolloré | Monde : Venezuela — le dialogue de la dernière chance s'ouvre à Caracas
 - 2026-08-02 — FR : Paris 2024, deux ans après : l'héritage olympique entre soft power réel et fractures sociales | Monde : Ceuta — quand le Maroc weaponize la migration et que l'Europe se fracture
 - 2026-08-03 — FR : L'économie française sous le choc Iran : entre bouclier nucléaire et vulnérabilité industrielle | Monde : Trump évite « la plus grande opération depuis 1945 » — reprise des négociations États-Unis–Iran
+- 2026-08-04 — FR : Le pari éthiopien de Macron fragilisé — Djibouti, pivot africain et crise du Tigray | Monde : Éthiopie — la paix de Pretoria brisée, le Tigray au bord de la rechute

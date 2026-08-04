@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-04",
+  "sujet_fr": "Le pari éthiopien de Macron fragilisé — Djibouti, pivot africain et crise du Tigray",
+  "sujet_monde": "Éthiopie — la paix de Pretoria brisée, le Tigray au bord de la rechute",
+  "citations": [
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/en/country-files/ethiopia/news/article/ethiopia-france-welcomes-the-cessation-of-hostilities-declared-by-the-federal",
+      "titre": "Ethiopia – France welcomes the cessation of hostilities declared by the federal government and the TPLF",
+      "date_source": "2022-11"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analystes IFRI sur la posture diplomatique de la France dans la Corne de l'Afrique",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Plaidoyer pour un engagement diplomatique français renforcé dans la Corne de l'Afrique",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique du silence de la France face aux violations humanitaires éthiopiennes et de l'ambiguïté du pivot africain",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Ambiguïté historique de la France vis-à-vis des crimes commis pendant la guerre du Tigray 2020-2022",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "jeune-afrique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La France prise en étau entre ses partenaires régionaux Éthiopie et Érythrée dans la crise tigréenne",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
+      "titre": "Ethiopia, Eritrea and Tigray: A Powder Keg in the Horn of Africa",
+      "date_source": "2026-02-18"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/contributions/ramses/dossier-ramses-2026-ndeg-3-afrique-le-geant-empeche",
+      "titre": "Dossier Ramses 2026 N° 3 — Afrique, le géant empêché",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "allafrica",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://fr.allafrica.com/stories/202605150096.html",
+      "titre": "Addis-Abeba 2026 : après Nairobi, Macron consolide son nouveau pivot africain",
+      "date_source": "2026-05-15"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame",
+      "titre": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Combats dans le Tigray occidental — cessation des hostilités le 2 août, situation fragile",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Estimations des victimes de la guerre du Tigray 2020-2022 (300 000 à 500 000 morts)",
+      "date_source": "2023"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Documentation des violations post-Pretoria : maintien des forces érythréennes, violences des milices Amhara, blocus humanitaire",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Documentation des violations du droit humanitaire au Tigray depuis la signature de l'accord de Pretoria",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "omna-tigray",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Rapports trimestriels de situation — perspective diasporique tigréenne sur la non-application de l'accord de Pretoria",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
+      "titre": "Ethiopia, Eritrea and Tigray: A Powder Keg in the Horn of Africa",
+      "date_source": "2026-02-18"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Défaut de conception de l'accord de Pretoria : absence de mécanismes de vérification indépendants",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
+      "titre": "Ethiopia, Eritrea and Tigray: A Powder Keg in the Horn of Africa",
+      "date_source": "2026-02-18"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame",
+      "titre": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "addis-standard",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://addisstandard.com/hundreds-flee-into-sudan-after-fighting-erupts-in-western-tigray-clashes-end-after-day-long-battle-afp/",
+      "titre": "Hundreds flee into Sudan after fighting erupts in western Tigray; clashes end after day-long battle",
+      "date_source": "2026-08-01"
+    }
+  ]
+}
