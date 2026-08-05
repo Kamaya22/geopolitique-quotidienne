@@ -1,0 +1,205 @@
+{
+  "date": "2026-08-05",
+  "sujet_fr": "La loi RIPOST et le tournant sécuritaire",
+  "sujet_monde": "Gaza : le « Board of Peace » capitule devant Netanyahu",
+  "citations": [
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Adoption de la loi RIPOST (366 voix pour) en séance plénière le 15 juillet 2026",
+      "date_source": "2026-07-15"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Adoption du projet de loi RIPOST par le Sénat au printemps 2026 (version durcie par les sénateurs)",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "ministere-interieur",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Délégation interministérielle à la sécurité routière — bilan des rodéos urbains : 23 morts et 187 blessés graves (2021-2025)",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "sante-publique-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Données sur la consommation de protoxyde d'azote et la multiplication par six des appels Samu liés aux complications neurologiques (2024)",
+      "date_source": "2024"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclarations de Laurent Nuñez en défense de la loi RIPOST lors des auditions au Sénat",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "conseil-etat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Avis du Conseil d'État sur le projet de loi RIPOST — signalement de risques d'inconstitutionnalité sur les dispositions relatives aux libertés de réunion",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Figaro — Soutien éditorial à la loi RIPOST : 'réhabiliter la fermeté républicaine'",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ldh",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "LDH (Ligue des droits de l'Homme) — Critique de l'extension des amendes forfaitaires délictuelles dans la loi RIPOST",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Libération — 'Le glissement sécuritaire : à chaque loi, l'État gagne des pouvoirs, les citoyens perdent des libertés'",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Mediapart — 'L'hypocrisie d'un gouvernement qui prétend résister au RN tout en législant à ses côtés'",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "vie-publique",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.vie-publique.fr/loi/302565-projet-de-loi-ripost-ordre-public-securite-et-tranquillite",
+      "titre": "Projet de loi RIPOST Ordre public Sécurité et Tranquillité",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/projet-de-loi-ripost-contre-les-troubles-a-lordre-public-ce-que-contient-le-texte-du-senat",
+      "titre": "Projet de loi « RIPOST » contre les troubles à l'ordre public : ce que contient le texte du Sénat",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "gendarmerie-nationale",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2026/decryptage-ce-que-changera-la-loi-ripost-pour-les-gendarmes",
+      "titre": "Décryptage : ce que changera la loi RIPOST pour les gendarmes",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal",
+      "titre": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+      "date_source": "2026-08-04"
+    },
+    {
+      "source_id": "middle-east-eye",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.middleeasteye.net/news/board-peace-caves-netanyahu-and-rewrites-gaza-withdrawal-terms",
+      "titre": "Board of Peace caves to Netanyahu and rewrites Israeli withdrawal terms from Gaza",
+      "date_source": "2026-08-04"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/08/agreeing-disarm-hamas-trying-call-israels-bluff-gaza",
+      "titre": "By agreeing to disarm, Hamas is trying to call Israel's bluff in Gaza",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-05/ty-article-live/netanyahu-says-no-israeli-withdrawal-from-gaza-until-hamas-completely-disarmed/0000019f-cf85-db33-a5ff-fff5da0d0000",
+      "titre": "Netanyahu Says No Israeli Withdrawal From Gaza Until Hamas Has Been Completely Disarmed",
+      "date_source": "2026-08-05"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ECFR — Analyse sur l'asymétrie de veto dans les négociations israélo-palestiniennes et les limites de la médiation américaine",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Al Jazeera — Condamnation conjointe par l'Égypte, le Qatar et la Turquie des frappes israéliennes postérieures à l'accord du 30 juillet",
+      "date_source": "2026-08-04"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/08/agreeing-disarm-hamas-trying-call-israels-bluff-gaza",
+      "titre": "By agreeing to disarm, Hamas is trying to call Israel's bluff in Gaza",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms",
+      "titre": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+      "date_source": "2026-08-04"
+    },
+    {
+      "source_id": "middle-east-eye",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.middleeasteye.net/news/board-peace-caves-netanyahu-and-rewrites-gaza-withdrawal-terms",
+      "titre": "Board of Peace caves to Netanyahu and rewrites Israeli withdrawal terms from Gaza",
+      "date_source": "2026-08-04"
+    }
+  ]
+}
