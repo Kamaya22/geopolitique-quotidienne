@@ -54,3 +54,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-03 — FR : L'économie française sous le choc Iran : entre bouclier nucléaire et vulnérabilité industrielle | Monde : Trump évite « la plus grande opération depuis 1945 » — reprise des négociations États-Unis–Iran
 - 2026-08-04 — FR : Le pari éthiopien de Macron fragilisé — Djibouti, pivot africain et crise du Tigray | Monde : Éthiopie — la paix de Pretoria brisée, le Tigray au bord de la rechute
 - 2026-08-05 — FR : La loi RIPOST et le tournant sécuritaire : quand le centre gouverne avec l'extrême droite | Monde : Gaza — le « Board of Peace » capitule devant Netanyahu, l'accord de désarmement en péril
+- 2026-08-06 — FR : La dissuasion nucléaire française à l'heure du 81e anniversaire d'Hiroshima | Monde : Hiroshima, 81 ans : la bombe atomique face au troisième âge nucléaire

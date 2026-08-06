@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-06",
+  "sujet_fr": "La dissuasion nucléaire française à l'heure du 81e anniversaire d'Hiroshima",
+  "sujet_monde": "Hiroshima, 81 ans : la bombe atomique face au troisième âge nucléaire",
+  "citations": [
+    {
+      "source_id": "sipri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.sipri.org/yearbook/2026/08",
+      "titre": "SIPRI Yearbook 2026, chapitre 8 : World Nuclear Forces",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.defense.gouv.fr/actualites/evolution-dissuasion-nucleaire-francaise-dissuasion-avancee",
+      "titre": "Évolution de la dissuasion nucléaire française : vers une dissuasion avancée",
+      "date_source": "2026-03-02"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/briefings/la-dissuasion-nucleaire-francaise-lepreuve-dun-nouvel-ordre-europeen-analyse-du-discours",
+      "titre": "La dissuasion nucléaire française à l'épreuve d'un nouvel ordre européen",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ican",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.icanw.org/2026_french_nuclear_doctrine_german_cooperation",
+      "titre": "France announces increase in arsenal, France and Germany announce nuclear cooperation",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/03/02/nucleaire-macron-ile-longue/",
+      "titre": "La dissuasion avancée : le discours intégral d'Emmanuel Macron",
+      "date_source": "2026-03-02"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/briefings/la-dissuasion-nucleaire-francaise-lepreuve-dun-nouvel-ordre-europeen-analyse-du-discours",
+      "titre": "La dissuasion nucléaire française à l'épreuve d'un nouvel ordre européen — analyse du discours présidentiel du 2 mars 2026",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "sipri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.sipri.org/yearbook/2026/08",
+      "titre": "SIPRI Yearbook 2026, chapitre 8 : Forces nucléaires mondiales",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-08-06"
+    },
+    {
+      "source_id": "sipri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.sipri.org/yearbook/2026/08",
+      "titre": "SIPRI Yearbook 2026, chapitre 8 : World Nuclear Forces",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "sipri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.sipri.org/yearbook/2026/08",
+      "titre": "SIPRI Yearbook 2026 — données sur l'expansion de l'arsenal chinois",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "ican",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "sipri",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.sipri.org/yearbook/2026/08",
+      "titre": "SIPRI Yearbook 2026, chapitre 8 : Forces nucléaires mondiales",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "arms-control-association",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.armscontrol.org/blog/2026-02-05/2026-growing-risk-nuclear-proliferation",
+      "titre": "In 2026, a Growing Risk of Nuclear Proliferation",
+      "date_source": "2026-02-05"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/programs/nuclear-policy/proliferation-news/proliferation-news-772026",
+      "titre": "Proliferation News 7/7/2026",
+      "date_source": "2026-07-07"
+    }
+  ]
+}
