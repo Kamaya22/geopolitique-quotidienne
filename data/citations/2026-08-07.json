@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-07",
+  "sujet_fr": "L'après-UNIFIL : la France propose une force de stabilisation européenne au Liban",
+  "sujet_monde": "Ukraine — la pénurie de Patriot, Kyiv à découvert face aux missiles balistiques russes",
+  "citations": [
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Résolution 2790 du Conseil de sécurité — prorogation du mandat de la FINUL",
+      "date_source": "2025-08"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration de Sébastien Lecornu devant l'Assemblée nationale — force européenne post-UNIFIL au Liban",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/liban-renouvellement-du-mandat-de-la-force-interimaire-des-nations-unies-au-liban",
+      "titre": "Liban — Renouvellement du mandat de la Force intérimaire des Nations unies au Liban",
+      "date_source": "2025-08"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Proposition du SEAE — mission civilo-militaire de trois ans pour renforcer les Forces armées libanaises",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "naharnet",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.naharnet.com/stories/en/320944-aoun-welcomes-french-italian-efforts-to-form-coalition-to-succeed-unifil",
+      "titre": "Aoun welcomes French, Italian efforts to form coalition to succeed UNIFIL",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "diis",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.diis.dk/en/research/vacuum-of-peace-lebanon-after-unifil",
+      "titre": "Vacuum of Peace: Lebanon after UNIFIL",
+      "date_source": null
+    },
+    {
+      "source_id": "washington-institute",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.washingtoninstitute.org/policy-analysis/lebanon-after-unifil-good-riddance-not-vacuum",
+      "titre": "Lebanon After UNIFIL: Good Riddance, Not a Vacuum",
+      "date_source": null
+    },
+    {
+      "source_id": "defense-news",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.defensenews.com/global/mideast-africa/2026/08/03/unifils-final-months-uncertainty-persists-in-lebanon-over-what-comes-next/",
+      "titre": "UNIFIL's Final Months: Uncertainty Persists in Lebanon over What Comes Next",
+      "date_source": "2026-08-03"
+    },
+    {
+      "source_id": "washington-institute",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.washingtoninstitute.org/policy-analysis/lebanon-after-unifil-good-riddance-not-vacuum",
+      "titre": "Lebanon After UNIFIL: Good Riddance, Not a Vacuum",
+      "date_source": null
+    },
+    {
+      "source_id": "lorient-le-jour",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.lorientlejour.com/article/1536969/-dautres-pays-europeens-doivent-aider-la-france-a-securiser-le-liban-dit-lecornu.html",
+      "titre": "D'autres pays européens doivent aider la France à sécuriser le Liban, dit Lecornu",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ukrainska-pravda",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/01/8046796/",
+      "titre": "Zelenskyy explains why only one ballistic missile was shot down during large-scale Russian attack",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "ukrainska-pravda",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/01/8046864/",
+      "titre": "Zelenskyy: The world has Patriot missiles, a political decision is needed",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks",
+      "titre": "More than 10 killed as Russia and Ukraine trade heavy attacks",
+      "date_source": "2026-08-03"
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Trump refused Zelensky transfer of Patriot interceptors, citing Iran war stockpile shortage",
+      "date_source": "2026-08-05"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Rapport CSIS — chute de 65 % des stocks américains de missiles Patriot depuis le début du conflit avec l'Iran",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ISW — évolution de la doctrine de frappe russe combinant balistiques, drones et missiles de croisière",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/08/05/ukraine-patriot-missile-interceptor-shortage-russia-war-zelensky-us-trump-nato/",
+      "titre": "Russian Ballistic Missile Attack Exposes Critical Shortage in Ukraine's Interceptors",
+      "date_source": "2026-08-05"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
+      "titre": "The Soaring Demand for Patriot Missiles, from the Middle East to Ukraine",
+      "date_source": "2026-08-04"
+    },
+    {
+      "source_id": "ukrainska-pravda",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/01/8046796/",
+      "titre": "Zelenskyy explains why only one ballistic missile was shot down during large-scale Russian attack",
+      "date_source": "2026-08-01"
+    }
+  ]
+}
