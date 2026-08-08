@@ -1,0 +1,142 @@
+{
+  "date": "2026-08-08",
+  "sujet_fr": "Ingérence russe dans la présidentielle 2027 : Storm-1516 cible Glucksmann, Attal et Philippe",
+  "sujet_monde": "Scarborough Shoal : Pékin weaponise la mer de Chine méridionale face à Manille",
+  "citations": [
+    {
+      "source_id": "viginum",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Détection et attribution de l'opération Storm-1516 ciblant Raphaël Glucksmann",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "sgdsn",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Information officielle transmise à Raphaël Glucksmann sur l'opération Storm-1516/GRU",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/tout-y-est-faux-une-operation-d-ingerence-russe-vise-raphael-glucksmann-et-lea-salame-en-usurpant-les-noms-de-journalistes_8134151.html",
+      "titre": "\"Tout y est faux\" : une opération d'ingérence russe vise Raphaël Glucksmann et Léa Salamé, en usurpant les noms de journalistes",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cnews.fr/monde/2026-08-06/ingerences-etrangeres-storm-1516-matriochka-comment-ces-usines-russes-de",
+      "titre": "Ingérences étrangères : Storm-1516, Matriochka... Comment ces usines russes de désinformation s'invitent dans la politique française",
+      "date_source": "2026-08-06"
+    },
+    {
+      "source_id": "viginum",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Confirmation par Viginum des modes opératoires de Storm-1516 et Matriochka",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/la-france-condamne-fermement-les-acteurs-russes-et-leurs-relais-impliques-dans-les-manoeuvres-du",
+      "titre": "La France condamne fermement les acteurs russes et leurs relais impliqués dans les manœuvres de Storm-1516",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/tout-y-est-faux-une-operation-d-ingerence-russe-vise-raphael-glucksmann-et-lea-salame-en-usurpant-les-noms-de-journalistes_8134151.html",
+      "titre": "\"Tout y est faux\" : une opération d'ingérence russe vise Raphaël Glucksmann et Léa Salamé, en usurpant les noms de journalistes",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cnews.fr/monde/2026-08-06/ingerences-etrangeres-storm-1516-matriochka-comment-ces-usines-russes-de",
+      "titre": "Ingérences étrangères : Storm-1516, Matriochka... Comment ces usines russes de désinformation s'invitent dans la politique française",
+      "date_source": "2026-08-06"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/la-france-condamne-fermement-les-acteurs-russes-et-leurs-relais-impliques-dans-les-manoeuvres-du",
+      "titre": "La France condamne fermement les acteurs russes et leurs relais impliqués dans les manœuvres de Storm-1516",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/08/01/china-military-drills-scarborough-shoal-philippines/ba32b214-8da8-11f1-8912-d71e69d679d7_story.html",
+      "titre": "China holds military drills near disputed shoal in the South China Sea",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "usni-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://news.usni.org/2026/08/03/chinese-warships-bombers-surge-to-scarborough-shoal-for-drills",
+      "titre": "Chinese Warships, Bombers Surge to Scarborough Shoal for Drills",
+      "date_source": "2026-08-03"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/07/21/china-philippines-south-china-sea-disputes-sailor-injured-.html",
+      "titre": "U.S. condemns China's 'dangerous and aggressive' acts after Philippine sailor injured at disputed shoal",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/08/01/china-military-drills-scarborough-shoal-philippines/ba32b214-8da8-11f1-8912-d71e69d679d7_story.html",
+      "titre": "China holds military drills near disputed shoal in the South China Sea",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "usni-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://news.usni.org/2026/08/03/chinese-warships-bombers-surge-to-scarborough-shoal-for-drills",
+      "titre": "Chinese Warships, Bombers Surge to Scarborough Shoal for Drills",
+      "date_source": "2026-08-03"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/07/21/china-philippines-south-china-sea-disputes-sailor-injured-.html",
+      "titre": "U.S. condemns China's 'dangerous and aggressive' acts after Philippine sailor injured at disputed shoal",
+      "date_source": "2026-07-21"
+    }
+  ]
+}

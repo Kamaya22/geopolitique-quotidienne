@@ -56,3 +56,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-05 — FR : La loi RIPOST et le tournant sécuritaire : quand le centre gouverne avec l'extrême droite | Monde : Gaza — le « Board of Peace » capitule devant Netanyahu, l'accord de désarmement en péril
 - 2026-08-06 — FR : La dissuasion nucléaire française à l'heure du 81e anniversaire d'Hiroshima | Monde : Hiroshima, 81 ans : la bombe atomique face au troisième âge nucléaire
 - 2026-08-07 — FR : L'après-UNIFIL : la France propose une force de stabilisation européenne au Liban | Monde : Ukraine — la pénurie de Patriot, Kyiv à découvert face aux missiles balistiques russes
+- 2026-08-08 — FR : Ingérence russe dans la présidentielle 2027 : Storm-1516 cible Glucksmann, Attal et Philippe | Monde : Scarborough Shoal : Pékin weaponise la mer de Chine méridionale face à Manille
