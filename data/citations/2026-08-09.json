@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-09",
+  "sujet_fr": "L'IA Act entre en vigueur : la France entre souveraineté numérique et deepfakes",
+  "sujet_monde": "Yémen : la trêve de 2022 en lambeaux, la bataille de Marib",
+  "citations": [
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Règlement (UE) 2024/1689 sur l'intelligence artificielle (IA Act) — entrée en vigueur de l'article 50 le 2 août 2026",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "toute-leurope",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/economie-et-social/intelligence-artificielle-ce-qui-change-vraiment-le-2-aout-2026-avec-le-reglement-europeen/",
+      "titre": "Intelligence artificielle : ce qui a vraiment changé le 2 août 2026 avec le règlement européen",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "toute-leurope",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/economie-et-social/intelligence-artificielle-ce-qui-change-vraiment-le-2-aout-2026-avec-le-reglement-europeen/",
+      "titre": "Intelligence artificielle : ce qui a vraiment changé le 2 août 2026 avec le règlement européen",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "dgsi",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Campagnes documentées d'ingérence numérique électorale en France (référence au contexte 2027)",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "viginum",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Documentation des campagnes d'amplification coordonnée de fausses informations ciblant des candidats à la présidentielle 2027",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse Institut Montaigne — l'IA Act comme vecteur d'avantage compétitif européen",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Couverture du lobbying des start-ups européennes sur l'IA Act et risques pour les droits numériques",
+      "date_source": null
+    },
+    {
+      "source_id": "observatoire-multinationales",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://multinationales.org/fr/enquetes/intelligence-artificielle-lobbying-et-conflits-d-interets/mistralai-alephalpha-gafam-ai-europe",
+      "titre": "Mistral AI et Aleph Alpha : le troublant lobbying des champions européens",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "observatoire-multinationales",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://multinationales.org/fr/enquetes/intelligence-artificielle-lobbying-et-conflits-d-interets/mistralai-alephalpha-gafam-ai-europe",
+      "titre": "Mistral AI et Aleph Alpha : le troublant lobbying des champions européens",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fondapol",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique de l'asymétrie réglementaire de l'IA Act — positionnement droite libérale",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/contributions/ramses/lintelligence-artificielle-quelle-gouvernance",
+      "titre": "L'intelligence artificielle : quelle gouvernance ?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib",
+      "titre": "Yemen's government forces attack Houthis amid renewed shelling of Marib",
+      "date_source": "2026-08-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government",
+      "titre": "Two civilians killed in Houthi strike on Marib, says Yemen's government",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib",
+      "titre": "Yemen's government forces attack Houthis amid renewed shelling of Marib",
+      "date_source": "2026-08-08"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration de Hans Grundberg, Envoyé spécial de l'ONU pour le Yémen — risque maximal de conflit depuis 2022",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "ocha",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Données humanitaires sur les déplacés de Marib (2,3 millions de personnes, camps précaires, 93 incendies jan-juin 2026)",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cfr.org/global-conflict-tracker/conflict/war-yemen",
+      "titre": "Conflict in Yemen and the Red Sea — Global Conflict Tracker",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cfr.org/global-conflict-tracker/conflict/war-yemen",
+      "titre": "Conflict in Yemen and the Red Sea — Global Conflict Tracker",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse ICG sur la fragilité structurelle des trêves yéménites sans accord politique inclusif",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/cmt/middle-east-north-africa/yemen/delivering-yemen-dual-peril",
+      "titre": "Delivering Yemen from Dual Peril",
+      "date_source": "2026"
+    }
+  ]
+}
