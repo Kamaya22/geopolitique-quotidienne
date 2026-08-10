@@ -58,3 +58,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-07 — FR : L'après-UNIFIL : la France propose une force de stabilisation européenne au Liban | Monde : Ukraine — la pénurie de Patriot, Kyiv à découvert face aux missiles balistiques russes
 - 2026-08-08 — FR : Ingérence russe dans la présidentielle 2027 : Storm-1516 cible Glucksmann, Attal et Philippe | Monde : Scarborough Shoal : Pékin weaponise la mer de Chine méridionale face à Manille
 - 2026-08-09 — FR : L'IA Act entre en vigueur : la France entre souveraineté numérique et deepfakes | Monde : Yémen : la trêve de 2022 en lambeaux, la bataille de Marib
+- 2026-08-10 — FR : Budget 2027 : le gouvernement parie sur le gel des retraites | Monde : Japon : le tabou nucléaire vacille à Hiroshima et Nagasaki

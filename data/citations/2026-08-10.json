@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-10",
+  "sujet_fr": "Budget 2027 : le gouvernement parie sur le gel des retraites",
+  "sujet_monde": "Japon : le tabou nucléaire vacille à Hiroshima et Nagasaki",
+  "citations": [
+    {
+      "source_id": "le-jdd",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.lejdd.fr/politique/exclusif-budget-les-retraites-dans-le-viseur-du-gouvernement-180792",
+      "titre": "Budget : les retraités dans le viseur du gouvernement",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "le-jdd",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.lejdd.fr/politique/exclusif-budget-les-retraites-dans-le-viseur-du-gouvernement-180792",
+      "titre": "Budget : les retraités dans le viseur du gouvernement",
+      "date_source": "2026-08-02"
+    },
+    {
+      "source_id": "cor",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cor-retraites.fr/rapports-du-cor/rapport-annuel-cor-juin-2026-evolutions-perspectives-retraites-france",
+      "titre": "Rapport annuel du COR — Évolutions et perspectives des retraites en France, juin 2026",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "cor",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cor-retraites.fr/rapports-du-cor/rapport-annuel-cor-juin-2026-evolutions-perspectives-retraites-france",
+      "titre": "Rapport annuel du COR — Évolutions et perspectives des retraites en France, juin 2026",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Étude OFCE 2025 — Impact d'une année blanche sur les ménages retraités (280 euros/UC en moyenne)",
+      "date_source": "2025-06"
+    },
+    {
+      "source_id": "europe1",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.europe1.fr/economie/budget-des-pensions-de-retraites-desindexees-en-2027-1005461",
+      "titre": "Budget : des pensions de retraites désindexées en 2027 ?",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclarations de David Amiel, Secrétaire d'État aux Comptes publics — relance du débat sur la désindexation le 31 juillet 2026",
+      "date_source": "2026-07-31"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse Institut Montaigne — désindexation sélective des retraites et contrainte démographique",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique de la désindexation des retraites — angle gauche",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse IFRAP — désindexation sélective au-dessus de 3 000 euros, couverture partielle du déficit",
+      "date_source": null
+    },
+    {
+      "source_id": "japan-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.japantimes.co.jp/news/2026/08/09/japan/nagasaki-atomic-bombing-81st-anniversary/",
+      "titre": "Takaichi doubles down on ambiguity over nonnuclear principles at Nagasaki ceremony",
+      "date_source": "2026-08-09"
+    },
+    {
+      "source_id": "japan-times",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.japantimes.co.jp/news/2026/08/09/japan/nagasaki-atomic-bombing-81st-anniversary/",
+      "titre": "Takaichi doubles down on ambiguity over nonnuclear principles at Nagasaki ceremony",
+      "date_source": "2026-08-09"
+    },
+    {
+      "source_id": "ap",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Nagasaki marks 81st atomic bomb anniversary as mayor says nuclear deterrence only increases risk",
+      "date_source": "2026-08-09"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/08/07/hiroshima-anniversary-japans-premier-shifts-tone-nuclear-policy/",
+      "titre": "On Hiroshima anniversary, Japan's premier shifts tone on nuclear policy",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.stimson.org/2026/when-denuclearization-fades-japan-holds-the-line/",
+      "titre": "When Denuclearization Fades, Japan Holds the Line",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.stimson.org/2026/when-denuclearization-fades-japan-holds-the-line/",
+      "titre": "When Denuclearization Fades, Japan Holds the Line",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/research/2026/03/revisiting-japans-non-nuclear-principles-between-a-nuclear-allergy-and-umbrella",
+      "titre": "Revisiting Japan's Non-Nuclear Principles: Between a Nuclear Allergy and Umbrella",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/research/2026/03/revisiting-japans-non-nuclear-principles-between-a-nuclear-allergy-and-umbrella",
+      "titre": "Revisiting Japan's Non-Nuclear Principles: Between a Nuclear Allergy and Umbrella",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "sipri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Données SIPRI 2026 sur l'arsenal nucléaire nord-coréen (plus de 50 têtes opérationnelles)",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "cgtn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://news.cgtn.com/news/2026-08-09/A-fractured-consensus-Beware-of-Japan-s-nuclear-ambitions-1PsFCORh3ji/p.html",
+      "titre": "A fractured consensus: Beware of Japan's nuclear ambitions",
+      "date_source": "2026-08-09"
+    }
+  ]
+}
