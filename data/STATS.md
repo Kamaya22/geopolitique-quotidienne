@@ -1,13 +1,13 @@
 # Statistiques des sources citées
 
-*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-08-10 05:19 UTC.*
+*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-08-11 05:23 UTC.*
 
 ## Résumé
 
-- **Période couverte** : 2026-06-12 → 2026-08-10
-- **Éditions analysées** : 56
-- **Citations totales** : 1098
-- **Sources distinctes citées** : 187
+- **Période couverte** : 2026-06-12 → 2026-08-11
+- **Éditions analysées** : 57
+- **Citations totales** : 1123
+- **Sources distinctes citées** : 189
 - **Pays distincts** : 23
 - **Orientations distinctes** : 10
 
@@ -36,16 +36,16 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| France | 529 | 48.2 % | ██████████ |
-| États-Unis | 247 | 22.5 % | ████ |
-| International | 146 | 13.3 % | ███ |
-| Qatar | 57 | 5.2 % | █ |
-| Royaume-Uni | 39 | 3.6 % | █ |
+| France | 534 | 47.6 % | ██████████ |
+| États-Unis | 258 | 23.0 % | █████ |
+| International | 151 | 13.4 % | ███ |
+| Qatar | 59 | 5.3 % | █ |
+| Royaume-Uni | 40 | 3.6 % | █ |
 | Israël | 17 | 1.5 % |  |
-| Ukraine | 12 | 1.1 % |  |
+| Ukraine | 13 | 1.2 % |  |
 | Suède | 10 | 0.9 % |  |
-| Hong Kong | 5 | 0.5 % |  |
-| Liban | 5 | 0.5 % |  |
+| Hong Kong | 5 | 0.4 % |  |
+| Liban | 5 | 0.4 % |  |
 | Myanmar | 4 | 0.4 % |  |
 | Chine | 4 | 0.4 % |  |
 | Allemagne | 3 | 0.3 % |  |
@@ -64,25 +64,25 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| centre | 350 | 31.9 % | ██████ |
-| independant | 256 | 23.3 % | █████ |
-| factuel | 245 | 22.3 % | ████ |
-| gauche | 78 | 7.1 % | █ |
-| centre-gauche | 46 | 4.2 % | █ |
-| droite | 34 | 3.1 % | █ |
+| centre | 358 | 31.9 % | ██████ |
+| independant | 260 | 23.2 % | █████ |
+| factuel | 253 | 22.5 % | █████ |
+| gauche | 79 | 7.0 % | █ |
+| centre-gauche | 47 | 4.2 % | █ |
+| droite | 35 | 3.1 % | █ |
 | a-verifier | 31 | 2.8 % | █ |
-| droite-liberale | 24 | 2.2 % |  |
+| droite-liberale | 26 | 2.3 % |  |
 | liberal | 20 | 1.8 % |  |
-| centre-droit | 14 | 1.3 % |  |
+| centre-droit | 14 | 1.2 % |  |
 
 ### Par type de source
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| presse | 458 | 41.7 % | ████████ |
-| think-tank | 354 | 32.2 % | ██████ |
-| institution | 217 | 19.8 % | ████ |
-| revue | 38 | 3.5 % | █ |
+| presse | 468 | 41.7 % | ████████ |
+| think-tank | 361 | 32.1 % | ██████ |
+| institution | 225 | 20.0 % | ████ |
+| revue | 38 | 3.4 % | █ |
 | agence | 29 | 2.6 % | █ |
 | media-etat | 2 | 0.2 % |  |
 
@@ -90,35 +90,35 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| FR | 560 | 51.0 % | ██████████ |
-| Monde | 538 | 49.0 % | ██████████ |
+| FR | 573 | 51.0 % | ██████████ |
+| Monde | 550 | 49.0 % | ██████████ |
 
 ### Par emplacement (lien formel / mention)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| texte | 767 | 69.9 % | ██████████████ |
-| pour-aller-plus-loin | 331 | 30.1 % | ██████ |
+| texte | 786 | 70.0 % | ██████████████ |
+| pour-aller-plus-loin | 337 | 30.0 % | ██████ |
 
 ### Par rôle (fait / analyse / opinion)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| fait | 496 | 45.2 % | █████████ |
-| analyse | 475 | 43.3 % | █████████ |
-| opinion | 127 | 11.6 % | ██ |
+| fait | 509 | 45.3 % | █████████ |
+| analyse | 481 | 42.8 % | █████████ |
+| opinion | 133 | 11.8 % | ██ |
 
 ## Sources les plus citées (top 15)
 
 | Source | Citations | Part |
 |---|---:|---:|
-| Al Jazeera | 57 | 5.2 % |
-| IFRI — Institut français des relations internationales | 54 | 4.9 % |
-| France 24 | 44 | 4.0 % |
-| Le Figaro | 28 | 2.6 % |
-| Libération | 26 | 2.4 % |
-| CSIS — Center for Strategic and International Studies | 23 | 2.1 % |
-| Euronews | 23 | 2.1 % |
+| Al Jazeera | 59 | 5.3 % |
+| IFRI — Institut français des relations internationales | 54 | 4.8 % |
+| France 24 | 44 | 3.9 % |
+| Le Figaro | 29 | 2.6 % |
+| Libération | 27 | 2.4 % |
+| CSIS — Center for Strategic and International Studies | 24 | 2.1 % |
+| Euronews | 23 | 2.0 % |
 | Franceinfo | 20 | 1.8 % |
 | Institut Montaigne | 20 | 1.8 % |
 | ECFR — European Council on Foreign Relations | 19 | 1.7 % |
@@ -134,4 +134,4 @@
 |---|---:|---:|---:|---:|
 | 2026-06 | 16 | 295 | 16 | 10 |
 | 2026-07 | 30 | 604 | 19 | 10 |
-| 2026-08 | 10 | 199 | 13 | 10 |
+| 2026-08 | 11 | 224 | 13 | 10 |
