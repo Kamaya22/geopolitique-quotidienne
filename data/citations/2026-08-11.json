@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-11",
+  "sujet_fr": "La guerre des infrastructures : après Leipzig, Paris face à ses vulnérabilités critiques",
+  "sujet_monde": "Cuba 2026 : l'étranglement américain",
+  "citations": [
+    {
+      "source_id": "cnbc",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/08/09/german-minister-warns-of-hybrid-warfare-after-suspected-drone-attack.html",
+      "titre": "German minister warns of daily 'hybrid warfare' after suspected drone attack",
+      "date_source": "2026-08-09"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/08/09/german-minister-warns-of-hybrid-warfare-after-suspected-drone-attack.html",
+      "titre": "German minister warns of daily 'hybrid warfare' after suspected drone attack",
+      "date_source": "2026-08-09"
+    },
+    {
+      "source_id": "kyivpost",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.kyivpost.com/post/81967",
+      "titre": "US Intelligence Links Russia to Leipzig Airport Drone Incident",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "iiss",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.iiss.org/research-paper/2025/08/the-scale-of-russian--sabotage-operations--against-europes-critical--infrastructure/",
+      "titre": "The Scale of Russian Sabotage Operations Against Europe's Critical Infrastructure",
+      "date_source": "2025-08"
+    },
+    {
+      "source_id": "sgdsn",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Stratégie nationale de cybersécurité 2026-2030 — données ANSSI (8 600+ violations de données, 10 cyberattaques/jour sur infras critiques)",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "sgdsn",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.sgdsn.gouv.fr/publications/strategie-nationale-de-cybersecurite-2026-2030",
+      "titre": "Stratégie nationale de cybersécurité 2026-2030",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "viginum",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Viginum — service de vigilance contre les ingérences numériques étrangères, créé en 2021, premier dispositif européen dédié",
+      "date_source": null
+    },
+    {
+      "source_id": "otan",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Mission Baltic Sentry — déployée en janvier 2025 pour surveiller les câbles sous-marins en mer Baltique",
+      "date_source": "2025-01"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/europe/strategic-europe/2026/07/why-russia-could-escalate-hybrid-warfare-against-europe",
+      "titre": "Why Russia Could Escalate Hybrid Warfare Against Europe",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/europe/strategic-europe/2026/07/why-russia-could-escalate-hybrid-warfare-against-europe",
+      "titre": "Why Russia Could Escalate Hybrid Warfare Against Europe",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/russias-shadow-war-against-west",
+      "titre": "Russia's Shadow War Against the West",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique droite libérale — sous-investissement dans la résilience physique des infrastructures critiques françaises face à la menace hybride",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique gauche libérale — risque de dérive sécuritaire alimentée par la rhétorique de la guerre hybride",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions",
+      "titre": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
+      "date_source": "2026-08-06"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions",
+      "titre": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
+      "date_source": "2026-08-06"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/fresh-us-sanctions-target-cuba-s-military-ties-to-china-and-russia",
+      "titre": "Fresh US Sanctions Target Cuba's Military Ties to China and Russia",
+      "date_source": "2026-08-06"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/03/16/nx-s1-5749457/cuba-blackout-sanctions-oil",
+      "titre": "Cuba hit by island-wide blackout as energy crisis deepens",
+      "date_source": "2026-03-16"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/03/16/nx-s1-5749457/cuba-blackout-sanctions-oil",
+      "titre": "Cuba hit by island-wide blackout as energy crisis deepens",
+      "date_source": "2026-03-16"
+    },
+    {
+      "source_id": "ohchr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.ohchr.org/en/press-releases/2026/02/un-experts-condemn-us-executive-order-imposing-fuel-blockade-cuba",
+      "titre": "UN experts condemn US executive order imposing fuel blockade on Cuba",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "ohchr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.ohchr.org/en/press-releases/2026/02/un-experts-condemn-us-executive-order-imposing-fuel-blockade-cuba",
+      "titre": "UN experts condemn US executive order imposing fuel blockade on Cuba",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Données ONU — environ 1 million de Cubains sans accès régulier à l'eau potable faute de carburant pour les camions de distribution",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "us-state-dept",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclarations du département d'État américain — nouvelles sanctions du 6 août 2026 contre le MINFAR cubain (5 entités, 8 individus)",
+      "date_source": "2026-08-06"
+    },
+    {
+      "source_id": "feps",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://feps-europe.eu/cuba-at-a-crossroads/",
+      "titre": "Cuba at a crossroads",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fdd",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "FDD — soutien à la politique de pression maximale contre Cuba ; Cuba-Russie-Chine liens militaires comme menace directe",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "cato",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Cato Institute — critique de l'inefficacité historique de l'embargo cubain (60 ans sans changement de régime)",
+      "date_source": "2026"
+    }
+  ]
+}
