@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-12",
+  "sujet_fr": "La France face au paradoxe turc : quand un allié de l'OTAN signe une alliance concurrente",
+  "sujet_monde": "Le pacte de La Mecque : naissance d'un bloc sunnite ou assurance mutuelle entre puissances en quête d'autonomie ?",
+  "citations": [
+    {
+      "source_id": "zone-militaire",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.opex360.com/2026/08/08/larabie-saoudite-le-pakistan-et-la-turquie-ont-scelle-un-accord-de-defense-mutuelle-inedit/",
+      "titre": "L'Arabie saoudite, le Pakistan et la Turquie ont scellé un accord de défense mutuelle inédit",
+      "date_source": "2026-08-08"
+    },
+    {
+      "source_id": "zone-militaire",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.opex360.com/2026/08/08/larabie-saoudite-le-pakistan-et-la-turquie-ont-scelle-un-accord-de-defense-mutuelle-inedit/",
+      "titre": "L'Arabie saoudite, le Pakistan et la Turquie ont scellé un accord de défense mutuelle inédit",
+      "date_source": "2026-08-08"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/europe/strategic-europe/2026/01/france-turkey-and-a-reset-in-the-black-sea",
+      "titre": "France, Turkey, and a Reset in the Black Sea",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/europe/strategic-europe/2026/01/france-turkey-and-a-reset-in-the-black-sea",
+      "titre": "France, Turkey, and a Reset in the Black Sea",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.atlanticcouncil.org/dispatches/why-saudi-arabia-pakistan-and-turkey-just-signed-a-defense-pact/",
+      "titre": "Why Saudi Arabia, Pakistan, and Turkey just signed a defense pact",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.atlanticcouncil.org/dispatches/why-saudi-arabia-pakistan-and-turkey-just-signed-a-defense-pact/",
+      "titre": "Why Saudi Arabia, Pakistan, and Turkey just signed a defense pact",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse IFRI — montée des systèmes de défense alternatifs à l'OTAN et réduction de l'espace d'influence français au Moyen-Orient",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse IRIS — le pacte de La Mecque accélère l'expansion de l'influence turque dans l'espace africain et moyen-oriental au détriment de Paris",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Figaro — lecture gaulliste et pragmatique du pacte de La Mecque : illustration de la thèse de l'autonomie stratégique",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Libération — critique des ventes d'armes françaises à l'Arabie Saoudite dans le contexte du pacte de La Mecque",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "observatoire-multinationales",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Observatoire des multinationales — positionnement critique sur les exportations d'armements français vers l'Arabie Saoudite",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "otan",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "OTAN — incompatibilité formelle potentielle entre appartenance atlantique et double allégeance turque ; traité de Washington n'interdit pas les alliances extérieures mais exige qu'elles ne contredisent pas les obligations atlantiques",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Quai d'Orsay — réaction française discrète : Paris 'prend note' de l'accord et 'reste en contact avec les partenaires alliés concernés'",
+      "date_source": "2026-08-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it",
+      "titre": "Türkiye, Saudi Arabia, Pakistan sign joint defence agreement: What's in it?",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it",
+      "titre": "Türkiye, Saudi Arabia, Pakistan sign joint defence agreement: What's in it?",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities",
+      "titre": "What are Saudi Arabia, Türkiye and Pakistan's joint military capabilities?",
+      "date_source": "2026-08-11"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities",
+      "titre": "What are Saudi Arabia, Türkiye and Pakistan's joint military capabilities?",
+      "date_source": "2026-08-11"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran",
+      "titre": "Türkiye says Mecca defence pact not aimed at Iran",
+      "date_source": "2026-08-08"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/",
+      "titre": "Pakistan, Saudi Arabia, Turkey Sign a Mutual Defense Pact",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/",
+      "titre": "Pakistan, Saudi Arabia, Turkey Sign a Mutual Defense Pact",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.atlanticcouncil.org/dispatches/why-saudi-arabia-pakistan-and-turkey-just-signed-a-defense-pact/",
+      "titre": "Why Saudi Arabia, Pakistan, and Turkey just signed a defense pact",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "orf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.eurasiareview.com/10082026-the-mecca-pact-and-india-oped/",
+      "titre": "The Mecca Pact And India — implications pour New Delhi et le rapport de forces régional",
+      "date_source": "2026-08-10"
+    },
+    {
+      "source_id": "lowy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.lowyinstitute.org/the-interpreter/the-mecca-pact-redraws-the-indo-pacific-s-western-edge",
+      "titre": "The Mecca Pact redraws the Indo-Pacific's western edge",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/iran/l-accord-de-defense-arabie-saoudite-pakistan-turquie-montre-un-changement-de-perception-vis-a-vis-des-etats-unis-estime-l-iran_8141591.html",
+      "titre": "L'accord de défense Arabie saoudite-Pakistan-Turquie montre 'un changement de perception' vis-à-vis des États-Unis, estime l'Iran",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.pbs.org/newshour/world/pakistan-says-new-defense-pact-with-saudi-arabia-and-turkey-is-purely-defensive-and-open-to-others",
+      "titre": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
+      "date_source": "2026-08-07"
+    }
+  ]
+}
