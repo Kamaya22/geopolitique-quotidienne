@@ -1,0 +1,259 @@
+{
+  "date": "2026-08-13",
+  "sujet_fr": "La France à sec : sécheresse historique et souveraineté alimentaire",
+  "sujet_monde": "Irak — l'ultimatum des milices pro-Iran : l'État ou le chaos ?",
+  "citations": [
+    {
+      "source_id": "meteo-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Données de sécheresse été 2026",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-president-de-la-fnsea-reclame-un-plan-de-plusieurs-milliards-d-euros-pour-soutenir-les-agriculteurs-touches-par-la-secheresse-et-les-episodes-de-canicule_8139515.html",
+      "titre": "Le président de la FNSEA réclame un plan de \"plusieurs milliards d'euros\" pour soutenir les agriculteurs touchés par la sécheresse",
+      "date_source": "2026-08-08"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnews.fr/france/2026-08-10/secheresse-le-president-de-la-fnsea-demande-au-gouvernement-de-chiffrer-son-plan",
+      "titre": "Sécheresse : le président de la FNSEA demande au gouvernement de chiffrer son plan d'aide",
+      "date_source": "2026-08-10"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/canicules-secheresse-incendies-le-plan-global-du-gouvernement-n-est-en-aucun-cas-un-plan-d-action-deplore-la-fnsea_8136788.html",
+      "titre": "Canicules, sécheresse, incendies : le plan global du gouvernement n'est \"en aucun cas un plan d'action\", déplore la FNSEA",
+      "date_source": "2026-08-10"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.senat.fr/rap/r25-317/r25-317_mono.html",
+      "titre": "Balance commerciale agricole : chronique d'une chute annoncée. Y a-t-il un pilote dans le tracteur ?",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/adoption-du-projet-de-loi-d-urgence-pour-la-protection-et-la-souverainete-agricoles",
+      "titre": "Adoption du projet de loi d'urgence pour la protection et la souveraineté agricoles",
+      "date_source": "2026-07-22"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/le-senat-approuve-le-projet-de-loi-durgence-agricole-le-texte-definitivement-adopte-par-le-parlement",
+      "titre": "Le Sénat approuve le projet de loi d'urgence agricole : le texte définitivement adopté par le Parlement",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Couverture sécheresse et agriculture 2026",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Couverture crise agricole 2026 (perspective gauche)",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://reporterre.net/La-grande-soif-les-chiffres-d-une-secheresse-historique",
+      "titre": "La France à sec : les premiers ravages d'une sécheresse hors norme",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Souveraineté alimentaire et géopolitique — analyses IRIS 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-president-de-la-fnsea-reclame-un-plan-de-plusieurs-milliards-d-euros-pour-soutenir-les-agriculteurs-touches-par-la-secheresse-et-les-episodes-de-canicule_8139515.html",
+      "titre": "Le président de la FNSEA réclame un plan de \"plusieurs milliards d'euros\" pour soutenir les agriculteurs touchés par la sécheresse",
+      "date_source": "2026-08-08"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/stockage-de-l-eau-reintroduction-de-pesticides-protection-des-loups-voici-ce-que-contient-le-projet-de-loi-d-urgence-agricole-adopte-a-l-assemblee-nationale_8114837.html",
+      "titre": "Stockage de l'eau, réintroduction de pesticides, souveraineté alimentaire… Voici ce que contient la loi d'urgence agricole adoptée par le Parlement",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.senat.fr/rap/r25-317/r25-317_mono.html",
+      "titre": "Balance commerciale agricole : chronique d'une chute annoncée. Y a-t-il un pilote dans le tracteur ?",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "the-national-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.thenationalnews.com/news/mena/2026/08/06/disarm-by-september-30-or-face-terrorism-charges-iraqi-leadership-warns-iran-backed-militias/",
+      "titre": "Disarm by September 30 or face terrorism charges, Iraqi leadership warns Iran-backed militias",
+      "date_source": "2026-08-06"
+    },
+    {
+      "source_id": "the-national-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.thenationalnews.com/news/mena/2026/08/07/iraqi-forces-on-high-alert-as-iran-aligned-factions-deadline-for-response-to-us-saudi-strikes-expires/",
+      "titre": "Iraqi forces on high alert as militia deadline for response to US-Saudi strikes expires",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/5/iraq-faces-crisis-as-shia-armed-groups-defy-disarmament",
+      "titre": "Iraq faces crisis as Shia armed groups defy disarmament",
+      "date_source": "2026-08-05"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final",
+      "titre": "Iraq says September 30 withdrawal deadline for US-led coalition 'final'",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "asharq-al-awsat",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://english.aawsat.com/arab-world/5303436-iraq%E2%80%99s-kataib-hezbollah-seeks-expand-%E2%80%98resistance%E2%80%99-arsenal",
+      "titre": "Iraq's Kataib Hezbollah Seeks to Expand 'Resistance' Arsenal",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "the-national-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.thenationalnews.com/news/us/2026/07/14/trump-to-host-iraqs-new-prime-minister-as-baghdad-seeks-closer-us-ties/",
+      "titre": "Iraq's Al Zaidi vows militias will disarm after meeting Trump",
+      "date_source": "2026-07-14"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown",
+      "titre": "Iraqi security forces arrest 47 officials in anticorruption crackdown",
+      "date_source": "2026-06-28"
+    },
+    {
+      "source_id": "middle-east-online",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.middle-east-online.com/en/iraq-targets-militia-power-base-sweeping-weapons-controls",
+      "titre": "Iraq targets militia power base with sweeping weapons controls",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "washington-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.washingtoninstitute.org/policy-analysis/iraq-another-crossroads-iran-backed-militias-and-washington",
+      "titre": "Iraq Is at Another Crossroads with Iran-Backed Militias—and Washington",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fdd",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.fdd.org/analysis/2026/06/03/voluntary-militia-disarmament-in-iraq-sounds-too-good-to-be-true-and-it-likely-is/",
+      "titre": "Voluntary Militia Disarmament in Iraq Sounds Too Good to Be True, and It Likely Is",
+      "date_source": "2026-06-03"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyses ICG sur l'Irak et les désarmements — référence historique",
+      "date_source": null
+    },
+    {
+      "source_id": "the-national-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.thenationalnews.com/news/mena/2026/08/06/disarm-by-september-30-or-face-terrorism-charges-iraqi-leadership-warns-iran-backed-militias/",
+      "titre": "Disarm by September 30 or face terrorism charges, Iraqi leadership warns Iran-backed militias",
+      "date_source": "2026-08-06"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/8/5/iraq-faces-crisis-as-shia-armed-groups-defy-disarmament",
+      "titre": "Iraq faces crisis as Shia armed groups defy disarmament",
+      "date_source": "2026-08-05"
+    },
+    {
+      "source_id": "washington-institute",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.washingtoninstitute.org/policy-analysis/iraq-another-crossroads-iran-backed-militias-and-washington",
+      "titre": "Iraq Is at Another Crossroads with Iran-Backed Militias—and Washington",
+      "date_source": "2026"
+    }
+  ]
+}

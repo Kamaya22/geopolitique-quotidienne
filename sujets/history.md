@@ -61,3 +61,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-10 — FR : Budget 2027 : le gouvernement parie sur le gel des retraites | Monde : Japon : le tabou nucléaire vacille à Hiroshima et Nagasaki
 - 2026-08-11 — FR : La guerre des infrastructures : après Leipzig, Paris face à ses vulnérabilités critiques | Monde : Cuba 2026 : l'étranglement américain
 - 2026-08-12 — FR : La France face au paradoxe turc : quand un allié de l'OTAN signe une alliance concurrente | Monde : Le pacte de La Mecque : naissance d'un bloc sunnite ou assurance mutuelle entre puissances en quête d'autonomie ?
+- 2026-08-13 — FR : La France à sec : sécheresse historique et souveraineté alimentaire | Monde : Irak — l'ultimatum des milices pro-Iran : l'État ou le chaos ?
