@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-14",
+  "sujet_fr": "Rentrée sociale 2026 : plafonnement des arrêts maladie, mobilisation syndicale et compte à rebours vers 2027",
+  "sujet_monde": "Novorossiysk : l'Ukraine weaponise la Mer Noire entre guerre navale et crise alimentaire mondiale",
+  "citations": [
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.economie.gouv.fr/actualites/ce-qui-change-en-aout-2026",
+      "titre": "Ce qui change en août 2026",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-melenchon-et-philippe-au-coude-a-coude-pour-la-qualification-au-second-tour-bardella-toujours-largement-en-tete-selon-le-sondage-odoxa",
+      "titre": "Présidentielle 2027 : Mélenchon et Philippe au coude-à-coude pour la qualification, Bardella toujours largement en tête selon le sondage Odoxa",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Couverture de la rentrée sociale et des réformes du marché du travail",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Plafonnement des arrêts maladie : défense de la convergence européenne",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Arrêts maladie et contrainte budgétaire : analyse comparative européenne",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Données comparatives européennes sur les indemnités maladie-travail",
+      "date_source": "2026-01-01"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Plafonnement des arrêts maladie : une réponse comptable à un problème médical",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Santé mentale Grande cause nationale et plafonnement des arrêts : la contradiction du gouvernement",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Réforme des arrêts maladie : risques de déplacement des coûts vers l'invalidité longue durée",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Réformisme sans négociation : légitimité sociale et horizon présidentiel 2027",
+      "date_source": "2026-08-01"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Zelensky: Ukraine used more than 15 different systems in Novorossiysk strike",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "moscow-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Three civilians killed, 24 wounded in Novorossiysk drone attack",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Two grain terminals halt operations after Novorossiysk attacks",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Ukraine's Novorossiysk operation: another nail in the coffin of Russia's Black Sea fleet",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "newsweek",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "UK intelligence: significant portion of Russia's long-range strike capacity neutralized",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Ukraine demonstrates first multi-domain coordinated strike on Russian continental port",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Novorossiysk represents culmination of Ukraine's innovation-under-constraint doctrine",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/08/06/russia-ukraine-war-black-sea-shipping-ports-exports-grain-food-agriculture-drones-missiles/",
+      "titre": "The Black Sea's Trade Crisis Is At the Center of the Russia-Ukraine War Again",
+      "date_source": "2026-08-06"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Both belligerents have weaponized global food security since start of war",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port",
+      "titre": "Three killed in overnight attacks on Russian-Ukrainian port",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Wheat futures rise 3% on Chicago CBOT after Novorossiysk grain terminal suspensions",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
+      "titre": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Russia accuses Ukraine of targeting civilian grain infrastructure, threatens retaliation",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Novorossiysk: tactical success but escalatory logic risks humanitarian harm for vulnerable countries",
+      "date_source": "2026-08-13"
+    }
+  ]
+}
