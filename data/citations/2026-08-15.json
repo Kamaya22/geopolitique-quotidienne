@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-15",
+  "sujet_fr": "BlackCore et LFI : ingérences numériques et démocratie française",
+  "sujet_monde": "Poutine aux Kouriles : la Russie weaponise le Pacifique",
+  "citations": [
+    {
+      "source_id": "viginum",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Rapport Viginum sur les ingérences numériques étrangères lors des municipales 2026",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Campagne de désinformation contre LFI lors des municipales 2026",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Société israélienne BlackCore identifiée dans l'ingérence numérique contre LFI",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Ingérences numériques étrangères : une menace surestimée lors des municipales 2026 ?",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Ingérences électorales : les municipales face aux opérations de déstabilisation",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Analyse de la campagne BlackCore contre LFI aux municipales",
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "LFI ciblée par ingérence numérique israélienne",
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Double standard sur les ingérences : analyse de droite libérale",
+      "date_source": null
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "L'ingérence numérique professionnalisée : réponse libérale-économique",
+      "date_source": null
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspective israélienne de gauche sur les opérations BlackCore",
+      "date_source": null
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260703-municipales-comment-une-campagne-de-d%C3%A9sinformation-in%C3%A9dite-a-%C3%A9t%C3%A9-men%C3%A9e-depuis-isra%C3%ABl-contre-lfi",
+      "titre": "Municipales : comment une campagne de désinformation inédite a été menée depuis Israël contre LFI",
+      "date_source": "2026-07-03"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/ingerences-numeriques-etrangeres-une-menace-surestimee-lors-des-municipales-2026/",
+      "titre": "Ingérences numériques étrangères : une menace surestimée lors des municipales 2026 ?",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/expressions/ingerences-electorales-les-municipales-face-aux-operations-de-destabilisation",
+      "titre": "Ingérences électorales : les municipales face aux opérations de déstabilisation",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "moscow-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Putin Makes First Visit to Disputed Kuril Islands",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Japan PM Takaichi condemns Putin's visit to disputed Kuril Islands",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ISW assessment: Putin's Kuril visit as response to Japan 2026 Defense White Paper",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "japan-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Japan protests as Russia's Putin visits disputed Kuril Islands",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Russia-China diplomats defend post-WWII territorial order after Putin Kuril visit",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "lowy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Japan between G7 alignment and bilateral dispute with Russia",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "kyivpost",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Putin's First Kuril Visit Sends a Message Far Beyond Japan",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "moscow-times",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.themoscowtimes.com/2026/08/13/putin-makes-first-visit-to-disputed-kuril-islands-amid-protests-from-japan-a93485",
+      "titre": "Putin Makes First Visit to Disputed Kuril Islands Amid Protests From Japan",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
+      "titre": "'Absolutely unacceptable': Japan PM Takaichi condemns Putin's visit to disputed Kuril Islands",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "taipei-times",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/14/2003862465",
+      "titre": "Japan protests Putin's first visit to disputed islands",
+      "date_source": "2026-08-14"
+    }
+  ]
+}

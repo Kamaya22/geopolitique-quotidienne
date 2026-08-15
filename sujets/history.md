@@ -63,3 +63,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-12 — FR : La France face au paradoxe turc : quand un allié de l'OTAN signe une alliance concurrente | Monde : Le pacte de La Mecque : naissance d'un bloc sunnite ou assurance mutuelle entre puissances en quête d'autonomie ?
 - 2026-08-13 — FR : La France à sec : sécheresse historique et souveraineté alimentaire | Monde : Irak — l'ultimatum des milices pro-Iran : l'État ou le chaos ?
 - 2026-08-14 — FR : Rentrée sociale : plafonnement des arrêts maladie et mobilisation syndicale | Monde : Novorossiysk : l'Ukraine weaponise la Mer Noire
+- 2026-08-15 — FR : BlackCore et LFI : les ingérences numériques fracturent la démocratie française | Monde : Poutine aux Kouriles : la Russie weaponise le Pacifique
