@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-16",
+  "sujet_fr": "L'E3 face à Trump : Paris, Berlin, Londres construisent leur propre format pour l'Ukraine",
+  "sujet_monde": "Oleksandrivka : 600 km² libérés, mais Moscou prépare une frappe massive pour le 24 août",
+  "citations": [
+    {
+      "source_id": "new-york-times",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Germany, France and UK Working on Their Own Format for Talks on Ukraine",
+      "date_source": "2026-08-15"
+    },
+    {
+      "source_id": "new-york-times",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Countries bordering Russia and Ukraine do not fully trust Germany and France — citing three European officials",
+      "date_source": "2026-08-15"
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Position officielle de l'Élysée sur la participation européenne aux négociations sur l'Ukraine",
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Risques d'un format E3 parallèle sans aval de Washington",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Autonomie stratégique européenne comme nécessité face à la dépendance transatlantique",
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Initiative E3 et autonomie diplomatique européenne — analyse centre-gauche",
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Une Europe absente de la table des négociations ne peut faire respecter ses engagements militaires",
+      "date_source": null
+    },
+    {
+      "source_id": "ukrainska-pravda",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/15/8048825/",
+      "titre": "Germany, France and UK Working on Their Own Format for Talks on Ukraine — NYT",
+      "date_source": "2026-08-15"
+    },
+    {
+      "source_id": "kyivpost",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.kyivpost.com/post/82407",
+      "titre": "European Nations Draft Ukraine Peace Format, Fearing Trump Exclusion",
+      "date_source": "2026-08-15"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-devant-donald-trump-emmanuel-macron-remet-il-l-europe-dans-le-jeu-des-negociations_7094370.html",
+      "titre": "Guerre en Ukraine : Macron remet-il l'Europe dans le jeu des négociations ?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Russian Offensive Campaign Assessment August 12, 2026 — résultats de la contre-offensive Oleksandrivka (626 km² confirmés)",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "ISW — perte nette russe de 233 km² sur l'ensemble du front depuis janvier 2026",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Ukraine StratCom : Russie planifie une frappe massive avant le 24 août, jour de l'Indépendance ukrainienne",
+      "date_source": "2026-08-08"
+    },
+    {
+      "source_id": "newsweek",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Russia Planning Massive Attack on Ukraine Independence Day — US intelligence cited",
+      "date_source": "2026-08-08"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ISW : la contre-offensive d'Oleksandrivka démontre la capacité ukrainienne à réintroduire des éléments de manœuvre mécanisée sur des segments localisés",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "rand",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Succès militaires ukrainiens et levier diplomatique : la parité en intercepteurs anti-balistiques reste nécessaire",
+      "date_source": null
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Logique d'escalade croisée : ni les gains ni les pertes ne rapprochent d'une paix sans horizon politique",
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/08/14/kyivs-forces-retake-26-settlements-and-over-600-km2-in-southeastern-ukraine",
+      "titre": "Kyiv's Forces Retake 26 Settlements and Over 600 km² in Southeastern Ukraine",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-august-12-2026",
+      "titre": "Russian Offensive Campaign Assessment, August 12, 2026",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://edition.cnn.com/2026/08/07/europe/ballistic-missiles-russia-ukraine-explained-intl",
+      "titre": "How Russian Ballistic Missiles Are Exploiting Holes in Ukraine's Air Defenses",
+      "date_source": "2026-08-07"
+    }
+  ]
+}

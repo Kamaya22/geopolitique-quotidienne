@@ -64,3 +64,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-13 — FR : La France à sec : sécheresse historique et souveraineté alimentaire | Monde : Irak — l'ultimatum des milices pro-Iran : l'État ou le chaos ?
 - 2026-08-14 — FR : Rentrée sociale : plafonnement des arrêts maladie et mobilisation syndicale | Monde : Novorossiysk : l'Ukraine weaponise la Mer Noire
 - 2026-08-15 — FR : BlackCore et LFI : les ingérences numériques fracturent la démocratie française | Monde : Poutine aux Kouriles : la Russie weaponise le Pacifique
+- 2026-08-16 — FR : L'E3 face à Trump : Paris, Berlin, Londres construisent leur propre format pour l'Ukraine | Monde : Oleksandrivka : 600 km² libérés, mais Moscou prépare une frappe massive pour le 24 août
