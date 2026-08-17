@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-17",
+  "sujet_fr": "La France hôte d'un sommet mondial sur l'espace : gouvernance ou coup de communication ?",
+  "sujet_monde": "Taiwan après Han Kuang 42 : l'île répète le blocus",
+  "citations": [
+    {
+      "source_id": "cnes",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "esa",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/en/priorites-et-actions/grands-dossiers/le-sommet-international-sur-l-espace",
+      "titre": "Le sommet international sur l'espace",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/editoriaux/lespace-ilot-de-cooperation-dans-un-monde-divise-ariane-6-et-la-station-spatiale",
+      "titre": "L'espace, îlot de coopération dans un monde divisé ? Ariane 6 et la Station spatiale internationale face aux recompositions géopolitiques",
+      "date_source": "2026-02-18"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/editoriaux/lespace-ilot-de-cooperation-dans-un-monde-divise-ariane-6-et-la-station-spatiale",
+      "titre": "L'espace, îlot de coopération dans un monde divisé ? Ariane 6 et la Station spatiale internationale face aux recompositions géopolitiques",
+      "date_source": "2026-02-18"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/en/priorites-et-actions/grands-dossiers/le-sommet-international-sur-l-espace/the-international-space-summit-coming-together-to-take-action-for-the-planet-paris-9-10-september",
+      "titre": "Le sommet international sur l'espace : rassembler et agir pour la planète",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/en/memos/european-space-model-renewing-ambition-changing-strategic-landscape",
+      "titre": "The European Space Model: Renewing Ambition in a Changing Strategic Landscape",
+      "date_source": "2025-03-17"
+    },
+    {
+      "source_id": "the-diplomat",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://thediplomat.com/2026/07/china-moves-to-lock-in-a-new-edge-on-taiwan-before-the-next-trump-xi-summit",
+      "titre": "China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "japan-defense-ministry",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Livre blanc de défense japonais 2026",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "japan-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/05/2003861956",
+      "titre": "Japan considers Taiwan, China in new defense report",
+      "date_source": "2026-08-05"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aei.org/commentary/china-taiwan-update-august-14-2026/",
+      "titre": "China & Taiwan Update, August 14, 2026",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aei.org/commentary/china-taiwan-update-august-14-2026/",
+      "titre": "China & Taiwan Update, August 14, 2026 (co-publication ISW–AEI)",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "rand",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.rand.org/pubs/research_reports/RRA1279-1.html",
+      "titre": "Implications of a Coercive Quarantine of Taiwan by the People's Republic of China",
+      "date_source": "2022"
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.stimson.org/2025/rethinking-the-threat-why-china-is-unlikely-to-invade-taiwan/",
+      "titre": "Rethinking the Threat: Why China is Unlikely to Invade Taiwan",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/paint-it-black-an-asymmetric-approach-to-chinas-gray-zone-coercion-of-taiwan/",
+      "titre": "Paint it black: An asymmetric approach to China's gray zone coercion of Taiwan",
+      "date_source": "2026-03-20"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/paint-it-black-an-asymmetric-approach-to-chinas-gray-zone-coercion-of-taiwan/",
+      "titre": "Paint it black: An asymmetric approach to China's gray zone coercion of Taiwan",
+      "date_source": "2026-03-20"
+    },
+    {
+      "source_id": "rand",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.rand.org/pubs/research_reports/RRA1279-1.html",
+      "titre": "Implications of a Coercive Quarantine of Taiwan by the People's Republic of China",
+      "date_source": "2022-05"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aei.org/commentary/china-taiwan-update-august-14-2026/",
+      "titre": "China & Taiwan Update, August 14, 2026",
+      "date_source": "2026-08-14"
+    }
+  ]
+}
