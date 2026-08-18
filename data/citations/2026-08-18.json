@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-18",
+  "sujet_fr": "La rentrée des crises : Macron face à son dernier automne politique",
+  "sujet_monde": "L'après-mémorandum États-Unis–Iran : l'impasse d'Ormuz et les menaces de Trump contre Oman",
+  "citations": [
+    {
+      "source_id": "ipsos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.ipsos.com/fr-fr/barometre-politique-ipsos-bva-la-tribune-dimanche",
+      "titre": "Baromètre politique Ipsos/BVA pour La Tribune Dimanche — juillet 2026",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/budget-2027-comment-le-gouvernement-veut-eviter-une-impasse-a-l-automne-436869",
+      "titre": "Budget 2027 : comment le gouvernement veut éviter une impasse à l'automne",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/sondage-la-presidentielle-a-deja-commence-pour-une-majorite-de-francais-qui-approuvent-lorganisation-de-primaires-pour-designer-les-candidats",
+      "titre": "Sondage : la présidentielle a déjà commencé pour une majorité de Français",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/budget-2027-comment-le-gouvernement-veut-eviter-une-impasse-a-l-automne-436869",
+      "titre": "Budget 2027 : comment le gouvernement veut éviter une impasse à l'automne",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/sondage-la-presidentielle-a-deja-commence-pour-une-majorite-de-francais-qui-approuvent-lorganisation-de-primaires-pour-designer-les-candidats",
+      "titre": "Sondage : la présidentielle a déjà commencé pour une majorité de Français",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ipsos",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.ipsos.com/fr-fr/barometre-politique-ipsos-bva-la-tribune-dimanche",
+      "titre": "Baromètre politique Ipsos/BVA pour La Tribune Dimanche — juillet 2026",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "defense-news",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.defensenews.com/global/europe/2026/05/06/france-moves-carrier-into-red-sea-ahead-of-potential-hormuz-mission/",
+      "titre": "France moves carrier into Red Sea ahead of potential Hormuz mission",
+      "date_source": "2026-05-06"
+    },
+    {
+      "source_id": "the-hill",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://thehill.com/homenews/ap/ap-international/ap-france-moves-aircraft-carrier-group-toward-strait-of-hormuz-for-possible-defensive-mission/",
+      "titre": "France moves aircraft carrier group toward Strait of Hormuz for possible defensive mission",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/8/7/european-caution-slowing-us-push-for-hormuz-naval-coalition",
+      "titre": "'De-escalation': Europe hesitates as US pushes for Hormuz naval mission",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know",
+      "titre": "US-Iran MoU ends: What happens next?",
+      "date_source": "2026-08-16"
+    },
+    {
+      "source_id": "just-security",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.justsecurity.org/153505/iran-conditions-hormuz-international-law/",
+      "titre": "Iran's Conditions for Reopening Hormuz and International Law",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "house-of-commons-library",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10637/",
+      "titre": "US-Iran ceasefire and nuclear talks in 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://quincyinst.org/collection/the-iran-war/",
+      "titre": "The Iran War — collection d'analyses",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-us-fox-news-msx5rdoc",
+      "titre": "Trump Threatens to Bomb Oman If It Gets in Way of US",
+      "date_source": "2026-08-17"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+      "titre": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
+      "date_source": "2026-08-17"
+    },
+    {
+      "source_id": "the-national",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.thenationalnews.com/business/energy/2026/08/17/hormuz-traffic-falls-to-single-digits-as-60-day-deadline-for-us-iran-mou-expires/",
+      "titre": "Hormuz traffic falls to single digits as 60-day deadline for US-Iran MoU expires",
+      "date_source": "2026-08-17"
+    },
+    {
+      "source_id": "fdd",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know",
+      "titre": "US-Iran MoU ends: What happens next?",
+      "date_source": "2026-08-16"
+    },
+    {
+      "source_id": "just-security",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.justsecurity.org/153505/iran-conditions-hormuz-international-law/",
+      "titre": "Iran's Conditions for Reopening Hormuz and International Law",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "house-of-commons-library",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10637/",
+      "titre": "US-Iran ceasefire and nuclear talks in 2026",
+      "date_source": "2026"
+    }
+  ]
+}
