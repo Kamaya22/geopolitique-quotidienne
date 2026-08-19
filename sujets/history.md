@@ -67,3 +67,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-16 — FR : L'E3 face à Trump : Paris, Berlin, Londres construisent leur propre format pour l'Ukraine | Monde : Oleksandrivka : 600 km² libérés, mais Moscou prépare une frappe massive pour le 24 août
 - 2026-08-17 — FR : La France hôte d'un sommet mondial sur l'espace : gouvernance ou coup de communication ? | Monde : Taiwan après Han Kuang 42 : l'île répète le blocus
 - 2026-08-18 — FR : La rentrée des crises : Macron face à son dernier automne politique | Monde : L'après-mémorandum États-Unis–Iran : l'impasse d'Ormuz et les menaces de Trump contre Oman
+- 2026-08-19 — FR : Réseaux sociaux et mineurs : le Conseil constitutionnel censure la loi | Monde : Canada–États-Unis : la trêve de 90 minutes face aux tarifs de 50 %

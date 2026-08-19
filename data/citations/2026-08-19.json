@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-19",
+  "sujet_fr": "Réseaux sociaux et mineurs : censure par le Conseil constitutionnel",
+  "sujet_monde": "Canada–États-Unis : la trêve de 90 minutes face aux tarifs de 50 %",
+  "citations": [
+    {
+      "source_id": "conseil-constitutionnel",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-911-dc-du-14-aout-2026-communique-de-presse",
+      "titre": "Décision n° 2026-911 DC du 14 août 2026 — Communiqué de presse",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "conseil-constitutionnel",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm",
+      "titre": "Décision n° 2026-911 DC du 14 août 2026",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-conseil-constitutionnel-censure-la-loi-prevoyant-d-interdire-l-acces-des-mineurs-de-moins-de-15-ans-aux-reseaux-sociaux_8147519.html",
+      "titre": "Le Conseil constitutionnel censure la loi prévoyant d'interdire l'accès des mineurs de moins de 15 ans aux réseaux sociaux",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "le-club-des-juristes",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.leclubdesjuristes.com/opinion/reseaux-sociaux-pourquoi-linterdiction-aux-moins-de-15-ans-ne-pourra-pas-sappliquer-a-la-rentree-17078/",
+      "titre": "Réseaux sociaux : pourquoi l'interdiction aux moins de 15 ans ne pourra pas s'appliquer à la rentrée",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Vote de la loi sur les réseaux sociaux — janvier 2026",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "la-quadrature-du-net",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.laquadrature.net/2026/07/22/le-parlement-vote-linterdiction-des-reseaux-sociaux-aux-jeunes-de-moins-de-15-ans/",
+      "titre": "Le Parlement vote l'interdiction des réseaux sociaux aux jeunes de moins de 15 ans",
+      "date_source": "2026-07-22"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Macron charge Lecornu de travailler à une nouvelle rédaction de la loi sur les réseaux sociaux",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says",
+      "titre": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+      "date_source": "2026-08-19"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/trump-pauses-50-canada-tariffs-for-three-days-subject-to-a-deal-mszgvwa3",
+      "titre": "Trump Pauses 50% Canada Tariffs for Three Days Subject to a Deal",
+      "date_source": "2026-08-19"
+    },
+    {
+      "source_id": "globe-and-mail",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.theglobeandmail.com/politics/article-ottawa-mounts-full-court-press-for-us-trade-deal-ahead-of-tariff/",
+      "titre": "Canada's top negotiator told U.S. counterparts Aug. 19 tariffs could halt trade talks",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Prévisions de croissance Canada — révision à la baisse T2 2026",
+      "date_source": "2026-08"
+    }
+  ]
+}
