@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-20",
+  "sujet_fr": "Recomposition du centre-droit : Darmanin rallie Philippe avant 2027",
+  "sujet_monde": "Coalition maritime saoudienne en mer Rouge",
+  "citations": [
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-gerald-darmanin-rallie-le-camp-edouard-philippe_8151761.html",
+      "titre": "Présidentielle 2027 : Darmanin rallie le camp d'Édouard Philippe",
+      "date_source": "2026-08-17"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnews.fr/france/2026-08-17/presidentielle-2027-gerald-darmanin-apporte-son-soutien-edouard-philippe-1906011",
+      "titre": "Présidentielle 2027 : Darmanin apporte son soutien à Édouard Philippe",
+      "date_source": "2026-08-17"
+    },
+    {
+      "source_id": "elabe",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://elabe.fr/presidentielle-2027-iv3/",
+      "titre": "Les Français et l'élection présidentielle 2027 — baromètre IV (intentions de vote, mauvaise opinion de Philippe)",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "elabe",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://elabe.fr/presidentielle-2027-iv3/",
+      "titre": "Les Français et l'élection présidentielle 2027 — baromètre IV (80 % souhaitent une politique différente de Macron)",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-gerald-darmanin-rallie-le-camp-edouard-philippe_8151761.html",
+      "titre": "Présidentielle 2027 : Darmanin rallie le camp d'Édouard Philippe",
+      "date_source": "2026-08-17"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnews.fr/france/2026-08-17/presidentielle-2027-gerald-darmanin-apporte-son-soutien-edouard-philippe-1906011",
+      "titre": "Présidentielle 2027 : Darmanin apporte son soutien à Édouard Philippe",
+      "date_source": "2026-08-17"
+    },
+    {
+      "source_id": "elabe",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://elabe.fr/presidentielle-2027-iv3/",
+      "titre": "Les Français et l'élection présidentielle 2027 — baromètre IV",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work",
+      "titre": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/saudi-arabia-seeks-to-lead-maritime-coalition-to-protect-red-sea",
+      "titre": "Saudi Arabia Seeks to Lead Maritime Coalition to Protect Red Sea",
+      "date_source": "2026-07-30"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/07/31/houthis-vow-full-escalation-as-saudi-arabia-launches-red-sea-coalition",
+      "titre": "Houthis vow 'full escalation' as Saudi Arabia launches Red Sea coalition",
+      "date_source": "2026-07-31"
+    },
+    {
+      "source_id": "marad",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "asharq-al-awsat",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks",
+      "titre": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "tehrantimes",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.tehrantimes.com/news/528776/Another-coalition-meets-its-grave-in-the-Red-Sea",
+      "titre": "Another coalition meets its grave in the Red Sea",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work",
+      "titre": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/07/31/houthis-vow-full-escalation-as-saudi-arabia-launches-red-sea-coalition",
+      "titre": "Houthis vow 'full escalation' as Saudi Arabia launches Red Sea coalition",
+      "date_source": "2026-07-31"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/saudi-arabia-seeks-to-lead-maritime-coalition-to-protect-red-sea",
+      "titre": "Saudi Arabia Seeks to Lead Maritime Coalition to Protect Red Sea",
+      "date_source": "2026-07-30"
+    }
+  ]
+}

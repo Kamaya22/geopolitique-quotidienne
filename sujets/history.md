@@ -68,3 +68,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-17 — FR : La France hôte d'un sommet mondial sur l'espace : gouvernance ou coup de communication ? | Monde : Taiwan après Han Kuang 42 : l'île répète le blocus
 - 2026-08-18 — FR : La rentrée des crises : Macron face à son dernier automne politique | Monde : L'après-mémorandum États-Unis–Iran : l'impasse d'Ormuz et les menaces de Trump contre Oman
 - 2026-08-19 — FR : Réseaux sociaux et mineurs : le Conseil constitutionnel censure la loi | Monde : Canada–États-Unis : la trêve de 90 minutes face aux tarifs de 50 %
+- 2026-08-20 — FR : Darmanin rallie Philippe : recomposition du centre-droit avant 2027 | Monde : La coalition maritime saoudienne en mer Rouge
