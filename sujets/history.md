@@ -69,3 +69,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-18 — FR : La rentrée des crises : Macron face à son dernier automne politique | Monde : L'après-mémorandum États-Unis–Iran : l'impasse d'Ormuz et les menaces de Trump contre Oman
 - 2026-08-19 — FR : Réseaux sociaux et mineurs : le Conseil constitutionnel censure la loi | Monde : Canada–États-Unis : la trêve de 90 minutes face aux tarifs de 50 %
 - 2026-08-20 — FR : Darmanin rallie Philippe : recomposition du centre-droit avant 2027 | Monde : La coalition maritime saoudienne en mer Rouge
+- 2026-08-21 — FR : La rentrée politique : les universités d'été lancent la bataille de 2027 | Monde : Israël ouvre des enquêtes pénales sur Gaza : entre responsabilité militaire et pression internationale

@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-21",
+  "sujet_fr": "La rentrée politique : les universités d'été lancent la bataille de 2027",
+  "sujet_monde": "Israël ouvre des enquêtes pénales sur Gaza : entre responsabilité militaire et pression internationale",
+  "citations": [
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/nous-c-est-carre-la-france-insoumise-devoile-un-tract-et-une-affiche-pour-marquer-le-lancement-de-ses-universites-d-ete_8153762.html",
+      "titre": "« Nous, c'est carré » : LFI dévoile son affiche pour les universités d'été",
+      "date_source": "2026-08-18"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-jean-luc-melenchon-a-prouve-ces-dernieres-annees-quil-etait-plutot-celui-qui-fracture-la-gauche-estime-pierre-jouvet-ps",
+      "titre": "Présidentielle 2027 : « Mélenchon fracture la gauche », estime Pierre Jouvet (PS)",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/nous-c-est-carre-la-france-insoumise-devoile-un-tract-et-une-affiche-pour-marquer-le-lancement-de-ses-universites-d-ete_8153762.html",
+      "titre": "« Nous, c'est carré » : LFI dévoile son affiche pour les universités d'été",
+      "date_source": "2026-08-18"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-jean-luc-melenchon-a-prouve-ces-dernieres-annees-quil-etait-plutot-celui-qui-fracture-la-gauche-estime-pierre-jouvet-ps",
+      "titre": "Présidentielle 2027 : « Mélenchon fracture la gauche », estime Pierre Jouvet (PS)",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/08/19/israel-military-hind-rajab-gaza-parademics-investigations/ef2d0c30-9bbd-11f1-9cc4-2dc9b46e2d5c_story.html",
+      "titre": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics",
+      "date_source": "2026-08-19"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/08/19/middleeast/israel-military-idf-hind-rajab-firing-intl",
+      "titre": "Israeli military admits for first time to firing on car carrying 5-year-old Hind Rajab, opens criminal probe",
+      "date_source": "2026-08-19"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.hrw.org/fr/world-report/2026/country-chapters/israel-and-palestine",
+      "titre": "Rapport mondial 2026 : Israël et Palestine",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cij",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ohchr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/08/19/israel-military-hind-rajab-gaza-parademics-investigations/ef2d0c30-9bbd-11f1-9cc4-2dc9b46e2d5c_story.html",
+      "titre": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics",
+      "date_source": "2026-08-19"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/08/19/middleeast/israel-military-idf-hind-rajab-firing-intl",
+      "titre": "Israeli military admits for first time to firing on car carrying 5-year-old Hind Rajab, opens criminal probe",
+      "date_source": "2026-08-19"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.hrw.org/fr/world-report/2026/country-chapters/israel-and-palestine",
+      "titre": "Rapport mondial 2026 : Israël et Palestine",
+      "date_source": "2026-01"
+    }
+  ]
+}
