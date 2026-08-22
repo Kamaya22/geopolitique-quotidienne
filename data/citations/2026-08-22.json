@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-22",
+  "sujet_fr": "Macron reçoit MBS : le partenariat franco-saoudien",
+  "sujet_monde": "Ukraine à 48h du Jour de l'Indépendance : Kyiv sous les bombes",
+  "citations": [
+    {
+      "source_id": "bloomberg",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/macron-and-saudi-prince-to-focus-on-hormuz-deals-in-paris-talks",
+      "titre": "Macron and MBS to Focus on Hormuz, Deals in Paris Talks",
+      "date_source": "2026-08-21"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.pbs.org/newshour/amp/world/poverty-climate-regional-stability-on-agenda-as-saudi-crown-prince-visits-france",
+      "titre": "Poverty, climate, regional stability on agenda as Saudi crown prince visits France",
+      "date_source": "2026-08-22"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/paris-souhaite-entretenir-une-relation-tres-speciale-avec",
+      "titre": "Paris souhaite entretenir une relation très spéciale avec l'Arabie saoudite",
+      "date_source": null
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/macron-and-saudi-prince-to-focus-on-hormuz-deals-in-paris-talks",
+      "titre": "Macron and MBS to Focus on Hormuz, Deals in Paris Talks",
+      "date_source": "2026-08-21"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/paris-souhaite-entretenir-une-relation-tres-speciale-avec",
+      "titre": "Paris souhaite entretenir une relation très spéciale avec l'Arabie saoudite",
+      "date_source": null
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.pbs.org/newshour/amp/world/poverty-climate-regional-stability-on-agenda-as-saudi-crown-prince-visits-france",
+      "titre": "Poverty, climate, regional stability on agenda as Saudi crown prince visits France",
+      "date_source": "2026-08-22"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-august-12-2026",
+      "titre": "Russian Offensive Campaign Assessment, August 12, 2026",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "la-libre",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/08/13/lukraine-a-besoin-des-missiles-patriot-de-washington-SPVBAKHFCJA55N2HE7LEXVWNSA/",
+      "titre": "L'Ukraine a besoin des missiles Patriot de Washington : « S'ils nous en vendent 5%, nous passerons l'hiver et sauverons des vies »",
+      "date_source": "2026-08-13"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/08/20/europe/russia-ukraine-kyiv-attack-intl-hnk",
+      "titre": "Huge Russian strikes on Kyiv leave 17 dead as attacks spill over to Romanian and Moldovan territory",
+      "date_source": "2026-08-20"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-august-12-2026",
+      "titre": "Russian Offensive Campaign Assessment, August 12, 2026",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "rferl",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.rferl.org/amp/ukraine-russia-invasion-independence-day-fresh-attacks/32000306.html",
+      "titre": "Ukraine's Security Service Warns of Russian Threats Ahead of Independence Day",
+      "date_source": "2026-08-22"
+    }
+  ]
+}
