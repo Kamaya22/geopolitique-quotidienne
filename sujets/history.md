@@ -71,3 +71,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-20 — FR : Darmanin rallie Philippe : recomposition du centre-droit avant 2027 | Monde : La coalition maritime saoudienne en mer Rouge
 - 2026-08-21 — FR : La rentrée politique : les universités d'été lancent la bataille de 2027 | Monde : Israël ouvre des enquêtes pénales sur Gaza : entre responsabilité militaire et pression internationale
 - 2026-08-22 — FR : Macron reçoit Mohammed ben Salmane : le prix du partenariat franco-saoudien | Monde : Ukraine à 48 heures du Jour de l'Indépendance : Kyiv sous les bombes, les alliés en retard
+- 2026-08-23 — FR : Mayotte : quand la crise migratoire entre en campagne — le duel Philippe-Mélenchon | Monde : Éthiopie-Érythrée : la Corne de l'Afrique menacée d'embrasement

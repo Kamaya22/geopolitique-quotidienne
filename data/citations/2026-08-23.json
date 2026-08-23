@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-23",
+  "sujet_fr": "Mayotte : quand la crise migratoire entre en campagne — le duel Philippe-Mélenchon",
+  "sujet_monde": "Éthiopie-Érythrée : la Corne de l'Afrique menacée d'embrasement",
+  "citations": [
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/rentree-politique-edouard-philippe-et-jean-luc-melenchon-s-echarpent-au-sujet-de-l-immigration-a-mayotte_8157719.html",
+      "titre": "Rentrée politique : Édouard Philippe et Jean-Luc Mélenchon s'écharpent au sujet de l'immigration à Mayotte",
+      "date_source": "2026-08-22"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnews.fr/france/2026-08-22/jaimerais-quil-vienne-ici-et-quil-constate-la-crise-migratoire-depuis-mayotte",
+      "titre": "«J'aimerais qu'il vienne ici et qu'il constate la crise migratoire» : depuis Mayotte, Édouard Philippe répond à Jean-Luc Mélenchon",
+      "date_source": "2026-08-22"
+    },
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Recensement Mayotte — population étrangère",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Lecture éditoriale du Figaro sur la politique migratoire à Mayotte",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Libération sur le risque d'apatridie lié aux restrictions du droit du sol à Mayotte",
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Institut Montaigne — analyse sur la politique migratoire et les territoires ultramarins",
+      "date_source": null
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "IRIS — lecture structurelle de la crise migratoire à Mayotte",
+      "date_source": null
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifrap.org/etat-et-collectivites/mayotte-les-chiffres-cles-dune-situation-explosive",
+      "titre": "Mayotte : les chiffres clés d'une situation explosive",
+      "date_source": null
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/rentree-politique-edouard-philippe-et-jean-luc-melenchon-s-echarpent-au-sujet-de-l-immigration-a-mayotte_8157719.html",
+      "titre": "Rentrée politique : Édouard Philippe et Jean-Luc Mélenchon s'écharpent au sujet de l'immigration à Mayotte",
+      "date_source": "2026-08-22"
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifrap.org/etat-et-collectivites/mayotte-les-chiffres-cles-dune-situation-explosive",
+      "titre": "Mayotte : les chiffres clés d'une situation explosive",
+      "date_source": null
+    },
+    {
+      "source_id": "marine-oceans",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://marine-oceans.com/actualites/lintegration-de-mayotte-dans-la-commission-de-locean-indien-une-priorite-pour-la-france-barrot/",
+      "titre": "L'intégration de Mayotte dans la Commission de l'océan Indien, « une priorité » pour la France (Barrot)",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "soufan-center",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://thesoufancenter.org/intelbrief-2026-august-21/",
+      "titre": "Renewed Tensions Between Ethiopia and Tigray Threaten to Draw in the Wider Region",
+      "date_source": "2026-08-21"
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
+      "titre": "Ethiopia, Eritrea and Tigray: A Powder Keg in the Horn of Africa",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.atlanticcouncil.org/blogs/africasource/ethiopia-and-eritrea-are-on-the-brink-of-war-again/",
+      "titre": "Ethiopia and Eritrea are on the brink of war again",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "addis-standard",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Addis Standard — couverture des tensions en Tigray occidental et réactions de la population tigréenne",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
+      "titre": "Ethiopia, Eritrea and Tigray: A Powder Keg in the Horn of Africa",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.atlanticcouncil.org/blogs/africasource/ethiopia-and-eritrea-are-on-the-brink-of-war-again/",
+      "titre": "Ethiopia and Eritrea are on the brink of war again",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "soufan-center",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://thesoufancenter.org/intelbrief-2026-august-21/",
+      "titre": "Renewed Tensions Between Ethiopia and Tigray Threaten to Draw in the Wider Region",
+      "date_source": "2026-08-21"
+    }
+  ]
+}
