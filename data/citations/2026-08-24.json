@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-24",
+  "sujet_fr": "Budget 2027 : Lecornu à l'épreuve de la rentrée, entre rigueur et souveraineté",
+  "sujet_monde": "Ukraine, 35e anniversaire d'indépendance sous les drones russes et sommet de la Coalition des Volontaires",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Conseil des ministres de rentrée — 24 août 2026",
+      "date_source": "2026-08-24"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/impots/c-est-le-chantier-de-fond-de-la-rentree-comment-sebastien-lecornu-prepare-le-budget-2027-le-dernier-avant-l-election-presidentielle_8150600.html",
+      "titre": "«C'est le chantier de fond de la rentrée» : comment Sébastien Lecornu prépare le budget 2027, le dernier avant l'élection présidentielle",
+      "date_source": "2026-08-21"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/budget-2027-pour-sebastien-lecornu-attendre-la-presidentielle-c-est-choisir-le-desordre",
+      "titre": "Budget 2027 : pour Sébastien Lecornu, 'attendre la présidentielle, c'est choisir le désordre'",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Lecture éditoriale du Figaro sur le budget 2027 — rigueur, souveraineté et calcul électoral de Lecornu",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Libération sur le Parti socialiste — arbitre ou otage du budget Lecornu",
+      "date_source": null
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "LFI et le bloc de gauche — refus du 49.3 et demande de taxation des super-profits",
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Institut Montaigne — sincérité des chiffres Lecornu mais risque de spread obligataire sans réformes structurelles",
+      "date_source": null
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/impots/c-est-le-chantier-de-fond-de-la-rentree-comment-sebastien-lecornu-prepare-le-budget-2027-le-dernier-avant-l-election-presidentielle_8150600.html",
+      "titre": "«C'est le chantier de fond de la rentrée» : comment Sébastien Lecornu prépare le budget 2027",
+      "date_source": "2026-08-21"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/budget-2027-pour-sebastien-lecornu-attendre-la-presidentielle-c-est-choisir-le-desordre",
+      "titre": "Budget 2027 : pour Sébastien Lecornu, 'attendre la présidentielle, c'est choisir le désordre'",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/budget-2027-comment-le-gouvernement-veut-eviter-une-impasse-a-l-automne-436869",
+      "titre": "Budget 2027 : comment le gouvernement veut éviter une impasse à l'automne",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Coalition des Volontaires — réunion du 24 août à Kyiv, annonce norvégienne de 9 milliards de dollars d'aide",
+      "date_source": "2026-08-24"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://kyivindependent.com/russia-attacks-ukraine-with-72-drones-ballistic-missile-on-independence-day/",
+      "titre": "Russia attacks Ukraine with 72 drones, ballistic missile on Independence Day",
+      "date_source": "2026-08-24"
+    },
+    {
+      "source_id": "ukrainska-pravda",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Zelensky — déclaration du Jour de l'Indépendance : 'une paix réelle pour l'Ukraine'",
+      "date_source": "2026-08-24"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/08/21/coalition-of-the-willing-talks-set-for-monday-in-kyiv",
+      "titre": "Coalition of the Willing talks set for Monday in Kyiv",
+      "date_source": "2026-08-21"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/quatre-ans-de-guerre-en-ukraine-verra-t-la-fin-du-conflit-en-2026",
+      "titre": "Quatre ans de guerre en Ukraine : verra-t-on la fin du conflit en 2026 ?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ECFR — fragilité structurelle de la Coalition des Volontaires et question des garanties de sécurité pour l'Ukraine",
+      "date_source": null
+    },
+    {
+      "source_id": "tass",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "TASS — point de vue officiel russe sur la Coalition des Volontaires comme 'escalade directe de l'OTAN' (média d'État, source non factuelle)",
+      "date_source": "2026-08-24"
+    },
+    {
+      "source_id": "ria-novosti",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "RIA Novosti — narratif russe sur le 24 août comme 'provocation' (média d'État, source non factuelle)",
+      "date_source": "2026-08-24"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://kyivindependent.com/russia-attacks-ukraine-with-72-drones-ballistic-missile-on-independence-day/",
+      "titre": "Russia attacks Ukraine with 72 drones, ballistic missile on Independence Day",
+      "date_source": "2026-08-24"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/08/21/coalition-of-the-willing-talks-set-for-monday-in-kyiv",
+      "titre": "Coalition of the Willing talks set for Monday in Kyiv",
+      "date_source": "2026-08-21"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/quatre-ans-de-guerre-en-ukraine-verra-t-la-fin-du-conflit-en-2026",
+      "titre": "Quatre ans de guerre en Ukraine : verra-t-on la fin du conflit en 2026 ?",
+      "date_source": "2026"
+    }
+  ]
+}
