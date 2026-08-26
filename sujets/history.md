@@ -74,3 +74,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-23 — FR : Mayotte : quand la crise migratoire entre en campagne — le duel Philippe-Mélenchon | Monde : Éthiopie-Érythrée : la Corne de l'Afrique menacée d'embrasement
 - 2026-08-24 — FR : Budget 2027 : Lecornu à l'épreuve de la rentrée, entre rigueur et souveraineté | Monde : Ukraine, 35e anniversaire d'indépendance sous les drones russes et sommet de la Coalition des Volontaires
 - 2026-08-25 — FR : La France sous les sanctions secondaires de Washington — La Nivernaise de Raffinage visée par l'OFAC | Monde : « Operation Economic Outcast » — la guerre économique de Trump contre l'Iran
+- 2026-08-26 — FR : La visite du pape Léon XIV en France : laïcité, géopolitique et présidentielle 2027 | Monde : Israël frappe Abu al-Duhur : le Pacte de La Mecque à l'épreuve
