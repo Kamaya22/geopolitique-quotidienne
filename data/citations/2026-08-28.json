@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-28",
+  "sujet_fr": "Primaire socialiste : la gauche à l'épreuve de 2027",
+  "sujet_monde": "La Route maritime du Nord : Pékin weaponise l'Arctique",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260824-france-presidentielle-2027-raphael-glucksman-veut-remporter-primaire-socialiste-sur-une-ligne-anti-lfi",
+      "titre": "Glucksmann veut remporter la primaire socialiste sur une ligne anti-LFI",
+      "date_source": "2026-08-24"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/france/20260824-france-presidentielle-2027-raphael-glucksman-veut-remporter-primaire-socialiste-sur-une-ligne-anti-lfi",
+      "titre": "Glucksmann veut remporter la primaire socialiste sur une ligne anti-LFI",
+      "date_source": "2026-08-24"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/radiographie-de-lelectorat-de-gauche-a-un-an-de-lelection-presidentielle/",
+      "titre": "Radiographie de l'électorat de gauche à un an de l'élection présidentielle",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/radiographie-de-lelectorat-de-gauche-a-un-an-de-lelection-presidentielle/",
+      "titre": "Radiographie de l'électorat de gauche à un an de l'élection présidentielle",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/ps/candidats-dates-cout-cinq-questions-sur-la-primaire-du-parti-socialiste-en-vue-de-la-presidentielle-de-2027_8133077.html",
+      "titre": "Candidats, dates, coût… Cinq questions sur la primaire du Parti socialiste en vue de la présidentielle de 2027",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/ps/candidats-dates-cout-cinq-questions-sur-la-primaire-du-parti-socialiste-en-vue-de-la-presidentielle-de-2027_8133077.html",
+      "titre": "Candidats, dates, coût… Cinq questions sur la primaire du Parti socialiste en vue de la présidentielle de 2027",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "bruegel",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.bruegel.org/first-glance/chinas-arctic-silk-road-now-reality",
+      "titre": "China's Arctic Silk Road is now a reality",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "bruegel",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.bruegel.org/first-glance/chinas-arctic-silk-road-now-reality",
+      "titre": "China's Arctic Silk Road is now a reality",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints",
+      "titre": "Can China's new Arctic sea route to Europe replace Middle East chokepoints?",
+      "date_source": "2026-08-18"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints",
+      "titre": "Can China's new Arctic sea route to Europe replace Middle East chokepoints?",
+      "date_source": "2026-08-18"
+    },
+    {
+      "source_id": "usni-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://news.usni.org/2026/02/16/nato-launches-arctic-sentry-in-high-north-in-response-to-russian-activity",
+      "titre": "NATO Launches Arctic Sentry in High North in Response to Russian Activity",
+      "date_source": "2026-02-16"
+    },
+    {
+      "source_id": "usni-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://news.usni.org/2026/02/16/nato-launches-arctic-sentry-in-high-north-in-response-to-russian-activity",
+      "titre": "NATO Launches Arctic Sentry in High North in Response to Russian Activity",
+      "date_source": "2026-02-16"
+    },
+    {
+      "source_id": "otan",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Mission Arctic Sentry — OTAN",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/08/14/china/china-arctic-northern-sea-route-russia-intl-hnk-vis-dst",
+      "titre": "How the Northern Sea Route is bringing China and Russia together",
+      "date_source": "2026-08-14"
+    }
+  ]
+}
