@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-29",
+  "sujet_fr": "L'hiver démographique de l'école française : une rupture structurelle",
+  "sujet_monde": "COP17 à Oulan-Bator : le protocole sécheresse bloqué par Washington",
+  "citations": [
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.insee.fr/fr/statistiques/8719824",
+      "titre": "Bilan démographique 2025 — INSEE Première n° 2087",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.insee.fr/fr/statistiques/8719824",
+      "titre": "Bilan démographique 2025 — INSEE Première n° 2087",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/france/rentree/rentree-scolaire-2026-ce-n-est-pas-d-une-reforme-de-plus-dont-nous-avons-besoin-mais-d-un-cap-affirme-le-ministre-de-l-education-nationale_8160653.html",
+      "titre": "Rentrée scolaire 2026 : 'Ce n'est pas d'une réforme de plus dont nous avons besoin, mais d'un cap', affirme le ministre de l'Éducation nationale",
+      "date_source": "2026-08-25"
+    },
+    {
+      "source_id": "france-strategie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2026/2026-05-05%20-%20NA%20160%20-%20D%C3%A9natalit%C3%A9/HCSP-2026-NA%20160-D%C3%A9natalit%C3%A9-%2005.05-11h40.pdf",
+      "titre": "Baisse de la natalité : adapter les politiques — Note d'analyse n° 160",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.senat.fr/rap/r24-749/r24-7491.html",
+      "titre": "Baisse démographique, réussite des élèves : quel maillage scolaire pour la France de demain ?",
+      "date_source": "2024-09"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifrap.org/emploi-et-politiques-sociales/chute-de-la-natalite-comment-repondre-la-crise-demographique",
+      "titre": "Chute de la natalité : comment répondre à la crise démographique ?",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifrap.org/emploi-et-politiques-sociales/chute-de-la-natalite-comment-repondre-la-crise-demographique",
+      "titre": "Chute de la natalité : comment répondre à la crise démographique ?",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "unccd",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.unccd.int/cop17",
+      "titre": "COP17 — 17e session de la Conférence des Parties à l'UNCCD",
+      "date_source": "2026-08-28"
+    },
+    {
+      "source_id": "unccd",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.unccd.int/cop17",
+      "titre": "Page officielle COP17 UNCCD",
+      "date_source": "2026-08-28"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-08-28"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260818-cop17-contre-la-d%C3%A9sertification-la-france-n-%C3%A9chappe-pas-%C3%A0-la-d%C3%A9gradation-de-ses-sols",
+      "titre": "COP17 contre la désertification : la France n'échappe pas à la dégradation de ses sols",
+      "date_source": "2026-08-18"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/cop17-sur-la-lutte-contre-la-desertification-priorites-et-enjeux",
+      "titre": "COP17 sur la lutte contre la désertification : priorités et enjeux",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://reporterre.net/Desertification-la-COP17-s-ouvre-sur-fond-de-canicules-a-repetition",
+      "titre": "Désertification : la COP17 s'ouvre sur fond de canicules à répétition",
+      "date_source": "2026-08-17"
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://reporterre.net/Desertification-la-COP17-s-ouvre-sur-fond-de-canicules-a-repetition",
+      "titre": "Désertification : la COP17 s'ouvre sur fond de canicules à répétition",
+      "date_source": "2026-08-17"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Données UNCCD/PNUD sur la désertification et les migrations",
+      "date_source": null
+    }
+  ]
+}
