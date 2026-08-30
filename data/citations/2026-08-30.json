@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-30",
+  "sujet_fr": "La dernière tournée européenne de Macron : frégates, souveraineté et héritage",
+  "sujet_monde": "L'embargo émirati sur l'Iran : le Golfe referme la dernière fenêtre économique de Téhéran",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/info-en-continu/20260828-macron-ira-a-londres-pour-inaugurer-l-exposition-de-la-tapisserie-de-bayeux-et-rencontrer-burnham",
+      "titre": "Macron ira à Londres pour inaugurer l'exposition de la tapisserie de Bayeux et rencontrer Burnham",
+      "date_source": "2026-08-28"
+    },
+    {
+      "source_id": "zone-militaire",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.opex360.com/2026/05/19/la-suede-annonce-son-intention-dacquerir-quatre-fregates-de-defense-et-dintervention-aupres-du-francais-naval-group/",
+      "titre": "La Suède annonce son intention d'acquérir quatre Frégates de défense et d'intervention auprès du français Naval Group",
+      "date_source": "2026-05-19"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/audio-presse-contenus-repris-sur-le-site/que-reste-t-il-du-macronisme-en-france-et-letranger",
+      "titre": "Que reste-t-il du macronisme, en France et à l'étranger ?",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "la-libre",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/08/27/emmanuel-macron-va-signer-un-contrat-a-43-milliards-deuros-en-suede-la-fin-des-malheurs-de-naval-group-6FTEQWVZ7RA4ZLJRY342F5T2S4/",
+      "titre": "Emmanuel Macron va signer un contrat à 4,3 milliards d'euros en Suède",
+      "date_source": "2026-08-27"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "foi-sweden",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fmi",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why",
+      "titre": "UAE trade embargo could shut Iran's key economic escape route: Here's why",
+      "date_source": "2026-08-19"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "middle-east-forum",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.meforum.org/mef-observer/is-the-united-arab-emirates-iran-trade-freeze-economic-shock-or-strategic-pivot",
+      "titre": "Is the UAE's Iran Trade Freeze Economic Shock or Strategic Pivot?",
+      "date_source": "2026-08-21"
+    },
+    {
+      "source_id": "middle-east-forum",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "mei-nus",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://mei.nus.edu.sg/?p=38771",
+      "titre": "Insight 316: Regional Realignment in the Gulf",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "mei-nus",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "washington-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "the-national-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "asharq-al-awsat",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ocha",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}
