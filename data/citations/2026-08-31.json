@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-31",
+  "sujet_fr": "Loi d'urgence agricole : souveraineté alimentaire en débat",
+  "sujet_monde": "RDC — la feuille de route de Doha pour la paix dans l'est du Congo",
+  "citations": [
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.info.gouv.fr/actualite/loi-d-urgence-agricole-ce-qu-il-faut-retenir",
+      "titre": "Loi d'urgence agricole : ce qu'il faut retenir",
+      "date_source": "2026-08-19"
+    },
+    {
+      "source_id": "conseil-constitutionnel",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Décision du Conseil constitutionnel sur la loi d'urgence agricole",
+      "date_source": "2026-08-14"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Vote de la loi d'urgence agricole : 296 pour, 224 contre",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/france-passes-farm-law-as-greens-decry-pesticide-waivers",
+      "titre": "France Approves Farm Law Granting Temporary Pesticide Exemptions for Farmers",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Réactions droite libérale à la loi d'urgence agricole",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Réactions gauche à la loi d'urgence agricole",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Démission symbolique de Monique Barbut et la loi agricole",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Transition agro-écologique et compétitivité agricole",
+      "date_source": null
+    },
+    {
+      "source_id": "cour-des-comptes",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Rapport sur les dispositifs de soutien à la transition agro-écologique",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.touteleurope.eu/agriculture-et-peche/pesticides-le-parlement-adopte-la-loi-d-urgence-agricole-ouvrant-la-voie-a-des-derogations-pour-l-acetamipride/",
+      "titre": "Pesticides : la France adopte la loi d'urgence agricole, ouvrant la voie à des dérogations pour l'acétamipride",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/france-passes-farm-law-as-greens-decry-pesticide-waivers",
+      "titre": "France Approves Farm Law Granting Temporary Pesticide Exemptions for Farmers",
+      "date_source": "2026-07-21"
+    },
+    {
+      "source_id": "pleinchamp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.pleinchamp.com/actualite/loi-d-urgence-pour-la-protection-et-la-souverainete-agricoles-l-essentiel-du-texte",
+      "titre": "Loi d'urgence pour la protection et la souveraineté agricoles : l'essentiel du texte",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "us-state-dept",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/joint-statement-between-the-representatives-of-the-government-of-the-democratic-republic-of-the-congo-and-the-representatives-of-the-alliance-fleuve-congo-march-23-movement-afc-m23-on-the-doha-proce/",
+      "titre": "Joint Statement Between DRC Government and AFC/M23 on the Doha Process",
+      "date_source": "2026-08-23"
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/rpt/africa/democratic-republic-congo-rwanda/320-m23-offensive-elusive-peace-great-lakes",
+      "titre": "The M23 Offensive: Elusive Peace in the Great Lakes",
+      "date_source": "2025-12-19"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks",
+      "titre": "DR Congo, M23 rebels agree on roadmap for peace talks",
+      "date_source": "2026-08-23"
+    },
+    {
+      "source_id": "ocha",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Situation humanitaire RDC — 7,3 millions de déplacés internes",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "africa-center",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://africacenter.org/spotlight/drc-congo-conflict-drivers-beyond-m23/",
+      "titre": "Beyond M23: Addressing the Underlying Drivers of the DRC Conflict",
+      "date_source": null
+    },
+    {
+      "source_id": "jeune-afrique",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse africaine de la feuille de route de Genève",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "msf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "MSF sur la situation humanitaire dans l'est du Congo",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Conférence de Paris pour la paix et la prospérité dans la région des Grands Lacs (octobre 2025)",
+      "date_source": "2025-10"
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/rpt/africa/democratic-republic-congo-rwanda/320-m23-offensive-elusive-peace-great-lakes",
+      "titre": "The M23 Offensive: Elusive Peace in the Great Lakes (rapport n° 320)",
+      "date_source": "2025-12-19"
+    },
+    {
+      "source_id": "critical-threats",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.criticalthreats.org/analysis/drc-m23-doha-peace-framework-a-long-road-ahead-africa-file-special-edition",
+      "titre": "DRC-M23 Doha Peace Framework — A Long Road Ahead",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "the-new-humanitarian",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.thenewhumanitarian.org/analysis/2025/11/10/mining-interests-missed-deadlines-why-congolese-see-little-hope-m23-peace",
+      "titre": "Mining interests and missed deadlines: Why Congolese see little hope in M23 peace talks",
+      "date_source": "2025-11-10"
+    }
+  ]
+}
