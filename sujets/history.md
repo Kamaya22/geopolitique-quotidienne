@@ -80,3 +80,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-29 — FR : L'hiver démographique de l'école française : une rupture structurelle | Monde : COP17 à Oulan-Bator : le protocole sécheresse bloqué par Washington
 - 2026-08-30 — FR : La dernière tournée européenne de Macron : frégates, souveraineté et héritage | Monde : L'embargo émirati sur l'Iran : le Golfe referme la dernière fenêtre économique de Téhéran
 - 2026-08-31 — FR : Loi d'urgence agricole : souveraineté alimentaire en débat | Monde : RDC — la feuille de route de Doha pour la paix dans l'est du Congo
+- 2026-09-01 — FR : La suspension de la réforme des retraites entre en vigueur | Monde : L'axe Corée du Nord-Russie en guerre : missiles, soldats et sommet de septembre
