@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-02",
+  "sujet_fr": "Le RN relance l'interdiction du voile dans l'espace public",
+  "sujet_monde": "Sommet Xi-Trump à la Maison-Blanche : commerce géré ou implosion de la trêve",
+  "citations": [
+    {
+      "source_id": "bfmtv",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Jean-Philippe Tanguy annonce la pénalisation du voile dans l'espace public",
+      "date_source": "2026-08-30"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-absolument-pas-credible-juridiquement-le-rn-peut-il-vraiment-interdire-le-port-du-voile-dans-l-espace-public_8170601.html",
+      "titre": "Absolument pas crédible juridiquement : le RN peut-il vraiment interdire le port du voile dans l'espace public ?",
+      "date_source": "2026-08-31"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-absolument-pas-credible-juridiquement-le-rn-peut-il-vraiment-interdire-le-port-du-voile-dans-l-espace-public_8170601.html",
+      "titre": "Absolument pas crédible juridiquement : le RN peut-il vraiment interdire le port du voile dans l'espace public ?",
+      "date_source": "2026-08-31"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/interdiction-du-voile-en-envisageant-la-piste-dun-referendum-marine-le-pen-met-la-pression-sur-le-conseil-constitutionnel",
+      "titre": "Interdiction du voile : en envisageant la piste d'un référendum, Marine Le Pen met la pression sur le Conseil constitutionnel",
+      "date_source": "2026-08-31"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/sanctionner-le-port-du-voile-par-une-amende-le-rn-maintient-sa-proposition-polemique-et-inconstitutionnelle",
+      "titre": "Sanctionner le port du voile par une amende : le RN maintient sa proposition polémique et inconstitutionnelle",
+      "date_source": "2026-09-01"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/interdiction-du-voile-en-envisageant-la-piste-dun-referendum-marine-le-pen-met-la-pression-sur-le-conseil-constitutionnel",
+      "titre": "Interdiction du voile : en envisageant la piste d'un référendum, Marine Le Pen met la pression sur le Conseil constitutionnel",
+      "date_source": "2026-08-31"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "CNews comme tribune du RN sur le voile islamique",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Édouard Philippe : contre la proposition RN sur le voile",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "europe1",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Proches du gouvernement Lecornu sur la laïcité",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ldh",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "LDH : opposition à l'interdiction du voile au nom des libertés fondamentales",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "cedh",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "CEDH — Arrêt S.A.S. c. France (2014) validant l'interdiction du voile intégral",
+      "date_source": "2014"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/trump-says-he-expects-to-host-china-s-xi-in-us-around-sept-24",
+      "titre": "Trump says he expects to host China's Xi in US around Sept. 24",
+      "date_source": "2026-07-06"
+    },
+    {
+      "source_id": "the-hill",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://thehill.com/homenews/administration/5879110-trump-xi-china-taiwan-trade/",
+      "titre": "Donald Trump talks trade with China, Xi Jinping presses on Taiwan as summit starts",
+      "date_source": "2026-05-14"
+    },
+    {
+      "source_id": "xinhua",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Xinhua (point de vue officiel de Pékin) : coopération gagnant-gagnant",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.csis.org/programs/trump-xi-2026-summit",
+      "titre": "CSIS — Trump-Xi 2026 Summit analysis",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Quincy Institute : opportunité de mécanismes de désescalade autour de Taiwan",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ECFR : risques pour l'Europe d'un accord bilatéral sino-américain",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3361215/china-us-talks-ahead-xi-jinpings-planned-september-visit-maintained-beijing",
+      "titre": "South China Morning Post : China and US still in contact on Xi summit trip",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "japan-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "The Japan Times : Tokyo observe avec anxiété le sommet sino-américain",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "model-diplomat",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://modeldiplomat.com/story/xis-september-white-house-visit-tests-truce",
+      "titre": "Xi's September White House Visit Tests Truce",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/05/14/trump-xi-summit-us-china-trade-taiwan-iran-nvidia.html",
+      "titre": "Trade wars to extended truce: Analysts expect 'stabilization' in US-China ties as Trump-Xi meet",
+      "date_source": "2026-05-14"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/the-trump-xi-summit-what-it-means-for-southeast-asia-and-south-asia",
+      "titre": "What the Trump-Xi Summit Means for Southeast Asia and South Asia",
+      "date_source": "2026-06"
+    }
+  ]
+}

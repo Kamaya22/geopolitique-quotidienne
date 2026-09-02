@@ -81,3 +81,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-08-30 — FR : La dernière tournée européenne de Macron : frégates, souveraineté et héritage | Monde : L'embargo émirati sur l'Iran : le Golfe referme la dernière fenêtre économique de Téhéran
 - 2026-08-31 — FR : Loi d'urgence agricole : souveraineté alimentaire en débat | Monde : RDC — la feuille de route de Doha pour la paix dans l'est du Congo
 - 2026-09-01 — FR : La suspension de la réforme des retraites entre en vigueur | Monde : L'axe Corée du Nord-Russie en guerre : missiles, soldats et sommet de septembre
+- 2026-09-02 — FR : Le RN relance l'interdiction du voile dans l'espace public | Monde : Sommet Xi-Trump à la Maison-Blanche : « commerce géré » ou implosion de la trêve ?
