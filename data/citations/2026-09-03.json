@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-03",
+  "sujet_fr": "La France préside le Conseil de sécurité de l'ONU en septembre 2026",
+  "sujet_monde": "Mali : l'État au bord du gouffre",
+  "citations": [
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://press.un.org/fr/2026/conf260901-cs",
+      "titre": "Conseil de sécurité : l'Ukraine, le Moyen-Orient, le maintien de la paix et la lutte contre le terrorisme, priorités de la présidence française en septembre",
+      "date_source": "2026-09-01"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "AGNU 81 — thème, dates et présidence (Khalilur Rahman, Bangladesh)",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://news.un.org/fr/story/2026/05/1158869",
+      "titre": "La réforme du Conseil de sécurité est « absolument essentielle », affirme Guterres",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "L'Opinion (droite libérale) : la présidence du Conseil comme exercice de communication de Macron",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Figaro (centre-droit) : limites structurelles de la France au Conseil de sécurité",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Libération (gauche) : diplomatie du verbe insuffisante sur Gaza sans mécanismes de contrainte",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Monde diplomatique (gauche critique) : insuffisance de la présidence sans réforme du droit de veto",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "IFRI — analyse stratégique : la présidence française du Conseil comme fenêtre d'opportunité réelle",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://onu.delegfrance.org/septembre-1-mois-de-presidence-du-conseil-de-securite",
+      "titre": "Septembre 2026 : 1 mois de présidence du Conseil de sécurité",
+      "date_source": "2026-09-01"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://press.un.org/fr/2026/conf260901-cs",
+      "titre": "Conseil de sécurité : l'Ukraine, le Moyen-Orient, le maintien de la paix et la lutte contre le terrorisme, priorités de la présidence française en septembre",
+      "date_source": "2026-09-01"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://news.un.org/fr/story/2026/05/1158869",
+      "titre": "La réforme du Conseil de sécurité est « absolument essentielle », affirme Guterres",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.crisisgroup.org/rpt/africa/sahel-west-africa/321-le-jnim-et-le-dilemme-de-lexpansion-au-dela-du-sahel",
+      "titre": "Le JNIM et le dilemme de l'expansion au-delà du Sahel",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/brf/africa/b209-seven-peace-and-security-priorities-africa-2026",
+      "titre": "Sept priorités pour la paix et la sécurité en Afrique en 2026",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ICG — plaidoyer pour une approche négociée avec les acteurs armés au Mali",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "acled",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://acleddata.com/report/economic-warfare-escalates-militants-expand-beyond-sahel",
+      "titre": "Economic warfare escalates as militants expand beyond the Sahel",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fidh",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "FIDH — documentation des exactions de l'Africa Corps et des FAMa contre les civils",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Figaro (droite libérale) : la lecture atlantiste — l'Africa Corps responsable du vide sécuritaire",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "jeune-afrique",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Jeune Afrique — perspective africaine critique sur les causes structurelles de la crise malienne",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "sipri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "SIPRI — analyse humanitaire et du risque d'effondrement de l'État malien",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/rpt/africa/sahel-west-africa/321-le-jnim-et-le-dilemme-de-lexpansion-au-dela-du-sahel",
+      "titre": "Le JNIM et le dilemme de l'expansion au-delà du Sahel",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/brf/africa/b209-seven-peace-and-security-priorities-africa-2026",
+      "titre": "Sept priorités pour la paix et la sécurité en Afrique en 2026",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "jeune-afrique",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jeuneafrique.com/1746256/politique/de-wagner-a-lafrica-corps-comment-la-russie-a-sape-la-stabilite-du-mali/",
+      "titre": "De Wagner à l'Africa Corps : comment la Russie a sapé la stabilité du Mali",
+      "date_source": "2025-12"
+    }
+  ]
+}
