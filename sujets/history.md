@@ -83,3 +83,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-01 — FR : La suspension de la réforme des retraites entre en vigueur | Monde : L'axe Corée du Nord-Russie en guerre : missiles, soldats et sommet de septembre
 - 2026-09-02 — FR : Le RN relance l'interdiction du voile dans l'espace public | Monde : Sommet Xi-Trump à la Maison-Blanche : « commerce géré » ou implosion de la trêve ?
 - 2026-09-03 — FR : La France préside le Conseil de sécurité de l'ONU en septembre 2026 | Monde : Mali — l'État au bord du gouffre
+- 2026-09-04 — FR : La France face à l'Arctique militarisé | Monde : Qui succédera à António Guterres ? La course au secrétariat général de l'ONU

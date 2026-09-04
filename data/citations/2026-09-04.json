@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-04",
+  "sujet_fr": "La France face à l'Arctique militarisé",
+  "sujet_monde": "Succession d'António Guterres à la tête de l'ONU",
+  "citations": [
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/le-ministere-en-action/contribuer-a-une-mondialisation-durable-et-equilibree/strategies-regionales/strategie-polaire-de-la-france",
+      "titre": "Stratégie polaire de la France",
+      "date_source": "2025-12"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.defense.gouv.fr/sites/default/files/dgris/Strat%C3%A9gie%20polaire%20r%C3%A9vis%C3%A9e%20%C3%A0%20l%E2%80%99horizon%202040.pdf",
+      "titre": "Stratégie polaire révisée à l'horizon 2040",
+      "date_source": "2025-12-03"
+    },
+    {
+      "source_id": "otan",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Cold Response 26 / Task Force X-Arctic",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "nasa",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Minimum de glace arctique mars 2026 — 14,29 millions de km²",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/en/arctique-quelle-strategie-francaise/",
+      "titre": "Arctique : quelle stratégie française ?",
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/en/arctique-quelle-strategie-francaise/",
+      "titre": "Arctique : quelle stratégie française ?",
+      "date_source": null
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/le-ministere-en-action/contribuer-a-une-mondialisation-durable-et-equilibree/strategies-regionales/strategie-polaire-de-la-france",
+      "titre": "Stratégie polaire de la France",
+      "date_source": "2025-12"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.defense.gouv.fr/sites/default/files/dgris/Strat%C3%A9gie%20polaire%20r%C3%A9vis%C3%A9e%20%C3%A0%20l%E2%80%99horizon%202040.pdf",
+      "titre": "Stratégie polaire révisée à l'horizon 2040",
+      "date_source": "2025-12-03"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Processus de sélection du Secrétaire général 2026",
+      "date_source": null
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Votes indicatifs du Conseil de sécurité juillet-août 2026",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader",
+      "titre": "Guyana's Rodrigues Birkett leads informal poll in race to be next UN leader",
+      "date_source": "2026-08-22"
+    },
+    {
+      "source_id": "passblue",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Rodrigues Birkett and Otunnu Show Biggest Gains in UN SecGen Poll",
+      "date_source": "2026-08-21"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/09/01/un-next-leader-secretary-general/",
+      "titre": "The U.N.'s Next Leader Will Be Either a Secretary or a General",
+      "date_source": "2026-09-01"
+    },
+    {
+      "source_id": "rts",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.rts.ch/info/monde/2026/article/succession-de-guterres-qui-sera-le-prochain-secretaire-de-l-onu-29310672.html",
+      "titre": "Succession de Guterres : qui sera le prochain secrétaire de l'ONU ?",
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader",
+      "titre": "Guyana's Rodrigues Birkett leads informal poll in race to be next UN leader",
+      "date_source": "2026-08-22"
+    },
+    {
+      "source_id": "rts",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.rts.ch/info/monde/2026/article/succession-de-guterres-qui-sera-le-prochain-secretaire-de-l-onu-29310672.html",
+      "titre": "Succession de Guterres : qui sera le prochain secrétaire de l'ONU ?",
+      "date_source": null
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/09/01/un-next-leader-secretary-general/",
+      "titre": "The U.N.'s Next Leader Will Be Either a Secretary or a General",
+      "date_source": "2026-09-01"
+    }
+  ]
+}
