@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-05",
+  "sujet_fr": "Bardella-Farage : pacte migratoire dans la Manche",
+  "sujet_monde": "Ukraine : mission Witkoff-Kushner à Moscou et Kyiv, cessez-le-feu temporaire",
+  "citations": [
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.euronews.com/my-europe/2026/09/04/bardella-signs-pact-with-farage-to-stop-small-boat-crossings-forever",
+      "titre": "Bardella signs pact with Farage to stop small boat crossings 'forever'",
+      "date_source": "2026-09-04"
+    },
+    {
+      "source_id": "arab-news",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.arabnews.com/world/uk-france-hard-right-leaders-agree-to-cooperate-on-migrant-crossings-3000514",
+      "titre": "UK, France hard-right leaders agree to cooperate on migrant crossings",
+      "date_source": "2026-09-04"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.euronews.com/my-europe/2026/09/04/bardella-to-meet-with-farage-at-reform-party-conference-in-birmingham-as-part-of-internati",
+      "titre": "Bardella to meet with Farage at Reform party conference in Birmingham, as part of international tour",
+      "date_source": "2026-09-04"
+    },
+    {
+      "source_id": "odoxa",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Baromètre présidentielle 2027 — sondage Odoxa (été 2026)",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclarations Bardella et Farage au congrès de Birmingham (Reform UK, 4 septembre 2026)",
+      "date_source": "2026-09-04"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Réactions des opposants français au pacte Bardella-Farage (Philippe, Attal, Mélenchon)",
+      "date_source": "2026-09-04"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://edition.cnn.com/2026/09/04/europe/us-trump-witkoff-kushner-russia-ukraine-diplomacy-intl",
+      "titre": "Trump envoys Witkoff and Kushner plan to visit Moscow and Kyiv in their first trip to Ukraine",
+      "date_source": "2026-09-04"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-propose-a-la-russie-un-arret-des-frappes-lors-des-visites-des-emissaires-de-donald-trump-a-moscou-et-kiev_8177756.html",
+      "titre": "Volodymyr Zelensky propose à la Russie un arrêt des frappes lors des visites des émissaires de Donald Trump à Moscou et Kiev",
+      "date_source": "2026-09-05"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/ukraines-falling-confidence-in-us-mediation/",
+      "titre": "Ukraine's falling confidence in US mediation",
+      "date_source": null
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Ukraine's falling confidence in US mediation — mention dans la section Points de vue croisés",
+      "date_source": null
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "What If Trump Gets His Russia-Ukraine Deal? — mention dans la section Points de vue croisés",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclarations Zelensky sur le cessez-le-feu temporaire 5-8 septembre 2026",
+      "date_source": "2026-09-05"
+    }
+  ]
+}
