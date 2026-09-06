@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-06",
+  "sujet_fr": "Le service militaire volontaire entre en marche",
+  "sujet_monde": "BRICS à New Delhi : fractures internes avant le sommet du 12 septembre",
+  "citations": [
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://fr.euronews.com/my-europe/2026/08/31/apres-lechec-du-snu-le-service-national-militaire-demarre",
+      "titre": "Après l'échec du SNU, le \"service national\" militaire démarre",
+      "date_source": "2026-08-31"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.franceinfo.fr/societe/armee-securite-defense/service-militaire-volontaire-la-gauche-divisee-face-au-projet-d-emmanuel-macron_7637048.html",
+      "titre": "Service militaire volontaire : la gauche divisée face au projet d'Emmanuel Macron",
+      "date_source": null
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.defense.gouv.fr/actualites/service-national-candidatures-sont-ouvertes",
+      "titre": "Service national : les candidatures sont ouvertes",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/09/02/brics-new-delhi-summit-india/",
+      "titre": "BRICS New Delhi Summit: Is the Grouping Losing Its Mojo?",
+      "date_source": "2026-09-02"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/research/2026/06/managing-divergence-indias-brics-presidency-in-2026",
+      "titre": "Managing Divergence: India's BRICS Presidency in 2026",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://quincyinst.org/2026/09/02/is-brics-losing-its-mojo/",
+      "titre": "Is BRICS Losing Its Mojo?",
+      "date_source": "2026-09-02"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "orf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}

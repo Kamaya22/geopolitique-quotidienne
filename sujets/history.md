@@ -85,3 +85,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-03 — FR : La France préside le Conseil de sécurité de l'ONU en septembre 2026 | Monde : Mali — l'État au bord du gouffre
 - 2026-09-04 — FR : La France face à l'Arctique militarisé | Monde : Qui succédera à António Guterres ? La course au secrétariat général de l'ONU
 - 2026-09-05 — FR : Bardella-Farage : la « nouvelle entente cordiale » des droites populistes sur les migrants dans la Manche | Monde : Ukraine : cessez-le-feu temporaire 5-8 septembre et mission Witkoff-Kushner à Moscou et Kyiv
+- 2026-09-06 — FR : Le service militaire volontaire entre en marche : la France se réarme-t-elle vraiment ? | Monde : BRICS à New Delhi : fractures internes à six jours du sommet du 12 septembre
