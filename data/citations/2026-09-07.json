@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-07",
+  "sujet_fr": "Roussel et le PCF dans la course à 2027 : la gauche atomisée",
+  "sujet_monde": "L'AfD remporte la Saxe-Anhalt — l'extrême droite aux portes du pouvoir en Allemagne",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+      "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+      "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/france/20260825-france-presidentielle-2027-melenchon-glucksmann-tondelier-et-les-autres-combien-de-candidats-a-gauche",
+      "titre": "Mélenchon, Glucksmann, Tondelier et les autres : combien de candidats à la présidentielle à gauche ?",
+      "date_source": "2026-08-25"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "ipsos",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.ipsos.com/fr-fr/presidentielle-2027-marine-le-pen-conserve-une-avance-nette-dans-les-intentions-de-vote",
+      "titre": "Présidentielle 2027 : Marine Le Pen conserve une avance nette dans les intentions de vote",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ipsos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.ipsos.com/fr-fr/presidentielle-2027-marine-le-pen-conserve-une-avance-nette-dans-les-intentions-de-vote",
+      "titre": "Présidentielle 2027 : Marine Le Pen conserve une avance nette dans les intentions de vote",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondapol",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-l-afd-remporte-une-tres-large-victoire-en-saxe-anhalt-une-premiere-pour-un-parti-d-extreme-droite-depuis-1945_8179994.html",
+      "titre": "En Allemagne, l'AfD remporte une très large victoire en Saxe-Anhalt, une première pour un parti d'extrême droite depuis 1945",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-l-afd-remporte-une-tres-large-victoire-en-saxe-anhalt-une-premiere-pour-un-parti-d-extreme-droite-depuis-1945_8179994.html",
+      "titre": "En Allemagne, l'AfD remporte une très large victoire en Saxe-Anhalt, une première pour un parti d'extrême droite depuis 1945",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/europe/20260906-allemagne-en-direct-extreme-droite-favorite-saxe-anhalt-estimations-resultats",
+      "titre": "Allemagne en direct : victoire \"historique\" de l'extrême droite en Saxe-Anhalt, mais pas de majorité absolue",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "europe1",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.europe1.fr/international/allemagne-tres-large-victoire-de-lafd-a-lelection-regionale-en-saxe-anhalt-1059233",
+      "titre": "Allemagne : très large victoire de l'AfD à l'élection régionale en Saxe-Anhalt",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/09/06/german-far-right-afd-wins-by-a-landslide-in-saxony-anhalt-exit-polls",
+      "titre": "German far-right AfD wins by a landslide in Saxony-Anhalt",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.euronews.com/my-europe/2026/09/06/german-far-right-afd-wins-by-a-landslide-in-saxony-anhalt-exit-polls",
+      "titre": "German far-right AfD wins by a landslide in Saxony-Anhalt",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-regionales-en-allemagne-en-saxe-anhalt-l-extreme-droite-aux-portes-du-pouvoir/",
+      "titre": "Élections régionales en Allemagne : en Saxe-Anhalt, l'extrême-droite aux portes du pouvoir",
+      "date_source": "2026-09-07"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-regionales-en-allemagne-en-saxe-anhalt-l-extreme-droite-aux-portes-du-pouvoir/",
+      "titre": "Élections régionales en Allemagne : en Saxe-Anhalt, l'extrême-droite aux portes du pouvoir",
+      "date_source": "2026-09-07"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}
