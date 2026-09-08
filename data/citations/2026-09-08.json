@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-08",
+  "sujet_fr": "La France face au séisme AfD : le couple franco-allemand à l'épreuve",
+  "sujet_monde": "Ukraine : la trêve manquée et le retour des bombes sur Kyiv",
+  "citations": [
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/09/06/afd-obtient-le-meilleur-resultat-de-lextreme-droite-en-allemagne-depuis-la-seconde-guerre-mondiale-saxe-anhalt/",
+      "titre": "L'AfD obtient le meilleur résultat de l'extrême droite en Allemagne depuis la Seconde Guerre mondiale",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/europe/allemagne/pourquoi-la-victoire-de-l-afd-lors-des-elections-en-saxe-anhalt-est-un-seisme-politique-en-allemagne_8176916.html",
+      "titre": "Pourquoi la victoire de l'AfD lors des élections en Saxe-Anhalt est un séisme politique en Allemagne",
+      "date_source": "2026-09-07"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/europe/20260907-victoire-afd-saxe-anhalt-gauche-populiste-faiseuse-rois-extr%C3%AAme-droite",
+      "titre": "Victoire de l'AfD en Saxe-Anhalt : la gauche populiste faiseuse de rois de l'extrême droite ?",
+      "date_source": "2026-09-07"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/europe/20260906-allemagne-en-direct-extreme-droite-favorite-saxe-anhalt-estimations-resultats",
+      "titre": "Allemagne en direct : après la victoire de l'AfD, Barrot déplore une « trahison de l'esprit européen »",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/monde/europe/allemagne/face-a-la-victoire-de-l-afd-en-saxe-anhalt-la-gauche-et-le-centre-francais-expriment-leurs-inquietudes-silence-du-rn_8180453.html",
+      "titre": "Face à la victoire de l'AfD en Saxe-Anhalt, la gauche et le centre français expriment leurs inquiétudes, le RN reste silencieux",
+      "date_source": "2026-09-07"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260907-en-saxe-anhalt-la-victoire-de-l-afd-s-appuie-sur-une-%C3%A9conomie-%C3%A0-la-peine",
+      "titre": "En Saxe-Anhalt, la victoire de l'AfD s'appuie sur une économie à la peine",
+      "date_source": "2026-09-07"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/09/07/afd-victory-exposes-divisions-on-frances-far-right-as-national-rally-stays-silent",
+      "titre": "AfD victory exposes divisions on France's far right as National Rally stays silent",
+      "date_source": "2026-09-07"
+    },
+    {
+      "source_id": "bfmtv",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Déclaration de Jean-Philippe Tanguy (RN) sur BFMTV/LCI au soir du 6 septembre 2026",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://kyivindependent.com/us-envoys-witkoff-kushner-arrive-in-ukraine/",
+      "titre": "'The war will continue' — US peace push fails to achieve deal after Witkoff, Kushner's first visit to Kyiv",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends",
+      "titre": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
+      "date_source": "2026-09-08"
+    },
+    {
+      "source_id": "critical-threats",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-5-2026",
+      "titre": "Russian Offensive Campaign Assessment, September 5, 2026",
+      "date_source": "2026-09-05"
+    },
+    {
+      "source_id": "tass",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Confirmation TASS de l'expiration de la suspension de frappes ordonnée par Poutine",
+      "date_source": "2026-09-08"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-5-2026",
+      "titre": "Russian Offensive Campaign Assessment, September 5, 2026",
+      "date_source": "2026-09-05"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/the-time-is-ripe-for-russia-ukraine-peace-talks-but-putin-could-escalate-conflict",
+      "titre": "The Time Is Ripe for Russia-Ukraine Peace Talks, But Putin Could Escalate Conflict",
+      "date_source": null
+    },
+    {
+      "source_id": "axios",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.axios.com/2026/09/06/witkoff-kushner-kyiv-ukraine-peace-talks",
+      "titre": "Trump envoys Witkoff, Kushner meet Zelensky in Kyiv for Ukraine peace talks",
+      "date_source": "2026-09-06"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://kyivindependent.com/units-of-ukraines-army-ordered-to-halt-fighting-as-us-envoys-set-to-visit-ukraine-russia/",
+      "titre": "Ukraine orders temporary ceasefire as US envoys set to visit Kyiv, Moscow",
+      "date_source": "2026-09-04"
+    }
+  ]
+}

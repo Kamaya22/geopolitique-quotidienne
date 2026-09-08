@@ -87,3 +87,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-05 — FR : Bardella-Farage : la « nouvelle entente cordiale » des droites populistes sur les migrants dans la Manche | Monde : Ukraine : cessez-le-feu temporaire 5-8 septembre et mission Witkoff-Kushner à Moscou et Kyiv
 - 2026-09-06 — FR : Le service militaire volontaire entre en marche : la France se réarme-t-elle vraiment ? | Monde : BRICS à New Delhi : fractures internes à six jours du sommet du 12 septembre
 - 2026-09-07 — FR : Roussel et le PCF dans la course à 2027 : la gauche atomisée | Monde : L'AfD remporte la Saxe-Anhalt — l'extrême droite aux portes du pouvoir en Allemagne
+- 2026-09-08 — FR : La France face au séisme AfD : le couple franco-allemand à l'épreuve | Monde : Ukraine : la trêve manquée et le retour des bombes sur Kyiv
