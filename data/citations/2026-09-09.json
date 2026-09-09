@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-09",
+  "sujet_fr": "Le procès Bayrou en appel : justice, politique et présidentielle 2027",
+  "sujet_monde": "Colonies israéliennes : la déclaration France-UK-Canada sur la solution à deux États",
+  "citations": [
+    {
+      "source_id": "le-club-des-juristes",
+      "sujet": "fr",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "Analyse juridique des enjeux probatoires du procès en appel : notion de décideur, standard de preuve, comparaison avec le dossier Le Pen",
+      "url": "https://www.leclubdesjuristes.com/justice/affaire-des-assistants-du-modem-les-enjeux-du-proces-en-appel-de-francois-bayrou-17260/",
+      "titre": "Affaire des assistants du MoDem : les enjeux du procès en appel de François Bayrou",
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "toute-leurope",
+      "sujet": "fr",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "Chronologie du système incriminé et des décisions de justice successives dans l'affaire MoDem",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/affaire-des-assistants-parlementaires-du-modem-le-proces-en-appel-de-francois-bayrou-fixe-a-l-automne-2026/",
+      "titre": "Affaire des assistants parlementaires du MoDem : le procès en appel de François Bayrou fixé à l'automne 2026",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "europe1",
+      "sujet": "fr",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "Éclairage politique sur les craintes du camp centriste face au précédent du verdict Le Pen",
+      "url": "https://www.europe1.fr/police-justice/proces-en-appel-de-francois-bayrou-le-modem-craint-la-comparaison-avec-l-affaire-qui-a-eclabousse-le-rn-et-marine-le-pen-1063958",
+      "titre": "Procès en appel de François Bayrou : le MoDem craint la comparaison avec l'affaire Le Pen",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "fr",
+      "emplacement": "perspective",
+      "role": "Perspective gauche : la procédure pénale doit suivre son cours avec égale rigueur ; l'acquittement au bénéfice du doute n'est pas une innocence proclamée",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "fr",
+      "emplacement": "perspective",
+      "role": "Perspective gauche/investigation : exigence de probité renforcée pour un ancien Premier ministre ; le verdict Le Pen comme garantie démocratique",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "fr",
+      "emplacement": "perspective",
+      "role": "Perspective droite : inquiétude face à la juridictionnalisation de la démocratie ; légitimité populaire court-circuitée par un pouvoir judiciaire non élu",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "fr",
+      "emplacement": "perspective",
+      "role": "Perspective centre-droit : Bayrou relaxé en première instance, responsabilité personnelle directe jamais prouvée ; appel comme arme politique serait une dérive institutionnelle",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "uk-fcdo",
+      "sujet": "monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "Texte intégral de la déclaration trilatérale Burnham-Macron-Carney sur la solution à deux États et les restrictions sur les produits des colonies",
+      "url": "https://www.gov.uk/government/news/joint-statement-by-the-prime-minister-president-macron-and-prime-minister-carney-on-the-two-state-solution",
+      "titre": "Joint Statement by the Prime Minister, President Macron and Prime Minister Carney on the Two-State Solution",
+      "date_source": "2026-09-08"
+    },
+    {
+      "source_id": "jta",
+      "sujet": "monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "Couverture factuelle des mesures annoncées et de la réaction israélienne, depuis la perspective de l'agence de presse juive américaine de référence",
+      "url": "https://www.jta.org/2026/09/08/israel/uk-france-canada-to-ban-goods-from-israeli-settlements",
+      "titre": "UK, France, Canada to ban goods from Israeli settlements",
+      "date_source": "2026-09-08"
+    },
+    {
+      "source_id": "middle-east-eye",
+      "sujet": "monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "Analyse approfondie depuis la perspective moyen-orientale, incluant les réactions des parties palestiniennes",
+      "url": "https://www.middleeasteye.net/news/france-and-canada-follow-uk-announcing-sanctions-israeli-settlements",
+      "titre": "France and Canada to follow UK in announcing sanctions on Israeli settlements",
+      "date_source": "2026-09-08"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "monde",
+      "emplacement": "perspective",
+      "role": "Perspective libérale-internationale : les restrictions commerciales comme nécessité pour préserver la crédibilité du droit international ; impact économique des colonies sur leur expansion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "washington-institute",
+      "sujet": "monde",
+      "emplacement": "perspective",
+      "role": "Perspective conservatrice-sécuritaire pro-israélienne : sanctions ignorant les réalités sécuritaires d'Israël, asymétrie injuste",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "monde",
+      "emplacement": "perspective",
+      "role": "Perspective israélienne de gauche : une partie de la gauche israélienne voit dans ces sanctions une pression extérieure bienvenue sur un gouvernement jugé extrémiste",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "monde",
+      "emplacement": "perspective",
+      "role": "Perspective droits humains : mesures saluées mais insuffisantes ; sanctions ne visent que les produits des colonies, pas d'embargo sur les armes",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "monde",
+      "emplacement": "perspective",
+      "role": "Perspective droits humains : réaction jugée timide face à une politique de colonisation documentée comme violation systématique du droit international humanitaire",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "monde",
+      "emplacement": "perspective",
+      "role": "Perspective pragmatiste : risque d'escalade diplomatique sans avancée concrète vers la paix ; isolation internationale d'Israël pourrait rapprocher Jérusalem de Trump",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "monde",
+      "emplacement": "perspective",
+      "role": "Perspective pragmatiste : interrogation sur l'efficacité réelle des restrictions commerciales dont l'impact économique sur Israël reste marginal par rapport à son commerce total",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    }
+  ]
+}
