@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-11",
+  "sujet_fr": "L'héritage du 11-Septembre pour la France : 25 ans de recomposition stratégique",
+  "sujet_monde": "Vingt-cinq ans de « guerre contre le terrorisme » : bilan d'un monde reconfiguré",
+  "citations": [
+    {
+      "source_id": "le-monde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Nous sommes tous Américains (éditorial du 12 septembre 2001)",
+      "date_source": "2001-09-12"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La Guerre de vingt ans. Djihadisme et contre-terrorisme au XXIe siècle (Marc Hecker, Élie Tenenbaum)",
+      "date_source": "2021"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/articles/retour-sur-la-guerre-contre-le-terrorisme-la-francaise",
+      "titre": "Retour sur la « guerre contre le terrorisme » à la française",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/livres/la-guerre-de-vingt-ans-djihadisme-et-contre-terrorisme-au-xxie-siecle-0",
+      "titre": "La Guerre de vingt ans. Djihadisme et contre-terrorisme au XXIe siècle",
+      "date_source": "2021"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/info-en-continu/20210816-treize-ans-de-pr%C3%A9sence-militaire-fran%C3%A7aise-en-afghanistan",
+      "titre": "Treize ans de présence militaire française en Afghanistan",
+      "date_source": "2021-08-16"
+    },
+    {
+      "source_id": "costs-of-war",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://costsofwar.watson.brown.edu/findings",
+      "titre": "Findings — Costs of War Project (Watson Institute, Brown University)",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "2001-2025 : guerre globale contre le djihadisme (Marc Hecker, Élie Tenenbaum)",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "rand",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/events/the-9-11-terrorist-attacks-at-25-assessing-the-legacy-addressing-the-future/",
+      "titre": "The 9/11 terrorist attacks at 25: Assessing the legacy, addressing the future",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "costs-of-war",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://costsofwar.watson.brown.edu/findings",
+      "titre": "Findings — Costs of War Project",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.atlanticcouncil.org/dispatches/the-state-of-terrorism-25-years-after-9-11/",
+      "titre": "The state of terrorism, 25 years after 9/11",
+      "date_source": "2026-09"
+    }
+  ]
+}

@@ -90,3 +90,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-08 — FR : La France face au séisme AfD : le couple franco-allemand à l'épreuve | Monde : Ukraine : la trêve manquée et le retour des bombes sur Kyiv
 - 2026-09-09 — FR : Le procès Bayrou en appel : justice, politique et 2027 | Monde : Colonies israéliennes : la déclaration France-UK-Canada sur la solution à deux États
 - 2026-09-10 — FR : Le sommet international sur l'espace à Paris : la France arbitre du cosmos ? | Monde : Modi et Xi à New Delhi : le dégel précaire Inde-Chine avant le BRICS
+- 2026-09-11 — FR : L'héritage du 11-Septembre pour la France : 25 ans de recomposition stratégique | Monde : Vingt-cinq ans de « guerre contre le terrorisme » : bilan d'un monde reconfiguré
