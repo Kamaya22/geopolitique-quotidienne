@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-12",
+  "sujet_fr": "L'impasse budgétaire française : troisième révision à la baisse de la croissance et bataille du budget 2027",
+  "sujet_monde": "Le 18e sommet BRICS à New Delhi : l'Inde arbitre entre fractures internes et bataille du dollar",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-11"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/nous-n-avons-plus-de-gras-roland-lescure-evoque-la-necessite-imperieuse-d-adopter-un",
+      "titre": "Nous n'avons plus de gras : Roland Lescure évoque la nécessité impérieuse d'adopter un budget le plus tôt possible",
+      "date_source": "2026-09-11"
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-france-2026_e88a1716-en.html",
+      "titre": "OECD Economic Surveys: France 2026",
+      "date_source": "2026-06-30"
+    },
+    {
+      "source_id": "banque-de-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ofce.sciences-po.fr/prev/prev2603/france/fipu.html",
+      "titre": "Le déficit public devrait diminuer en 2026 et 2027 – Prévisions de l'OFCE d'avril 2026",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-11"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-11"
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-06-30"
+    },
+    {
+      "source_id": "banque-de-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-france-2026_e88a1716-en.html",
+      "titre": "OECD Economic Surveys: France 2026",
+      "date_source": "2026-06-30"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ofce.sciences-po.fr/prev/prev2603/france/fipu.html",
+      "titre": "Finances publiques : le déficit public devrait diminuer en 2026 et 2027 – Prévisions de l'OFCE d'avril 2026",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/nous-n-avons-plus-de-gras-roland-lescure-evoque-la-necessite-imperieuse-d-adopter-un",
+      "titre": "Roland Lescure : « Nous n'avons plus de gras »",
+      "date_source": "2026-09-11"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-12"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-12"
+    },
+    {
+      "source_id": "orf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-12"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/09/india-china-reset-will-continue-brics-summit",
+      "titre": "The India–China reset will continue at the BRICS summit",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://responsiblestatecraft.org/brics-summit-2026/",
+      "titre": "The Iran war looms large as BRICS leaders gather in New Delhi",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/09/india-china-reset-will-continue-brics-summit",
+      "titre": "The India–China reset will continue at the BRICS summit",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://responsiblestatecraft.org/brics-summit-2026/",
+      "titre": "The Iran war looms large as BRICS leaders gather in New Delhi",
+      "date_source": "2026-09"
+    }
+  ]
+}
