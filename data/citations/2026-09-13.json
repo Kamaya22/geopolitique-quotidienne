@@ -1,0 +1,250 @@
+{
+  "date": "2026-09-13",
+  "sujet_fr": "Sénatoriales du 27 septembre : à J-14, le Sénat français en mutation",
+  "sujet_monde": "Taïwan : 125 incursions en un mois, Pékin normalise le blocus, l'île adopte la doctrine Hellscape",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-09"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/recul-des-lr-arrivee-dun-groupe-rn-et-la-gauche-qui-veut-limiter-la-casse-les-enjeux-des-senatoriales",
+      "titre": "Recul des LR, arrivée d'un groupe RN et la gauche qui veut limiter la casse : les enjeux des sénatoriales",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ministere-interieur",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.interieur.gouv.fr/actualites/actualites-du-ministere/elections-senatoriales-27-septembre-2026",
+      "titre": "Élections sénatoriales du 27 septembre 2026",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/des-elections-senatoriales-historiques/",
+      "titre": "Des élections sénatoriales historiques ?",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/recul-des-lr-arrivee-dun-groupe-rn-et-la-gauche-qui-veut-limiter-la-casse-les-enjeux-des-senatoriales",
+      "titre": "Recul des LR, arrivée d'un groupe RN et la gauche qui veut limiter la casse : les enjeux des sénatoriales",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/des-elections-senatoriales-historiques/",
+      "titre": "Des élections sénatoriales historiques ?",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ministere-interieur",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.interieur.gouv.fr/actualites/actualites-du-ministere/elections-senatoriales-27-septembre-2026",
+      "titre": "Élections sénatoriales du 27 septembre 2026",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-05"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aei.org/commentary/china-taiwan-update-september-4-2026/",
+      "titre": "China & Taiwan Update, September 4, 2026",
+      "date_source": "2026-09-04"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.scmp.com/news/china/military/article/3366011/mainland-china-stepping-preparations-taiwan-blockade-report-says",
+      "titre": "Mainland China stepping up preparations for Taiwan blockade",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "chinese-foreign-ministry",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "merics",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "taipei-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/11/2003857121",
+      "titre": "'Hellscape' plan unnerves PLA: source",
+      "date_source": "2026-05-11"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.scmp.com/news/china/military/article/3362965/how-taiwan-preparing-pla-sea-blockade-its-biggest-war-games",
+      "titre": "How Taiwan is preparing for a PLA sea blockade in its biggest war games",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aei.org/commentary/china-taiwan-update-september-4-2026/",
+      "titre": "China & Taiwan Update, September 4, 2026",
+      "date_source": "2026-09-04"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.scmp.com/news/china/military/article/3366011/mainland-china-stepping-preparations-taiwan-blockade-report-says",
+      "titre": "Mainland China stepping up preparations for Taiwan blockade",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.scmp.com/news/china/military/article/3362965/how-taiwan-preparing-pla-sea-blockade-its-biggest-war-games",
+      "titre": "How Taiwan is preparing for a PLA sea blockade in its biggest war games",
+      "date_source": "2026-09"
+    }
+  ]
+}

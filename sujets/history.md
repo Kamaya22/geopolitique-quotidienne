@@ -92,3 +92,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-10 — FR : Le sommet international sur l'espace à Paris : la France arbitre du cosmos ? | Monde : Modi et Xi à New Delhi : le dégel précaire Inde-Chine avant le BRICS
 - 2026-09-11 — FR : L'héritage du 11-Septembre pour la France : 25 ans de recomposition stratégique | Monde : Vingt-cinq ans de « guerre contre le terrorisme » : bilan d'un monde reconfiguré
 - 2026-09-12 — FR : L'impasse budgétaire française : troisième révision à la baisse de la croissance (0,5 %) et bataille du budget 2027 | Monde : Le 18e sommet BRICS à New Delhi : l'Inde arbitre entre fractures internes et bataille du dollar
+- 2026-09-13 — FR : Sénatoriales du 27 septembre : à J-14, le Sénat français en mutation | Monde : Taïwan : 125 incursions PLA en un mois, Pékin normalise le blocus, l'île adopte la doctrine Hellscape
