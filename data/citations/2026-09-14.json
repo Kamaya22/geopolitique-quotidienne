@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-14",
+  "sujet_fr": "La France à l'AGNU 81 : le dernier grand discours de Macron",
+  "sujet_monde": "Yémen : les Houthis maîtres du Bab el-Mandeb",
+  "citations": [
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.un.org/en/high-level-week-2026",
+      "titre": "General Assembly High-level Week 2026",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://onu.diplomatie.gouv.fr/en/french-presidency-security-council-program-work",
+      "titre": "Présidence française du Conseil de sécurité : Programme de travail",
+      "date_source": "2026-09-01"
+    },
+    {
+      "source_id": "vie-publique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifop",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://institutmontaigne.org/expressions/la-diplomatie-demmanuel-macron-ou-le-risque-de-la-solitude-strategique",
+      "titre": "La diplomatie d'Emmanuel Macron ou le risque de la solitude stratégique",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "politis",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.politis.fr/articles/2026/04/parti-pris-macronisme-lheritage-du-vide/",
+      "titre": "Macronisme : l'héritage du vide",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://institutmontaigne.org/expressions/la-diplomatie-demmanuel-macron-ou-le-risque-de-la-solitude-strategique",
+      "titre": "La diplomatie d'Emmanuel Macron ou le risque de la solitude stratégique",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "quai-orsay",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://onu.diplomatie.gouv.fr/en/french-presidency-security-council-program-work",
+      "titre": "Présidence française du Conseil de sécurité : Programme de travail",
+      "date_source": "2026-09-01"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.un.org/en/desa/from-global-challenges-to-collective-action-what-to-watch-at-unga-2026",
+      "titre": "From global challenges to collective action: What to watch at UNGA 2026",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-10"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-12"
+    },
+    {
+      "source_id": "eia",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/another-hormuz-the-red-seas-threat-to-the-global-economy",
+      "titre": "Another Hormuz? What to Know About the Houthi Threat to the Red Sea",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-13"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop",
+      "titre": "The Houthis' escalation in Yemen could flop",
+      "date_source": "2026-09-13"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.nbcnews.com/world/middle-east/houthis-control-bab-el-mandeb-yemen-red-sea-saudi-iran-war-oil-rcna597186",
+      "titre": "Iran-backed Houthis capture Yemen's Red Sea coastline on Bab-el-Mandeb Strait",
+      "date_source": "2026-09-12"
+    },
+    {
+      "source_id": "asharq-al-awsat",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-12"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/another-hormuz-the-red-seas-threat-to-the-global-economy",
+      "titre": "Another Hormuz? What to Know About the Houthi Threat to the Red Sea",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/09/12/houthis-seize-yemeni-island-in-bab-el-mandeb-taking-control-of-the-strait",
+      "titre": "Houthis seize key Yemeni island in Bab el-Mandeb, taking control of the strait",
+      "date_source": "2026-09-12"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop",
+      "titre": "The Houthis' escalation in Yemen could flop",
+      "date_source": "2026-09-13"
+    }
+  ]
+}
