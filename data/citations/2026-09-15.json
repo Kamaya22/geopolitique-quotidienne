@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-15",
+  "sujet_fr": "La grève du 15 septembre : la crise de l'hôpital public à l'heure du PLFSS 2027",
+  "sujet_monde": "La fin de l'UNIFIL et le vide sécuritaire au Liban",
+  "citations": [
+    {
+      "source_id": "cgt-sante-action-sociale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://cgt-sante-action-sociale.fr/preavis-de-greve-specifique-du-15-septembre-2026/",
+      "titre": "Préavis de grève spécifique du 15 septembre 2026",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "fhf",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Étude sur le renoncement aux soins en France (73 % des Français) — mars 2026",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "cnam",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.assurance-maladie.ameli.fr/presse/2025-06-24-cp-presentation-rapport-charges-et-produits-2026",
+      "titre": "Rapport Charges et Produits 2026 — 3,9 milliards d'économies",
+      "date_source": "2025-06-24"
+    },
+    {
+      "source_id": "cnam",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.assurance-maladie.ameli.fr/presse/2025-06-24-cp-presentation-rapport-charges-et-produits-2026",
+      "titre": "Rapport « Charges et Produits 2026 »",
+      "date_source": "2025-06-24"
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Données comparatives OCDE sur les dépenses de santé (11,5 % du PIB pour la France vs 9,3 % moyenne OCDE)",
+      "date_source": null
+    },
+    {
+      "source_id": "igas-igf",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://igas.gouv.fr/sites/igas/files/2025-12/Sitiuation_financi%C3%A8re_des_h%C3%B4pitaux%20publics,_renforcer_l'efficience_par_une_int%C3%A9gration_territoriale_(Igas-IGF).pdf",
+      "titre": "Face à la gravité de la situation financière des hôpitaux publics, renforcer l'efficience par une intégration territoriale",
+      "date_source": "2025-12"
+    },
+    {
+      "source_id": "igas-igf",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://igas.gouv.fr/sites/igas/files/2025-12/Sitiuation_financi%C3%A8re_des_h%C3%B4pitaux%20publics,_renforcer_l'efficience_par_une_int%C3%A9gration_territoriale_(Igas-IGF).pdf",
+      "titre": "Face à la gravité de la situation financière des hôpitaux publics : renforcer l'efficience par une intégration territoriale",
+      "date_source": "2025-12"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/publications/reanimer-le-systeme-de-sante",
+      "titre": "Réanimer le système de santé",
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://tnova.fr/societe/sante/quel-avenir-pour-lhopital-public/",
+      "titre": "Quel avenir pour l'hôpital public ?",
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://tnova.fr/societe/sante/quel-avenir-pour-lhopital-public/",
+      "titre": "Quel avenir pour l'hôpital public ?",
+      "date_source": null
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.info.gouv.fr/discours/plfss-20126-point-d-etape-du-premier-ministre-sebastien-lecornu",
+      "titre": "PLFSS 2027 : point d'étape du Premier ministre Sébastien Lecornu",
+      "date_source": null
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://press.un.org/en/2025/sc16159.doc.htm",
+      "titre": "Résolution 2790 du Conseil de sécurité — renouvellement final du mandat de l'UNIFIL",
+      "date_source": "2025-08-28"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/en/country-files/lebanon/news/article/lebanon-renewal-of-unifil-mandate-29-08-25",
+      "titre": "Liban — Renouvellement du mandat de l'UNIFIL (29 août 2025)",
+      "date_source": "2025-08-29"
+    },
+    {
+      "source_id": "lorient-le-jour",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Couverture de la situation sécuritaire dans le sud du Liban face au retrait de l'UNIFIL",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.stimson.org/2026/unifils-drawdown-and-the-future-of-security-in-southern-lebanon/",
+      "titre": "UNIFIL's Drawdown and the Future of Security in Southern Lebanon",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.stimson.org/2026/unifils-drawdown-and-the-future-of-security-in-southern-lebanon/",
+      "titre": "UNIFIL's Drawdown and the Future of Security in Southern Lebanon",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "washington-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.washingtoninstitute.org/policy-analysis/lebanon-after-unifil-good-riddance-not-vacuum",
+      "titre": "Lebanon After UNIFIL: Good Riddance, Not a \"Vacuum\"",
+      "date_source": "2026-04-29"
+    },
+    {
+      "source_id": "washington-institute",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.washingtoninstitute.org/policy-analysis/lebanon-after-unifil-good-riddance-not-vacuum",
+      "titre": "Lebanon After UNIFIL: Good Riddance, Not a \"Vacuum\"",
+      "date_source": "2026-04-29"
+    },
+    {
+      "source_id": "house-of-commons-library",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10348/",
+      "titre": "Lebanon and the End of UNIFIL's Mandate in 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "house-of-commons-library",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10348/",
+      "titre": "Lebanon and the End of UNIFIL's Mandate in 2026",
+      "date_source": "2026"
+    }
+  ]
+}

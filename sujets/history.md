@@ -94,3 +94,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-12 — FR : L'impasse budgétaire française : troisième révision à la baisse de la croissance (0,5 %) et bataille du budget 2027 | Monde : Le 18e sommet BRICS à New Delhi : l'Inde arbitre entre fractures internes et bataille du dollar
 - 2026-09-13 — FR : Sénatoriales du 27 septembre : à J-14, le Sénat français en mutation | Monde : Taïwan : 125 incursions PLA en un mois, Pékin normalise le blocus, l'île adopte la doctrine Hellscape
 - 2026-09-14 — FR : La France à l'AGNU 81 : le dernier grand discours de Macron | Monde : Yémen : les Houthis maîtres du Bab el-Mandeb
+- 2026-09-15 — FR : La grève du 15 septembre : la crise de l'hôpital public à l'heure du PLFSS 2027 | Monde : La fin de l'UNIFIL et le vide sécuritaire au Liban
