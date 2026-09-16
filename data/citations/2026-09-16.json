@@ -1,0 +1,286 @@
+{
+  "date": "2026-09-16",
+  "sujet_fr": "Crise du logement en France",
+  "sujet_monde": "Soudan : guerre civile et désastre humanitaire",
+  "citations": [
+    {
+      "source_id": "fnaim",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Bilan du marché immobilier — premier semestre 2026",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "ffb",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Emploi et activité dans le bâtiment — bilan 8 mois 2026",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ush",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Demande de logement social en France — statistiques 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fondation-abbe-pierre",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Rapport annuel sur l'état du mal-logement en France 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "banque-de-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Part du revenu consacrée au logement — données 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "banque-de-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Production de crédits immobiliers nouveaux — bilan 2026 vs 2021",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Prévision de croissance du PIB 2026 — troisième révision (0,5 %)",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Logements vacants en France et parc locatif parisien 2019-2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Rapport de la commission sénatoriale sur les effets de la loi ZAN sur la construction",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Choc de l'offre : les préconisations pour sortir de la crise immobilière",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Sur-normes de construction : 30 à 40 % du coût du logement neuf",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Logement : la spéculation comme première cause de la crise",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Logements vacants, investisseurs institutionnels et crise du parc locatif",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Un milliard pour le logement social : 40 000 logements par an",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Logement : réformer le marché locatif intermédiaire",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La crise du logement : une crise géographiquement polarisée",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ifop",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Baromètre : le logement, préoccupation des Français — septembre 2026",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "fondation-abbe-pierre",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": null,
+      "titre": "Rapport sur l'état du mal-logement en France 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": null,
+      "titre": "Logement : sortir de la crise par l'offre",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": null,
+      "titre": "« Génération coincée » : les classes moyennes face à la crise du logement",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "ohchr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.ohchr.org/en/press-releases/2026/09/sudan-external-support-networks-are-fuelling-conflict-and-civilian-harm-un",
+      "titre": "Sudan: External support networks are fuelling conflict and civilian harm, UN Fact-Finding Mission warns",
+      "date_source": "2026-09-03"
+    },
+    {
+      "source_id": "pam",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Soudan : 24,6 millions de personnes en insécurité alimentaire aiguë — situation humanitaire 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "hcr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Soudan : plus de 14 millions de personnes déplacées — rapport de situation",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "ocha",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sudan Humanitarian Situation Report 2026 — obstruction de l'aide",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Sudan: The World's Forgotten War and the Double Standard of International Attention",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/sudan",
+      "titre": "World Report 2026: Sudan",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Soudan : l'incapacité des mécanismes africains à protéger les civils",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "cpi",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Situation au Darfour (Soudan) — mandats d'arrêt en cours depuis 2009",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ohchr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.ohchr.org/en/press-releases/2026/09/sudan-external-support-networks-are-fuelling-conflict-and-civilian-harm-un",
+      "titre": "Sudan: External support networks are fuelling conflict and civilian harm, UN Fact-Finding Mission warns",
+      "date_source": "2026-09-03"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/9/3/foreign-fighters-and-external-support-fuel-sudans-war-un-backed-probe",
+      "titre": "Foreign fighters and external support fuel Sudan's war: UN-backed probe",
+      "date_source": "2026-09-03"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/sudan",
+      "titre": "World Report 2026: Sudan",
+      "date_source": "2026"
+    }
+  ]
+}
