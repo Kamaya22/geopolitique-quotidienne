@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-17",
+  "sujet_fr": "Budget 2027 : la résurrection de la bataille des retraites",
+  "sujet_monde": "Canada « membre associé » de l'UE : la recomposition transatlantique",
+  "citations": [
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
+      "titre": "Budget : Bruno Retailleau demande au gouvernement le retour de la réforme des retraites",
+      "date_source": "2026-09-16"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/budget/retraites-contribution-des-tres-grandes-entreprises-salaires-des-ministres-on-vous-resume-les-principales-pistes-du-budget-2027_8190542.html",
+      "titre": "Retraites, contribution des très grandes entreprises, salaires des ministres... On vous résume les principales pistes du budget 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "cour-des-comptes",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/des-elections-senatoriales-historiques/",
+      "titre": "Des élections sénatoriales historiques ?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
+      "titre": "Budget : Bruno Retailleau demande au gouvernement le retour de la réforme des retraites",
+      "date_source": "2026-09-16"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/budget/retraites-contribution-des-tres-grandes-entreprises-salaires-des-ministres-on-vous-resume-les-principales-pistes-du-budget-2027_8190542.html",
+      "titre": "Retraites, contribution des très grandes entreprises, salaires des ministres... On vous résume les principales pistes du budget 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/des-elections-senatoriales-historiques/",
+      "titre": "Des élections sénatoriales historiques ?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/09/16/canada-to-become-first-associate-member-of-the-eu",
+      "titre": "Canada invited to become first 'associate member' of the EU",
+      "date_source": "2026-09-16"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Discours sur l'état de l'Union 2026 — Ursula von der Leyen, Parlement européen, Strasbourg",
+      "date_source": "2026-09-16"
+    },
+    {
+      "source_id": "wall-street-journal",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-13"
+    },
+    {
+      "source_id": "pm-canada",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/13/prime-minister-carney-visit-saint-pierre-et-miquelon-strengthen-ties",
+      "titre": "Prime Minister Carney to visit Saint-Pierre-et-Miquelon to strengthen ties with France in energy and defence",
+      "date_source": "2026-09-13"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/09/16/canada-to-become-first-associate-member-of-the-eu",
+      "titre": "Canada invited to become first 'associate member' of the EU",
+      "date_source": "2026-09-16"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile",
+      "titre": "Trump says Canada becoming EU 'associate member' could be hostile",
+      "date_source": "2026-09-17"
+    },
+    {
+      "source_id": "pm-canada",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/13/prime-minister-carney-visit-saint-pierre-et-miquelon-strengthen-ties",
+      "titre": "Prime Minister Carney to visit Saint-Pierre-et-Miquelon to strengthen ties with France in energy and defence",
+      "date_source": "2026-09-13"
+    }
+  ]
+}
