@@ -97,3 +97,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-15 — FR : La grève du 15 septembre : la crise de l'hôpital public à l'heure du PLFSS 2027 | Monde : La fin de l'UNIFIL et le vide sécuritaire au Liban
 - 2026-09-16 — FR : La crise du logement : une France qui ne peut plus se loger | Monde : Soudan : trois ans de guerre, le désastre humanitaire le plus grave au monde
 - 2026-09-17 — FR : Budget 2027 : la résurrection de la bataille des retraites | Monde : Canada « membre associé » de l'UE : la recomposition transatlantique
+- 2026-09-18 — FR : La France et l'après-FINUL : le sommet de Paris pour l'armée libanaise | Monde : Myanmar : la résistance weaponise les drones, la junte perd son ciel

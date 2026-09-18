@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-18",
+  "sujet_fr": "La France et l'après-FINUL : le sommet de Paris pour l'armée libanaise",
+  "sujet_monde": "Myanmar : la résistance weaponise les drones, la junte perd son ciel",
+  "citations": [
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.elysee.fr/agenda",
+      "titre": "Sommet trilatéral Macron-Aoun-Abdullah II — conférence de soutien à l'armée libanaise",
+      "date_source": "2026-09-17"
+    },
+    {
+      "source_id": "lorient-le-jour",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.lorientlejour.com/article/1547708/en-amont-de-la-conference-de-soutien-a-larmee-a-paris-aoun-appelle-a-eviter-un-vide-securitaire-au-sud.html",
+      "titre": "Aoun appelle à éviter un vide sécuritaire au Sud en amont de la conférence de Paris",
+      "date_source": "2026-09-17"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Résolution 425 (1978) et résolution 1701 (2006) du Conseil de sécurité — mandat de la FINUL",
+      "date_source": null
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/en/country-files/lebanon/news/article/lebanon-attack-on-unifil-16-march-2026",
+      "titre": "Lebanon — Attack on UNIFIL (16 March 2026)",
+      "date_source": "2026-03-16"
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.stimson.org/2026/unifils-drawdown-and-the-future-of-security-in-southern-lebanon/",
+      "titre": "UNIFIL's Drawdown and the Future of Security in Southern Lebanon",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "icds",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://icds.ee/en/france-and-lebanon-where-legacy-meets-its-limits/",
+      "titre": "France and Lebanon: Where Legacy Meets Its Limits",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fdd",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.fdd.org/analysis/2026/04/15/lebanon-france-is-confusing-the-symptom-with-the-disease/",
+      "titre": "Lebanon: France Is Confusing the Symptom with the Disease",
+      "date_source": "2026-04-15"
+    },
+    {
+      "source_id": "lorient-le-jour",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.lorientlejour.com/article/1547708/en-amont-de-la-conference-de-soutien-a-larmee-a-paris-aoun-appelle-a-eviter-un-vide-securitaire-au-sud.html",
+      "titre": "Aoun appelle à éviter un vide sécuritaire au Sud en amont de la conférence de Paris",
+      "date_source": "2026-09-17"
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.stimson.org/2026/unifils-drawdown-and-the-future-of-security-in-southern-lebanon/",
+      "titre": "UNIFIL's Drawdown and the Future of Security in Southern Lebanon",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "icds",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://icds.ee/en/france-and-lebanon-where-legacy-meets-its-limits/",
+      "titre": "France and Lebanon: Where Legacy Meets Its Limits",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "ap",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/09/11/myanmar-mandalay-tada-airport-drone/8ea0550e-adf9-11f1-b498-8697f35a6743_story.html",
+      "titre": "Myanmar resistance group says it hit a military air base at Mandalay airport with drones",
+      "date_source": "2026-09-11"
+    },
+    {
+      "source_id": "acled",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://acleddata.com/report/war-sky-how-drone-warfare-shaping-conflict-myanmar",
+      "titre": "The war from the sky: How drone warfare is shaping the conflict in Myanmar",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "irrawaddy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "geopolitical-monitor",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.geopoliticalmonitor.com/myanmar-reemerges-as-frontline-in-india-china-rivalry/",
+      "titre": "Myanmar Reemerges as Frontline in India-China Rivalry",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "orf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "asia-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://asiatimes.com/2026/09/myanmars-resistance-finally-takes-the-fight-to-juntas-air-power/",
+      "titre": "Myanmar's resistance finally takes the fight to junta's air power",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.washingtonpost.com/world/2026/09/11/myanmar-mandalay-tada-airport-drone/8ea0550e-adf9-11f1-b498-8697f35a6743_story.html",
+      "titre": "Myanmar resistance group says it hit a military air base at Mandalay airport with drones",
+      "date_source": "2026-09-11"
+    },
+    {
+      "source_id": "acled",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://acleddata.com/report/war-sky-how-drone-warfare-shaping-conflict-myanmar",
+      "titre": "The war from the sky: How drone warfare is shaping the conflict in Myanmar",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "asia-times",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://asiatimes.com/2026/09/myanmars-resistance-finally-takes-the-fight-to-juntas-air-power/",
+      "titre": "Myanmar's resistance finally takes the fight to junta's air power",
+      "date_source": "2026-09"
+    }
+  ]
+}
