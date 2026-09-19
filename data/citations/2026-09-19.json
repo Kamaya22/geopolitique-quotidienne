@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-19",
+  "sujet_fr": "Macron convoque les candidats à l'Élysée face à la crise des carburants et aux attaques hybrides",
+  "sujet_monde": "Russie : la Douma vote pour la première fois depuis l'invasion, sous les drones ukrainiens",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260918-macron-r%C3%A9unit-les-candidats-%C3%A0-sa-succession-pour-%C3%A9voquer-les-prix-des-carburants",
+      "titre": "Attaques russes, carburant, G7... ce qu'il faut retenir de l'allocution d'Emmanuel Macron",
+      "date_source": "2026-09-18"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.cnews.fr/france/2026-09-18/crise-des-carburants-emmanuel-macron-annonce-convoquer-un-g7-sur-lenergie-1920873",
+      "titre": "En direct - Crise des carburants : «Emmanuel Macron a tort» de ne pas baisser la TVA, affirme Marine Le Pen",
+      "date_source": "2026-09-18"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/presse-contenus-repris-sur-le-site-video/poutine-fuite-en-avant",
+      "titre": "Poutine, fuite en avant ?",
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections",
+      "titre": "Ukraine fires drone barrage as Russia launches elections",
+      "date_source": "2026-09-18"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/09/18/russia-elections-state-duma-results-putin-democracy-ukraine/",
+      "titre": "Russia Holds First State Duma Elections Since Ukraine War Began",
+      "date_source": "2026-09-18"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/europe/20260918-l%C3%A9gislatives-russie-r%C3%A9sultat-jou%C3%A9-d-avance-victoire-vladimir-poutine",
+      "titre": "Législatives en Russie : \"Le résultat est joué d'avance\" pour une victoire de Poutine",
+      "date_source": "2026-09-18"
+    },
+    {
+      "source_id": "tass",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "moscow-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "meduza",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "epde",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}
