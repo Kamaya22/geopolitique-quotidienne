@@ -99,3 +99,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-17 — FR : Budget 2027 : la résurrection de la bataille des retraites | Monde : Canada « membre associé » de l'UE : la recomposition transatlantique
 - 2026-09-18 — FR : La France et l'après-FINUL : le sommet de Paris pour l'armée libanaise | Monde : Myanmar : la résistance weaponise les drones, la junte perd son ciel
 - 2026-09-19 — FR : Macron convoque les candidats à l'Élysée : crise des carburants et attaques hybrides | Monde : Russie : la Douma vote pour la première fois depuis l'invasion, sous les drones ukrainiens
+- 2026-09-20 — FR : Zemmour candidat à 2027 : la guerre des droites relancée | Monde : Succession à l'ONU : Grynspan en tête, l'impasse P5

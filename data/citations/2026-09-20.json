@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-20",
+  "sujet_fr": "Zemmour candidat à 2027 : la guerre des droites relancée",
+  "sujet_monde": "Succession à l'ONU : Grynspan en tête, l'impasse P5",
+  "citations": [
+    {
+      "source_id": "bfmtv",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration de candidature d'Éric Zemmour sur BFMTV",
+      "date_source": "2026-09-17"
+    },
+    {
+      "source_id": "elabe",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://elabe.fr/presidentielle-2027-aout/",
+      "titre": "Les Français et l'élection présidentielle 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "elabe",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://elabe.fr/presidentielle-2027-aout/",
+      "titre": "Les Français et l'élection présidentielle 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/eric-zemmour-presque-candidat-a-l-election-presidentielle-de-2027-un-atout-pour-marine-le-pen_8178050.html",
+      "titre": "Éric Zemmour (presque) candidat à l'élection présidentielle de 2027, un atout pour Marine Le Pen ?",
+      "date_source": "2026-09-18"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnews.fr/france/2026-09-12/presidentielle-2027-eric-zemmour-cherche-un-second-souffle-avec-son-universite",
+      "titre": "Présidentielle 2027 : Éric Zemmour cherche un second souffle avec son université d'été de Reconquête !",
+      "date_source": "2026-09-12"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Résultats du 3e straw poll au Conseil de sécurité",
+      "date_source": "2026-09-19"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "UN Secretary-General straw poll results",
+      "date_source": "2026-09-19"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "passblue",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://passblue.com/2026/09/18/third-straw-poll-for-un-secretary-general-race-shows-no-consensus/",
+      "titre": "Third Straw Poll for UN Secretary-General Race Shows No Consensus",
+      "date_source": "2026-09-18"
+    },
+    {
+      "source_id": "the-national",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.thenationalnews.com/news/us/2026/09/18/un-security-council-holds-third-straw-poll-in-race-for-next-secretary-general-ahead-of-unga/",
+      "titre": "UN Security Council holds third straw poll in race for next Secretary General ahead of UNGA",
+      "date_source": "2026-09-18"
+    },
+    {
+      "source_id": "security-council-report",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.securitycouncilreport.org/whatsinblue/2026/07/first-security-council-straw-poll-on-un-secretary-general-candidates.php",
+      "titre": "First Security Council Straw Poll on UN Secretary-General Candidates",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "xinhua",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://english.news.cn/20260919/4105cba415ec4e8ca615d31f10f9e6a8/c.html",
+      "titre": "UN Security Council holds 3rd straw poll on secretary-general candidates",
+      "date_source": "2026-09-19"
+    }
+  ]
+}
