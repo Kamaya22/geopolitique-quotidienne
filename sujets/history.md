@@ -100,3 +100,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-18 — FR : La France et l'après-FINUL : le sommet de Paris pour l'armée libanaise | Monde : Myanmar : la résistance weaponise les drones, la junte perd son ciel
 - 2026-09-19 — FR : Macron convoque les candidats à l'Élysée : crise des carburants et attaques hybrides | Monde : Russie : la Douma vote pour la première fois depuis l'invasion, sous les drones ukrainiens
 - 2026-09-20 — FR : Zemmour candidat à 2027 : la guerre des droites relancée | Monde : Succession à l'ONU : Grynspan en tête, l'impasse P5
+- 2026-09-21 — FR : Le sommet de Saint-Pierre-et-Miquelon : Macron et Carney face à Trump | Monde : Japon : vers 3,5 % du PIB en défense, le réarmement indo-pacifique

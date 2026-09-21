@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-21",
+  "sujet_fr": "Le sommet de Saint-Pierre-et-Miquelon : Macron et Carney face à Trump",
+  "sujet_monde": "Japon : vers 3,5 % du PIB en défense, le réarmement indo-pacifique",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sommet Macron-Carney à Saint-Pierre-et-Miquelon",
+      "date_source": "2026-09-20"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Macron and Carney meet in Saint-Pierre-et-Miquelon",
+      "date_source": "2026-09-20"
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclarations d'Emmanuel Macron à Saint-Pierre-et-Miquelon",
+      "date_source": "2026-09-20"
+    },
+    {
+      "source_id": "pm-canada",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclarations de Mark Carney à Saint-Pierre-et-Miquelon",
+      "date_source": "2026-09-20"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://la1ere.franceinfo.fr/saintpierremiquelon/entretien-olivier-poivre-d-arvor-envoye-special-du-president-de-la-republique-et-ambassadeur-des-poles-et-des-oceans-en-visite-a-saint-pierre-et-miquelon-1715170.html",
+      "titre": "Saint-Pierre-et-Miquelon au cœur de la stratégie polaire française — entretien avec Olivier Poivre d'Arvor",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "le-monde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/en/france/20260919-french-outpost-off-canada-in-the-spotlight-as-macron-hosts-carney-on-symbolic-visit",
+      "titre": "French Outpost off Canada in the Spotlight as Macron Hosts Carney on Symbolic Visit",
+      "date_source": "2026-09-19"
+    },
+    {
+      "source_id": "globe-and-mail",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.theglobeandmail.com/canada/article-carney-heading-to-saint-pierre-et-miquelon-for-meeting-with-macron/",
+      "titre": "Carney, Macron Meet in Saint-Pierre-et-Miquelon as Canada and Europe Look to Build Greater Ties",
+      "date_source": "2026-09-20"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://la1ere.franceinfo.fr/saintpierremiquelon/entretien-olivier-poivre-d-arvor-envoye-special-du-president-de-la-republique-et-ambassadeur-des-poles-et-des-oceans-en-visite-a-saint-pierre-et-miquelon-1715170.html",
+      "titre": "Saint-Pierre-et-Miquelon au cœur de la stratégie polaire française — entretien avec Olivier Poivre d'Arvor",
+      "date_source": "2026-06"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/japan-eyes-defense-spending-worth-3-5-of-gdp-amid-us-pressure",
+      "titre": "Japan Eyes Defense Spending Worth 3.5% of GDP After US Pressure",
+      "date_source": "2026-09-15"
+    },
+    {
+      "source_id": "japan-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.japantimes.co.jp/news/2026/09/15/japan/japan-defense-spending-35-gdp/",
+      "titre": "Japan Considers Defense Spending Worth 3.5% of GDP After U.S. Pressure",
+      "date_source": "2026-09-15"
+    },
+    {
+      "source_id": "japan-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "japan-defense-ministry",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "sipri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "SIPRI Military Expenditure Database",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Japan bond yields at 30-year high",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "xinhua",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "China official position on Japan's military buildup",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "chinese-foreign-ministry",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Porte-parole Lin Jian sur le réarmement japonais",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "lowy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/japan-eyes-defense-spending-worth-3-5-of-gdp-amid-us-pressure",
+      "titre": "Japan Eyes Defense Spending Worth 3.5% of GDP After US Pressure",
+      "date_source": "2026-09-15"
+    },
+    {
+      "source_id": "japan-times",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.japantimes.co.jp/news/2026/09/15/japan/japan-defense-spending-35-gdp/",
+      "titre": "Japan Considers Defense Spending Worth 3.5% of GDP After U.S. Pressure",
+      "date_source": "2026-09-15"
+    },
+    {
+      "source_id": "defense-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.defensenews.com/global/asia-pacific/2025/12/31/pacifist-japan-moving-from-exclusive-self-defense-to-military-buildup/",
+      "titre": "Pacifist Japan Moving From Exclusive Self-Defense to Military Buildup",
+      "date_source": "2025-12-31"
+    }
+  ]
+}
