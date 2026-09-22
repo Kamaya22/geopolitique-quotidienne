@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-22",
+  "sujet_fr": "L'affaire Ousmanov : la France bloque les sanctions de l'UE pour libérer ses otages",
+  "sujet_monde": "Drones sur Moscou, Zelensky à New York : la guerre d'Ukraine entre paroxysme militaire et diplomatie des compromis",
+  "citations": [
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/09/21/eu-nears-deal-to-break-impasse-over-french-request-to-remove-usmanov-from-sanctions",
+      "titre": "EU Nears Deal to Break Impasse over French Request to Remove Usmanov from Sanctions",
+      "date_source": "2026-09-21"
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "France lobbies EU to lift sanctions on Usmanov",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/france-lobbies-eu-to-lift-sanctions-on-russian-tycoon-usmanov",
+      "titre": "France Lobbies EU to Lift Sanctions on Russian Tycoon Usmanov",
+      "date_source": "2026-09-15"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Zelensky statement on EU sanctions — not the time to lift sanctions",
+      "date_source": "2026-09-15"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/09/14/french-slovak-veto-deepens-eu-deadlock-on-russia-sanctions-renewal",
+      "titre": "French-Slovak Veto Deepens EU Deadlock on Russia Sanctions Renewal",
+      "date_source": "2026-09-14"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/my-europe/2026/09/21/eu-nears-deal-to-break-impasse-over-french-request-to-remove-usmanov-from-sanctions",
+      "titre": "EU Nears Deal to Break Impasse over French Request to Remove Usmanov from Sanctions",
+      "date_source": "2026-09-21"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/france-lobbies-eu-to-lift-sanctions-on-russian-tycoon-usmanov",
+      "titre": "France Lobbies EU to Lift Sanctions on Russian Tycoon Usmanov",
+      "date_source": "2026-09-15"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Zelensky to push energy, Black Sea ceasefire at possible Trump meeting in New York",
+      "date_source": "2026-09-19"
+    },
+    {
+      "source_id": "tass",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Russian state reaction to Ukrainian drone attack on Moscow",
+      "date_source": "2026-09-20"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Zelensky and Trump phone call ahead of UNGA meeting",
+      "date_source": "2026-09-22"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says",
+      "titre": "At Least Three Killed in Ukrainian Drone Attack on Moscow, Says Russia",
+      "date_source": "2026-09-20"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/09/20/ukraine-launches-heavy-moscow-drone-attack-as-russia-votes.html",
+      "titre": "Ukraine Launches Heavy Moscow Drone Attack as Russia Votes",
+      "date_source": "2026-09-20"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://kyivindependent.com/zelensky-to-push-energy-black-sea-ceasefire-at-possible-trump-meeting-in-new-york/",
+      "titre": "Zelensky to Push Energy, Black Sea Ceasefire at Possible Trump Meeting in New York",
+      "date_source": "2026-09-19"
+    }
+  ]
+}

@@ -101,3 +101,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-19 — FR : Macron convoque les candidats à l'Élysée : crise des carburants et attaques hybrides | Monde : Russie : la Douma vote pour la première fois depuis l'invasion, sous les drones ukrainiens
 - 2026-09-20 — FR : Zemmour candidat à 2027 : la guerre des droites relancée | Monde : Succession à l'ONU : Grynspan en tête, l'impasse P5
 - 2026-09-21 — FR : Le sommet de Saint-Pierre-et-Miquelon : Macron et Carney face à Trump | Monde : Japon : vers 3,5 % du PIB en défense, le réarmement indo-pacifique
+- 2026-09-22 — FR : L'affaire Ousmanov : la France bloque les sanctions de l'UE contre la Russie | Monde : Drones sur Moscou, Zelensky à New York : la guerre et la paix en parallèle
