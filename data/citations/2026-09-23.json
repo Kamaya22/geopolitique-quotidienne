@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-23",
+  "sujet_fr": "Sénatoriales à J-4 : l'entrée historique du RN dans la chambre haute",
+  "sujet_monde": "Le Sommet climatique de l'ONU du 23 septembre 2026 : transition juste ou justice sacrifiée ?",
+  "citations": [
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Recul des LR, arrivée d'un groupe RN et la gauche qui veut limiter la casse : les enjeux des sénatoriales",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sénatoriales 2026 : 61 communes basculées au RN/UDR après les municipales de mars",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/des-elections-senatoriales-historiques/",
+      "titre": "Des élections sénatoriales historiques ?",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "slate-fr",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.slate.fr/politique/elections-senatoriales-2026-vers-vague-inedite-rassemblement-national-extreme-droite-politique",
+      "titre": "Élections sénatoriales de 2026 : vers une vague inédite pour le RN ?",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "fondapol",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/recul-des-lr-arrivee-dun-groupe-rn-et-la-gauche-qui-veut-limiter-la-casse-les-enjeux-des-senatoriales",
+      "titre": "Recul des LR, arrivée d'un groupe RN et la gauche qui veut limiter la casse : les enjeux des sénatoriales",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/des-elections-senatoriales-historiques/",
+      "titre": "Des élections sénatoriales historiques ?",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "slate-fr",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.slate.fr/politique/elections-senatoriales-2026-vers-vague-inedite-rassemblement-national-extreme-droite-politique",
+      "titre": "Vers une vague inédite pour le RN aux sénatoriales 2026 ?",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.un.org/en/climatechange/climate-summit-2026",
+      "titre": "Climate Summit 2026",
+      "date_source": "2026-09-23"
+    },
+    {
+      "source_id": "aie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Rapport sur l'investissement mondial dans les énergies propres",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://news.un.org/en/story/2026/09/1168344",
+      "titre": "The world comes to New York: What's at stake this General Assembly High-Level Week",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "reporterre",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://reporterre.net/Au-sommet-climat-de-l-ONU-la-France-joue-un-mauvais-role",
+      "titre": "Au sommet climat de l'ONU, la France joue un mauvais rôle",
+      "date_source": "2025-09"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/le-ministere-en-action/contribuer-a-une-mondialisation-durable-et-equilibree/repondre-a-l-urgence-de-la-crise-climatique-et-environnementale/la-france-devoile-sa-feuille-de-route-pour-une-sortie-progressive-des-energies-fossiles",
+      "titre": "La France dévoile sa feuille de route pour une sortie progressive des énergies fossiles",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "unfccc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://unfccc.int/cop31/the-road-to-antalya",
+      "titre": "The Road to Antalya",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.un.org/en/climatechange/climate-summit-2026",
+      "titre": "Climate Summit 2026 — High-level Event on Climate Action and the Just Transition",
+      "date_source": "2026-09-23"
+    },
+    {
+      "source_id": "unfccc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://unfccc.int/cop31/the-road-to-antalya",
+      "titre": "The Road to Antalya",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/le-ministere-en-action/contribuer-a-une-mondialisation-durable-et-equilibree/repondre-a-l-urgence-de-la-crise-climatique-et-environnementale/la-france-devoile-sa-feuille-de-route-pour-une-sortie-progressive-des-energies-fossiles",
+      "titre": "La France dévoile sa feuille de route pour une sortie progressive des énergies fossiles",
+      "date_source": "2026-04"
+    }
+  ]
+}
