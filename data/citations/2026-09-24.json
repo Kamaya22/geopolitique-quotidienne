@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-24",
+  "sujet_fr": "La France convoque le Conseil de sécurité de l'ONU sur l'IA",
+  "sujet_monde": "Brésil 2026 : le vote du 4 octobre et l'avenir stratégique de l'Amérique latine",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "isw",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/en/americas/20260923-ai-leaders-urge-caution-at-un-with-anthropic-chief-pledging-to-slow-down",
+      "titre": "AI leaders urge caution at UN, with Anthropic chief pledging to slow down",
+      "date_source": "2026-09-23"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/mots-cles-thematiques/gouvernance-de-lia",
+      "titre": "Gouvernance de l'IA",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/sites/default/files/2025-01/ifri_deroucyrochegonde_gouvernance_mondiale_ia_2025.pdf",
+      "titre": "Promesses artificielles ou régulation réelle ? La gouvernance mondiale de l'intelligence artificielle",
+      "date_source": "2025-02"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "americas-quarterly",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "geopolitical-monitor",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "piie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "geopolitical-monitor",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.geopoliticalmonitor.com/brazils-2026-elections-a-test-of-active-non-alignment/",
+      "titre": "Brazil's 2026 Elections: A Test of Active Non-Alignment",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "americas-quarterly",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.americasquarterly.org/article/brazil-a-2026-snapshot/",
+      "titre": "Brazil: A 2026 Snapshot",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "piie",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/why-foreign-policy-central-question-brazils-next-election",
+      "titre": "Why foreign policy is the central question of Brazil's next election",
+      "date_source": "2026-09"
+    }
+  ]
+}
