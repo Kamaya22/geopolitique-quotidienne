@@ -104,3 +104,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-22 — FR : L'affaire Ousmanov : la France bloque les sanctions de l'UE contre la Russie | Monde : Drones sur Moscou, Zelensky à New York : la guerre et la paix en parallèle
 - 2026-09-23 — FR : Sénatoriales à J-4 : le RN aux portes du premier groupe sénatorial | Monde : Sommet climatique de l'ONU : transition juste ou justice sacrifiée ?
 - 2026-09-24 — FR : La France convoque le Conseil de sécurité de l'ONU sur l'IA | Monde : Élection brésilienne du 4 octobre : Lula ou Bolsonaro, quel avenir pour l'Amérique latine ?
+- 2026-09-25 — FR : La visite du pape Léon XIV en France | Monde : Netanyahu à l'AGNU 2026 : défiance et isolement d'Israël

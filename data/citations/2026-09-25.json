@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-25",
+  "sujet_fr": "La visite du pape Léon XIV en France",
+  "sujet_monde": "Netanyahu à l'AGNU 2026 : défiance et isolement d'Israël",
+  "citations": [
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/leon-xiv-en-france-la-bataille-pour-le-sens-dune-visite-pontificale-entre-enjeux-nationaux-et-geopolitiques/",
+      "titre": "Léon XIV en France : la bataille pour le sens d'une visite pontificale, entre enjeux nationaux et géopolitiques",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ifop",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026"
+    },
+    {
+      "source_id": "la-croix",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/leon-xiv-en-france-la-bataille-pour-le-sens-dune-visite-pontificale-entre-enjeux-nationaux-et-geopolitiques/",
+      "titre": "Léon XIV en France : la bataille pour le sens d'une visite pontificale, entre enjeux nationaux et géopolitiques",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/le-programme-de-la-visite-du-pape-leon-xiv-en-france/",
+      "titre": "Le programme de la visite du pape Léon XIV en France",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "the-conversation",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://theconversation.com/voyage-du-pape-en-france-quels-enjeux-religieux-et-politiques-291349",
+      "titre": "Voyage du pape en France : quels enjeux religieux et politiques ?",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.aljazeera.com/news/2026/9/24/netanyahu-speech-unga-israel-walkout-mamdani",
+      "titre": "Benjamin Netanyahu attacks Israel's enemies and allies in UN speech",
+      "date_source": "2026-09-24"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.nbcnews.com/world/israel/israel-netanyahu-united-nations-general-assembly-gaza-iran-war-rcna599576",
+      "titre": "Israel's Netanyahu takes the U.N. stage facing global isolation and a fight for his political future",
+      "date_source": "2026-09-24"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/09/24/netanyahu-speech-unga-israel-walkout-mamdani/",
+      "titre": "Netanyahu Faces a UNGA Walkout (Again)",
+      "date_source": "2026-09-24"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09-24"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/07/israels-general-election-will-be-no-other",
+      "titre": "Israel's general election will be like no other before",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "quai-orsay",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-france-meae01.htm",
+      "titre": "UNGA – Table ronde avec des représentants de la société civile israélienne et palestinienne organisée par la France",
+      "date_source": "2026-09-22"
+    },
+    {
+      "source_id": "cij",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cpi",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2024"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/09/24/netanyahu-speech-unga-israel-walkout-mamdani/",
+      "titre": "Netanyahu Faces a UNGA Walkout (Again)",
+      "date_source": "2026-09-24"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/07/israels-general-election-will-be-no-other",
+      "titre": "Israel's general election will be like no other before",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.nbcnews.com/world/israel/israel-netanyahu-united-nations-general-assembly-gaza-iran-war-rcna599576",
+      "titre": "Israel's Netanyahu takes the U.N. stage facing global isolation and a fight for his political future",
+      "date_source": "2026-09-24"
+    }
+  ]
+}
