@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-26",
+  "sujet_fr": "La France au Conseil de sécurité pour rouvrir le détroit d'Ormuz",
+  "sujet_monde": "Trump rejette la paix iranienne — la guerre suspendue aux midterms",
+  "citations": [
+    {
+      "source_id": "quai-orsay",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://onu.delegfrance.org/for-several-weeks-now-iran-has-effectively-been-blocking-the-strait-of-hormuz",
+      "titre": "France ONU : déclaration sur le blocage du détroit d'Ormuz",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "aie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026"
+    },
+    {
+      "source_id": "wall-street-journal",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Trump rejects Iran ceasefire proposal, expects to renew strikes after midterms",
+      "date_source": "2026-09-26"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/international/onu-la-france-affiche-sa-volonte-de-rouvrir-ormuz-mais-reste-dependante-des-negociations-entre-liran-et-les-etats-unis",
+      "titre": "ONU : la France affiche sa 'volonté de rouvrir Ormuz', mais reste dépendante des négociations entre l'Iran et les États-Unis",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/international/onu-la-france-affiche-sa-volonte-de-rouvrir-ormuz-mais-reste-dependante-des-negociations-entre-liran-et-les-etats-unis",
+      "titre": "ONU : la France affiche sa 'volonté de rouvrir Ormuz', mais reste dépendante des négociations entre l'Iran et les États-Unis",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/visual-explainers/hormuz/",
+      "titre": "The State of the Strait: The Role of Hormuz in the Middle East War So Far",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "quai-orsay",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://onu.delegfrance.org/for-several-weeks-now-iran-has-effectively-been-blocking-the-strait-of-hormuz",
+      "titre": "France ONU : déclaration sur le blocage du détroit d'Ormuz",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us",
+      "titre": "Iran pitches seven-day roadmap to end conflict with US",
+      "date_source": "2026-09-25"
+    },
+    {
+      "source_id": "wall-street-journal",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Trump rejects Iran ceasefire proposal, expects to renew strikes after midterms",
+      "date_source": "2026-09-26"
+    },
+    {
+      "source_id": "cbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
+      "titre": "Iran war updates: Tehran proposes 7-day plan to reopen Strait of Hormuz",
+      "date_source": "2026-09-25"
+    },
+    {
+      "source_id": "fortune",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://fortune.com/2026/08/29/iran-war-hardliners-power-differences-future-path-moderates/",
+      "titre": "After 6 months of war, hardliners consolidate power in Iran, but there are 'serious differences over the future path of the country'",
+      "date_source": "2026-08-29"
+    },
+    {
+      "source_id": "arab-center-dc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://arabcenterdc.org/resource/americas-affordability-crisis-will-trumps-iran-war-cost-him-the-2026-midterms/",
+      "titre": "America's Affordability Crisis: Will Trump's Iran War Cost Him the 2026 Midterms?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fdd",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "washington-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz",
+      "titre": "What's in Iran's seven-day plan to reopen the Strait of Hormuz?",
+      "date_source": "2026-09-25"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/the-political-consequences-of-the-iran-war/",
+      "titre": "The political consequences of the Iran war",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "arab-center-dc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://arabcenterdc.org/resource/americas-affordability-crisis-will-trumps-iran-war-cost-him-the-2026-midterms/",
+      "titre": "America's Affordability Crisis: Will Trump's Iran War Cost Him the 2026 Midterms?",
+      "date_source": "2026"
+    }
+  ]
+}
