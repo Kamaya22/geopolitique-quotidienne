@@ -91,6 +91,9 @@ Le projet accumule, édition après édition, **toutes** les sources citées pou
 1. Recense **chaque** source citée — aussi bien les liens des sections « Pour aller plus loin » que les **mentions dans le corps du texte** (« Selon France24… », « Le Figaro a relevé… », « Brookings soulève… », un chiffre attribué à l'INSEE, etc.). Une source citée plusieurs fois = plusieurs entrées.
 2. Écris `data/citations/<YYYY-MM-DD>.json` selon le schéma de `data/README.md` : pour chaque citation, `source_id`, `sujet` (`FR`/`Monde`), `emplacement` (`pour-aller-plus-loin`/`texte`), `role` (`fait`/`analyse`/`opinion`), et `url`/`titre`/`date_source` (`null` si absents).
 3. Pour chaque source, réutilise l'`id` existant dans `data/registry.csv`. **Si la source n'y figure pas encore**, ajoute une ligne au registre (`id,nom,type,pays,orientation,notes`) en respectant strictement la taxonomie de `data/README.md`. Si tu hésites sur l'orientation, inscris `a-verifier` plutôt que de deviner — Kamil tranchera (la ligne sera remontée dans `STATS.md`).
+   - **Avant d'ajouter une ligne, cherche l'`id` et le nom de la source dans `data/registry.csv`** : n'ajoute jamais un `id` déjà présent (un doublon fait échouer la GitHub Action).
+   - Toute cellule contenant une virgule doit être entourée de guillemets doubles (ex. `"UK Foreign, Commonwealth & Development Office"`).
+   - Lance `python3 tools/validate_registry.py` avant de committer ; s'il échoue, corrige le registre avant de pousser.
 4. Ne modifie **jamais** `data/STATS.md` : il est régénéré automatiquement par une GitHub Action après ton push.
 
 ## Étape 3 — Historique, commit et push (c'est l'envoi du mail)
