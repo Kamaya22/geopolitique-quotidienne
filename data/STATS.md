@@ -1,28 +1,33 @@
 # Statistiques des sources citées
 
-*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-08-29 05:20 UTC.*
+*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-09-27 09:59 UTC.*
 
 ## Résumé
 
-- **Période couverte** : 2026-06-12 → 2026-08-29
-- **Éditions analysées** : 75
-- **Citations totales** : 1493
-- **Sources distinctes citées** : 214
-- **Pays distincts** : 30
+- **Période couverte** : 2026-06-12 → 2026-09-27
+- **Éditions analysées** : 104
+- **Citations totales** : 2079
+- **Sources distinctes citées** : 258
+- **Pays distincts** : 34
 - **Orientations distinctes** : 10
 
 ## Alertes
 
 - 🔎 Orientation à vérifier : AllAfrica (`allafrica`) — à trancher dans registry.csv.
+- 🔎 Orientation à vérifier : Arab News (`arab-news`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Barreau de Paris (`barreau-paris`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : CGTN (China Global Television Network) (`cgtn`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Ministère des Affaires étrangères de la République populaire de Chine (`chinese-foreign-ministry`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : CNN (`cnn`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : CRIF — Conseil représentatif des institutions juives de France (`crif`) — à trancher dans registry.csv.
+- 🔎 Orientation à vérifier : Fédération française du bâtiment (FFB) (`ffb`) — à trancher dans registry.csv.
+- 🔎 Orientation à vérifier : Fédération nationale de l'immobilier (FNAIM) (`fnaim`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Geopolitechs (`geopolitechs`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Iran International (`iran-international`) — à trancher dans registry.csv.
+- 🔎 Orientation à vérifier : KCNA — Korea Central News Agency (Corée du Nord) (`kcna`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Marine & Océans (`marine-oceans`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Middle East Eye (`middle-east-eye`) — à trancher dans registry.csv.
+- 🔎 Orientation à vérifier : Model Diplomat (`model-diplomat`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : MOFCOM — Ministère du Commerce de la République populaire de Chine (`mofcom-chine`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Omna Tigray (`omna-tigray`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : RIA Novosti (`ria-novosti`) — à trancher dans registry.csv.
@@ -40,104 +45,128 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| France | 709 | 47.5 % | █████████ |
-| États-Unis | 350 | 23.4 % | █████ |
-| International | 176 | 11.8 % | ██ |
-| Qatar | 84 | 5.6 % | █ |
-| Royaume-Uni | 48 | 3.2 % | █ |
-| Israël | 22 | 1.5 % |  |
-| Ukraine | 21 | 1.4 % |  |
-| Suède | 10 | 0.7 % |  |
-| Hong Kong | 9 | 0.6 % |  |
-| Émirats arabes unis | 6 | 0.4 % |  |
-| Liban | 5 | 0.3 % |  |
-| Belgique | 5 | 0.3 % |  |
-| Chine | 5 | 0.3 % |  |
-| Japon | 5 | 0.3 % |  |
-| Inde | 4 | 0.3 % |  |
-| Canada | 4 | 0.3 % |  |
-| Myanmar | 4 | 0.3 % |  |
-| Allemagne | 3 | 0.2 % |  |
-| Pakistan | 3 | 0.2 % |  |
-| Pays-Bas | 3 | 0.2 % |  |
-| Taïwan | 2 | 0.1 % |  |
-| Suisse | 2 | 0.1 % |  |
-| Lettonie | 2 | 0.1 % |  |
+| France | 997 | 48.0 % | ██████████ |
+| États-Unis | 465 | 22.4 % | ████ |
+| International | 257 | 12.4 % | ██ |
+| Qatar | 102 | 4.9 % | █ |
+| Royaume-Uni | 66 | 3.2 % | █ |
+| Ukraine | 26 | 1.3 % |  |
+| Israël | 25 | 1.2 % |  |
+| Hong Kong | 16 | 0.8 % |  |
+| Suède | 13 | 0.6 % |  |
+| Canada | 11 | 0.5 % |  |
+| Chine | 10 | 0.5 % |  |
+| Japon | 10 | 0.5 % |  |
+| Liban | 8 | 0.4 % |  |
+| Inde | 8 | 0.4 % |  |
+| Émirats arabes unis | 8 | 0.4 % |  |
+| Belgique | 6 | 0.3 % |  |
+| Myanmar | 5 | 0.2 % |  |
+| Arabie Saoudite | 5 | 0.2 % |  |
+| Russie | 5 | 0.2 % |  |
+| Allemagne | 4 | 0.2 % |  |
+| Suisse | 4 | 0.2 % |  |
+| Pays-Bas | 4 | 0.2 % |  |
+| Taïwan | 3 | 0.1 % |  |
+| Pakistan | 3 | 0.1 % |  |
+| Lettonie | 3 | 0.1 % |  |
+| Australie | 3 | 0.1 % |  |
 | Éthiopie | 2 | 0.1 % |  |
-| Australie | 2 | 0.1 % |  |
-| Arabie Saoudite | 2 | 0.1 % |  |
-| Russie | 2 | 0.1 % |  |
-| Danemark | 1 | 0.1 % |  |
-| Iran | 1 | 0.1 % |  |
-| Vatican | 1 | 0.1 % |  |
+| Singapour | 2 | 0.1 % |  |
+| Estonie | 2 | 0.1 % |  |
+| Pologne | 2 | 0.1 % |  |
+| Danemark | 1 | 0.0 % |  |
+| Iran | 1 | 0.0 % |  |
+| Vatican | 1 | 0.0 % |  |
+| Corée du Nord | 1 | 0.0 % |  |
 
 ### Par orientation politique
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| centre | 492 | 33.0 % | ███████ |
-| independant | 321 | 21.5 % | ████ |
-| factuel | 315 | 21.1 % | ████ |
-| gauche | 112 | 7.5 % | ██ |
-| centre-gauche | 62 | 4.2 % | █ |
-| droite | 58 | 3.9 % | █ |
-| a-verifier | 45 | 3.0 % | █ |
-| droite-liberale | 37 | 2.5 % |  |
-| liberal | 30 | 2.0 % |  |
-| centre-droit | 21 | 1.4 % |  |
+| centre | 655 | 31.5 % | ██████ |
+| factuel | 458 | 22.0 % | ████ |
+| independant | 444 | 21.4 % | ████ |
+| gauche | 161 | 7.7 % | ██ |
+| centre-gauche | 85 | 4.1 % | █ |
+| droite | 80 | 3.8 % | █ |
+| a-verifier | 62 | 3.0 % | █ |
+| droite-liberale | 54 | 2.6 % | █ |
+| liberal | 43 | 2.1 % |  |
+| centre-droit | 37 | 1.8 % |  |
 
 ### Par type de source
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| presse | 668 | 44.7 % | █████████ |
-| think-tank | 466 | 31.2 % | ██████ |
-| institution | 273 | 18.3 % | ████ |
-| revue | 48 | 3.2 % | █ |
-| agence | 33 | 2.2 % |  |
-| media-etat | 5 | 0.3 % |  |
+| presse | 898 | 43.2 % | █████████ |
+| think-tank | 642 | 30.9 % | ██████ |
+| institution | 398 | 19.1 % | ████ |
+| revue | 74 | 3.6 % | █ |
+| agence | 55 | 2.6 % | █ |
+| media-etat | 12 | 0.6 % |  |
 
 ### Par sujet (France / Monde)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| FR | 763 | 51.1 % | ██████████ |
-| Monde | 730 | 48.9 % | ██████████ |
+| FR | 1056 | 50.8 % | ██████████ |
+| Monde | 1006 | 48.4 % | ██████████ |
+| monde | 10 | 0.5 % |  |
+| fr | 7 | 0.3 % |  |
 
 ### Par emplacement (lien formel / mention)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| texte | 1050 | 70.3 % | ██████████████ |
-| pour-aller-plus-loin | 443 | 29.7 % | ██████ |
+| texte | 1452 | 69.8 % | ██████████████ |
+| pour-aller-plus-loin | 616 | 29.6 % | ██████ |
+| perspective | 11 | 0.5 % |  |
 
 ### Par rôle (fait / analyse / opinion)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| fait | 666 | 44.6 % | █████████ |
-| analyse | 629 | 42.1 % | ████████ |
-| opinion | 198 | 13.3 % | ███ |
+| analyse | 895 | 43.0 % | █████████ |
+| fait | 891 | 42.9 % | █████████ |
+| opinion | 276 | 13.3 % | ███ |
+| Analyse juridique des enjeux probatoires du procès en appel : notion de décideur, standard de preuve, comparaison avec le dossier Le Pen | 1 | 0.0 % |  |
+| Chronologie du système incriminé et des décisions de justice successives dans l'affaire MoDem | 1 | 0.0 % |  |
+| Éclairage politique sur les craintes du camp centriste face au précédent du verdict Le Pen | 1 | 0.0 % |  |
+| Perspective gauche : la procédure pénale doit suivre son cours avec égale rigueur ; l'acquittement au bénéfice du doute n'est pas une innocence proclamée | 1 | 0.0 % |  |
+| Perspective gauche/investigation : exigence de probité renforcée pour un ancien Premier ministre ; le verdict Le Pen comme garantie démocratique | 1 | 0.0 % |  |
+| Perspective droite : inquiétude face à la juridictionnalisation de la démocratie ; légitimité populaire court-circuitée par un pouvoir judiciaire non élu | 1 | 0.0 % |  |
+| Perspective centre-droit : Bayrou relaxé en première instance, responsabilité personnelle directe jamais prouvée ; appel comme arme politique serait une dérive institutionnelle | 1 | 0.0 % |  |
+| Texte intégral de la déclaration trilatérale Burnham-Macron-Carney sur la solution à deux États et les restrictions sur les produits des colonies | 1 | 0.0 % |  |
+| Couverture factuelle des mesures annoncées et de la réaction israélienne, depuis la perspective de l'agence de presse juive américaine de référence | 1 | 0.0 % |  |
+| Analyse approfondie depuis la perspective moyen-orientale, incluant les réactions des parties palestiniennes | 1 | 0.0 % |  |
+| Perspective libérale-internationale : les restrictions commerciales comme nécessité pour préserver la crédibilité du droit international ; impact économique des colonies sur leur expansion | 1 | 0.0 % |  |
+| Perspective conservatrice-sécuritaire pro-israélienne : sanctions ignorant les réalités sécuritaires d'Israël, asymétrie injuste | 1 | 0.0 % |  |
+| Perspective israélienne de gauche : une partie de la gauche israélienne voit dans ces sanctions une pression extérieure bienvenue sur un gouvernement jugé extrémiste | 1 | 0.0 % |  |
+| Perspective droits humains : mesures saluées mais insuffisantes ; sanctions ne visent que les produits des colonies, pas d'embargo sur les armes | 1 | 0.0 % |  |
+| Perspective droits humains : réaction jugée timide face à une politique de colonisation documentée comme violation systématique du droit international humanitaire | 1 | 0.0 % |  |
+| Perspective pragmatiste : risque d'escalade diplomatique sans avancée concrète vers la paix ; isolation internationale d'Israël pourrait rapprocher Jérusalem de Trump | 1 | 0.0 % |  |
+| Perspective pragmatiste : interrogation sur l'efficacité réelle des restrictions commerciales dont l'impact économique sur Israël reste marginal par rapport à son commerce total | 1 | 0.0 % |  |
 
 ## Sources les plus citées (top 15)
 
 | Source | Citations | Part |
 |---|---:|---:|
-| Al Jazeera | 84 | 5.6 % |
-| IFRI — Institut français des relations internationales | 63 | 4.2 % |
-| France 24 | 49 | 3.3 % |
-| Le Figaro | 46 | 3.1 % |
-| Libération | 41 | 2.7 % |
-| Franceinfo (France Télévisions / Radio France) | 33 | 2.2 % |
-| Institut Montaigne | 30 | 2.0 % |
-| Euronews | 28 | 1.9 % |
-| Franceinfo | 26 | 1.7 % |
-| Fondation Jean-Jaurès | 25 | 1.7 % |
-| CSIS — Center for Strategic and International Studies | 24 | 1.6 % |
-| CNBC | 24 | 1.6 % |
-| France Diplomatie (Ministère de l'Europe et des Affaires étrangères) | 22 | 1.5 % |
-| Public Sénat | 22 | 1.5 % |
-| Atlantic Council | 21 | 1.4 % |
+| Al Jazeera | 102 | 4.9 % |
+| IFRI — Institut français des relations internationales | 84 | 4.0 % |
+| Le Figaro | 65 | 3.1 % |
+| France 24 | 63 | 3.0 % |
+| Libération | 60 | 2.9 % |
+| Franceinfo (France Télévisions / Radio France) | 44 | 2.1 % |
+| Institut Montaigne | 43 | 2.1 % |
+| Euronews | 42 | 2.0 % |
+| Fondation Jean-Jaurès | 39 | 1.9 % |
+| Public Sénat | 37 | 1.8 % |
+| Agence France-Presse (AFP) | 36 | 1.7 % |
+| Organisation des Nations Unies (ONU) | 33 | 1.6 % |
+| Franceinfo | 32 | 1.5 % |
+| France Diplomatie (Ministère de l'Europe et des Affaires étrangères) | 30 | 1.4 % |
+| IRIS — Institut de relations internationales et stratégiques | 28 | 1.3 % |
 
 ## Évolution mensuelle
 
@@ -145,4 +174,5 @@
 |---|---:|---:|---:|---:|
 | 2026-06 | 16 | 295 | 16 | 10 |
 | 2026-07 | 30 | 604 | 19 | 10 |
-| 2026-08 | 29 | 594 | 25 | 10 |
+| 2026-08 | 31 | 640 | 26 | 10 |
+| 2026-09 | 27 | 540 | 27 | 10 |
