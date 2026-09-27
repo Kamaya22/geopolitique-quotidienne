@@ -106,3 +106,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-24 — FR : La France convoque le Conseil de sécurité de l'ONU sur l'IA | Monde : Élection brésilienne du 4 octobre : Lula ou Bolsonaro, quel avenir pour l'Amérique latine ?
 - 2026-09-25 — FR : La visite du pape Léon XIV en France | Monde : Netanyahu à l'AGNU 2026 : défiance et isolement d'Israël
 - 2026-09-26 — FR : La France au Conseil de sécurité pour rouvrir le détroit d'Ormuz | Monde : Trump rejette la paix iranienne — la guerre suspendue aux midterms
+- 2026-09-27 — FR : Sénatoriales du 27 septembre : la droite résiste, le RN peine, la gauche consolide | Monde : Le corridor TRIPP et la recomposition géopolitique du Caucase du Sud

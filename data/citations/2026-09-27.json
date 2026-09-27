@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-27",
+  "sujet_fr": "Sénatoriales du 27 septembre : la droite résiste, le RN peine, la gauche consolide",
+  "sujet_monde": "Le corridor TRIPP et la recomposition géopolitique du Caucase du Sud",
+  "citations": [
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Sénatoriales 2026 — projections et analyses des résultats",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Composition du Sénat — groupes et résultats sénatoriales 2026",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Résultats sénatoriales 2026 — dépêches AFP",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Sénatoriales 2026 : lecture de la droite libérale",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Sénatoriales 2026 : biais démocratique du scrutin indirect",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Sénatoriales et présidentielle 2027 : le Sénat comme verrou constitutionnel",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Le Sénat français vu de Bruxelles : contrepouvoir aux tendances eurosceptiques",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/senatoriales-2026",
+      "titre": "Sénatoriales 2026",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/senatoriales-2026-mode-de-scrutin-electeurs-enjeux-ce-qu-il-faut-savoir/",
+      "titre": "Sénatoriales 2026 : mode de scrutin, électeurs, enjeux... ce qu'il faut savoir",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://senatoriales2026.senat.fr/",
+      "titre": "Site officiel des sénatoriales 2026",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Erdoğan réclame l'ouverture rapide du corridor TRIPP (26 sept. 2026)",
+      "date_source": "2026-09-26"
+    },
+    {
+      "source_id": "rferl",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.rferl.org/a/armenia-azerbaijan-sign-peace-deal-white-house-trump/33498177.html",
+      "titre": "Armenia, Azerbaijan Sign Deal Aimed At Ending Decades Of Conflict",
+      "date_source": "2025-08-08"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/research/2026/03/rewiring-the-south-caucasus-tripp-and-the-new-geopolitics-of-connectivity",
+      "titre": "Rewiring the South Caucasus: TRIPP and the New Geopolitics of Connectivity",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "new-eastern-europe",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://neweasterneurope.eu/2026/02/13/what-the-trump-route-for-international-peace-and-prosperity-means-for-the-south-caucasus-and-for-the-people-living-there/",
+      "titre": "What the Trump Route for International Peace and Prosperity means for the South Caucasus",
+      "date_source": "2026-02-13"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cfr.org/global-conflict-tracker/conflict/nagorno-karabakh-conflict",
+      "titre": "Tensions Between Armenia and Azerbaijan — Global Conflict Tracker",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "The Zangezur Knot Around Iran's Neck — généraux iraniens et avertissements internes",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://carnegieendowment.org/research/2026/03/rewiring-the-south-caucasus-tripp-and-the-new-geopolitics-of-connectivity",
+      "titre": "Rewiring the South Caucasus: TRIPP and the New Geopolitics of Connectivity",
+      "date_source": "2026-03"
+    },
+    {
+      "source_id": "new-eastern-europe",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://neweasterneurope.eu/2026/02/13/what-the-trump-route-for-international-peace-and-prosperity-means-for-the-south-caucasus-and-for-the-people-living-there/",
+      "titre": "What the Trump Route for International Peace and Prosperity means for the South Caucasus – and for the people living there",
+      "date_source": "2026-02-13"
+    },
+    {
+      "source_id": "rferl",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.rferl.org/a/armenia-azerbaijan-sign-peace-deal-white-house-trump/33498177.html",
+      "titre": "Armenia, Azerbaijan Sign Deal Aimed At Ending Decades Of Conflict",
+      "date_source": "2025-08-08"
+    }
+  ]
+}
