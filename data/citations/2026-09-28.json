@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-28",
+  "sujet_fr": "Le RN au Sénat, une brèche historique : basculement institutionnel à sept mois de 2027",
+  "sujet_monde": "Brésil à J-6 : Lula contre Flávio Bolsonaro, l'élection qui redistribue les cartes d'Amérique latine",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Résultats sénatoriales 2026 — groupe RN constitué, LFI premier élu",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Composition officielle du Sénat après les sénatoriales 2026",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/elections/senatoriales/resultats-des-elections-senatoriales-2026-le-rn-reussit-a-constituer-un-groupe-au-senat-pour-la-premiere-fois-de-son-histoire_8212448.html",
+      "titre": "Résultats des élections sénatoriales 2026 : le RN réussit à constituer un groupe au Sénat pour la première fois de son histoire",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Sénatoriales 2026 : le RN réussit son pari et crée un groupe, « un coup d'accélérateur pour la présidentielle »",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Sénatoriales 2026 : la droite conserve la majorité sénatoriale — lecture droite libérale",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Sénatoriales 2026 : normalisation institutionnelle de l'extrême droite — lecture gauche",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse électorale des sénatoriales 2026 : le filtre démocratique du scrutin indirect se fissure",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "RN au Sénat : conséquences pour les commissions des affaires étrangères et de défense",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/on-est-deja-dans-le-vide-sans-parachute-la-grande-inquietude-de-la-majorite-senatoriale-sur-le-budget-2027",
+      "titre": "« On est déjà dans le vide, sans parachute » : la grande inquiétude de la majorité sénatoriale sur le budget 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/elections/senatoriales/resultats-des-elections-senatoriales-2026-le-rn-reussit-a-constituer-un-groupe-au-senat-pour-la-premiere-fois-de-son-histoire_8212448.html",
+      "titre": "Le RN réussit à constituer un groupe au Sénat pour la première fois de son histoire",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/senatoriales-2026-decouvrez-les-equilibres-politiques-du-senat-a-lissue-des-elections",
+      "titre": "Sénatoriales 2026 : découvrez les équilibres politiques du Sénat à l'issue des élections",
+      "date_source": "2026-09-27"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://lcp.fr/dossiers/budget-2027-440523",
+      "titre": "Budget 2027 — dossier LCP",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "rts",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.rts.ch/info/monde/2026/article/bresil-lula-brigue-un-4e-mandat-face-a-flavio-bolsonaro-29329790.html",
+      "titre": "Brésil : Lula brigue un 4e mandat face à Flávio Bolsonaro",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sondages Datafolha et Palver — présidentielle brésilienne 2026",
+      "date_source": "2026-09-24"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260921-br%C3%A9sil-pr%C3%A9sidentielle-sous-influence",
+      "titre": "Présidentielle au Brésil : une élection sous influence ?",
+      "date_source": "2026-09-21"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/expressions/bresil-un-3e-duel-entre-lula-et-bolsonaro-pour-la-presidentielle",
+      "titre": "Brésil : un 3e duel entre Lula et Bolsonaro pour la présidentielle",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "geopolitical-monitor",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.geopoliticalmonitor.com/brazils-2026-elections-a-test-of-active-non-alignment/",
+      "titre": "Brazil's 2026 Elections: A Test of Active Non-Alignment",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "as-coa",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.as-coa.org/articles/poll-tracker-brazils-2026-presidential-election",
+      "titre": "Poll Tracker: Brazil's 2026 Presidential Election",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/expressions/bresil-un-3e-duel-entre-lula-et-bolsonaro-pour-la-presidentielle",
+      "titre": "Brésil : un 3e duel entre Lula et Bolsonaro pour la présidentielle",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "geopolitical-monitor",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.geopoliticalmonitor.com/brazils-2026-elections-a-test-of-active-non-alignment/",
+      "titre": "Brazil's 2026 Elections: A Test of Active Non-Alignment",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "as-coa",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.as-coa.org/articles/poll-tracker-brazils-2026-presidential-election",
+      "titre": "Poll Tracker: Brazil's 2026 Presidential Election",
+      "date_source": "2026-09"
+    }
+  ]
+}

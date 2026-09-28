@@ -107,3 +107,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-25 — FR : La visite du pape Léon XIV en France | Monde : Netanyahu à l'AGNU 2026 : défiance et isolement d'Israël
 - 2026-09-26 — FR : La France au Conseil de sécurité pour rouvrir le détroit d'Ormuz | Monde : Trump rejette la paix iranienne — la guerre suspendue aux midterms
 - 2026-09-27 — FR : Sénatoriales du 27 septembre : la droite résiste, le RN peine, la gauche consolide | Monde : Le corridor TRIPP et la recomposition géopolitique du Caucase du Sud
+- 2026-09-28 — FR : Le RN au Sénat, une brèche historique : basculement institutionnel à sept mois de 2027 | Monde : Brésil à J-6 : Lula contre Flávio Bolsonaro, l'élection qui redistribue les cartes d'Amérique latine
