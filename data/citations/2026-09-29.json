@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-29",
+  "sujet_fr": "Grève dans la fonction publique : le gel des salaires comme bras de fer budgétaire",
+  "sujet_monde": "Niger : la guerre de l'uranium entre souveraineté, Russie, Chine et capitaux américains",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Grève intersyndical fonction publique du 29 septembre 2026 — 155 rassemblements dans 95 départements",
+      "date_source": "2026-09-29"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/budget/retraites-gel-du-point-d-indice-des-fonctionnaires-carence-pour-les-etrangers-les-principales-pistes-du-gouvernement-pour-realiser-54-milliards-d-euros-d-economies-sur-le-budget-2027_8197454.html",
+      "titre": "Retraites, gel du point d'indice des fonctionnaires, \"carence\" pour les étrangers… Les pistes du gouvernement pour réaliser 54 milliards d'euros d'économies sur le budget 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Budget 2027 : gel du point d'indice confirmé pour 2026 et 2027 — présentation Lecornu le 17 septembre",
+      "date_source": "2026-09-17"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": null,
+      "titre": "Budget 2027 : Avec un nouveau gel du point d'indice, les fonctionnaires dénoncent leur appauvrissement",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "54 milliards d'économies pour ramener le déficit à 5% du PIB en 2027 — présentation budgétaire Lecornu",
+      "date_source": "2026-09-17"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Grève des fonctionnaires : la rigueur budgétaire nécessaire, la réforme structurelle insuffisante — lecture droite libérale",
+      "date_source": "2026-09-29"
+    },
+    {
+      "source_id": "fondapol",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Individualisation des rémunérations dans la fonction publique : l'alternative au gel du point d'indice",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Gel du point d'indice : une économie à courte vue qui détruit l'attractivité des métiers publics",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Revalorisation ciblée vs gel uniforme : quelle politique salariale dans la fonction publique à 7 mois de 2027 ?",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "vie-publique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Le point d'indice : mécanisme, historique des revalorisations et impact salarial",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Niger : annulation de la concession d'uranium d'Arlit accordée en 1968 — création de TSUMCO SA",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2024/6/21/niger-revokes-french-nuclear-groups-licence-at-major-uranium-mine",
+      "titre": "Niger revokes French nuclear group's licence at major uranium mine",
+      "date_source": "2024-06-21"
+    },
+    {
+      "source_id": "northern-miner",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.northernminer.com/news/us-backs-global-atomics-niger-uranium-mine-with-414m-loan/1003894965/",
+      "titre": "US backs Global Atomic's Niger uranium mine with $414M loan",
+      "date_source": "2026-09-20"
+    },
+    {
+      "source_id": "northern-miner",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "DFC US approuve conditionnellement 414,2 M$ pour mine Dasa (Global Atomic/SOMIDA Niger)",
+      "date_source": "2026-09-20"
+    },
+    {
+      "source_id": "fpri",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.fpri.org/article/2026/04/why-niger-can-seize-uranium-but-cannot-sell-it/",
+      "titre": "Why Niger Can Seize Uranium but Cannot Sell It",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "fpri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Paradoxe de la souveraineté minière sans route d'exportation viable — analyse des contraintes logistiques nigériennes",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "pretoria-news-iol",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://iol.co.za/pretoria-news/opinion/2026-09-25-us-uranium-deal-a-conundrum-for-nigers-decolonisation-drive/",
+      "titre": "US uranium deal a conundrum for Niger's decolonisation drive",
+      "date_source": "2026-09-25"
+    },
+    {
+      "source_id": "pretoria-news-iol",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Tension entre discours de décolonisation des AES et ouverture aux capitaux américains — perspective Afrique du Sud",
+      "date_source": "2026-09-25"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "AES et recomposition des alliances au Sahel : entre souveraineté proclamée et dépendances structurelles",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Rivalité Maroc-Algérie au Sahel : enjeux de la visite du PM algérien Ghrieb à Bamako (14 septembre 2026)",
+      "date_source": "2026-09"
+    }
+  ]
+}
