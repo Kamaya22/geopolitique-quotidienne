@@ -109,3 +109,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-27 — FR : Sénatoriales du 27 septembre : la droite résiste, le RN peine, la gauche consolide | Monde : Le corridor TRIPP et la recomposition géopolitique du Caucase du Sud
 - 2026-09-28 — FR : Le RN au Sénat, une brèche historique : basculement institutionnel à sept mois de 2027 | Monde : Brésil à J-6 : Lula contre Flávio Bolsonaro, l'élection qui redistribue les cartes d'Amérique latine
 - 2026-09-29 — FR : Grève dans la fonction publique : le gel des salaires comme bras de fer budgétaire | Monde : Niger : la guerre de l'uranium entre souveraineté, Russie, Chine et capitaux américains
+- 2026-09-30 — FR : Le PLF 2027 présenté en Conseil des ministres : rigueur sans majorité | Monde : Venezuela post-Maduro : l'introuvable transition démocratique

@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-30",
+  "sujet_fr": "Le PLF 2027 présenté en Conseil des ministres : rigueur sans majorité",
+  "sujet_monde": "Venezuela post-Maduro : l'introuvable transition démocratique",
+  "citations": [
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Présentation du PLF 2027 en Conseil des ministres",
+      "date_source": "2026-09-30"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Interview Lecornu sur les orientations du PLF 2027",
+      "date_source": "2026-09-17"
+    },
+    {
+      "source_id": "hcfp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Avis du HCFP sur les hypothèses de croissance du PLF 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Calendrier parlementaire du PLF 2027 — dates des votes",
+      "date_source": "2026-09-30"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Réaction de LFI (Éric Coquerel) au PLF 2027",
+      "date_source": "2026-09-30"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "PLF 2027 : analyse libérale de l'effort budgétaire",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique de la réduction de la surtaxe sur les grandes entreprises dans le PLF 2027",
+      "date_source": "2026-09-30"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Effet récessif de l'ajustement budgétaire de 54 Mds € sur la croissance 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Réformes structurelles absentes du PLF 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "reseau-action-climat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique des reculs sur la transition écologique dans le PLF 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "legifiscal",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.legifiscal.fr/actualites-fiscales/4639-projet-loi-finances-2027-annonces-sebastien-lecornu.html",
+      "titre": "Projet de loi de finances pour 2027 : les annonces de Sébastien Lecornu",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/09/17/sebastien-lecornu-propose-un-effort-budgetaire-de-54-milliards-deuros",
+      "titre": "Sébastien Lecornu propose un effort budgétaire de 54 milliards d'euros",
+      "date_source": "2026-09-17"
+    },
+    {
+      "source_id": "reseau-action-climat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://reseauactionclimat.org/plf-2027-malgre-lete-que-nous-venons-de-vivre-le-gouvernement-continue-le-stop-and-go-et-les-reculs-sur-la-transition-ecologique/",
+      "titre": "PLF 2027 : malgré l'été que nous venons de vivre, le gouvernement continue le stop-and-go et les reculs sur la transition écologique",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date",
+      "titre": "Venezuela's Delcy Rodriguez promises elections at UN, gives no date",
+      "date_source": "2026-09-24"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "CFR : Washington préfère un chavisme sans Maduro à une alternance déstabilisatrice",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/venezuela-moving-toward-democracy",
+      "titre": "Is Venezuela Moving Toward Democracy?",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ICG : risque de démocratisation cosmétique sans date d'élection ni observation internationale",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Environ 250 prisonniers politiques encore détenus au Venezuela en septembre 2026",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Mission internationale indépendante ONU sur le Venezuela — demandes de garanties électorales",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "cpi",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "CPI : enquête pour crimes contre l'humanité au Venezuela 2017-2024 toujours en cours",
+      "date_source": "2026-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date",
+      "titre": "Venezuela's Delcy Rodriguez promises elections at UN, gives no date",
+      "date_source": "2026-09-24"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.csis.org/analysis/venezuela-moving-toward-democracy",
+      "titre": "Is Venezuela Moving Toward Democracy?",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "house-of-commons-library",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12211/",
+      "titre": "Venezuela: What has happened since Maduro's capture in January 2026?",
+      "date_source": "2026-09"
+    }
+  ]
+}
