@@ -110,3 +110,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-09-28 — FR : Le RN au Sénat, une brèche historique : basculement institutionnel à sept mois de 2027 | Monde : Brésil à J-6 : Lula contre Flávio Bolsonaro, l'élection qui redistribue les cartes d'Amérique latine
 - 2026-09-29 — FR : Grève dans la fonction publique : le gel des salaires comme bras de fer budgétaire | Monde : Niger : la guerre de l'uranium entre souveraineté, Russie, Chine et capitaux américains
 - 2026-09-30 — FR : Le PLF 2027 présenté en Conseil des ministres : rigueur sans majorité | Monde : Venezuela post-Maduro : l'introuvable transition démocratique
+- 2026-10-01 — FR : La gauche française à l'épreuve de sa primaire impossible | Monde : Israël à 26 jours des législatives du 27 octobre
