@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-02",
+  "sujet_fr": "Primaire Choisir 2027 : la gauche sociale-démocrate cherche son candidat",
+  "sujet_monde": "Brésil à J-2 : Lula contre Flávio Bolsonaro",
+  "citations": [
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-suivez-le-debat-des-candidats-a-la-primaire-du-pole-socialiste-sur-france-2-et-france-inter-a-20h40_8218531.html",
+      "titre": "Débat de la primaire de la gauche : revivez les échanges entre les cinq candidats sur France 2 et France Inter",
+      "date_source": "2026-10-01"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-suivez-le-debat-des-candidats-a-la-primaire-du-pole-socialiste-sur-france-2-et-france-inter-a-20h40_8218531.html",
+      "titre": "Débat de la primaire de la gauche : revivez les échanges entre les cinq candidats sur France 2 et France Inter",
+      "date_source": "2026-10-01"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal",
+      "titre": "Glucksmann, Royal, Faure : ce qu'il faut savoir sur la primaire de la gauche sociale-démocrate",
+      "date_source": "2026-09-16"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal",
+      "titre": "Glucksmann, Royal, Faure : ce qu'il faut savoir sur la primaire de la gauche sociale-démocrate",
+      "date_source": "2026-09-16"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Études électorales longitudinales avec le Cevipof et Ipsos",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jean-jaures.org/publication/la-gauche-en-question-analyse-dun-focus-group-de-sympathisants-socialistes/",
+      "titre": "La gauche en question : analyse d'un focus group de sympathisants socialistes",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Note prospective sur les conditions d'accès au second tour en 2027",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll",
+      "titre": "Brazil's Lula and Flávio Bolsonaro still essentially tied in new poll",
+      "date_source": "2026-09-25"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll",
+      "titre": "Brazil's Lula and Flávio Bolsonaro still essentially tied in new poll",
+      "date_source": "2026-09-25"
+    },
+    {
+      "source_id": "piie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/why-foreign-policy-central-question-brazils-next-election",
+      "titre": "Why foreign policy is the central question of Brazil's next election",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "piie",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/why-foreign-policy-central-question-brazils-next-election",
+      "titre": "Why foreign policy is the central question of Brazil's next election",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "americas-quarterly",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.americasquarterly.org/article/brazil-meet-the-candidates-2026/",
+      "titre": "Brazil: Meet the Candidates 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/what-kind-of-brazil-will-emerge-from-this-election/",
+      "titre": "What kind of Brazil will emerge from this election?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/what-kind-of-brazil-will-emerge-from-this-election/",
+      "titre": "What kind of Brazil will emerge from this election?",
+      "date_source": "2026"
+    }
+  ]
+}
