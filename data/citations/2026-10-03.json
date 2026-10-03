@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-03",
+  "sujet_fr": "Budget 2027 : la censure à la porte, le RN arbitre",
+  "sujet_monde": "Lettonie : élections au flanc balte de l'OTAN",
+  "citations": [
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/greve/classes-surchargees-profs-pas-remplaces-problemes-de-budget-les-lyceens-recus-par-le-ministre-ce-vendredi-resument-leurs-revendications_8219797.html",
+      "titre": "Classes surchargées, profs pas remplacés : les lycéens résument leurs revendications",
+      "date_source": "2026-10-01"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.franceinfo.fr/economie/budget/toutes-les-issues-restent-ouvertes-y-compris-la-voie-des-ordonnances-comment-sebastien-lecornu-veut-doter-la-france-d-un-budget-sans-etre-censure_8214587.html",
+      "titre": "Toutes les issues restent ouvertes, y compris la voie des ordonnances",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/budget-le-recours-au-49-3-dependra-de-la-qualite-des-debats-parlementaires-previent-le-ministre-des-relations-avec-le-parlement",
+      "titre": "Budget : le recours au 49-3 dépendra de la qualité des débats parlementaires",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/budget-le-recours-au-49-3-dependra-de-la-qualite-des-debats-parlementaires-previent-le-ministre-des-relations-avec-le-parlement",
+      "titre": "Budget : le recours au 49-3 dépendra de la qualité des débats parlementaires",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/dossier/budget-2027",
+      "titre": "Dossier Budget 2027",
+      "date_source": null
+    },
+    {
+      "source_id": "hcfp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Avis du HCFP sur le projet de loi de finances pour 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Prévisions de croissance OFCE pour 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Budget 2027 : irresponsabilité collective et signal négatif aux marchés",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Budget 2027 : la censure est légitime, l'austérité ne l'est pas",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La crise budgétaire révèle un dysfonctionnement structurel de la Ve République",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Le paradoxe du RN : opposition de façade, soutien tacite à l'exécutif",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "fondation-robert-schuman",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.robert-schuman.eu/fr/observatoire/6863-la-lettonie-vote-le-3-octobre-quelle-nouvelle-coalition-gouvernementale",
+      "titre": "La Lettonie vote le 3 octobre : quelle nouvelle coalition gouvernementale ?",
+      "date_source": "2026-09-30"
+    },
+    {
+      "source_id": "fondation-robert-schuman",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.robert-schuman.eu/fr/observatoire/6863-la-lettonie-vote-le-3-octobre-quelle-nouvelle-coalition-gouvernementale",
+      "titre": "La Lettonie vote le 3 octobre : quelle nouvelle coalition gouvernementale ?",
+      "date_source": "2026-09-30"
+    },
+    {
+      "source_id": "fpri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.fpri.org/article/2026/10/understanding-latvias-parliamentary-elections/",
+      "titre": "Understanding Latvia's Parliamentary Elections",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "fpri",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.fpri.org/article/2026/10/understanding-latvias-parliamentary-elections/",
+      "titre": "Understanding Latvia's Parliamentary Elections",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/elections/lettonie/",
+      "titre": "Élections en Lettonie — Observatoire électoral",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "icds",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse du parti Suverēnā vara et des risques pour la sécurité baltique",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "lsm-latvija",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://eng.lsm.lv/article/politics/election/02.10.2026-early-voting-turnout-in-latvia-surpasses-10-on-friday.a665843/",
+      "titre": "Early voting turnout in Latvia surpasses 10% on Friday",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "lsm-latvija",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://eng.lsm.lv/article/politics/election/31.08.2026-latvian-saeima-elections-2026-the-parties-and-their-promises.a658526/",
+      "titre": "Latvian Saeima elections 2026: The Parties and their Promises",
+      "date_source": "2026-08-31"
+    }
+  ]
+}
