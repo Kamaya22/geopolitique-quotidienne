@@ -113,3 +113,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-01 — FR : La gauche française à l'épreuve de sa primaire impossible | Monde : Israël à 26 jours des législatives du 27 octobre
 - 2026-10-02 — FR : Primaire « Choisir 2027 » : Glucksmann favori, Faure et Royal en embuscade (premier tour 9-10 octobre) | Monde : Brésil à J-2 : Lula contre Flávio Bolsonaro, le duel des sondages avant le premier tour du 4 octobre
 - 2026-10-03 — FR : Budget 2027 : la censure à la porte, le RN arbitre | Monde : Lettonie : élections au flanc balte de l'OTAN
+- 2026-10-04 — FR : Les filières stratégiques françaises dans la guerre commerciale de Trump | Monde : Brésil, premier tour du 4 octobre : Lula–Bolsonaro fils, la démocratie en suspens

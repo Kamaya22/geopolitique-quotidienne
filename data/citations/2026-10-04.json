@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-04",
+  "sujet_fr": "Les filières stratégiques françaises dans la guerre commerciale de Trump",
+  "sujet_monde": "Brésil, premier tour du 4 octobre : Lula–Bolsonaro fils, la démocratie en suspens",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "France : données douanières sur les exportations vers les États-Unis (47 milliards d'euros, secteurs aéronautique, vins et luxe)",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Les exportateurs français face aux tarifs de Trump : contre-mesures ciblées ou diversification des marchés ?",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Tarifs Trump : la France doit pousser pour un accord sectoriel rapide et se tourner vers l'Inde",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Guerre commerciale de Trump : les sous-traitants aéronautiques et vignerons en première ligne, loin du CAC 40",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Tarifs américains : accorder des contreparties unilatérales à Trump validerait la coercition comme norme diplomatique",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La guerre commerciale de Trump comme outil de réaffirmation de la prééminence américaine : implications pour l'autonomie stratégique européenne",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La pression tarifaire américaine comme accélérateur potentiel de l'intégration économique européenne",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/en/france/20250403-how-will-trump-s-liberation-day-tariffs-impact-france",
+      "titre": "How will Trump's 'Liberation Day' tariffs impact France?",
+      "date_source": "2025-04-03"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": null,
+      "titre": "La France sous pression tarifaire : analyse sectorielle",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": null,
+      "titre": "Les exportateurs français face aux tarifs de Trump",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Brésil : premier tour de la présidentielle du 4 octobre 2026, résultats et contexte électoral",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "fmi",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Perspectives économiques mondiales — Brésil : croissance 2,8 % en 2025, dette publique ~90 % du PIB",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/what-kind-of-brazil-will-emerge-from-this-election/",
+      "titre": "What kind of Brazil will emerge from this election?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "as-coa",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.as-coa.org/articles/poll-tracker-brazils-2026-presidential-election",
+      "titre": "Poll Tracker: Brazil's 2026 Presidential Election",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election",
+      "titre": "What to know about Brazil's 2026 presidential election",
+      "date_source": "2026-10-03"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+      "titre": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election",
+      "titre": "What to know about Brazil's 2026 presidential election",
+      "date_source": "2026-10-03"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+      "titre": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/what-kind-of-brazil-will-emerge-from-this-election/",
+      "titre": "What kind of Brazil will emerge from this election?",
+      "date_source": "2026"
+    }
+  ]
+}
