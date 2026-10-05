@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-05",
+  "sujet_fr": "Le mouvement lycéen : crise scolaire, crise sociale ou crise politique ?",
+  "sujet_monde": "Brésil : la surprise du premier tour, Flávio Bolsonaro devant Lula",
+  "citations": [
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-mobilisation-a-pris-une-ampleur-inattendue-comment-le-mouvement-de-blocage-des-lycees-s-est-propage-en-france_8216054.html",
+      "titre": "Comment le mouvement de blocage des lycées s'est propagé en France",
+      "date_source": "2026-09-30"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/pourquoi-lfi-est-elle-accusee-par-le-gouvernement-d-etre-a-l-origine-du-mouvement-lyceen-et-de-l-instrumentaliser_8221240.html",
+      "titre": "Pourquoi LFI est-elle accusée par le gouvernement d'être à l'origine du mouvement lycéen ?",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.amnesty.fr/actualites/france-mouvement-lyceens-blocus-lycees-point-sur-la-situation/",
+      "titre": "France : mouvement des lycéens, blocus et répression — point sur la situation",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.cnews.fr/france/2026-09-29/blocus-des-lycees-que-revendiquent-vraiment-les-eleves-1926271",
+      "titre": "Blocus des lycées : que revendiquent vraiment les élèves ?",
+      "date_source": "2026-09-29"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/pourquoi-lfi-est-elle-accusee-par-le-gouvernement-d-etre-a-l-origine-du-mouvement-lyceen-et-de-l-instrumentaliser_8221240.html",
+      "titre": "Pourquoi LFI est-elle accusée par le gouvernement d'être à l'origine du mouvement lycéen ?",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.amnesty.fr/actualites/france-mouvement-lyceens-blocus-lycees-point-sur-la-situation/",
+      "titre": "France : mouvement des lycéens, blocus et répression — point sur la situation",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-mobilisation-a-pris-une-ampleur-inattendue-comment-le-mouvement-de-blocage-des-lycees-s-est-propage-en-france_8216054.html",
+      "titre": "Comment le mouvement de blocage des lycées s'est propagé en France",
+      "date_source": "2026-09-30"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261004-en-direct-premier-tour-presidentielle-bresil-resultats-estimations-lula-bolsonaro",
+      "titre": "Présidentielle au Brésil : Flávio Bolsonaro devance Lula et l'affrontera au second tour",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Résultats définitifs premier tour présidentielle Brésil 2026",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "newsweek",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.newsweek.com/trump-ally-bolsonaro-vs-lula-final-polls-as-brazil-votes-for-president-12519169",
+      "titre": "Trump Ally Bolsonaro Tops Lula in Brazil Vote, Forcing Runoff",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.nbcnews.com/world/brazil/brazilians-polarized-election-lula-flavio-bolsonaro-rcna601381",
+      "titre": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "titre": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html",
+      "titre": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "titre": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html",
+      "titre": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "newsweek",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.newsweek.com/trump-ally-bolsonaro-vs-lula-final-polls-as-brazil-votes-for-president-12519169",
+      "titre": "Trump Ally Bolsonaro Tops Lula in Brazil Vote, Forcing Runoff",
+      "date_source": "2026-10-04"
+    }
+  ]
+}
