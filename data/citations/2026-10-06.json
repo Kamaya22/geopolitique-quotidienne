@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-06",
+  "sujet_fr": "Réserves stratégiques de diesel — l'Europe cède au bluff de Trump",
+  "sujet_monde": "Éthiopie–Égypte : le Nil en crise, la Corne de l'Afrique en alerte",
+  "citations": [
+    {
+      "source_id": "reuters",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "US pressed France and Germany to draw down diesel stocks or face export ban",
+      "date_source": "2026-10-01"
+    },
+    {
+      "source_id": "aie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/10/02/g7-agrees-100-million-barrel-emergency-oil-release-amid-us-pressure-over-diesel",
+      "titre": "G7 agrees 100-million-barrel emergency oil release amid US pressure over diesel",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/10/02/france-weighs-emergency-oil-release-as-us-pressure-mounts-ahead-of-g7-call",
+      "titre": "France weighs emergency oil release as US pressure mounts ahead of G7 call",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "aie",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.iea.org/news/iea-member-countries-agree-to-new-emergency-oil-stock-release-in-response-to-market-turmoil",
+      "titre": "IEA Member Countries agree to new emergency oil stock release in response to market turmoil",
+      "date_source": null
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Éthiopie : expulsion du diplomate égyptien Ahmed Moharam",
+      "date_source": "2026-10-01"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Égypte expulse le conseiller éthiopien Egazi Emelo Borougi par réciprocité",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ICG warning: Ethiopia slipping into renewed war",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "fpri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.fpri.org/article/2025/10/the-gerd-dispute-lessons-for-water-governance-and-the-future-of-the-nile-basin/",
+      "titre": "The GERD Dispute: Lessons for Water Governance and the Future of the Nile Basin",
+      "date_source": "2025-10"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/brf/africa/b209-seven-peace-and-security-priorities-africa-2026",
+      "titre": "Seven Peace and Security Priorities for Africa in 2026",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.crisisgroup.org/sites/default/files/2026-02/b210-ehtioipia-eritrea-tigray.pdf",
+      "titre": "Ethiopia, Eritrea and Tigray: A Powder Keg in the Horn of Africa",
+      "date_source": "2026-02"
+    },
+    {
+      "source_id": "fpri",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.fpri.org/article/2025/10/the-gerd-dispute-lessons-for-water-governance-and-the-future-of-the-nile-basin/",
+      "titre": "The GERD Dispute: Lessons for Water Governance and the Future of the Nile Basin",
+      "date_source": "2025-10"
+    }
+  ]
+}
