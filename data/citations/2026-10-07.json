@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-07",
+  "sujet_fr": "Le 7-Octobre en France : mémoire, antisémitisme et liberté de manifester",
+  "sujet_monde": "Trois ans après le 7-Octobre : Gaza dans les ruines, Israël aux urnes",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Interdiction de la manifestation Urgence Palestine à Paris le 7 octobre",
+      "date_source": "2026-10-06"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/greve/une-manifestation-a-l-appel-du-collectif-urgence-palestine-interdite-a-paris-le-jour-des-commemorations-du-7-octobre_8224933.html",
+      "titre": "Une manifestation à l'appel du collectif Urgence Palestine interdite à Paris le jour des commémorations du 7-Octobre",
+      "date_source": "2026-10-06"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspective éditoriale du Figaro sur l'interdiction de la manifestation pro-palestinienne",
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspective éditoriale de Libération sur l'interdiction et la liberté de manifester",
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "crif",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Position du CRIF sur la commémoration du 7-Octobre et la protection de la communauté juive",
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://news.un.org/fr/story/2026/10/1159617",
+      "titre": "7-Octobre : à l'ONU, Israël commémore ses morts sur fond de fortes tensions avec l'institution",
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "times-of-israel",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Israel marks 3 years since October 7 attack, with commemorations starting at 6:29 a.m.",
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "msf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.msf.ch/nos-actualites/articles/gaza-trois-ans-apres-cessez-feu-trompe-loeil-ligne-jaune-qui-etouffe",
+      "titre": "Gaza : trois ans après, un cessez-le-feu en trompe-l'œil, et une « ligne jaune » qui étouffe la population",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Perspective d'Al Jazeera sur le bilan humanitaire à Gaza trois ans après le 7 octobre",
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "unicef",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Bilan UNICEF des victimes civiles depuis le cessez-le-feu d'octobre 2025 à Gaza",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://news.un.org/fr/story/2026/10/1159611",
+      "titre": "7-Octobre : trois ans après, Guterres appelle à transformer un cessez-le-feu inachevé en paix durable",
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "the-conversation",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://theconversation.com/three-years-after-october-7-global-attention-on-gaza-has-receded-the-real-test-will-come-after-israels-election-292360",
+      "titre": "Three years after October 7, global attention on Gaza has receded. The real test will come after Israel's election",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "arab-center-dc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://arabcenterdc.org/resource/israels-election-and-eisenkots-arab-coalition-dilemma/",
+      "titre": "Israel's Election and Eisenkot's Arab Coalition Dilemma",
+      "date_source": "2026-10"
+    }
+  ]
+}

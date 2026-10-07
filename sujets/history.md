@@ -116,3 +116,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-04 — FR : Les filières stratégiques françaises dans la guerre commerciale de Trump | Monde : Brésil, premier tour du 4 octobre : Lula–Bolsonaro fils, la démocratie en suspens
 - 2026-10-05 — FR : Le mouvement lycéen : crise scolaire, crise sociale ou crise politique ? | Monde : Brésil : la surprise du premier tour, Flávio Bolsonaro devant Lula
 - 2026-10-06 — FR : Réserves stratégiques de diesel : l'Europe cède au bluff de Trump | Monde : Éthiopie–Égypte : le Nil en crise, la Corne de l'Afrique en alerte
+- 2026-10-07 — FR : Le 7-Octobre en France : mémoire, antisémitisme et liberté de manifester | Monde : Trois ans après le 7-Octobre : Gaza dans les ruines, Israël aux urnes
