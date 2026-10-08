@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-08",
+  "sujet_fr": "La primaire socialiste « Choisir 2027 » à la veille du vote",
+  "sujet_monde": "Le Pacte de La Mecque invoque sa clause de défense collective face aux Houthis",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal",
+      "titre": "Glucksmann, Royal, Faure : ce qu'il faut savoir sur la primaire de la gauche sociale-démocrate",
+      "date_source": "2026-09-16"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/10/06/quelle-geopolitique-pour-la-primaire-socialiste/",
+      "titre": "Quelle géopolitique pour la primaire socialiste ?",
+      "date_source": "2026-10-06"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/primaire-socialiste-des-jeux-plus-ouverts-que-prevu",
+      "titre": "Primaire socialiste : des jeux plus ouverts que prévu ?",
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/10/06/quelle-geopolitique-pour-la-primaire-socialiste/",
+      "titre": "Quelle géopolitique pour la primaire socialiste ?",
+      "date_source": "2026-10-06"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-socialiste-pres-de-128-000-personnes-sont-inscrites-pour-voter-selon-un-chiffre-preliminaire_8223943.html",
+      "titre": "Plus de 140 000 personnes inscrites pour voter à la primaire socialiste",
+      "date_source": "2026-10-05"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/presidentielle-dates-candidats-prix-tout-ce-qu-il-faut-savoir-sur-la-primaire-sociale",
+      "titre": "Présidentielle : tout ce qu'il faut savoir sur la primaire sociale-démocrate",
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
+      "titre": "Mecca Pact allies pledge rapid military deployment to Saudi Arabia",
+      "date_source": "2026-10-05"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/the-u-s-led-middle-east-order-is-over-the-mecca-agreement-proves-it",
+      "titre": "The U.S.-Led Middle East Order Is Over. The Mecca Agreement Proves It.",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "war-on-the-rocks",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://warontherocks.com/the-mecca-pacts-credibility-gap/",
+      "titre": "The Mecca Pact's Credibility Gap",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports",
+      "titre": "Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says",
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/the-u-s-led-middle-east-order-is-over-the-mecca-agreement-proves-it",
+      "titre": "The U.S.-Led Middle East Order Is Over. The Mecca Agreement Proves It.",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "war-on-the-rocks",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://warontherocks.com/the-mecca-pacts-credibility-gap/",
+      "titre": "The Mecca Pact's Credibility Gap",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "arab-center-dc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://arabcenterdc.org/resource/diversification-without-substitution-what-the-mecca-joint-defense-agreement-offers-saudi-arabia/",
+      "titre": "Diversification Without Substitution: What the Mecca Joint Defense Agreement Offers Saudi Arabia",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-arabiya",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/10/05/saudi-arabia-turkey-pakistan-to-activate-collective-deterrence-under-mecca-pact",
+      "titre": "Saudi Arabia, Turkey, Pakistan to activate collective deterrence under Mecca Alliance",
+      "date_source": "2026-10-05"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/10/07/middleeast/houthis-attack-saudi-airports-latam-intl",
+      "titre": "Deadly Houthi attacks on Saudi airports highlight widening fallout from Yemen civil war",
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "middle-east-eye",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.middleeasteye.net/news/saudi-arabia-turkey-and-pakistan-activate-mecca-pact-amid-war-houthis",
+      "titre": "Saudi Arabia, Turkey and Pakistan activate Mecca Pact amid war with Houthis",
+      "date_source": "2026-10-05"
+    }
+  ]
+}
