@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-09",
+  "sujet_fr": "Affaire Hanning : ex-directeur du BND arrêté pour espionnage",
+  "sujet_monde": "Corée du Nord : missile hypersonique et mines dans la DMZ",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Arrest of August Hanning — wire reports",
+      "date_source": "2026-10-06"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Germany arrests former BND chief Hanning",
+      "date_source": "2026-10-06"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Pas la Russie bénéficiaire selon informations AFP (WDR/NDR/Süddeutsche)",
+      "date_source": "2026-10-06"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Lecture droite libérale sur les portes tournantes dans le renseignement",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Lecture gauche sur le contrôle démocratique des services",
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspective investigation sur les failles systémiques du contrôle interne BND",
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ECFR sur l'hétérogénéité des standards de renseignement européens",
+      "date_source": null
+    },
+    {
+      "source_id": "eu-observer",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://euobserver.com/241332/german-ex-spy-chief-arrested-over-espionage-and-treason-allegations-involving-leaked-bnd-files/",
+      "titre": "Ex-German spy chief arrested over espionage and treason allegations involving leaked BND files",
+      "date_source": "2026-10-06"
+    },
+    {
+      "source_id": "irish-times",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.irishtimes.com/world/europe/2026/06/28/germanys-spy-agency-comes-in-from-the-cold/",
+      "titre": "Germany's spy agency comes in from the cold",
+      "date_source": "2026-06-28"
+    },
+    {
+      "source_id": "i24news-fr",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.i24news.tv/fr/actu/international/europe/artc-l-ancien-chef-du-renseignement-exterieur-allemand-arrete-pour-soupcons-d-espionnage-et-de-trahison",
+      "titre": "L'ancien chef du renseignement extérieur allemand arrêté pour soupçons d'espionnage et de trahison",
+      "date_source": "2026-10-06"
+    },
+    {
+      "source_id": "kcna",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "KCNA sur le test hypersonique du 3 octobre (position officielle Pyongyang)",
+      "date_source": "2026-10-03"
+    },
+    {
+      "source_id": "ap",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "South Korea JCS confirms North Korea missile launch October 3",
+      "date_source": "2026-10-03"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "North Korea missile test October 2026 — Seoul assessment 700+ km",
+      "date_source": "2026-10-03"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "DMZ landmine incident September 21 — three South Korean soldiers wounded",
+      "date_source": "2026-09-21"
+    },
+    {
+      "source_id": "38-north",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "38 North analysis on North Korea hypersonic capabilities — unproven at IRBM ranges",
+      "date_source": null
+    },
+    {
+      "source_id": "the-diplomat",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "The Diplomat on North Korea calculated provocation logic",
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://euronews.com/2026/09/29/north-korean-landmine-blasts-in-dmz-a-violation-of-armistice-seoul-says",
+      "titre": "North Korean landmine blasts in DMZ a violation of armistice, Seoul says",
+      "date_source": "2026-09-29"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/09/30/north-korea-slams-souths-claim-it-was-behind-dmz-mine-blasts-calling-it-a-farce",
+      "titre": "North Korea slams South's claim it was behind DMZ mine blasts, calling it a farce",
+      "date_source": "2026-09-30"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/01/05/north-korea-says-latest-missile-tests-involved-new-hypersonic-weapons-systems",
+      "titre": "North Korea says latest missile tests involved new hypersonic weapons systems",
+      "date_source": "2026-01-05"
+    }
+  ]
+}
