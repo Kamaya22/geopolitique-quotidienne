@@ -119,3 +119,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-07 — FR : Le 7-Octobre en France : mémoire, antisémitisme et liberté de manifester | Monde : Trois ans après le 7-Octobre : Gaza dans les ruines, Israël aux urnes
 - 2026-10-08 — FR : La primaire socialiste « Choisir 2027 » à la veille du vote : la gauche face à 2027 | Monde : Le Pacte de La Mecque invoque sa clause de défense collective face aux Houthis
 - 2026-10-09 — FR : L'affaire Hanning : l'ex-directeur du BND arrêté pour espionnage, l'Europe face à ses vulnérabilités de renseignement | Monde : Corée du Nord : missile hypersonique, mines dans la DMZ et la logique de la provocation calculée
+- 2026-10-10 — FR : Primaire « Choisir 2027 » : premier tour en cours, la gauche se choisit un destin | Monde : Nobel de la Paix à Navi Pillay : la justice internationale comme champ de bataille
