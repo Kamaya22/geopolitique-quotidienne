@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-11",
+  "sujet_fr": "France au Conseil européen : les enjeux d'un sommet capital",
+  "sujet_monde": "Le Pacte de La Mecque prend corps : 8 000 soldats pakistanais en Arabie Saoudite",
+  "citations": [
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://data.consilium.europa.eu/doc/document/CM-6-2026-INIT/fr/pdf",
+      "titre": "CM 6/26 — Conseil européen — Convocation et ordre du jour provisoire",
+      "date_source": "2026-09-14"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://data.consilium.europa.eu/doc/document/CM-6-2026-INIT/fr/pdf",
+      "titre": "CM 6/26 — Conseil européen — Convocation et ordre du jour provisoire",
+      "date_source": "2026-09-14"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/forward-look-2026/",
+      "titre": "Forward Look : 5-18 octobre 2026",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.consilium.europa.eu/media/x41pvfn5/leaders-agenda_2026.pdf",
+      "titre": "Leaders' Agenda 2026",
+      "date_source": "2026-01"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "gulf-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-turkey-and-pakistan-sign-mecca-joint-defence-agreement-1.500633760",
+      "titre": "Saudi Arabia, Turkey and Pakistan sign Mecca Joint Defence Agreement",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "gulf-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-turkey-and-pakistan-sign-mecca-joint-defence-agreement-1.500633760",
+      "titre": "Saudi Arabia, Turkey and Pakistan sign Mecca Joint Defence Agreement",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/08/12/pakistan-mecca-pact-saudi-arabia-turkey-iran-mutual-defense/",
+      "titre": "Pakistan and the Mecca Pact: A New Military Alignment in the Middle East",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/08/12/pakistan-mecca-pact-saudi-arabia-turkey-iran-mutual-defense/",
+      "titre": "Pakistan and the Mecca Pact: A New Military Alignment in the Middle East",
+      "date_source": "2026-08-12"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/the-signal-and-substance-of-the-new-saudi-pakistan-defense-pact/",
+      "titre": "The Signal and Substance of the New Saudi-Pakistan Defense Pact",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/the-signal-and-substance-of-the-new-saudi-pakistan-defense-pact/",
+      "titre": "The Signal and Substance of the New Saudi-Pakistan Defense Pact",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "arab-center-dc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}
