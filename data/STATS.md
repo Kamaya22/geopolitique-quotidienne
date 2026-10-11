@@ -1,13 +1,13 @@
 # Statistiques des sources citées
 
-*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-10-10 05:12 UTC.*
+*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-10-11 05:17 UTC.*
 
 ## Résumé
 
-- **Période couverte** : 2026-06-12 → 2026-10-10
-- **Éditions analysées** : 117
-- **Citations totales** : 2317
-- **Sources distinctes citées** : 273
+- **Période couverte** : 2026-06-12 → 2026-10-11
+- **Éditions analysées** : 118
+- **Citations totales** : 2336
+- **Sources distinctes citées** : 274
 - **Pays distincts** : 37
 - **Orientations distinctes** : 10
 
@@ -25,6 +25,7 @@
 - 🔎 Orientation à vérifier : Fédération française du bâtiment (FFB) (`ffb`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Fédération nationale de l'immobilier (FNAIM) (`fnaim`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Geopolitechs (`geopolitechs`) — à trancher dans registry.csv.
+- 🔎 Orientation à vérifier : Gulf News (`gulf-news`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : i24news (français) (`i24news-fr`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Iran International (`iran-international`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : KCNA — Korea Central News Agency (Corée du Nord) (`kcna`) — à trancher dans registry.csv.
@@ -48,11 +49,11 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| France | 1126 | 48.6 % | ██████████ |
-| États-Unis | 511 | 22.1 % | ████ |
-| International | 282 | 12.2 % | ██ |
-| Qatar | 115 | 5.0 % | █ |
-| Royaume-Uni | 72 | 3.1 % | █ |
+| France | 1131 | 48.4 % | ██████████ |
+| États-Unis | 517 | 22.1 % | ████ |
+| International | 287 | 12.3 % | ██ |
+| Qatar | 115 | 4.9 % | █ |
+| Royaume-Uni | 73 | 3.1 % | █ |
 | Israël | 31 | 1.3 % |  |
 | Ukraine | 26 | 1.1 % |  |
 | Hong Kong | 16 | 0.7 % |  |
@@ -60,9 +61,9 @@
 | Suède | 13 | 0.6 % |  |
 | Chine | 10 | 0.4 % |  |
 | Japon | 10 | 0.4 % |  |
+| Émirats arabes unis | 10 | 0.4 % |  |
 | Liban | 8 | 0.3 % |  |
 | Inde | 8 | 0.3 % |  |
-| Émirats arabes unis | 8 | 0.3 % |  |
 | Belgique | 6 | 0.3 % |  |
 | Suisse | 5 | 0.2 % |  |
 | Myanmar | 5 | 0.2 % |  |
@@ -90,34 +91,34 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| centre | 732 | 31.6 % | ██████ |
-| factuel | 499 | 21.5 % | ████ |
-| independant | 493 | 21.3 % | ████ |
-| gauche | 186 | 8.0 % | ██ |
-| centre-gauche | 94 | 4.1 % | █ |
+| centre | 735 | 31.5 % | ██████ |
+| factuel | 504 | 21.6 % | ████ |
+| independant | 495 | 21.2 % | ████ |
+| gauche | 188 | 8.0 % | ██ |
+| centre-gauche | 96 | 4.1 % | █ |
 | droite | 91 | 3.9 % | █ |
-| a-verifier | 72 | 3.1 % | █ |
+| a-verifier | 75 | 3.2 % | █ |
 | droite-liberale | 56 | 2.4 % |  |
-| centre-droit | 47 | 2.0 % |  |
+| centre-droit | 49 | 2.1 % |  |
 | liberal | 47 | 2.0 % |  |
 
 ### Par type de source
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| presse | 1023 | 44.2 % | █████████ |
-| think-tank | 708 | 30.6 % | ██████ |
-| institution | 415 | 17.9 % | ████ |
-| revue | 86 | 3.7 % | █ |
-| agence | 72 | 3.1 % | █ |
+| presse | 1029 | 44.0 % | █████████ |
+| think-tank | 713 | 30.5 % | ██████ |
+| institution | 419 | 17.9 % | ████ |
+| revue | 89 | 3.8 % | █ |
+| agence | 73 | 3.1 % | █ |
 | media-etat | 13 | 0.6 % |  |
 
 ### Par sujet (France / Monde)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| FR | 1180 | 50.9 % | ██████████ |
-| Monde | 1120 | 48.3 % | ██████████ |
+| FR | 1190 | 50.9 % | ██████████ |
+| Monde | 1129 | 48.3 % | ██████████ |
 | monde | 10 | 0.4 % |  |
 | fr | 7 | 0.3 % |  |
 
@@ -125,17 +126,17 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| texte | 1614 | 69.7 % | ██████████████ |
-| pour-aller-plus-loin | 692 | 29.9 % | ██████ |
+| texte | 1627 | 69.6 % | ██████████████ |
+| pour-aller-plus-loin | 698 | 29.9 % | ██████ |
 | perspective | 11 | 0.5 % |  |
 
 ### Par rôle (fait / analyse / opinion)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| analyse | 1005 | 43.4 % | █████████ |
-| fait | 977 | 42.2 % | ████████ |
-| opinion | 318 | 13.7 % | ███ |
+| analyse | 1015 | 43.5 % | █████████ |
+| fait | 985 | 42.2 % | ████████ |
+| opinion | 319 | 13.7 % | ███ |
 | Analyse juridique des enjeux probatoires du procès en appel : notion de décideur, standard de preuve, comparaison avec le dossier Le Pen | 1 | 0.0 % |  |
 | Chronologie du système incriminé et des décisions de justice successives dans l'affaire MoDem | 1 | 0.0 % |  |
 | Éclairage politique sur les craintes du camp centriste face au précédent du verdict Le Pen | 1 | 0.0 % |  |
@@ -158,11 +159,11 @@
 
 | Source | Citations | Part |
 |---|---:|---:|
-| Al Jazeera | 115 | 5.0 % |
-| IFRI — Institut français des relations internationales | 91 | 3.9 % |
+| Al Jazeera | 115 | 4.9 % |
+| IFRI — Institut français des relations internationales | 92 | 3.9 % |
 | Le Figaro | 75 | 3.2 % |
 | France 24 | 72 | 3.1 % |
-| Libération | 71 | 3.1 % |
+| Libération | 72 | 3.1 % |
 | Franceinfo (France Télévisions / Radio France) | 53 | 2.3 % |
 | Agence France-Presse (AFP) | 49 | 2.1 % |
 | Euronews | 48 | 2.1 % |
@@ -182,4 +183,4 @@
 | 2026-07 | 30 | 604 | 19 | 10 |
 | 2026-08 | 31 | 640 | 26 | 10 |
 | 2026-09 | 30 | 604 | 28 | 10 |
-| 2026-10 | 10 | 174 | 11 | 10 |
+| 2026-10 | 11 | 193 | 12 | 10 |
