@@ -122,3 +122,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-10 — FR : Primaire « Choisir 2027 » : premier tour en cours, la gauche se choisit un destin | Monde : Nobel de la Paix à Navi Pillay : la justice internationale comme champ de bataille
 - 2026-10-11 — FR : La France au Conseil européen des 15-16 octobre : compétitivité, Ukraine, défense et élargissement | Monde : Le Pacte de La Mecque prend corps — Pakistan déploie 8 000 soldats en Arabie Saoudite
 - 2026-10-12 — FR : Glucksmann remporte la primaire « Choisir 2027 » au premier tour avec 66 % | Monde : Les Houthis frappent l'aéroport de Riyad — 12 morts, 309 blessés
+- 2026-10-13 — FR : Budget 2027 dans l'hémicycle : Lecornu sans majorité, Glucksmann en arbitre | Monde : Le 22e paquet de sanctions de l'UE contre la Russie

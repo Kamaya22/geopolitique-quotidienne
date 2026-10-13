@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-13",
+  "sujet_fr": "Budget 2027 dans l'hémicycle : Lecornu sans majorité, Glucksmann en arbitre",
+  "sujet_monde": "Le 22e paquet de sanctions de l'UE contre la Russie",
+  "citations": [
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondapol",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "hcfp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "europe1",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.europe1.fr/politique/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission-debat-mardi-dans-lhemicycle-1134734",
+      "titre": "Budget 2027 : les députés rejettent la partie «recettes» en commission, débat mardi dans l'hémicycle",
+      "date_source": "2026-10-12"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/budget-2027-le-gouvernement-sur-un-fil-a-la-veille-de-l-ouverture-des-debats-a-l",
+      "titre": "Budget 2027 : le gouvernement sur un fil à la veille de l'ouverture des débats à l'Assemblée",
+      "date_source": "2026-10-12"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/presentation-du-budget-2027-comment-se-deroule-l-examen-du-projet-de-loi-de-finances",
+      "titre": "Présentation du Budget 2027 : comment se déroule l'examen du projet de loi de finances ?",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "meduza",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "tass",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "russia-matters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "quai-orsay",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "meduza",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://meduza.io/amp/en/news/2026/10/12/eu-approves-largest-expansion-of-sanctions-list-against-russia",
+      "titre": "EU approves largest expansion of sanctions list against Russia",
+      "date_source": "2026-10-12"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.consilium.europa.eu/en/meetings/fac/2026/10/12/",
+      "titre": "Foreign Affairs Council — 12 October 2026",
+      "date_source": "2026-10-12"
+    },
+    {
+      "source_id": "quai-orsay",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/conference-de-presse-du-porte-parole-du-8-octobre-2026",
+      "titre": "Conférence de presse du porte-parole du 8 octobre 2026",
+      "date_source": "2026-10-08"
+    }
+  ]
+}
