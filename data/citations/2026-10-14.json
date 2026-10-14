@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-14",
+  "sujet_fr": "La dette française sous la loupe de Moody's : revue souveraine du 23 octobre",
+  "sujet_monde": "Israël à J-13 : le vote du bilan du 27 octobre",
+  "citations": [
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/budget/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-avec-une-perspective-negative_7929542.html",
+      "titre": "Moody's maintient la note souveraine de la France à Aa3 avec perspective négative",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "aft",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aft.gouv.fr/en/frances-credit-ratings",
+      "titre": "France's credit ratings",
+      "date_source": null
+    },
+    {
+      "source_id": "le-temps",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.letemps.ch/economie/dette-fitch-sanctionne-la-france-pour-ses-incertitudes-budgetaires",
+      "titre": "Fitch sanctionne la France pour ses incertitudes budgétaires",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "aft",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "hcfp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.pbs.org/newshour/show/netanyahus-handling-of-oct-7-emerges-as-key-issue-in-israeli-election",
+      "titre": "Netanyahu's handling of Oct. 7 emerges as key issue in Israeli election",
+      "date_source": "2026-10-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election",
+      "titre": "How genocidal war on Gaza is shaping Israel's election",
+      "date_source": "2026-10-11"
+    },
+    {
+      "source_id": "rts",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.rts.ch/info/monde/2026/article/elections-en-israel-2026-qui-peut-battre-netanyahu-29377516.html",
+      "titre": "Élections en Israël 2026 : qui peut battre Netanyahu ?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "i24news-fr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "axios",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "arab-center-dc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "rts",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "international-crisis-group",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}
