@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-15",
+  "sujet_fr": "France-Tchad : rebond du partenariat de défense",
+  "sujet_monde": "Ukraine : le cessez-le-feu énergétique de Trump et la fracture transatlantique",
+  "citations": [
+    {
+      "source_id": "opex360",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.opex360.com/2026/10/14/la-france-et-le-tchad-signent-une-lettre-dintention-pour-retablir-leur-cooperation-en-matiere-de-defense/",
+      "titre": "La France et le Tchad signent une lettre d'intention pour rétablir leur coopération en matière de défense",
+      "date_source": "2026-10-14"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261014-tchad-france-reprise-de-la-collaboration-militaire",
+      "titre": "Tchad-France : reprise de la collaboration militaire",
+      "date_source": "2026-10-14"
+    },
+    {
+      "source_id": "iss-africa",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://issafrica.org/fr/iss-today/retour-discret-des-militaires-francais-au-tchad",
+      "titre": "Retour discret des militaires français au Tchad",
+      "date_source": null
+    },
+    {
+      "source_id": "opex360",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "iss-africa",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/en/publications/briefings-de-lifri/after-failure-sahel-rethinking-french-policy-africa",
+      "titre": "After the Failure in the Sahel: Rethinking French Policy in Africa",
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2",
+      "titre": "Zelenskyy says Russia violated energy truce announced by Trump",
+      "date_source": "2026-10-11"
+    },
+    {
+      "source_id": "meduza",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://meduza.io/en/feature/2026/10/12/european-allies-publicly-back-zelensky-after-trump-says-ukraine-needs-a-new-president",
+      "titre": "European allies publicly back Zelensky after Trump says Ukraine needs a new president",
+      "date_source": "2026-10-12"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://kyivindependent.com/zelensky-arrives-in-uk-as-london-vows-to-speed-up-anti-drone-missile-deliveries/",
+      "titre": "Zelensky arrives in UK as London vows to speed up anti-drone missile deliveries",
+      "date_source": "2026-10-14"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cbsnews.com/news/zelenskyy-trump-new-ukrainian-president/",
+      "titre": "Trump announces Russia-Ukraine energy ceasefire but Zelenskyy says Russian attacks still happening",
+      "date_source": "2026-10-11"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/video/2026/10/10/trump-says-ukraine-needs-new-president-after-zelenskyy-condemns-russia-fuel-deal",
+      "titre": "Trump says Ukraine needs new president after Zelenskyy condemns Russia fuel deal",
+      "date_source": "2026-10-10"
+    },
+    {
+      "source_id": "isw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "meduza",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "tass",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}

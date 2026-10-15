@@ -124,3 +124,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-12 — FR : Glucksmann remporte la primaire « Choisir 2027 » au premier tour avec 66 % | Monde : Les Houthis frappent l'aéroport de Riyad — 12 morts, 309 blessés
 - 2026-10-13 — FR : Budget 2027 dans l'hémicycle : Lecornu sans majorité, Glucksmann en arbitre | Monde : Le 22e paquet de sanctions de l'UE contre la Russie
 - 2026-10-14 — FR : La dette française sous la loupe de Moody's : revue souveraine du 23 octobre | Monde : Israël à J-13 : le vote du bilan du 27 octobre
+- 2026-10-15 — FR : France-Tchad : le rebond du partenariat de défense après le retrait de janvier 2025 | Monde : Ukraine : le « cessez-le-feu énergétique » de Trump, les violations russes et la fracture transatlantique
