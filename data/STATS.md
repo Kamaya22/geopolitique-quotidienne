@@ -1,13 +1,13 @@
 # Statistiques des sources citées
 
-*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-10-16 05:12 UTC.*
+*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-10-17 05:11 UTC.*
 
 ## Résumé
 
-- **Période couverte** : 2026-06-12 → 2026-10-16
-- **Éditions analysées** : 123
-- **Citations totales** : 2454
-- **Sources distinctes citées** : 280
+- **Période couverte** : 2026-06-12 → 2026-10-17
+- **Éditions analysées** : 124
+- **Citations totales** : 2476
+- **Sources distinctes citées** : 283
 - **Pays distincts** : 37
 - **Orientations distinctes** : 10
 
@@ -28,12 +28,14 @@
 - 🔎 Orientation à vérifier : Gulf News (`gulf-news`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : i24news (français) (`i24news-fr`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Iran International (`iran-international`) — à trancher dans registry.csv.
+- 🔎 Orientation à vérifier : IRNA (Islamic Republic News Agency) (`irna`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : KCNA — Korea Central News Agency (Corée du Nord) (`kcna`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Marine & Océans (`marine-oceans`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Middle East Eye (`middle-east-eye`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Model Diplomat (`model-diplomat`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : MOFCOM — Ministère du Commerce de la République populaire de Chine (`mofcom-chine`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : Omna Tigray (`omna-tigray`) — à trancher dans registry.csv.
+- 🔎 Orientation à vérifier : Press TV (`press-tv`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : RIA Novosti (`ria-novosti`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : SFEN — Société française d'énergie nucléaire (`sfen`) — à trancher dans registry.csv.
 - 🔎 Orientation à vérifier : TASS (`tass`) — à trancher dans registry.csv.
@@ -49,14 +51,14 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| France | 1188 | 48.4 % | ██████████ |
-| États-Unis | 533 | 21.7 % | ████ |
-| International | 303 | 12.3 % | ██ |
-| Qatar | 124 | 5.1 % | █ |
-| Royaume-Uni | 76 | 3.1 % | █ |
+| France | 1199 | 48.4 % | ██████████ |
+| États-Unis | 537 | 21.7 % | ████ |
+| International | 304 | 12.3 % | ██ |
+| Qatar | 126 | 5.1 % | █ |
+| Royaume-Uni | 78 | 3.2 % | █ |
 | Israël | 33 | 1.3 % |  |
 | Ukraine | 29 | 1.2 % |  |
-| Hong Kong | 16 | 0.7 % |  |
+| Hong Kong | 16 | 0.6 % |  |
 | Canada | 15 | 0.6 % |  |
 | Suède | 13 | 0.5 % |  |
 | Chine | 10 | 0.4 % |  |
@@ -75,6 +77,7 @@
 | Taïwan | 3 | 0.1 % |  |
 | Pakistan | 3 | 0.1 % |  |
 | Australie | 3 | 0.1 % |  |
+| Iran | 3 | 0.1 % |  |
 | Estonie | 3 | 0.1 % |  |
 | Éthiopie | 2 | 0.1 % |  |
 | Singapour | 2 | 0.1 % |  |
@@ -82,7 +85,6 @@
 | Pologne | 2 | 0.1 % |  |
 | Afrique du Sud | 2 | 0.1 % |  |
 | Danemark | 1 | 0.0 % |  |
-| Iran | 1 | 0.0 % |  |
 | Vatican | 1 | 0.0 % |  |
 | Arabie-Saoudite | 1 | 0.0 % |  |
 | Irlande | 1 | 0.0 % |  |
@@ -91,34 +93,34 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| centre | 775 | 31.6 % | ██████ |
-| factuel | 522 | 21.3 % | ████ |
-| independant | 515 | 21.0 % | ████ |
-| gauche | 196 | 8.0 % | ██ |
-| centre-gauche | 105 | 4.3 % | █ |
-| droite | 97 | 4.0 % | █ |
-| a-verifier | 82 | 3.3 % | █ |
-| droite-liberale | 58 | 2.4 % |  |
-| centre-droit | 55 | 2.2 % |  |
+| centre | 782 | 31.6 % | ██████ |
+| factuel | 525 | 21.2 % | ████ |
+| independant | 516 | 20.8 % | ████ |
+| gauche | 198 | 8.0 % | ██ |
+| centre-gauche | 107 | 4.3 % | █ |
+| droite | 98 | 4.0 % | █ |
+| a-verifier | 86 | 3.5 % | █ |
+| droite-liberale | 58 | 2.3 % |  |
+| centre-droit | 57 | 2.3 % |  |
 | liberal | 49 | 2.0 % |  |
 
 ### Par type de source
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| presse | 1097 | 44.7 % | █████████ |
-| think-tank | 740 | 30.2 % | ██████ |
-| institution | 433 | 17.6 % | ████ |
-| revue | 93 | 3.8 % | █ |
-| agence | 75 | 3.1 % | █ |
-| media-etat | 16 | 0.7 % |  |
+| presse | 1111 | 44.9 % | █████████ |
+| think-tank | 742 | 30.0 % | ██████ |
+| institution | 435 | 17.6 % | ████ |
+| revue | 94 | 3.8 % | █ |
+| agence | 76 | 3.1 % | █ |
+| media-etat | 18 | 0.7 % |  |
 
 ### Par sujet (France / Monde)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| FR | 1251 | 51.0 % | ██████████ |
-| Monde | 1186 | 48.3 % | ██████████ |
+| FR | 1261 | 50.9 % | ██████████ |
+| Monde | 1198 | 48.4 % | ██████████ |
 | monde | 10 | 0.4 % |  |
 | fr | 7 | 0.3 % |  |
 
@@ -126,17 +128,17 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| texte | 1715 | 69.9 % | ██████████████ |
-| pour-aller-plus-loin | 728 | 29.7 % | ██████ |
+| texte | 1731 | 69.9 % | ██████████████ |
+| pour-aller-plus-loin | 734 | 29.6 % | ██████ |
 | perspective | 11 | 0.4 % |  |
 
 ### Par rôle (fait / analyse / opinion)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| analyse | 1070 | 43.6 % | █████████ |
-| fait | 1032 | 42.1 % | ████████ |
-| opinion | 335 | 13.7 % | ███ |
+| analyse | 1074 | 43.4 % | █████████ |
+| fait | 1044 | 42.2 % | ████████ |
+| opinion | 341 | 13.8 % | ███ |
 | Analyse juridique des enjeux probatoires du procès en appel : notion de décideur, standard de preuve, comparaison avec le dossier Le Pen | 1 | 0.0 % |  |
 | Chronologie du système incriminé et des décisions de justice successives dans l'affaire MoDem | 1 | 0.0 % |  |
 | Éclairage politique sur les craintes du camp centriste face au précédent du verdict Le Pen | 1 | 0.0 % |  |
@@ -159,21 +161,21 @@
 
 | Source | Citations | Part |
 |---|---:|---:|
-| Al Jazeera | 124 | 5.1 % |
+| Al Jazeera | 126 | 5.1 % |
 | IFRI — Institut français des relations internationales | 93 | 3.8 % |
-| Le Figaro | 78 | 3.2 % |
-| Libération | 77 | 3.1 % |
-| France 24 | 76 | 3.1 % |
+| Le Figaro | 79 | 3.2 % |
+| Libération | 78 | 3.2 % |
+| France 24 | 77 | 3.1 % |
 | Franceinfo (France Télévisions / Radio France) | 55 | 2.2 % |
-| Euronews | 50 | 2.0 % |
+| Euronews | 51 | 2.1 % |
 | Agence France-Presse (AFP) | 49 | 2.0 % |
 | Institut Montaigne | 49 | 2.0 % |
 | Fondation Jean-Jaurès | 47 | 1.9 % |
 | Public Sénat | 46 | 1.9 % |
-| Franceinfo | 42 | 1.7 % |
+| Franceinfo | 44 | 1.8 % |
 | Organisation des Nations Unies (ONU) | 34 | 1.4 % |
 | ECFR — European Council on Foreign Relations | 33 | 1.3 % |
-| France Diplomatie (Ministère de l'Europe et des Affaires étrangères) | 31 | 1.3 % |
+| CNBC | 32 | 1.3 % |
 
 ## Évolution mensuelle
 
@@ -183,4 +185,4 @@
 | 2026-07 | 30 | 604 | 19 | 10 |
 | 2026-08 | 31 | 640 | 26 | 10 |
 | 2026-09 | 30 | 604 | 28 | 10 |
-| 2026-10 | 16 | 311 | 16 | 10 |
+| 2026-10 | 17 | 333 | 17 | 10 |
