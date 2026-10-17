@@ -126,3 +126,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-14 — FR : La dette française sous la loupe de Moody's : revue souveraine du 23 octobre | Monde : Israël à J-13 : le vote du bilan du 27 octobre
 - 2026-10-15 — FR : France-Tchad : le rebond du partenariat de défense après le retrait de janvier 2025 | Monde : Ukraine : le « cessez-le-feu énergétique » de Trump, les violations russes et la fracture transatlantique
 - 2026-10-16 — FR : Conseil européen d'octobre : la France entre ambition budgétaire et blocage sur les avoirs russes | Monde : Mer Noire : les frappes russes en eaux de l'OTAN
+- 2026-10-17 — FR : Mobilisation nationale du 17 octobre contre la vie chère | Monde : Détroit d'Ormuz, l'Iran étrangle le commerce mondial
