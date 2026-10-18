@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-18",
+  "sujet_fr": "Glucksmann en campagne pour 2027 : la gauche réformiste cherche son second tour",
+  "sujet_monde": "Brésil : second tour du 25 octobre, la démocratie en jeu",
+  "citations": [
+    {
+      "source_id": "opinionway",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sondage présidentielle 2027 – Glucksmann à 15 %, à égalité avec Mélenchon et Philippe",
+      "date_source": "2026-10-15"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sondage OpinionWay pour Les Échos et Radio Classique",
+      "date_source": "2026-10-15"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Présidentielle 2027 : Raphaël Glucksmann progresse dans les sondages après sa victoire à la primaire",
+      "date_source": "2026-10-16"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondapol",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
+      "titre": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/raphael-glucksmann-candidat-en-2027-une-premiere-historique-pour-le-parti-socialiste",
+      "titre": "Raphaël Glucksmann candidat en 2027 : une première historique pour le Parti socialiste depuis 1969",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/10/04/americas/brazil-president-elections-2026-latam-intl",
+      "titre": "Brazil election heads to runoff between Bolsonaro and Lula, in campaign dominated by crime, corruption and Trump",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "datafolha",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-15/flavio-bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows",
+      "titre": "Datafolha – Flávio Bolsonaro 47 %, Lula 45 % – sondage second tour 15 octobre",
+      "date_source": "2026-10-15"
+    },
+    {
+      "source_id": "the-guardian",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "France 24 – note sur les marchés de prédiction brésiliens (17 octobre 2026)",
+      "date_source": "2026-10-17"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261004-en-direct-premier-tour-presidentielle-bresil-resultats-estimations-lula-bolsonaro",
+      "titre": "Brésil : Flávio Bolsonaro devance Lula et l'affrontera au second tour",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off",
+      "titre": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
+      "date_source": "2026-10-15"
+    },
+    {
+      "source_id": "rts",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.rts.ch/info/monde/2026/article/presidentielle-au-bresil-2026-lula-face-a-bolsonaro-29373978.html",
+      "titre": "Présidentielle au Brésil 2026 : Lula face à Bolsonaro",
+      "date_source": "2026"
+    }
+  ]
+}
