@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-19",
+  "sujet_fr": "Macron dans le Golfe : la diplomatie du carburant",
+  "sujet_monde": "Accord UE-Chine sur les hybrides et les terres rares",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/info-en-continu/20261014-macron-dans-quatre-pays-du-golfe-du-19-au-21-octobre-pour-s%C3%A9curiser-des-approvisionnements-%C3%A9nerg%C3%A9tiques",
+      "titre": "Macron dans quatre pays du Golfe du 19 au 21 octobre pour sécuriser des approvisionnements énergétiques",
+      "date_source": "2026-10-14"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-14"
+    },
+    {
+      "source_id": "lorient-le-jour",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.lorientlejour.com/article/1550883/macron-dans-quatre-pays-du-golfe-du-19-au-21-octobre-pour-securiser-des-approvisionnements-energetiques.html",
+      "titre": "Macron dans quatre pays du Golfe du 19 au 21 octobre pour sécuriser des approvisionnements énergétiques",
+      "date_source": "2026-10-14"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/entre-paris-et-les-pays-du-golfe-il-sagit-dinterets-mutuels",
+      "titre": "Entre Paris et les pays du Golfe, il s'agit d'intérêts mutuels",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Politique étrangère n°4/2025 — dossier Golfe (Lons, Soubrier)",
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.euronews.com/2026/10/09/eu-and-china-clinch-deal-over-cars-after-heated-trade-talks-as-brussels-pushes-to-rebalanc",
+      "titre": "EU and China clinch deal over cars after heated trade talks",
+      "date_source": "2026-10-09"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-09"
+    },
+    {
+      "source_id": "fortune",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://fortune.com/2026/10/10/china-shock-eu-trade-deal-chinese-ev-plug-in-hybrid-imports-tariffs/",
+      "titre": "EU says trade deal could cut up to 50% of Chinese EV and plug-in hybrid imports and lower tariffs for some European exports to China",
+      "date_source": "2026-10-10"
+    },
+    {
+      "source_id": "scmp",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.scmp.com/economy/global-economy/article/3303825/unaffected-eus-tariffs-evs-chinas-hybrid-vehicle-exports-surge-bloc",
+      "titre": "Unaffected by EU's tariffs on EVs, China's hybrid vehicle exports surge to the bloc",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "merics",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "bruegel",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "global-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-09"
+    }
+  ]
+}

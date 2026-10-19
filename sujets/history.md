@@ -128,3 +128,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-16 — FR : Conseil européen d'octobre : la France entre ambition budgétaire et blocage sur les avoirs russes | Monde : Mer Noire : les frappes russes en eaux de l'OTAN
 - 2026-10-17 — FR : Mobilisation nationale du 17 octobre contre la vie chère | Monde : Détroit d'Ormuz, l'Iran étrangle le commerce mondial
 - 2026-10-18 — FR : Glucksmann en campagne pour 2027 : la gauche réformiste cherche son second tour | Monde : Brésil, second tour du 25 octobre : la démocratie latino-américaine en jeu
+- 2026-10-19 — FR : Macron dans le Golfe : la diplomatie du carburant | Monde : Accord UE-Chine sur les hybrides et les terres rares
