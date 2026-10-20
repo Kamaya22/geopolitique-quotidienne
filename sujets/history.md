@@ -129,3 +129,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-17 — FR : Mobilisation nationale du 17 octobre contre la vie chère | Monde : Détroit d'Ormuz, l'Iran étrangle le commerce mondial
 - 2026-10-18 — FR : Glucksmann en campagne pour 2027 : la gauche réformiste cherche son second tour | Monde : Brésil, second tour du 25 octobre : la démocratie latino-américaine en jeu
 - 2026-10-19 — FR : Macron dans le Golfe : la diplomatie du carburant | Monde : Accord UE-Chine sur les hybrides et les terres rares
+- 2026-10-20 — FR : Budget 2027 : le vote solennel du 20 octobre à l'Assemblée nationale | Monde : Israël à J-7 : les législatives du 27 octobre
