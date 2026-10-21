@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-21",
+  "sujet_fr": "PLFSS 2027 : la sécurité sociale sous austérité",
+  "sujet_monde": "Midterms américains du 3 novembre",
+  "citations": [
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027",
+      "titre": "Dossier législatif PLFSS 2027",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "cfdt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.cfdt.fr/sinformer/communiques-de-presse/plfss-2027-un-budget-desequilibre-sur-les-efforts-demandes-injuste-et-brutal-pour-les-plus-modestes",
+      "titre": "PLFSS 2027 : un budget déséquilibré sur les efforts demandés, injuste et brutal pour les plus modestes",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "fhf",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Rejet de la partie recettes du PLFSS 2027 en commission des affaires sociales",
+      "date_source": "2026-10-15"
+    },
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027",
+      "titre": "Dossier législatif PLFSS 2027",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "cfdt",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.cfdt.fr/sinformer/communiques-de-presse/plfss-2027-un-budget-desequilibre-sur-les-efforts-demandes-injuste-et-brutal-pour-les-plus-modestes",
+      "titre": "PLFSS 2027 : un budget déséquilibré sur les efforts demandés, injuste et brutal pour les plus modestes",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "budget-gouv",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.budget.gouv.fr/documentation/file-download/33499",
+      "titre": "Présentation officielle du PLFSS 2027 — dossier de presse",
+      "date_source": "2026-10-01"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/10/why-us-midterms-are-rare-foreign-policy-election",
+      "titre": "Why the US midterms are a rare foreign policy election",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Analysis: Trump heads into midterms short on foreign policy wins",
+      "date_source": "2026-08"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/commentary_midterms_of_engagement_how_us_elections_will_affect_europe",
+      "titre": "Midterms of engagement: How the next US elections will affect Europe",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "kyivpost",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.kyivpost.com/post/87258",
+      "titre": "Midterms 2026: What Comes Next for the US and Europe?",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "breaking-defense",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://breakingdefense.com/2026/10/democratic-midterm-gains-could-speed-us-military-aid-to-ukraine-lawmaker-says/",
+      "titre": "Democratic midterm gains could speed US military aid to Ukraine, lawmaker says",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "kas",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.kas.de/en/web/ukraine/blickpunkt-ukraine/detail/-/content/u-s-foreign-policy-in-context-of-midterm-elections-implications-for-ukraine",
+      "titre": "U.S. foreign policy in context of midterm elections: implications for Ukraine",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "moscow-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections",
+      "titre": "Trump commits more than $400m ahead of high-stakes midterm elections",
+      "date_source": "2026-10-20"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/10/why-us-midterms-are-rare-foreign-policy-election",
+      "titre": "Why the US midterms are a rare foreign policy election",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/commentary_midterms_of_engagement_how_us_elections_will_affect_europe",
+      "titre": "Midterms of engagement: How the next US elections will affect Europe",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "breaking-defense",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://breakingdefense.com/2026/10/democratic-midterm-gains-could-speed-us-military-aid-to-ukraine-lawmaker-stays/",
+      "titre": "Democratic midterm gains could speed US military aid to Ukraine, lawmaker says",
+      "date_source": "2026-10"
+    }
+  ]
+}
