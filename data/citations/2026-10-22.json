@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-22",
+  "sujet_fr": "Après le 17 octobre : couvre-feux et crise politique en France",
+  "sujet_monde": "Israël à J-5 : Netanyahu ou Eisenkot, le vote du 27 octobre",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris",
+      "titre": "Mobilisation massive en France contre la vie chère suivie de scènes de chaos",
+      "date_source": "2026-10-17"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-17"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Deux adolescents ont perdu l'usage d'un œil lors des affrontements",
+      "date_source": "2026-10-18"
+    },
+    {
+      "source_id": "bfmtv",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Couvre-feux autour de la place de la République et des Halles de 22h à 6h",
+      "date_source": "2026-10-19"
+    },
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Inflation alimentaire supérieure à 4 % depuis le début 2026",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "l-express",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://actu.orange.fr/politique/violences-du-17-octobre-des-couvre-feux-partiels-et-tres-localises-prevus-en-france-des-ce-lundi-soir-annonce-sebastien-lecornu-l-express-via-6medias-CNT000002tapa3.html",
+      "titre": "Violences du 17 octobre : Matignon annonce de premiers couvre-feux à partir de 20 heures dans quatre communes du Nord",
+      "date_source": "2026-10-19"
+    },
+    {
+      "source_id": "radio-canada",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://ici.radio-canada.ca/nouvelle/2293862/violences-france-lecornu-couvre-feu",
+      "titre": "Couvre-feux en France : le gouvernement admet des failles dans sa gestion de crise",
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "radio-canada",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-19/ty-article/eisenkot-bloc-leads-in-new-polls-still-short-of-majority-without-arab-parties/000001a1-55d8-d80a-a3b1-dfde2d240000",
+      "titre": "Eisenkot Bloc Leads Netanyahu in Two New Polls, but Falls Short of a Majority Without Arab Parties",
+      "date_source": "2026-10-19"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-19"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.jpost.com/israel-election-2026/article-912371",
+      "titre": "Israel Election 2026: Gadi Eisenkot leading Benjamin Netanyahu, but neither has majority",
+      "date_source": "2026-10-22"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-22"
+    },
+    {
+      "source_id": "rts",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.rts.ch/info/monde/2026/article/elections-en-israel-2026-qui-peut-battre-netanyahu-29377516.html",
+      "titre": "Élections en Israël 2026 : qui peut battre Netanyahu ?",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "times-of-israel",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    }
+  ]
+}

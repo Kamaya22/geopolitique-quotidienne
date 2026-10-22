@@ -131,3 +131,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-19 — FR : Macron dans le Golfe : la diplomatie du carburant | Monde : Accord UE-Chine sur les hybrides et les terres rares
 - 2026-10-20 — FR : Budget 2027 : le vote solennel du 20 octobre à l'Assemblée nationale | Monde : Israël à J-7 : les législatives du 27 octobre
 - 2026-10-21 — FR : Le PLFSS 2027 : la sécurité sociale entre austérité sanitaire et crise de gouvernance | Monde : Midterms américains du 3 novembre : le vote qui reconfigure la géopolitique mondiale
+- 2026-10-22 — FR : Après le 17 octobre : couvre-feux, crise politique et fractures sociales en France | Monde : Israël à J-5 : Netanyahu ou Eisenkot, le vote du 27 octobre
