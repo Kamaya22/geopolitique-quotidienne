@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-23",
+  "sujet_fr": "Note Moody's : la France sous le verdict des marchés",
+  "sujet_monde": "Brésil à J-2 : Flávio Bolsonaro en tête avant le vote décisif",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Notation de la France : un maintien de la note par Moody's jugé peu probable",
+      "date_source": "2026-10-23"
+    },
+    {
+      "source_id": "aft",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aft.gouv.fr/en/frances-credit-ratings",
+      "titre": "France's credit ratings",
+      "date_source": null
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "banque-de-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "boursorama",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.boursorama.com/bourse/actualites/notation-de-la-france-un-maintien-de-la-note-par-moody-s-juge-peu-probable-ac1b80e40c12cf716c6c9eb73260e1e0",
+      "titre": "Notation de la France : un maintien de la note par Moody's jugé peu probable",
+      "date_source": "2026-10-23"
+    },
+    {
+      "source_id": "aft",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aft.gouv.fr/en/frances-credit-ratings",
+      "titre": "France's credit ratings",
+      "date_source": null
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "tse-bresil",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Résultats officiels du premier tour, 4 octobre 2026",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "atlas-intel",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sondage AtlasIntel/Bloomberg second tour présidentielle brésilienne",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "datafolha",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "alfa-research",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sondage Alfa Research, second tour présidentielle brésilienne",
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "wall-street-journal",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-monde",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "as-coa",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Americas Quarterly — analyse second tour brésilien",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "piie",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round",
+      "titre": "Brazil's presidential race: Three key takeaways from the first round",
+      "date_source": "2026-10-05"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off",
+      "titre": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
+      "date_source": "2026-10-15"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election",
+      "titre": "Lula challenges Bolsonaro to release personal records before election",
+      "date_source": "2026-10-20"
+    }
+  ]
+}
