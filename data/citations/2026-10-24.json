@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-24",
+  "sujet_fr": "La mobilisation du 24 octobre : vers la grève générale du 5 novembre",
+  "sujet_monde": "Ukraine-Russie : les pourparlers d'Abou Dhabi, troisième round",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Mobilisation du 24 octobre : 70 000 policiers et gendarmes déployés",
+      "date_source": "2026-10-24"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/societe/manifestations/",
+      "titre": "Manifestations du 24 octobre 2026 : actualités en direct",
+      "date_source": "2026-10-24"
+    },
+    {
+      "source_id": "cgt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Déclarations de Sophie Binet après la réunion au Matignon du 21 octobre",
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "cfdt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Position de la CFDT sur le budget 2027 : alternatives fiscales",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "cgt",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+      "titre": "La CGT appelle à généraliser la grève le 5 novembre",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/societe/manifestations/",
+      "titre": "Manifestations du 24 octobre 2026 : actualités en direct sur les mobilisations en France",
+      "date_source": "2026-10-24"
+    },
+    {
+      "source_id": "cgt",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://www.cgt.fr/comm-de-presse/budget-2027-face-la-colere-sociale-le-gouvernement-sentete-dans-lausterite",
+      "titre": "Budget 2027 : face à la colère sociale, le gouvernement s'entête dans l'austérité",
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Witkoff rencontre Zelensky à Oslo et Poutine à Saint-Pétersbourg",
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin",
+      "titre": "Russia and Ukraine say talks planned for November in UAE",
+      "date_source": "2026-10-23"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/10/23/la-russie-annonce-des-negociations-a-abou-dhabi-avec-lukraine-et-les-etats-unis",
+      "titre": "La Russie annonce des négociations à Abou Dhabi avec l'Ukraine et les États-Unis",
+      "date_source": "2026-10-23"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+      "titre": "Russia and Ukraine trade fresh strikes despite renewed push for US-brokered peace talks",
+      "date_source": "2026-10-23"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-monde",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "xinhua",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Explainer: Will new Russia-Ukraine talks deliver peace?",
+      "date_source": "2026-10-24"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin",
+      "titre": "Russia and Ukraine say talks planned for November in UAE",
+      "date_source": "2026-10-23"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/10/23/la-russie-annonce-des-negociations-a-abou-dhabi-avec-lukraine-et-les-etats-unis",
+      "titre": "La Russie annonce des négociations à Abou Dhabi avec l'Ukraine et les États-Unis",
+      "date_source": "2026-10-23"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+      "titre": "Russia and Ukraine trade fresh strikes despite renewed push for US-brokered peace talks",
+      "date_source": "2026-10-23"
+    }
+  ]
+}

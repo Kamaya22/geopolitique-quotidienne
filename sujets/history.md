@@ -133,3 +133,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-21 — FR : Le PLFSS 2027 : la sécurité sociale entre austérité sanitaire et crise de gouvernance | Monde : Midterms américains du 3 novembre : le vote qui reconfigure la géopolitique mondiale
 - 2026-10-22 — FR : Après le 17 octobre : couvre-feux, crise politique et fractures sociales en France | Monde : Israël à J-5 : Netanyahu ou Eisenkot, le vote du 27 octobre
 - 2026-10-23 — FR : Note Moody's : la France sous le verdict des marchés | Monde : Brésil à J-2 : Flávio Bolsonaro en tête avant le vote décisif
+- 2026-10-24 — FR : La mobilisation du 24 octobre : vers la grève générale du 5 novembre | Monde : Ukraine-Russie : les pourparlers d'Abou Dhabi, troisième round
