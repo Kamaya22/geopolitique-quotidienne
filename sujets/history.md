@@ -134,3 +134,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-22 — FR : Après le 17 octobre : couvre-feux, crise politique et fractures sociales en France | Monde : Israël à J-5 : Netanyahu ou Eisenkot, le vote du 27 octobre
 - 2026-10-23 — FR : Note Moody's : la France sous le verdict des marchés | Monde : Brésil à J-2 : Flávio Bolsonaro en tête avant le vote décisif
 - 2026-10-24 — FR : La mobilisation du 24 octobre : vers la grève générale du 5 novembre | Monde : Ukraine-Russie : les pourparlers d'Abou Dhabi, troisième round
+- 2026-10-25 — FR : Congrès du RN à Orléans : Bardella réélu, Le Pen en ordre de bataille pour 2027 | Monde : Brésil : le second tour Flávio Bolsonaro contre Lula
