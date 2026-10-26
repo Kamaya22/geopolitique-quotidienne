@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-26",
+  "sujet_fr": "La crise française instrumentalisée par Trump : les troubles d'octobre dans la campagne des midterms",
+  "sujet_monde": "Brésil : Lula réélu avec 51,78 %, Bolsonaro conteste le résultat",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Troubles sociaux en France : bilan chiffré (blessés, interpellations)",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Trump remarks on France at Kansas rally",
+      "date_source": "2026-10-19"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/10/02/les-lyceens-francais-affrontent-la-police-les-protestations-scolaires-setendent-a-tout-le",
+      "titre": "Les lycéens français affrontent la police, les protestations scolaires s'étendent",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/10/21/europe/macron-trump-stupid-comments-france-protests-intl",
+      "titre": "Macron slams 'stupid comments' by foreign leaders on France protests",
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/10/21/europe/macron-trump-stupid-comments-france-protests-intl",
+      "titre": "Macron slams 'stupid comments' by foreign leaders on France protests",
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+      "titre": "France protests: Macron condemns 'stupid' comments from Trump as bond market pressure builds",
+      "date_source": "2026-10-22"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+      "titre": "France protests: Macron condemns 'stupid' comments from Trump as bond market pressure builds",
+      "date_source": "2026-10-22"
+    },
+    {
+      "source_id": "axios",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms",
+      "titre": "Trump, Republicans harness France protests as midterm boogeyman",
+      "date_source": "2026-10-20"
+    },
+    {
+      "source_id": "axios",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms",
+      "titre": "Trump, Republicans harness France protests as midterm boogeyman",
+      "date_source": "2026-10-20"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Point de vue droite libérale sur la crise sociale et la réponse sécuritaire",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Point de vue gauche sur l'instrumentalisation trumpienne et l'austérité",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-monde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Lecture géopolitique : érosion de l'influence française et instrumentalisation internationale",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "german-marshall-fund",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.gmfus.org/news/more-turbulence-ahead",
+      "titre": "More Turbulence Ahead",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "us-state-dept",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration du porte-parole du département d'État sur les commentaires de Trump",
+      "date_source": "2026-10-22"
+    },
+    {
+      "source_id": "tse-bresil",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Résultats officiels du second tour présidentiel brésilien 2026",
+      "date_source": "2026-10-25"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261026-bresil-victoire-lula-quatrieme-mandat-flavio-bolsonaro",
+      "titre": "Brésil : Lula réélu président, Flavio Bolsonaro va demander l'annulation des élections",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/lula-cree-la-surprise-et-remporte-l-election-presidentielle-au-bresil-d2176ada8d020c8c20ac9ee4d16ae791",
+      "titre": "Lula crée la surprise et remporte l'élection présidentielle au Brésil (dépêche AFP via Boursorama)",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Brazil election: Lula wins fourth presidential term",
+      "date_source": "2026-10-25"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+      "titre": "In stunning victory, Brazil's Lula wins fourth presidential term",
+      "date_source": "2026-10-25"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
+      "titre": "Brazil's Lula wins reelection with victory over Trump ally Bolsonaro, who rejects result",
+      "date_source": "2026-10-25"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
+      "titre": "Brazil's Lula wins reelection with victory over Trump ally Bolsonaro, who rejects result",
+      "date_source": "2026-10-25"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off",
+      "titre": "Brazil election results 2026 live",
+      "date_source": "2026-10-25"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off",
+      "titre": "Brazil election results 2026 live",
+      "date_source": "2026-10-25"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+      "titre": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/10/02/brazil-lula-bolsonaro-election-trump-china-united-states-cuba/",
+      "titre": "Brazil's Lula, Bolsonaro, and the stakes for the Americas",
+      "date_source": "2026-10-02"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/10/02/brazil-lula-bolsonaro-election-trump-china-united-states-cuba/",
+      "titre": "Brazil's Lula, Bolsonaro, and the stakes for the Americas",
+      "date_source": "2026-10-02"
+    }
+  ]
+}
