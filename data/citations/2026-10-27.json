@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-27",
+  "sujet_fr": "La Corse : naufrage du processus de Beauvau",
+  "sujet_monde": "Israël aux urnes : Eisenkot contre Netanyahu",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20261027-statut-corse-camp-autonomiste-claque-porte-rejet-reforme-senat-processus-beauvau",
+      "titre": "Statut de la Corse : le camp autonomiste claque la porte après le rejet de la réforme au Sénat",
+      "date_source": "2026-10-27"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20261027-statut-corse-camp-autonomiste-claque-porte-rejet-reforme-senat-processus-beauvau",
+      "titre": "Statut de la Corse : le camp autonomiste claque la porte après le rejet de la réforme au Sénat",
+      "date_source": "2026-10-27"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/autonomie-de-la-corse-pourquoi-l-avenir-de-la-reforme-constitutionnelle-reste-incertain",
+      "titre": "Autonomie de la Corse : pourquoi l'avenir de la réforme constitutionnelle reste incertain",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/autonomie-de-la-corse-pourquoi-l-avenir-de-la-reforme-constitutionnelle-reste-incertain",
+      "titre": "Autonomie de la Corse : pourquoi l'avenir de la réforme constitutionnelle reste incertain",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.ici.fr/corse/autonomie-de-la-corse-les-nationalistes-actent-la-fin-du-processus-de-beauvau-6581278",
+      "titre": "Autonomie de la Corse : les nationalistes actent la fin du processus de Beauvau",
+      "date_source": "2026-10-27"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2025"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/israels-election-whos-who-and-whats-at-stake",
+      "titre": "Israel's Election: Understanding Who's Who and What's at Stake",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/israels-election-whos-who-and-whats-at-stake",
+      "titre": "Israel's Election: Understanding Who's Who and What's at Stake",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/last-polls-before-election-day-put-eisenkot-ahead-both-sides-short-of-majority/000001a1-69fe-d34e-a1b9-ffff12940000",
+      "titre": "Last polls before election day put Eisenkot ahead, both sides short of majority",
+      "date_source": "2026-10-23"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/last-polls-before-election-day-put-eisenkot-ahead-both-sides-short-of-majority/000001a1-69fe-d34e-a1b9-ffff12940000",
+      "titre": "Last polls before election day put Eisenkot ahead, both sides short of majority",
+      "date_source": "2026-10-23"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
+      "titre": "Israel election 2026: War, security and coalition math",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
+      "titre": "Israel election 2026: War, security and coalition math",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.jpost.com/israel-election-2026/article-912743",
+      "titre": "Israel Election 2026: Gadi Eisenkot leads Benjamin Netanyahu but Knesset deadlock looms",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right",
+      "titre": "Far from fringe: How Israel's mainstream parties vote with the far right",
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "doha-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.dohainstitute.org/en/PoliticalStudies/Pages/2026-knesset-elections-israeli-political-and-party-map.aspx",
+      "titre": "The 2026 Knesset Elections: The Contours of Israel's Political Landscape",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026"
+    }
+  ]
+}

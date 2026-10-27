@@ -136,3 +136,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-24 — FR : La mobilisation du 24 octobre : vers la grève générale du 5 novembre | Monde : Ukraine-Russie : les pourparlers d'Abou Dhabi, troisième round
 - 2026-10-25 — FR : Congrès du RN à Orléans : Bardella réélu, Le Pen en ordre de bataille pour 2027 | Monde : Brésil : le second tour Flávio Bolsonaro contre Lula
 - 2026-10-26 — FR : La crise française instrumentalisée par Trump : les troubles d'octobre dans la campagne des midterms | Monde : Brésil : Lula réélu avec 51,78 %, Bolsonaro conteste le résultat
+- 2026-10-27 — FR : La Corse : naufrage du processus de Beauvau | Monde : Israël aux urnes : Eisenkot contre Netanyahu
