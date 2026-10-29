@@ -138,3 +138,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-26 — FR : La crise française instrumentalisée par Trump : les troubles d'octobre dans la campagne des midterms | Monde : Brésil : Lula réélu avec 51,78 %, Bolsonaro conteste le résultat
 - 2026-10-27 — FR : La Corse : naufrage du processus de Beauvau | Monde : Israël aux urnes : Eisenkot contre Netanyahu
 - 2026-10-28 — FR : Grève du 5 novembre : l'intersyndicale face au budget Lecornu | Monde : Israël : l'impasse électorale du 27 octobre
+- 2026-10-29 — FR : L'attentat de Trappes : terrorisme raciste et fracture nationale | Monde : Serbie : la liste étudiante renverse Vučić

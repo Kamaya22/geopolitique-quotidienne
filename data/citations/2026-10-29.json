@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-29",
+  "sujet_fr": "Attentat de Trappes",
+  "sujet_monde": "Serbie : victoire de la Liste étudiante",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20261027-attentat-trappes-minute-silence-assembl%C3%A9e-lecornu-accuse-gauche-faire-jeu-rassemblement-national",
+      "titre": "Trappes : minute de silence à l'Assemblée, Lecornu accuse la gauche de « faire le jeu du RN »",
+      "date_source": "2026-10-27"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-etait-de-ceux-qui-donnent-l-exemple-qui-etait-pengo-bossio-wangi-le-jeune-homme-tue-lors-de-l-attentat-raciste-de-trappes_8252407.html",
+      "titre": "« Il était de ceux qui donnent l'exemple » : qui était Pengo Bossio Wangi ?",
+      "date_source": "2026-10-27"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/10/28/attentat-de-trappes-un-hommage-national-sera-rendu-a-pengo-bossio-wangi",
+      "titre": "Attentat de Trappes : un hommage national sera rendu à Pengo Bossio Wangi",
+      "date_source": "2026-10-28"
+    },
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-27-octobre-2026",
+      "titre": "Compte rendu de la première séance du mardi 27 octobre 2026",
+      "date_source": "2026-10-27"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.euronews.com/2026/10/26/political-earthquake-in-serbia-the-end-of-the-vucic-era-and-the-rise-of-the-student-list",
+      "titre": "Political earthquake in Serbia: The end of the Vucic Era and the rise of the student list",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "balkan-insight",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://balkaninsight.com/2026/10/26/student-list-wins-outright-majority-in-serbian-parliamentary-polls/bi/",
+      "titre": "Student List Wins Outright Majority in Serbian Parliamentary Polls",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed",
+      "titre": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6016298/serbia-student-list-vucic-election",
+      "titre": "'The smell of freedom': Serbia's student movement celebrates election triumph",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/10/25/europe/serbian-strongman-vucic-concedes-defeat-to-student-led-movement-intl-latam",
+      "titre": "Serbia's leader concedes defeat to student-led movement in seismic political shift",
+      "date_source": "2026-10-25"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "balkan-insight",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://balkaninsight.com/2026/10/26/student-list-wins-outright-majority-in-serbian-parliamentary-polls/bi/",
+      "titre": "Student List Wins Outright Majority in Serbian Parliamentary Polls",
+      "date_source": "2026-10-26"
+    }
+  ]
+}
