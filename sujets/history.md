@@ -140,3 +140,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-28 — FR : Grève du 5 novembre : l'intersyndicale face au budget Lecornu | Monde : Israël : l'impasse électorale du 27 octobre
 - 2026-10-29 — FR : L'attentat de Trappes : terrorisme raciste et fracture nationale | Monde : Serbie : la liste étudiante renverse Vučić
 - 2026-10-30 — FR : La diplomatie française à l'épreuve de l'Iran | Monde : La guerre contre l'Iran reprend-elle après les midterms ?
+- 2026-10-31 — FR : Berlin tourne le dos au SCAF : la défense européenne se recompose sans Paris | Monde : Midterms du 3 novembre : l'Amérique en suspens, le monde en attente

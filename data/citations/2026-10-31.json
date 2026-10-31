@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-31",
+  "sujet_fr": "Après la mort du SCAF, l'Allemagne lorgne le GCAP : Paris seule en défense européenne",
+  "sujet_monde": "Midterms du 3 novembre : l'Amérique en suspens, le monde en attente",
+  "citations": [
+    {
+      "source_id": "politico-eu",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Germany explores joining UK-led GCAP fighter programme",
+      "date_source": "2026-10-04"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.boursorama.com/bourse/actualites/avion-de-combat-airbus-plaide-pour-un-programme-de-cooperation-le-gcap-comme-option-bf9595677a6bf3574e4ef8854056da56",
+      "titre": "Avion de combat : Airbus plaide pour un programme de coopération, le GCAP comme option",
+      "date_source": "2026-10-28"
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Airbus to hold talks with BAE over role in GCAP jet programme",
+      "date_source": "2026-10-25"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/10/8/uks-burnham-open-to-germany-joining-gcap-fighter-jet-programme",
+      "titre": "UK's Burnham 'open' to Germany joining GCAP fighter jet programme",
+      "date_source": "2026-10-08"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "iiss",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/10/8/uks-burnham-open-to-germany-joining-gcap-fighter-jet-programme",
+      "titre": "UK's Burnham 'open' to Germany joining GCAP fighter jet programme",
+      "date_source": "2026-10-08"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.boursorama.com/bourse/actualites/avion-de-combat-airbus-plaide-pour-un-programme-de-cooperation-le-gcap-comme-option-bf9595677a6bf3574e4ef8854056da56",
+      "titre": "Avion de combat : Airbus plaide pour un programme de coopération, le GCAP comme option",
+      "date_source": "2026-10-28"
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": null,
+      "titre": "Airbus to hold talks with BAE over role in GCAP jet programme",
+      "date_source": "2026-10-25"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Reuters/Ipsos poll: Trump approval at 32%, Democrats lead generic ballot 47-36",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "NBC News poll: Democrats 52%, Republicans 44% on generic ballot",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/10/26/democrats-midterms-priorities-corruption-iran-ukraine-nato-venezuela-ai/",
+      "titre": "U.S. Midterms: Democrats' Top Foreign-Policy Priorities Post-Election",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/the-midterm-effect-what-the-2026-election-could-mean-for-public-policy/",
+      "titre": "The midterm effect: What the 2026 election could mean for public policy",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "the-guardian",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "wall-street-journal",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "axios",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "kyivpost",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.kyivpost.com/post/87360",
+      "titre": "Midterms 2026: What Comes Next for the US and Europe?",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts",
+      "titre": "US midterms 2026: All you need to know in maps and charts",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "NBC News poll scenario analysis: split Congress most likely outcome",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts",
+      "titre": "US midterms 2026: All you need to know in maps and charts",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/10/26/democrats-midterms-priorities-corruption-iran-ukraine-nato-venezuela-ai/",
+      "titre": "U.S. Midterms: Democrats' Top Foreign-Policy Priorities Post-Election",
+      "date_source": "2026-10-26"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/the-midterm-effect-what-the-2026-election-could-mean-for-public-policy/",
+      "titre": "The midterm effect: What the 2026 election could mean for public policy",
+      "date_source": "2026"
+    }
+  ]
+}
