@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-01",
+  "sujet_fr": "Budget 2027 au Sénat : arithmétique impossible, 5 novembre en toile de fond",
+  "sujet_monde": "Israël après le 27 octobre : de l'impasse électorale à la crise de la coalition",
+  "citations": [
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/le-senat-examinera-le-budget-dans-des-delais-tres-contraints",
+      "titre": "Le Sénat examinera le budget dans des délais très contraints",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/on-est-deja-dans-le-vide-sans-parachute-la-grande-inquietude-de-la-majorite-senatoriale-sur-le-budget-2027",
+      "titre": "« On est déjà dans le vide, sans parachute » : la grande inquiétude de la majorité sénatoriale sur le budget 2027",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "senat-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.senat.fr/fileadmin/cru-1792598966/Commissions/Finances/programme_de_travail.pdf",
+      "titre": "Programme de travail de la commission des finances du Sénat — PLF 2027",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Note de conjoncture OFCE — octobre 2026",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ifrap",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "hcfp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Avis du HCFP sur le PLF 2027",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu",
+      "titre": "Can Israeli leader Eisenkot ally with Arab parties to unseat Netanyahu?",
+      "date_source": "2026-10-28"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://brookings.edu/articles/israels-deadlocked-election-could-force-a-new-vote-in-2027",
+      "titre": "Israel's deadlocked election could force a new vote in 2027",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "arab-center-dc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://arabcenterdc.org/resource/israels-election-and-eisenkots-arab-coalition-dilemma/",
+      "titre": "Israel's Election and Eisenkot's Arab Coalition Dilemma",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "times-of-israel",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-31"
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-28"
+    },
+    {
+      "source_id": "arab-center-dc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    }
+  ]
+}

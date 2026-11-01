@@ -141,3 +141,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-29 — FR : L'attentat de Trappes : terrorisme raciste et fracture nationale | Monde : Serbie : la liste étudiante renverse Vučić
 - 2026-10-30 — FR : La diplomatie française à l'épreuve de l'Iran | Monde : La guerre contre l'Iran reprend-elle après les midterms ?
 - 2026-10-31 — FR : Berlin tourne le dos au SCAF : la défense européenne se recompose sans Paris | Monde : Midterms du 3 novembre : l'Amérique en suspens, le monde en attente
+- 2026-11-01 — FR : Budget 2027 au Sénat : arithmétique impossible, 5 novembre en toile de fond | Monde : Israël après le 27 octobre : de l'impasse électorale à la crise de la coalition
