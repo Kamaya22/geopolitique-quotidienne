@@ -142,3 +142,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-10-30 — FR : La diplomatie française à l'épreuve de l'Iran | Monde : La guerre contre l'Iran reprend-elle après les midterms ?
 - 2026-10-31 — FR : Berlin tourne le dos au SCAF : la défense européenne se recompose sans Paris | Monde : Midterms du 3 novembre : l'Amérique en suspens, le monde en attente
 - 2026-11-01 — FR : Budget 2027 au Sénat : arithmétique impossible, 5 novembre en toile de fond | Monde : Israël après le 27 octobre : de l'impasse électorale à la crise de la coalition
+- 2026-11-02 — FR : Grève du 5 novembre à J-3 : l'escalade syndicale | Monde : La démission de Lagarde de la BCE : bataille de succession géopolitique

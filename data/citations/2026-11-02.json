@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-02",
+  "sujet_fr": "Grève du 5 novembre à J-3 : l'escalade syndicale",
+  "sujet_monde": "La démission de Lagarde de la BCE : bataille de succession géopolitique",
+  "citations": [
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/apres-le-17-octobre-et-avant-de-nouvelles-manifestations-sebastien-lecornu-recoit-les",
+      "titre": "Après le 17 octobre et avant de nouvelles manifestations, Sébastien Lecornu reçoit les syndicats, sans les lycéens",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/10/21/france-decus-apres-la-reunion-avec-le-gouvernement-les-syndicats-appellent-a-une-mobilisat",
+      "titre": "France : déçus après la réunion avec le gouvernement, les syndicats appellent à une mobilisation",
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "connexion-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.connexionfrance.com/news/french-unions-call-for-new-round-of-strike-action-in-december/752323",
+      "titre": "French unions call for new round of strike action in December",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-21"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ifop",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sondage IFOP pour Le Figaro — mobilisation du 5 novembre",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ap",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/29/european-central-bank-president-christine-lagarde-will-resign-feb-7-ahead-of-term",
+      "titre": "European Central Bank president Christine Lagarde will resign Feb 7 ahead of term",
+      "date_source": "2026-10-29"
+    },
+    {
+      "source_id": "omfif",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.omfif.org/2026/04/omfif-survey-finds-three-candidates-level-pegging-to-succeed-lagarde/",
+      "titre": "OMFIF survey finds three candidates level pegging to succeed Lagarde",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "omfif",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.omfif.org/2026/09/outside-candidate-may-emerge-as-lagarde-successor/",
+      "titre": "Outside candidate may emerge as Lagarde successor",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ap",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-29"
+    },
+    {
+      "source_id": "omfif",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "omfif",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "el-pais",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    }
+  ]
+}
