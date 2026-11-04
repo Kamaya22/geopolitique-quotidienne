@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-04",
+  "sujet_fr": "Grève du 5 novembre J-1 : Lecornu face à l'épreuve de force syndicale",
+  "sujet_monde": "Les pourparlers d'Abou Dhabi du 10-11 novembre : vers la paix en Ukraine ou nouvelle impasse ?",
+  "citations": [
+    {
+      "source_id": "cgt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "cfdt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/la-cgt-appelle-a-une-greve-generale-le-5-novembre-a-lissue-de-la-reunion-a-matignon-des-syndicats",
+      "titre": "La CGT appelle à une grève générale le 5 novembre, à l'issue de la réunion à Matignon des syndicats",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/apres-le-17-octobre-et-avant-de-nouvelles-manifestations-sebastien-lecornu-recoit-les",
+      "titre": "Après le 17 octobre et avant de nouvelles manifestations, Sébastien Lecornu reçoit les syndicats, sans les lycéens",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "meduza",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10-29"
+    },
+    {
+      "source_id": "axios",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "rferl",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "al-monitor",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Russia must show it is serious about ceasefire at Abu Dhabi talks, Germany's Merz says",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "boursorama",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/reunion-sur-l-ukraine-mercredi-a-bruxelles-7c19cc5e0cf0490ed0fdc00a25b20ffb",
+      "titre": "Réunion sur l'Ukraine mercredi à Bruxelles",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "axios",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner",
+      "titre": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+      "titre": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
+      "date_source": "2026-11-03"
+    }
+  ]
+}
