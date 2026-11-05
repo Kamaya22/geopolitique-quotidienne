@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-05",
+  "sujet_fr": "Grève générale du 5 novembre : l'intersyndicale contre le budget Lecornu",
+  "sujet_monde": "États-Unis–Iran : frappes et diplomatie après les midterms",
+  "citations": [
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-05"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/greve/greve-pour-les-salaires-les-emplois-et-les-services-publics-la-mobilisation-du-5-novembre-sera-t-elle-suivie_8267762.html",
+      "titre": "Grève pour les salaires, les emplois et les services publics : la mobilisation du 5 novembre sera-t-elle suivie ?",
+      "date_source": "2026-11-05"
+    },
+    {
+      "source_id": "economie-matin",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.economiematin.fr/coupes-budgetaires-54-milliards-pouvoir-achat-2026",
+      "titre": "Grève du 5 novembre : pourquoi l'austérité mobilise cinq syndicats",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "nvo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "opinion",
+      "url": "https://nvo.fr/tous-les-indicateurs-sont-au-vert-rassemblements-mots-dordre-tout-savoir-sur-la-greve-du-5-novembre/",
+      "titre": "Tous les indicateurs sont au vert : tout savoir sur la grève du 5 novembre",
+      "date_source": "2026-11-04"
+    },
+    {
+      "source_id": "cgt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cfdt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "fitch",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
+      "titre": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
+      "titre": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161",
+      "titre": "U.S. military carries out limited strikes on Iran's Qeshm Island",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+      "titre": "U.S. strikes Iran's Qeshm Island as Vance hopes for 'negotiated settlement' with Tehran",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "cnbc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+      "titre": "U.S. strikes Iran's Qeshm Island as Vance hopes for 'negotiated settlement' with Tehran",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "axios",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "gulf-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-carries-out-defensive-strikes-on-irans-qeshm-island-near-strait-of-hormuz-as-tensions-escalate-1.500733555",
+      "titre": "US Conducts Defensive Strikes on Iran's Qeshm Island Amid Escalating Middle East Tensions",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "arms-control-association",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.armscontrol.org/act/2026-11/news/us-iran-threaten-escalation-diplomacy-stalls",
+      "titre": "U.S., Iran Threaten Escalation as Diplomacy Stalls",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "arms-control-association",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.armscontrol.org/act/2026-11/news/us-iran-threaten-escalation-diplomacy-stalls",
+      "titre": "U.S., Iran Threaten Escalation as Diplomacy Stalls",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "arms-control-association",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.armscontrol.org/act/2026-11/news/us-iran-threaten-escalation-diplomacy-stalls",
+      "titre": "U.S., Iran Threaten Escalation as Diplomacy Stalls",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "the-guardian",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "al-monitor",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "gulf-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    }
+  ]
+}
