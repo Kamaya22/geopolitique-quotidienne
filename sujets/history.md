@@ -146,3 +146,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-11-03 — FR : La France prise en tenaille : PIB en recul, Fitch en négatif et mobilisation sociale | Monde : Midterms américains du 3 novembre : les démocrates reprennent le Congrès, mais Trump garde le volant
 - 2026-11-04 — FR : Grève du 5 novembre J-1 : Lecornu face à l'épreuve de force syndicale | Monde : Les pourparlers d'Abou Dhabi du 10-11 novembre : vers la paix en Ukraine ou nouvelle impasse ?
 - 2026-11-05 — FR : Grève générale du 5 novembre : l'intersyndicale contre le budget Lecornu | Monde : États-Unis–Iran : frappes et diplomatie après les midterms
+- 2026-11-06 — FR : Après le 5 novembre : Lecornu convoque une conférence sociale pour le 9 novembre | Monde : Israël : Herzog s'apprête à confier le mandat à Eisenkot
