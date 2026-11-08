@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-08",
+  "sujet_fr": "Après le rejet unanime : le dilemme constitutionnel de Lecornu",
+  "sujet_monde": "Malabar 2026 : le Quad en mer du Japon face à Pékin",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20261104-assemblee-nationale-rejette-unanimite-en-premiere-lecture-budget-etat-2027-pib-finances",
+      "titre": "L'Assemblée nationale rejette le budget de l'État 2027 à l'unanimité en première lecture",
+      "date_source": "2026-11-07"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20261104-assemblee-nationale-rejette-unanimite-en-premiere-lecture-budget-etat-2027-pib-finances",
+      "titre": "L'Assemblée nationale rejette le budget de l'État 2027 à l'unanimité en première lecture",
+      "date_source": "2026-11-07"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
+      "titre": "Budget 2027 rejeté : quelles sont les prochaines étapes au Parlement ?",
+      "date_source": "2026-11-07"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
+      "titre": "Budget 2027 rejeté : quelles sont les prochaines étapes au Parlement ?",
+      "date_source": "2026-11-07"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles",
+      "titre": "Budget 2027 : calendrier, 49.3, ordonnances… Quelles sont les échéances à venir et les scénarios possibles ?",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles",
+      "titre": "Budget 2027 : calendrier, 49.3, ordonnances… Quelles sont les échéances à venir et les scénarios possibles ?",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.institutmontaigne.org/en/expressions/decoding-france-beyond-budget-crisis",
+      "titre": "Decoding France: Beyond the Budget Crisis",
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/explainer-how-france-s-2027-budget-battle-could-play-out",
+      "titre": "Explainer: How France's 2027 budget battle could play out",
+      "date_source": "2026-10-20"
+    },
+    {
+      "source_id": "usni-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://news.usni.org/?p=126276",
+      "titre": "U.S., Partner Nations to Hold Annual Malabar Naval Exercise Near Japan",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "usni-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://news.usni.org/?p=126276",
+      "titre": "U.S., Partner Nations to Hold Annual Malabar Naval Exercise Near Japan",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "japan-defense-ministry",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.mod.go.jp/msdf/en/release/202610/20261027en.pdf",
+      "titre": "JMSDF Participation in MALABAR 2026",
+      "date_source": "2026-10-27"
+    },
+    {
+      "source_id": "japan-defense-ministry",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.mod.go.jp/msdf/en/release/202610/20261027en.pdf",
+      "titre": "Announcement of JMSDF Participation in MALABAR 2026",
+      "date_source": "2026-10-27"
+    },
+    {
+      "source_id": "global-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": "https://www.globaltimes.cn/page/202611/1373815.shtml",
+      "titre": "Quad launches Malabar drills off Japan; expert says training fuels regional tensions",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "lowy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.lowyinstitute.org/the-interpreter/can-quad-regain-momentum-after-india-us-reset",
+      "titre": "Can the Quad regain momentum after the India–US reset?",
+      "date_source": null
+    },
+    {
+      "source_id": "lowy-institute",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.lowyinstitute.org/the-interpreter/can-quad-regain-momentum-after-india-us-reset",
+      "titre": "Can the Quad regain momentum after the India–US reset?",
+      "date_source": null
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}

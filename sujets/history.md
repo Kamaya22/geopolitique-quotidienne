@@ -148,3 +148,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-11-05 — FR : Grève générale du 5 novembre : l'intersyndicale contre le budget Lecornu | Monde : États-Unis–Iran : frappes et diplomatie après les midterms
 - 2026-11-06 — FR : Après le 5 novembre : Lecornu convoque une conférence sociale pour le 9 novembre | Monde : Israël : Herzog s'apprête à confier le mandat à Eisenkot
 - 2026-11-07 — FR : Budget 2027 : rejet unanime à l'Assemblée nationale (458 contre, 0 pour), inédit sous la Ve République | Monde : États-Unis–Iran : proposition nucléaire iranienne via le Qatar et compte à rebours de Trump
+- 2026-11-08 — FR : Après le rejet unanime : le dilemme constitutionnel de Lecornu | Monde : Malabar 2026 : le Quad en mer du Japon face à Pékin
