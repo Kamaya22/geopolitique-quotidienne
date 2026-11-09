@@ -1,0 +1,259 @@
+{
+  "date": "2026-11-09",
+  "sujet_fr": "La conférence sociale : Lecornu face aux syndicats — SMIC et pouvoir d'achat",
+  "sujet_monde": "37 ans après la chute du mur de Berlin : l'Europe face à ses fantômes",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-05"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/conference-sociale-du-9-novembre-des-annonces-decisives-a-la-cle_8273687.html",
+      "titre": "Conférence sociale du 9 novembre : des annonces décisives à la clé ?",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/revendications-des-syndicats-pistes-du-gouvernement-fonction-publique-absente-trois-questions-sur-la-conference-sociale-organisee-a-matignon_8273354.html",
+      "titre": "Revendications des syndicats, pistes du gouvernement, fonction publique absente... Trois questions sur la conférence sociale",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "europe1",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.europe1.fr/politique/conference-sociale-smic-et-blocages-les-marges-de-manoeuvre-restreintes-de-sebastien-lecornu-face-a-la-colere-populaire-1212269",
+      "titre": "Conférence sociale, SMIC et blocages : les marges de manœuvre restreintes de Sébastien Lecornu",
+      "date_source": "2026-11-08"
+    },
+    {
+      "source_id": "cfdt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cgt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fo",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "medef",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/conference-sociale-du-9-novembre-des-annonces-decisives-a-la-cle_8273687.html",
+      "titre": "Conférence sociale du 9 novembre : des annonces décisives à la clé ?",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/revendications-des-syndicats-pistes-du-gouvernement-fonction-publique-absente-trois-questions-sur-la-conference-sociale-organisee-a-matignon_8273354.html",
+      "titre": "Revendications des syndicats, pistes du gouvernement, fonction publique absente... Trois questions sur la conférence sociale",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "europe1",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.europe1.fr/politique/conference-sociale-smic-et-blocages-les-marges-de-manoeuvre-restreintes-de-sebastien-lecornu-face-a-la-colere-populaire-1212269",
+      "titre": "Conférence sociale, SMIC et blocages : les marges de manœuvre restreintes de Sébastien Lecornu",
+      "date_source": "2026-11-08"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.ifri.org/en/memos/thirty-five-years-after-fall-berlin-wall-whats-new-east",
+      "titre": "Thirty-Five Years After the Fall of the Berlin Wall: What's New in the East?",
+      "date_source": "2024-11"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2019/11/09/la-chute-du-mur-symbole-pour-leurope/",
+      "titre": "La chute du Mur, symbole pour l'Europe",
+      "date_source": "2019-11-09"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/en/memos/thirty-five-years-after-fall-berlin-wall-whats-new-east",
+      "titre": "Thirty-Five Years After the Fall of the Berlin Wall: What's New in the East?",
+      "date_source": "2024-11"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/sites/default/files/2026-05/pe2-2026_de_montbrial.pdf",
+      "titre": "Une nouvelle voie pour l'Europe : politique étrangère et grande stratégie dans un monde fragmenté",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2019/11/09/la-chute-du-mur-symbole-pour-leurope/",
+      "titre": "La chute du Mur, symbole pour l'Europe",
+      "date_source": "2019-11-09"
+    }
+  ]
+}
