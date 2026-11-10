@@ -150,3 +150,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-11-07 — FR : Budget 2027 : rejet unanime à l'Assemblée nationale (458 contre, 0 pour), inédit sous la Ve République | Monde : États-Unis–Iran : proposition nucléaire iranienne via le Qatar et compte à rebours de Trump
 - 2026-11-08 — FR : Après le rejet unanime : le dilemme constitutionnel de Lecornu | Monde : Malabar 2026 : le Quad en mer du Japon face à Pékin
 - 2026-11-09 — FR : La conférence sociale du 9 novembre : Lecornu face aux syndicats — SMIC et pouvoir d'achat | Monde : 37 ans après la chute du mur de Berlin : l'Europe face à ses fantômes
+- 2026-11-10 — FR : Budget 2027 : vers un gouvernement par ordonnances, une première sous la Ve République | Monde : Abou Dhabi, acte IV : pourparlers Ukraine-Russie-États-Unis sur les garanties de sécurité
