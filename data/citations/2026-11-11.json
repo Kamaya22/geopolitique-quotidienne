@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-11",
+  "sujet_fr": "Le 11-Novembre sous le sceau de la crise de régime",
+  "sujet_monde": "Israël : Eisenkot en quête de majorité",
+  "citations": [
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Note de conjoncture automne 2026 — crédibilité stratégique et crise institutionnelle",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Lettre de conjoncture — nos alliés observent, nos adversaires aussi",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La politisation du 11 novembre sous différents gouvernements",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.info.gouv.fr/actualite/11-novembre-2026-commemorations",
+      "titre": "11 novembre 2026 : commémorations du 108e anniversaire de l'Armistice de 1918",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "ministere-armees",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.defense.gouv.fr/actualites/france-engagement-militaire-2026",
+      "titre": "France : l'engagement militaire en 2026 — Coalition des Volontaires, Liban, Afrique",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/fr/publications/notes-de-lifri/credibilite-strategique-france-crise-institutionnelle-2026",
+      "titre": "La crédibilité stratégique de la France face à la crise institutionnelle",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
+      "titre": "Israel's president picks Eisenkot over Netanyahu to form next government",
+      "date_source": "2026-11-07"
+    },
+    {
+      "source_id": "i24news-fr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.i24news.tv/fr/actu/elections-legislatives-2026/artc-gadi-eisenkot-prepare-un-gouvernement-minoritaire-soutenu-par-l-abstention-des-partis-arabes",
+      "titre": "Eisenkot prépare un gouvernement minoritaire soutenu par l'abstention des partis arabes",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "haaretz",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-08"
+    },
+    {
+      "source_id": "jerusalem-post",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-08"
+    },
+    {
+      "source_id": "carnegie-endowment",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
+      "titre": "Israel's president picks Eisenkot over Netanyahu to form next government",
+      "date_source": "2026-11-07"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition",
+      "titre": "Will Eisenkot be able to form Israel's next gov't amid divided opposition?",
+      "date_source": "2026-11-08"
+    },
+    {
+      "source_id": "i24news-fr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.i24news.tv/fr/actu/elections-legislatives-2026/artc-gadi-eisenkot-prepare-un-gouvernement-minoritaire-soutenu-par-l-abstention-des-partis-arabes",
+      "titre": "Eisenkot prépare un gouvernement minoritaire soutenu par l'abstention des partis arabes",
+      "date_source": "2026-11-09"
+    }
+  ]
+}
