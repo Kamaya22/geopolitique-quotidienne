@@ -152,3 +152,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-11-09 — FR : La conférence sociale du 9 novembre : Lecornu face aux syndicats — SMIC et pouvoir d'achat | Monde : 37 ans après la chute du mur de Berlin : l'Europe face à ses fantômes
 - 2026-11-10 — FR : Budget 2027 : vers un gouvernement par ordonnances, une première sous la Ve République | Monde : Abou Dhabi, acte IV : pourparlers Ukraine-Russie-États-Unis sur les garanties de sécurité
 - 2026-11-11 — FR : Le 11-Novembre sous le sceau de la crise de régime | Monde : Israël : Eisenkot en quête de majorité
+- 2026-11-12 — FR : La Nouvelle-Calédonie entre crise du nickel et enjeux géopolitiques dans le Pacifique | Monde : Ukraine-Russie : les pourparlers d'Abou Dhabi se concluent sur un échange de prisonniers, sans percée

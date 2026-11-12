@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-12",
+  "sujet_fr": "La Nouvelle-Calédonie entre crise du nickel et enjeux géopolitiques dans le Pacifique",
+  "sujet_monde": "Ukraine-Russie : les pourparlers d'Abou Dhabi se concluent sur un échange de prisonniers, sans percée",
+  "citations": [
+    {
+      "source_id": "assemblee-nationale",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Examen du PLFG 2026 en séance du 12 novembre 2026",
+      "date_source": "2026-11-12"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Accord de Bougival : position de la droite libérale",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique du modèle de prêts remboursables et impact sur les populations kanakes",
+      "date_source": null
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Urgence structurelle de la filière nickel calédonienne",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Dimension stratégique indo-pacifique de la Nouvelle-Calédonie",
+      "date_source": null
+    },
+    {
+      "source_id": "german-marshall-fund",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Influence chinoise dans les réseaux politiques du Pacifique",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "9dashline",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Élections provinciales juin 2026 : peu de changements au rapport de forces institutionnel",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/186392-new-caledonia-and-the-geopolitics-of-critical-metals-towards-a-disruption-of-the-nickel-market/",
+      "titre": "New Caledonia and the geopolitics of critical metals: towards a disruption of the nickel market?",
+      "date_source": "2024"
+    },
+    {
+      "source_id": "9dashline",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.9dashline.com/article/new-caledonias-election-settles-little",
+      "titre": "New Caledonia's election settles little",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "german-marshall-fund",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.gmfus.org/download/article/23579",
+      "titre": "China's Engagement with New Caledonia",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Combats durant les pourparlers d'Abou Dhabi",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Combats durant les pourparlers d'Abou Dhabi",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "tass",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Délai d'implémentation de l'échange de prisonniers (position officielle russe)",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Position ukrainienne sur les risques d'une cession territoriale",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "tass",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Déclarations de Medinsky sur le règlement durable (position officielle du Kremlin)",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Stratégie russe : le cessez-le-feu comme outil pour imposer un accord final",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "orf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Conflit gelé plus probable que paix durable — dynamique de gestion institutionnalisée de l'impasse",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse prospective sur les pourparlers d'Abou Dhabi acte IV",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "npr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Paradoxes de la position américaine dans les négociations",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "pbs-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Paradoxes de la position américaine dans les négociations",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
+      "titre": "Russia and Ukraine agree to major prisoner swap as peace talks end",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://kyivindependent.com/large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/",
+      "titre": "Large-scale prisoner exchange agreed as 2nd day of Abu Dhabi talks concludes, Umerov says",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/amp/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi",
+      "titre": "'No concession': What to expect from Russia-US-Ukraine talks in Abu Dhabi",
+      "date_source": "2026-11-09"
+    }
+  ]
+}
