@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-13",
+  "sujet_fr": "Onze ans après le Bataclan : mémoire, menace renouvelée et République sous pression",
+  "sujet_monde": "Le sommet de Dublin : l'Europe cherche sa place dans la paix ukrainienne",
+  "citations": [
+    {
+      "source_id": "pnat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "86 % des 540 procédures antiterroristes en cours relèvent du jihadisme ; la menace « s'accroît »",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclarations du PNAT sur la menace terroriste en hausse et de Laurent Nuñez sur le niveau de vigilance",
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "dgsi",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Estimation du nombre de signalements de radicalisés sur le territoire français",
+      "date_source": null
+    },
+    {
+      "source_id": "ministere-interieur",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Laurent Nuñez : niveau de vigilance « au plus haut »",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Permanence de la menace et nécessité de maintenir l'effort sécuritaire — position droite libérale",
+      "date_source": null
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Permanence de la menace et nécessité de maintenir l'effort sécuritaire — position droite libérale",
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Risque de normalisation des pouvoirs d'exception et racines sociales de la radicalisation",
+      "date_source": null
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique de la surveillance de masse et analyse des inégalités structurelles",
+      "date_source": null
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Lecture critique des dispositifs sécuritaires et de leur impact sur les libertés publiques",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La France, pays occidental parmi les plus ciblés par le jihadisme — facteurs structurels (Sahel, présence postcoloniale)",
+      "date_source": null
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Profils « dormants » activés par des catalyseurs locaux — illustration de l'attaque de l'Arc de Triomphe (13 fév. 2026)",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/dix-ans-du-13-novembre-quelle-menace-terroriste-en-france_7605569.html",
+      "titre": "Dix ans du 13-Novembre : quelle menace terroriste en France ?",
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/commemoration-du-13-novembre-10-ans-apres-les-attentats-la-menace-terroriste-saccroit",
+      "titre": "Commémoration du 13 novembre : 10 ans après les attentats, la menace terroriste « s'accroît »",
+      "date_source": "2025-11"
+    },
+    {
+      "source_id": "agence-europe",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "La CPE pèse sur comment faire entendre sa voix dans les pourparlers russo-ukrainiens",
+      "date_source": "2026-11-12"
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
+      "titre": "Witkoff and Kushner meet Zelensky after talks with Putin, as Ukraine says Starshield restricted again",
+      "date_source": "2026-11-12"
+    },
+    {
+      "source_id": "agence-europe",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://agenceurope.eu/en/bulletin/article/13980/1/in-dublin-european-political-community-weighs-in-on-how-to-make-its-voice-heard-in-russia-ukraine-peace-talks",
+      "titre": "In Dublin, European Political Community weighs in on how to make its voice heard in Russia-Ukraine peace talks",
+      "date_source": "2026-11-12"
+    },
+    {
+      "source_id": "irish-times",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.irishtimes.com/politics/2026/11/12/eu-meetings-dublin-road-closures-traffic-disruption-latest/",
+      "titre": "Zelenskiy says Europe to be included in Ukraine peace talks as he meets US envoys in Dublin",
+      "date_source": "2026-11-12"
+    }
+  ]
+}
