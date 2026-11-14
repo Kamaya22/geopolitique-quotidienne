@@ -154,3 +154,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-11-11 — FR : Le 11-Novembre sous le sceau de la crise de régime | Monde : Israël : Eisenkot en quête de majorité
 - 2026-11-12 — FR : La Nouvelle-Calédonie entre crise du nickel et enjeux géopolitiques dans le Pacifique | Monde : Ukraine-Russie : les pourparlers d'Abou Dhabi se concluent sur un échange de prisonniers, sans percée
 - 2026-11-13 — FR : Onze ans après le Bataclan : mémoire, menace renouvelée et République sous pression | Monde : Le sommet de Dublin : l'Europe cherche sa place dans la paix ukrainienne
+- 2026-11-14 — FR : L'Acte V des manifestations : crise sociale et pression des marchés (OAT à 5 %) | Monde : APEC Shenzhen : première rencontre trilatérale Trump-Xi-Poutine de l'histoire

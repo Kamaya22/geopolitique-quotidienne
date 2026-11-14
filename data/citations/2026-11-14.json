@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-14",
+  "sujet_fr": "Acte V des manifestations, crise sociale et pression des marchés",
+  "sujet_monde": "APEC Shenzhen : première rencontre trilatérale Trump-Xi-Poutine",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20261113-manifestations-du-14-novembre-parcours-revendications-s%C3%A9curit%C3%A9-ce-qu-il-faut-savoir",
+      "titre": "Manifestations du 14 novembre : parcours, revendications, sécurité… Ce qu'il faut savoir",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html",
+      "titre": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "boursorama",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/les-syndicats-de-fonctionnaires-sortent-remontes-de-matignon-la-cfdt-rejoint-l-appel-a-la-greve-le-17-novembre-853f97d58dc2f2af53ea8acee4d716e3",
+      "titre": "Les syndicats de fonctionnaires sortent remontés de Matignon, la CFDT rejoint l'appel à la grève le 17 novembre",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "cfdt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration de la CFDT sur le rejet des propositions gouvernementales",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "cgt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Appel CGT à la grève du 17 novembre et aux manifestations du 14 novembre",
+      "date_source": "2026-11-14"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/11/07/france-nouvelle-journee-de-manifestations-ce-samedi",
+      "titre": "France : nouvelle journée de manifestations ce samedi",
+      "date_source": "2026-11-07"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse OFCE sur le pouvoir d'achat des fonctionnaires et l'impact du SMIC",
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Note Institut Montaigne sur la fenêtre de négociation salariale",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse IFRI sur les effets de la crise institutionnelle française sur la crédibilité internationale",
+      "date_source": null
+    },
+    {
+      "source_id": "hcfp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Projections HCFP sur le déficit public français 2025",
+      "date_source": null
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-meet-with-xi-putin-nov-19-in-china-white-house-says",
+      "titre": "Trump to Meet Xi, Putin Nov. 19 at China's APEC Summit, White House Says",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "japan-times",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/trump-xi-putin-trilateral-apec/",
+      "titre": "Trump, Xi and Putin to hold historic meeting on APEC sidelines in China",
+      "date_source": "2026-11-14"
+    },
+    {
+      "source_id": "washington-post",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.washingtonpost.com/business/2026/11/13/trump-xi-putin-summit-china/3558fd80-dfbc-11f1-912c-4fbb80d73f7f_story.html",
+      "titre": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-meet-with-xi-putin-nov-19-in-china-white-house-says",
+      "titre": "Trump to Meet Xi, Putin Nov. 19 at China's APEC Summit",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "sipri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "SIPRI — Estimation de l'arsenal nucléaire chinois (environ 500 ogives, 2026)",
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "ECFR — Analyse du dilemme européen face aux formats de négociation trilatéraux",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "IFRI — L'Europe acteur de second rang dans la gestion des crises de sécurité mondiale",
+      "date_source": null
+    },
+    {
+      "source_id": "atlantic-council",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Atlantic Council — Analyse du positionnement de Xi comme arbitre global à l'APEC",
+      "date_source": null
+    }
+  ]
+}
