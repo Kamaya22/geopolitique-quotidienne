@@ -1,0 +1,259 @@
+{
+  "date": "2026-11-15",
+  "sujet_fr": "L'État-employeur en crise : le gel du point d'indice et l'impasse de la fonction publique",
+  "sujet_monde": "Taïwan : l'intimidation silencieuse de Pékin avant l'APEC",
+  "citations": [
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20261113-fonction-publique-lecornu-ouvre-mois-discussions-cinq-chantiers-bas-salaires",
+      "titre": "Fonction publique : l'intersyndicale sort remontée de Matignon, la CFDT rejoint l'appel à la grève",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
+      "titre": "Budget 2027 rejeté : quelles sont les prochaines étapes au Parlement ?",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles",
+      "titre": "Budget 2027 : calendrier, 49.3, ordonnances… Quels sont les échéances à venir et les scénarios possibles ?",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "cfdt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Déclaration de la CFDT sur le rejet des propositions gouvernementales et l'appel à la grève du 17 novembre",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "cgt",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Appel de la CGT à la grève nationale de la fonction publique le 17 novembre",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Indice des prix à la consommation (IPC) — octobre 2026 : +3,4 %",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "hcfp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Projections HCFP sur le déficit public français 2026-2027",
+      "date_source": null
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "OCDE — Comparaison internationale des effectifs de la fonction publique en proportion de la population active",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "IFRI — Note sur la concurrence entre secteur public et secteur privé pour les compétences technologiques stratégiques (DGSI, DGA)",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Institut Montaigne — Analyse de la masse salariale publique et des pistes de réforme des grilles",
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Terra Nova — Plaidoyer pour une revalorisation ciblée des agents en bas de grille",
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Fondation Jean-Jaurès — Analyse de l'érosion du contrat social dans la fonction publique",
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Figaro — Éditorial sur le coût d'une revalorisation du point d'indice dans le contexte de la dette publique",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "medef",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "MEDEF — Position sur le gel du point d'indice et les finances publiques françaises",
+      "date_source": null
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://whbl.com/2026/11/12/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/",
+      "titre": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
+      "date_source": "2026-11-12"
+    },
+    {
+      "source_id": "taiwan-defense-ministry",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Communiqué quotidien du ministère de la Défense de Taïwan — activités militaires chinoises autour de l'île (30 appareils, 8 navires de guerre, 3 bâtiments officiels)",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "taipei-times",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867684",
+      "titre": "China stages Pacific drills in 'silent intimidation' of Taiwan",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
+      "titre": "What we know about China's military exercises around Taiwan",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "aei",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aei.org/commentary/china-taiwan-update-november-10-2026/",
+      "titre": "China & Taiwan Update, November 10, 2026",
+      "date_source": "2026-11-10"
+    },
+    {
+      "source_id": "chinese-foreign-ministry",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Déclaration du porte-parole du ministère des Affaires étrangères de Chine sur les exercices militaires 'routiniers'",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "cgtn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "CGTN — Couverture du discours de Xi Jinping sur la réunification comme 'déclaration de paix'",
+      "date_source": "2026-11-12"
+    },
+    {
+      "source_id": "csis",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "CSIS — Analyse de la capacité de l'APL à bloquer les approches maritimes de Taïwan",
+      "date_source": null
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Chatham House — Analyse de la normalisation de la pression militaire continue autour de Taïwan",
+      "date_source": null
+    },
+    {
+      "source_id": "lowy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Lowy Institute — Analyse des exercices non annoncés de novembre 2026 et de la surveillance taïwanaise",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "9dashline",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "9Dashline — Analyse de l'orchestration diplomatico-militaire chinoise avant l'APEC",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Quincy Institute — Plaidoyer pour la communication directe Washington-Pékin sur les lignes rouges dans le détroit",
+      "date_source": null
+    },
+    {
+      "source_id": "cato",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Cato Institute — Remise en question du niveau des engagements sécuritaires américains en Indo-Pacifique",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "IFRI — Analyse de la stratégie Indo-Pacifique française et du dilemme entre autonomie stratégique et solidarité alliée",
+      "date_source": null
+    }
+  ]
+}
