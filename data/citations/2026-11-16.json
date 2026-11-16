@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-16",
+  "sujet_fr": "Le 20e Sommet de la Francophonie à Phnom Penh : la France face aux défis de son soft power",
+  "sujet_monde": "Guerre hybride dans la Baltique : drones et ballons en espace OTAN",
+  "citations": [
+    {
+      "source_id": "rts",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.rts.ch/info/monde/2026/article/sommet-de-la-francophonie-le-20e-sommet-s-ouvre-au-cambodge-29415927.html",
+      "titre": "Le 20e Sommet de la Francophonie s'ouvre au Cambodge",
+      "date_source": "2026-11-15"
+    },
+    {
+      "source_id": "la-libre",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.lalibre.be/dernieres-depeches/2026/11/16/francophonie-loif-vers-un-vote-a-haut-risque-pour-le-poste-de-secretaire-general-YYZGVICI7VG5BINQZXRCCMHXDI/",
+      "titre": "L'OIF vers un vote à haut risque pour le poste de secrétaire général",
+      "date_source": "2026-11-16"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ifri.org/sites/default/files/2025-01/ifri_gaulme_francophonie_et_commonwealth_2025.pdf",
+      "titre": "Francophonie et Commonwealth : virage vers l'Asie-Pacifique au détriment de l'Afrique",
+      "date_source": "2025-01"
+    },
+    {
+      "source_id": "rts",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "la-libre",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "financial-afrik",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.financialafrik.com/2026/11/11/francophonie-a-phnom-penh-un-sommet-pour-la-paix-et-lelection-de-la-ou-du-secretaire-generale/",
+      "titre": "Francophonie : à Phnom Penh, un Sommet pour la paix et l'élection de la ou du Secrétaire général(e)",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "jeune-afrique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-robert-schuman",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/11/11/otan-des-avions-chasseurs-echouent-a-abattre-un-drone-en-lituanie-alerte-dans-les-pays-bal",
+      "titre": "L'OTAN échoue à abattre un drone en Lituanie, alerte dans les pays baltes",
+      "date_source": "2026-11-11"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://legrandcontinent.eu/fr/2026/08/07/la-russie-prepare-t-elle-une-operation-sous-faux-drapeau-sur-le-territoire-de-lotan/",
+      "titre": "La Russie prépare-t-elle une opération sous faux drapeau sur le territoire de l'OTAN ?",
+      "date_source": "2026-08-07"
+    },
+    {
+      "source_id": "kas",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.kas.de/de/web/auslandsinformationen/artikel/detail/-/content/hybrid-and-kinetic-threats-posed-by-drones-in-lithuania-what-has-to-be-done-now",
+      "titre": "Hybrid and kinetic threats posed by drones in Lithuania: what has to be done now",
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "kas",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "iiss",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "otan",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "tass",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    }
+  ]
+}

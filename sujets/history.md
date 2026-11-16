@@ -156,3 +156,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-11-13 — FR : Onze ans après le Bataclan : mémoire, menace renouvelée et République sous pression | Monde : Le sommet de Dublin : l'Europe cherche sa place dans la paix ukrainienne
 - 2026-11-14 — FR : L'Acte V des manifestations : crise sociale et pression des marchés (OAT à 5 %) | Monde : APEC Shenzhen : première rencontre trilatérale Trump-Xi-Poutine de l'histoire
 - 2026-11-15 — FR : L'État-employeur en crise : le gel du point d'indice et l'impasse de la fonction publique | Monde : Taïwan : l'intimidation silencieuse de Pékin avant l'APEC
+- 2026-11-16 — FR : Le 20e Sommet de la Francophonie à Phnom Penh : la France face aux défis de son soft power | Monde : Guerre hybride dans la Baltique : drones et ballons en espace OTAN
