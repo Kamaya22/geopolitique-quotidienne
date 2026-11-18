@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-18",
+  "sujet_fr": "La France face au G3 de Shenzhen : l'autonomie stratégique européenne à l'épreuve",
+  "sujet_monde": "Iran–États-Unis : frappes permanentes, blocus et médiation qatarie",
+  "citations": [
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/11/14/trump-rencontrera-xi-et-poutine-en-chine-la-semaine-prochaine-selon-la-maison-blanche",
+      "titre": "Trump rencontrera Xi et Poutine en Chine la semaine prochaine selon la Maison Blanche",
+      "date_source": "2026-11-14"
+    },
+    {
+      "source_id": "quai-orsay",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "crisisgroup",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/europes-middle-powers-after-the-xi-trump-summit-bipolar-consolidation-strategic-asymmetry-and-the-discipline-of-power-politics/",
+      "titre": "Europe's middle powers after the Xi-Trump summit: bipolar consolidation, strategic asymmetry and the discipline of power politics",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/trump-xi-and-putin-what-to-expect-from-the-apec-summit/",
+      "titre": "Trump, Xi, and Putin: What to expect from the APEC summit",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "brookings",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.brookings.edu/articles/trump-xi-and-putin-what-to-expect-from-the-apec-summit/",
+      "titre": "Trump, Xi, and Putin: What to expect from the APEC summit",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "iris-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.iris-france.org/europes-middle-powers-after-the-xi-trump-summit-bipolar-consolidation-strategic-asymmetry-and-the-discipline-of-power-politics/",
+      "titre": "Europe's middle powers after the Xi-Trump summit: bipolar consolidation, strategic asymmetry and the discipline of power politics",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "cfr",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.cfr.org/articles/conclusion-asia-pacific-economic-cooperation-summit",
+      "titre": "Conclusion Asia Pacific Economic Cooperation Summit",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cnn",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://cnn.com/2026/11/17/politics/us-iran-self-defense-strikes",
+      "titre": "US carries out 'self-defense' strikes on Iranian missile launch site",
+      "date_source": "2026-11-17"
+    },
+    {
+      "source_id": "maison-blanche",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "aiea",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+      "titre": "Qatar PM to meet Trump: What's the latest on US-Iran negotiations?",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "us-state-dept",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "critical-threats",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.criticalthreats.org/analysis/iran-update-november-09-2026",
+      "titre": "Iran Update: November 09, 2026",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "quincy-institute",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "stimson-center",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "arms-control-association",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.armscontrol.org/act/2026-11/news/us-iran-threaten-escalation-diplomacy-stalls",
+      "titre": "U.S., Iran Threaten Escalation as Diplomacy Stalls",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "critical-threats",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.criticalthreats.org/analysis/iran-update-november-09-2026",
+      "titre": "Iran Update: November 09, 2026",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+      "titre": "Qatar PM to meet Trump: What's the latest on US-Iran negotiations?",
+      "date_source": "2026-11-09"
+    }
+  ]
+}
