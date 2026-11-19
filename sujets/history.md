@@ -159,3 +159,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-11-16 — FR : Le 20e Sommet de la Francophonie à Phnom Penh : la France face aux défis de son soft power | Monde : Guerre hybride dans la Baltique : drones et ballons en espace OTAN
 - 2026-11-17 — FR : La France à la COP31 : entre leadership climatique et paralysie budgétaire | Monde : COP31 à Antalya : la semaine décisive pour le climat mondial
 - 2026-11-18 — FR : La France face au G3 de Shenzhen : l'autonomie stratégique européenne à l'épreuve | Monde : Iran–États-Unis : frappes permanentes, blocus et médiation qatarie
+- 2026-11-19 — FR : Présidentielle 2027 : le centre fracturé face à Le Pen | Monde : Coalition des Volontaires à Berlin : l'Europe face à ses engagements pour l'Ukraine

@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-19",
+  "sujet_fr": "Présidentielle 2027 : le centre fracturé face à Le Pen",
+  "sujet_monde": "Coalition des Volontaires à Berlin : l'Europe face à ses engagements pour l'Ukraine",
+  "citations": [
+    {
+      "source_id": "ifop",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Sondage présidentielle 2027 — premier tour",
+      "date_source": "2026-11-18"
+    },
+    {
+      "source_id": "ipsos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.ipsos.com/fr-fr/barometre-politique-ipsos-bva-la-tribune-dimanche",
+      "titre": "Baromètre politique Ipsos BVA — Novembre 2026",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
+      "titre": "Sur quoi s'appuie la candidature de Raphaël Glucksmann ?",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/equipe-de-campagne-de-raphael-glucksmann-apres-les-divisions-de-la-primaire-l-heure-du",
+      "titre": "Équipe de campagne de Raphaël Glucksmann : après les divisions de la primaire, l'heure du rassemblement ?",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fondation-jean-jaures",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "public-senat",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.publicsenat.fr/actualites/politique/sondage-une-tres-large-majorite-des-francais-approuvent-la-trahison-de-gabriel-attal-et-edouard-philippe-envers-emmanuel-macron",
+      "titre": "Sondage : Attal-Philippe et Macron",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-les-sondages-vont-ils-choisir-les-candidats-avant-les-electeurs",
+      "titre": "Les sondages vont-ils choisir les candidats avant les électeurs ?",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "ipsos",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.ipsos.com/fr-fr/barometre-politique-ipsos-bva-la-tribune-dimanche",
+      "titre": "Baromètre politique Ipsos BVA — Novembre 2026",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-quels-scenarios-pour-le-bloc-central-et-la-droite-444800",
+      "titre": "Présidentielle 2027 : quels scénarios pour le bloc central et la droite ?",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine",
+      "titre": "Les alliés de l'Ukraine en sommet à Berlin le 19 novembre",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/07/13/determines-a-accelerer-les-progres-vers-la-paix-declaration-des-copresidents-de-la-coalition-des-volontaires",
+      "titre": "Déterminés à accélérer les progrès vers la paix — déclaration des coprésidents de la Coalition des Volontaires",
+      "date_source": "2026-07-13"
+    },
+    {
+      "source_id": "quai-orsay",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://onu.diplomatie.gouv.fr/fr/coalition-des-volontaires-une-alliance-pour-la-securite-de-lukraine-et-de-leurope",
+      "titre": "Coalition des Volontaires : une alliance pour la sécurité de l'Ukraine et de l'Europe",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "bundesregierung",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.deutschland.de/fr/news/merz-invite-a-une-reunion-de-la-coalition-des-volontaires-a-berlin",
+      "titre": "Merz invite à une réunion de la Coalition des Volontaires à Berlin",
+      "date_source": "2026-11-14"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.euronews.com/video/2026/11/17/moment-ukrainian-drones-strike-the-kerch-bridge-linking-crimea-to-russia",
+      "titre": "Moment Ukrainian drones strike the Kerch Bridge linking Crimea to Russia",
+      "date_source": "2026-11-17"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge",
+      "titre": "'Crimea is turning into an island': How Ukraine hit Putin's prized bridge",
+      "date_source": "2026-11-18"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine",
+      "titre": "Les alliés de l'Ukraine en sommet à Berlin le 19 novembre",
+      "date_source": "2026-11-13"
+    },
+    {
+      "source_id": "quai-orsay",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://onu.diplomatie.gouv.fr/fr/coalition-des-volontaires-une-alliance-pour-la-securite-de-lukraine-et-de-leurope",
+      "titre": "Coalition des Volontaires : une alliance pour la sécurité de l'Ukraine et de l'Europe",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "bundesregierung",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.deutschland.de/fr/news/merz-invite-a-une-reunion-de-la-coalition-des-volontaires-a-berlin",
+      "titre": "Merz invite à une réunion de la Coalition des Volontaires à Berlin",
+      "date_source": "2026-11-14"
+    }
+  ]
+}
