@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-20",
+  "sujet_fr": "La guerre cybernétique iranienne contre la France",
+  "sujet_monde": "Myanmar : la CIJ condamne un génocide d'État, une première historique",
+  "citations": [
+    {
+      "source_id": "sgdsn",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Conférence de presse de Lecornu au SGDSN sur la menace cyber",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/declaration-d-attribution-a-l-iran-de-cyberattaques-visant-la-france",
+      "titre": "Déclaration d'attribution à l'Iran de cyberattaques visant la France",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "anssi",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://cyber.gouv.fr/actualites/campagnes-de-destabilisation-et-sabotage-menees-a-lencontre-des-interets-francais-par-la-republique-islamique-diran/",
+      "titre": "Campagnes de déstabilisation et sabotage menées à l'encontre des intérêts français par la République islamique d'Iran",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "anssi",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Panorama de la cybermenace 2025",
+      "date_source": "2025"
+    },
+    {
+      "source_id": "gouvernement-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.info.gouv.fr/actualite/cybersecurite-le-premier-ministre-annonce-un-plan-d-action-pour-renforcer-la-protection-numerique-de-l-etat",
+      "titre": "Cybersécurité : le Premier ministre annonce un plan d'action pour renforcer la protection numérique de l'État",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspectives de la droite libérale sur la réponse française à l'Iran",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Critique de gauche sur les coupes budgétaires en cybersécurité",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "le-monde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Responsabilité partagée : retard des entreprises sur la sécurité des systèmes industriels",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "boursorama",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/la-menace-cyber-a-un-niveau-grave-et-inedit-et-rien-ne-laisse-a-penser-que-les-choses-vont-s-arranger-dit-lecornu-e35626393631be4596e42c1d79cdbba7",
+      "titre": "La menace cyber à un niveau « grave et inédit » selon Lecornu",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "kulturegeek",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://kulturegeek.fr/news-364398/cyberattaques-france-menace-niveau-grave-inedit-premier-ministre",
+      "titre": "Cyberattaques en France : la menace est à un niveau grave et inédit selon le Premier ministre",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "next-ink",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://next.ink/266516/cyberattaque-contre-les-frigos-de-700-supermarches-pourquoi-la-france-accuse-liran/",
+      "titre": "Cyberattaque contre les frigos de 700 supermarchés : pourquoi la France accuse l'Iran",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/declaration-d-attribution-a-l-iran-de-cyberattaques-visant-la-france",
+      "titre": "Déclaration d'attribution à l'Iran de cyberattaques visant la France",
+      "date_source": "2026-11-09"
+    },
+    {
+      "source_id": "anssi",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://cyber.gouv.fr/actualites/campagnes-de-destabilisation-et-sabotage-menees-a-lencontre-des-interets-francais-par-la-republique-islamique-diran/",
+      "titre": "Campagnes de déstabilisation et sabotage menées à l'encontre des intérêts français par la République islamique d'Iran",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "boursorama",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/la-menace-cyber-a-un-niveau-grave-et-inedit-et-rien-ne-laisse-a-penser-que-les-choses-vont-s-arranger-dit-lecornu-e35626393631be4596e42c1d79cdbba7",
+      "titre": "La menace cyber à un niveau « grave et inédit » selon Lecornu (AFP)",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "cij",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Arrêt CIJ — The Gambia c. Myanmar (génocide rohingya)",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
+      "titre": "UN's top court finds Myanmar guilty of genocide against Rohingya",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.hrw.org/news/2026/11/03/questions-and-answers-international-court-of-justice-judgment-in-myanmar-genocide",
+      "titre": "Questions and Answers: International Court of Justice Judgment in the Myanmar Genocide Case",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "amnesty-international",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Réaction d'Amnesty International à l'arrêt CIJ-Myanmar",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "irrawaddy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/top-un-court-to-rule-november-19-on-myanmar-rohingya-genocide-case.html",
+      "titre": "Top UN Court to Rule November 19 on Myanmar Rohingya Genocide Case",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "al-monitor",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.al-monitor.com/originals/2026/11/top-un-court-ruling-myanmar-genocide-be-watched-clues-gaza",
+      "titre": "Top UN Court Ruling on Myanmar Genocide to Be Watched for Clues on Gaza",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
+      "titre": "UN's top court finds Myanmar guilty of genocide against Rohingya",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "hrw",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.hrw.org/news/2026/11/03/questions-and-answers-international-court-of-justice-judgment-in-myanmar-genocide",
+      "titre": "Questions and Answers: International Court of Justice Judgment in the Myanmar Genocide Case",
+      "date_source": "2026-11-03"
+    },
+    {
+      "source_id": "irrawaddy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/top-un-court-to-rule-november-19-on-myanmar-rohingya-genocide-case.html",
+      "titre": "Top UN Court to Rule November 19 on Myanmar Rohingya Genocide Case",
+      "date_source": "2026-11"
+    }
+  ]
+}
