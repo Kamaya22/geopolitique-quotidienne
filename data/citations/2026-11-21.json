@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-21",
+  "sujet_fr": "Flotte fantôme russe : la France co-organise une conférence internationale à Paris",
+  "sujet_monde": "Espagne : les élections du 29 novembre redessinent l'équilibre européen",
+  "citations": [
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/declarations-a-la-presse-de-jean-noel-barrot-ministre-de-l-europe-et-des-affaires-etrangeres-en-7",
+      "titre": "Déclarations à la presse de Jean-Noël Barrot en marge du Conseil Affaires étrangères",
+      "date_source": "2026-11-18"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.yahoo.com/news/world/articles/france-uk-host-december-conference-100007315.html",
+      "titre": "France, UK to host December conference on Russian shadow fleet",
+      "date_source": "2026-11-16"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://kyivindependent.com/france-uk-to-hold-conference-on-russian-shadow-fleet-in-december/",
+      "titre": "France, UK to hold conference in December on fight against Russia's shadow fleet",
+      "date_source": "2026-11-16"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/11/15/un-petrolier-de-la-flotte-fantome-russe-arraisonne-en-mediterranee",
+      "titre": "Un pétrolier de la flotte fantôme russe arraisonné en Méditerranée",
+      "date_source": "2026-11-15"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/11/18/lue-adopte-un-nouveau-paquet-de-sanctions-contre-banques-raffineries-et-flotte-fantome-rus",
+      "titre": "L'UE adopte un nouveau paquet de sanctions contre banques, raffineries et flotte fantôme russes",
+      "date_source": "2026-11-18"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/11/06/russie-une-part-croissante-de-la-flotte-petroliere-fantome-repasse-sous-pavillon-national",
+      "titre": "Russie : une part croissante de la flotte pétrolière fantôme repasse sous pavillon national",
+      "date_source": "2026-11-06"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Perspectives de la droite libérale française sur les sanctions contre la flotte fantôme",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Questions de gauche sur la légalité des arraisonnements et les contradictions économiques des sanctions",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse IFRI sur la résilience de la flotte fantôme russe et les limites des sanctions",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "le-grand-continent",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Analyse Le Grand Continent sur les coûts logistiques russes et l'efficacité des sanctions",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "kyiv-independent",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://kyivindependent.com/france-uk-to-hold-conference-on-russian-shadow-fleet-in-december/",
+      "titre": "France, UK to hold conference in December on fight against Russia's shadow fleet",
+      "date_source": "2026-11-16"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/11/15/un-petrolier-de-la-flotte-fantome-russe-arraisonne-en-mediterranee",
+      "titre": "Un pétrolier de la flotte fantôme russe arraisonné en Méditerranée",
+      "date_source": "2026-11-15"
+    },
+    {
+      "source_id": "france-diplomatie",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/declarations-a-la-presse-de-jean-noel-barrot-ministre-de-l-europe-et-des-affaires-etrangeres-en-7",
+      "titre": "Déclarations à la presse de Jean-Noël Barrot en marge du Conseil Affaires étrangères",
+      "date_source": "2026-11-18"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/europe/20261119-l%C3%A9gislatives-en-espagne-attaqu%C3%A9-sur-son-bilan-pedro-sanchez-admet-des-erreurs",
+      "titre": "Législatives en Espagne : attaqué sur son bilan, Pedro Sanchez admet des « erreurs »",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "afp",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Convocation des élections générales anticipées en Espagne le 29 novembre",
+      "date_source": "2026-10-05"
+    },
+    {
+      "source_id": "touteleurope",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-generales-en-espagne-date-enjeux-tetes-de-liste-tout-ce-qu-il-faut-savoir-sur-le-scrutin/",
+      "titre": "Élections générales en Espagne : date, enjeux, têtes de liste — tout ce qu'il faut savoir",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "el-pais",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "El País : alerte sur les risques d'un gouvernement PP-Vox pour les droits fondamentaux",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/the-end-of-the-exception-the-future-of-spains-foreign-policy/",
+      "titre": "The end of the exception: The future of Spain's foreign policy",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/10/sanchezs-gamble-all-election-will-have-international-impact",
+      "titre": "Sánchez's gamble: This 'all-in' election will have international impact",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "politico-eu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Politico Europe : arithmétique parlementaire espagnole et scénarios de coalition PP-Vox",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Financial Times : réaction des marchés espagnols à l'hypothèse d'une majorité conservatrice stable",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Lecture de droite : alternance normale après l'échec du socialisme espagnol",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Lecture de gauche : risque de régression démocratique en Espagne",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "ecfr",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://ecfr.eu/article/the-end-of-the-exception-the-future-of-spains-foreign-policy/",
+      "titre": "The end of the exception: The future of Spain's foreign policy",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/europe/20261119-l%C3%A9gislatives-en-espagne-attaqu%C3%A9-sur-son-bilan-pedro-sanchez-admet-des-erreurs",
+      "titre": "Législatives en Espagne : attaqué sur son bilan, Pedro Sanchez admet des « erreurs »",
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "chatham-house",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.chathamhouse.org/2026/10/sanchezs-gamble-all-election-will-have-international-impact",
+      "titre": "Sánchez's gamble: This 'all-in' election will have international impact",
+      "date_source": "2026-10"
+    }
+  ]
+}

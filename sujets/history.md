@@ -161,3 +161,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-11-18 — FR : La France face au G3 de Shenzhen : l'autonomie stratégique européenne à l'épreuve | Monde : Iran–États-Unis : frappes permanentes, blocus et médiation qatarie
 - 2026-11-19 — FR : Présidentielle 2027 : le centre fracturé face à Le Pen | Monde : Coalition des Volontaires à Berlin : l'Europe face à ses engagements pour l'Ukraine
 - 2026-11-20 — FR : La guerre cybernétique iranienne contre la France | Monde : Myanmar : la CIJ condamne un génocide d'État, une première historique
+- 2026-11-21 — FR : Flotte fantôme russe : Paris co-organise une conférence internationale avec Londres | Monde : Espagne : les élections du 29 novembre redessinent l'équilibre européen
