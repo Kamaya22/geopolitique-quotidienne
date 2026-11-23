@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-23",
+  "sujet_fr": "Macron chez Airbus : la souveraineté aérospatiale entre ambition et rigueur budgétaire",
+  "sujet_monde": "Brexit dix ans après : le sommet de Bruxelles amorce le rapprochement UE-Royaume-Uni",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "elysee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Annonce Choose France édition France",
+      "date_source": null
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://lcp.fr/index.php/actualites/airbus-peut-il-subir-le-meme-sort-que-l-automobile-l-avertissement-de-guillaume-faury",
+      "titre": "Airbus peut-il subir le même sort que l'automobile ? L'avertissement de Guillaume Faury",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "medef",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://lcp.fr/index.php/actualites/airbus-peut-il-subir-le-meme-sort-que-l-automobile-l-avertissement-de-guillaume-faury",
+      "titre": "Airbus peut-il subir le même sort que l'automobile ? L'avertissement de Guillaume Faury",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "franceinfo",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/emmanuel-macron-en-visite-a-airbus-lundi-les-annonces-attendues-inquietent-3452193.html",
+      "titre": "Emmanuel Macron en visite chez Airbus : les annonces attendues inquiètent",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": "https://fr.euronews.com/2026/11/02/selon-kaja-kallas-bruxelles-reste-traumatisee-par-le-brexit",
+      "titre": "Selon Kaja Kallas, Bruxelles reste traumatisée par le Brexit",
+      "date_source": "2026-11-02"
+    },
+    {
+      "source_id": "institute-for-government",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal",
+      "titre": "The deal is done: EU and UK agree to reset relations 10 years after Brexit",
+      "date_source": "2026-11-20"
+    },
+    {
+      "source_id": "foreign-policy",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://foreignpolicy.com/2026/11/20/brexit-reset-deal-eu-uk-summit-burnham-trade-economy/",
+      "titre": "Brexit Reset Deal: UK, EU Agree to Remove Some Barriers",
+      "date_source": "2026-11-20"
+    },
+    {
+      "source_id": "institute-for-government",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.instituteforgovernment.org.uk/comment/andy-burnhams-eu-reset-deal",
+      "titre": "Andy Burnham's EU reset deal highlights the problems of incrementalism",
+      "date_source": "2026-11"
+    }
+  ]
+}
