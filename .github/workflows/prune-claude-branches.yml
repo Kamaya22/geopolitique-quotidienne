@@ -1,9 +1,9 @@
 name: Nettoyage des branches automatiques
 
-# Les exécutions cloud de Claude (routine « Géopolitique quotidienne », agents
-# manuels) créent à chaque run une branche de travail claude/*. L'édition, elle,
-# est poussée directement sur main : ces branches sont donc des résidus.
-# Ce workflow les supprime automatiquement une fois qu'elles sont inactives.
+# Les exécutions cloud de Claude créent à chaque run une branche de travail
+# claude/*. promote-to-main.yml la supprime dès qu'elle est publiée sur main ;
+# ce workflow ramasse le reste (branches refusées ou en conflit, gardées pour
+# inspection) une fois qu'elles sont inactives depuis MAX_AGE_HOURS.
 
 on:
   schedule:
@@ -20,9 +20,9 @@ jobs:
       - name: Supprimer les branches claude/* inactives
         env:
           GH_TOKEN: ${{ github.token }}
-          # On ne touche pas à une branche modifiée dans les dernières N heures,
-          # au cas où un agent cloud serait encore en cours d'exécution.
-          MAX_AGE_HOURS: "6"
+          # On garde une branche modifiée dans les dernières N heures : un agent
+          # cloud peut encore tourner, ou une branche refusée doit être inspectée.
+          MAX_AGE_HOURS: "48"
         run: |
           set -uo pipefail
           cutoff=$(date -u -d "${MAX_AGE_HOURS} hours ago" +%s)

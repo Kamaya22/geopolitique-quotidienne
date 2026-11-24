@@ -1,6 +1,6 @@
 # Instructions de l'agent — Lecture géopolitique quotidienne
 
-Tu es un agent cloud planifié. Ta mission aujourd'hui : produire **une lecture d'environ 15 minutes en français** sur la géopolitique liée à l'actualité — moitié sur un sujet **France**, moitié sur un sujet **Monde** — la committer et la pousser **directement sur la branche `main`**. Le push d'un nouveau fichier `editions/<date>.md` déclenche automatiquement une GitHub Action qui envoie la lecture par email à la mailing list (Google Group, variable `MAIL_TO` du repo) — le push EST la livraison, le fichier doit donc être entièrement autosuffisant. Suis ces instructions complètement et dans l'ordre.
+Tu es un agent cloud planifié. Ta mission aujourd'hui : produire **une lecture d'environ 15 minutes en français** sur la géopolitique liée à l'actualité — moitié sur un sujet **France**, moitié sur un sujet **Monde** — la committer et la pousser sur ta branche de session `claude/...`. Une GitHub Action publie alors automatiquement ton commit sur `main`, ce qui déclenche l'envoi de la lecture par email à la mailing list (Google Group, variable `MAIL_TO` du repo) — le push EST la livraison, le fichier doit donc être entièrement autosuffisant. Suis ces instructions complètement et dans l'ordre.
 
 ## Étape 0 — Orientation
 
@@ -100,20 +100,20 @@ Le projet accumule, édition après édition, **toutes** les sources citées pou
 
 1. Ajoute une ligne à `sujets/history.md` : `- <YYYY-MM-DD> — FR : <sujet France> | Monde : <sujet Monde>`.
 2. Committe tous les fichiers modifiés (`editions/...`, `sujets/...`, `data/citations/<date>.json`, `data/registry.csv` si tu l'as enrichi) avec le message `Édition du <YYYY-MM-DD>`.
-3. **Pousse directement sur `main`** — tu es explicitement autorisé à committer et pousser sur `main`. Utilise exactement :
+3. **Pousse ta branche de session** (la branche `claude/...` sur laquelle l'environnement t'a démarré). Utilise exactement :
 
    ```
-   git push origin HEAD:main
+   git push -u origin HEAD
    ```
 
-   (cette commande fonctionne même si l'environnement t'a démarré sur une branche de session : elle envoie ton commit sur `main`.)
-   - **Ne crée AUCUNE branche.** **N'ouvre AUCUNE pull request.** Ne laisse aucun brouillon.
-   - L'envoi du mail est déclenché **uniquement** par un push sur `main` : une édition poussée sur une autre branche n'est jamais envoyée et pollue le repo. C'est à proscrire.
-4. La GitHub Action `.github/workflows/send-reading.yml` détecte le nouveau fichier `editions/*.md` sur `main` et envoie son contenu rendu par email. La première ligne (sans le `# `) devient le sujet du mail.
+   - **Ne pousse jamais sur `main`** et ne tente pas de le faire : tu n'en as pas le droit, c'est voulu.
+   - **Ne crée AUCUNE autre branche.** **N'ouvre AUCUNE pull request.**
+   - Ne modifie que `editions/`, `sujets/`, `data/` (et `rapports/` pour le rapport mensuel) : un commit qui touche un autre fichier (workflows, `tools/`, ce fichier…) est **refusé** et rien n'est envoyé.
+4. La GitHub Action `promote-to-main.yml` vérifie ta branche, la publie sur `main`, la supprime, puis déclenche `send-reading.yml`, qui envoie l'édition par email. La première ligne (sans le `# `) devient le sujet du mail.
 5. **Pousse exactement une fois**, quand l'édition est finale — pas de brouillon, pas de second commit touchant `editions/` (chaque push d'une édition envoie un email).
 
 ## Gestion des échecs
 
-- Si le push échoue, réessaie une fois après `git pull --rebase`. Ne force-push jamais.
+- Si le push échoue, réessaie une fois `git push -u origin HEAD`. Ne force-push jamais, et ne pousse jamais sur `main`.
 - Si l'actualité du jour est exceptionnellement pauvre, traite un sujet de fond rattaché à une actualité récente (ex. un rapport de think tank publié cette semaine).
 - Un connecteur Gmail peut être disponible dans ta session, mais il ne sait que créer des brouillons. Ne l'utilise pas pour la livraison : la GitHub Action est le canal d'envoi.
