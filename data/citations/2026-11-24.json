@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-24",
+  "sujet_fr": "Terres rares : la souveraineté minérale française face à l'hégémonie chinoise",
+  "sujet_monde": "Ukraine weaponize la Méditerranée : les drones navals de Kyiv frappent la flotte russe en Libye",
+  "citations": [
+    {
+      "source_id": "aie",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Statistiques sur la part de marché chinoise dans l'extraction et le raffinage des terres rares",
+      "date_source": null
+    },
+    {
+      "source_id": "ifri",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Note IFRI sur le retard de l'Europe face à la Chine dans les terres rares (septembre 2026)",
+      "date_source": "2026-09"
+    },
+    {
+      "source_id": "les-echos",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Les Échos sur le plan de résilience terres rares de mai 2026",
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Libération sur les enjeux environnementaux et sociaux des projets miniers de terres rares",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Monde diplomatique : mirage techno-solutionniste de la stratégie terres rares",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Terra Nova sur la sobriété matérielle comme complément à la stratégie d'extraction",
+      "date_source": null
+    },
+    {
+      "source_id": "fondapol",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Fondapol : approche nationale avant coordination européenne sur les métaux critiques",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "global-times",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Global Times / porte-parole MAE chinois : réaction aux mesures françaises sur les terres rares",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20261123-terres-rares-macron-annonce-france-doter-stocks-strat%C3%A9giques",
+      "titre": "Terres rares : Emmanuel Macron annonce que la France va se doter de \"stocks stratégiques\"",
+      "date_source": "2026-11-23"
+    },
+    {
+      "source_id": "ouest-france",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.ouest-france.fr/economie/la-france-va-se-doter-de-stocks-strategiques-de-terres-rares-et-metaux-prioritaires-confirme-lelysee-2e6de14c-e779-11f1-bd4e-6f30b8f49e21",
+      "titre": "La France va se doter de « stocks stratégiques » de terres rares et « métaux prioritaires », confirme l'Élysée",
+      "date_source": "2026-11-23"
+    },
+    {
+      "source_id": "boursorama",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/minerais-strategiques-aimants-permanents-les-grandes-lignes-du-plan-de-resilience-francais-face-a-la-chine-8fa1b676b92bc18741678731f40dd034",
+      "titre": "Minerais stratégiques, aimants permanents : les grandes lignes du \"plan de résilience\" français face à la Chine",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "France 24 : blessés libyens et déclarations de Zelensky sur les frappes de drones en Libye",
+      "date_source": "2026-11-23"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Reuters : confirmation de participation du SBU aux frappes de drones en Méditerranée",
+      "date_source": "2026-11-23"
+    },
+    {
+      "source_id": "rfi",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "RFI enquête : plus de 200 militaires ukrainiens déployés en Libye occidentale (avril 2026)",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "nbc-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "NBC News : corroboration des allégations sur la base ukrainienne en Libye et déclarations d'analystes de RUSI",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "rusi",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "RUSI (analyste cité par NBC) : présence ukrainienne en Libye dans le cadre des efforts OTAN",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "cepa",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": "https://cepa.org/article/the-ukraine-wars-growing-african-front/",
+      "titre": "The Ukraine War's Growing African Front",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Al Jazeera : versions divergentes et question de l'enquête indépendante sur les frappes en Libye",
+      "date_source": "2026-11-23"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Représentant spécial de l'ONU pour la Libye : condamnation des frappes et appel à enquête indépendante",
+      "date_source": "2026-11-23"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/europe/20261123-navires-russes-cibl%C3%A9s-libye-face-moscou-ukraine-%C3%A9tend-domaine-lutte",
+      "titre": "Navires russes ciblés en Libye : l'Ukraine étend le domaine de la lutte",
+      "date_source": "2026-11-23"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know",
+      "titre": "Russian ships hit by drones off Libya coast: What do we know?",
+      "date_source": "2026-11-23"
+    },
+    {
+      "source_id": "cepa",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://cepa.org/article/the-ukraine-wars-growing-african-front/",
+      "titre": "The Ukraine War's Growing African Front",
+      "date_source": "2026-11"
+    }
+  ]
+}
