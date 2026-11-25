@@ -165,3 +165,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-11-22 — FR : La loi sur la présomption de légitime défense des forces de l'ordre | Monde : La destruction du pont de Kertch et la stratégie ukrainienne en Crimée
 - 2026-11-23 — FR : Macron chez Airbus : la souveraineté aérospatiale entre ambition et rigueur budgétaire | Monde : Brexit dix ans après : le sommet de Bruxelles amorce le rapprochement UE-Royaume-Uni
 - 2026-11-24 — FR : Terres rares : la souveraineté minérale française face à l'hégémonie chinoise | Monde : Ukraine weaponize la Méditerranée : les drones navals de Kyiv frappent la flotte russe en Libye
+- 2026-11-25 — FR : L'affaire libyenne à double détente : renvoi en procès de Sarkozy/Bruni et verdict d'appel dans cinq jours | Monde : Les Houthis frappent la tour du fonds souverain saoudien (PIF/KAFD) à Riyad

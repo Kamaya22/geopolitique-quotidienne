@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-25",
+  "sujet_fr": "L'affaire libyenne à double détente : renvoi en procès de Sarkozy/Bruni et verdict d'appel dans cinq jours",
+  "sujet_monde": "Les Houthis frappent la tour du fonds souverain saoudien : la guerre contre la modernisation saoudienne",
+  "citations": [
+    {
+      "source_id": "afp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "AFP : renvoi en procès de Sarkozy, Bruni-Sarkozy et Marchand dans l'affaire de la fausse rétractation de Takieddine",
+      "date_source": "2026-11-24"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://france24.com/fr/france/20261124-fausse-r%C3%A9tractation-takieddine-renvoi-proc%C3%A8s-nicolas-sarkozy-carla-bruni",
+      "titre": "Fausse rétractation de Takieddine : renvoi en procès de Nicolas Sarkozy et Carla Bruni",
+      "date_source": "2026-11-24"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/nicolas-sarkozy-carla-bruni-mimi-marchand-qui-sont-les-principaux-protagonistes-de-l-affaire-de-la-fausse-retractation-de-ziad-takieddine_8297730.html",
+      "titre": "Nicolas Sarkozy, Carla Bruni, Mimi Marchand… Qui sont les principaux protagonistes de l'affaire de la fausse rétractation ?",
+      "date_source": "2026-11-24"
+    },
+    {
+      "source_id": "euronews",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://fr.euronews.com/2026/05/27/fin-du-proces-en-appel-de-nicolas-sarkozy-dans-laffaire-libyenne-verdict-attendu-le-30-nov",
+      "titre": "Fin du procès en appel de Nicolas Sarkozy dans l'affaire libyenne ; verdict attendu le 30 novembre",
+      "date_source": "2026-05-27"
+    },
+    {
+      "source_id": "mediapart",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Mediapart (Fabrice Arfi) : enquête originale de 2012 sur le financement libyen de la campagne Sarkozy, et suivi de l'instruction",
+      "date_source": "2026"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Libération : la dimension systémique de l'affaire libyenne et la culture des circuits parallèles de financement",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Figaro : judiciarisation de la vie politique et argument de la défense de Sarkozy",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "L'Opinion : enjeux institutionnels du verdict d'appel du 30 novembre et impact sur la présidentielle 2027",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Reuters : détails des deux frappes houthies sur la tour PIF/KAFD à Riyad (19 et 24 novembre 2026)",
+      "date_source": "2026-11-24"
+    },
+    {
+      "source_id": "al-jazeera",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh",
+      "titre": "Saudi-led coalition condemns terrorist attack on tower in Riyadh",
+      "date_source": "2026-11-24"
+    },
+    {
+      "source_id": "bloomberg",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/riyadh-s-finance-hub-attacked-saudi-anti-houthi-coalition-says",
+      "titre": "Riyadh's Finance Hub Attacked, Saudi Anti-Houthi Coalition Says",
+      "date_source": "2026-11-24"
+    },
+    {
+      "source_id": "al-monitor",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.al-monitor.com/originals/2026/10/houthi-attacks-undermine-saudi-arabias-economic-ambitions",
+      "titre": "Houthi attacks undermine Saudi Arabia's economic ambitions",
+      "date_source": "2026-10"
+    },
+    {
+      "source_id": "times-of-israel",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Times of Israel / Reuters : logique de guerre économique asymétrique dans le ciblage du PIF par les Houthis",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "al-arabiya",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Al Arabiya (perspective officielle saoudienne) : condamnation des frappes comme actes terroristes iraniens par procuration",
+      "date_source": "2026-11-24"
+    },
+    {
+      "source_id": "arab-center-dc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Arab Center Washington DC : le dilemme saoudien entre la guerre au Yémen et la crédibilité de Vision 2030",
+      "date_source": "2026-11"
+    }
+  ]
+}
