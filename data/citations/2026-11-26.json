@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-26",
+  "sujet_fr": "Budget 2027 : Lecornu opte pour le 49.3 face au compromis introuvable",
+  "sujet_monde": "COP31 d'Antalya : le Pacte rejeté, l'impasse du multilatéralisme climatique",
+  "citations": [
+    {
+      "source_id": "hcfp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "HCFP : avis sur le PLF 2027 — prévision de croissance (0,8 %) qualifiée d'optimiste, objectif de 5 % de déficit jugé nécessitant des réformes structurelles en dépenses",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "hcfp",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "HCFP : alerte sur les risques macroéconomiques d'un budget non adopté en temps et en heure",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Le Figaro : le 49.3 décrit comme « la seule voie réaliste » pour préserver la crédibilité budgétaire internationale de la France",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Terra Nova : un accord possible si abandon du gel des retraites et contribution exceptionnelle sur les grandes fortunes",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Libération : le 49.3 permettrait d'adopter des coupes dans les services publics sans vrai débat parlementaire ; répétition révélatrice d'une crise constitutionnelle structurelle",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "L'Opinion : le RN a intérêt à se présenter comme une force de responsabilité institutionnelle à moins de dix mois de la présidentielle 2027",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "OFCE : l'incertitude budgétaire prolongée pèse directement sur l'investissement des entreprises et la confiance des ménages",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Institut Montaigne : une résolution rapide de la crise est préférable à toute procédure exceptionnelle, même si le texte adopté reste imparfait",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-n-a-pas-de-volonte-de-passage-en-force-et-appelle-au-compromis-pour-faire-adopter-le-budget-2027_8299881.html",
+      "titre": "Lecornu n'a pas de \"volonté de passage en force\" et appelle au \"compromis\" pour faire adopter le budget 2027",
+      "date_source": "2026-11-25"
+    },
+    {
+      "source_id": "lcp",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://lcp.fr/actualites/budget-2027-le-gouvernement-sur-un-fil-a-la-veille-de-l-ouverture-des-debats-a-l",
+      "titre": "Budget 2027 : le gouvernement sur un fil à la veille de l'ouverture des débats à l'Assemblée",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "ONU / Guterres : secrétaire général de l'ONU s'est dit « profondément déçu » de l'échec des négociations de la COP31",
+      "date_source": "2026-11-22"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "CCNUCC / Simon Stiell : avancées partielles actées sur la transition juste, l'électrification et les mécanismes de financement de l'adaptation",
+      "date_source": "2026-11-22"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": "Copernicus (UE) : 2026 s'annonce comme l'une des trois années les plus chaudes jamais enregistrées",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "union-europeenne",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "UE / Commissaire au Climat Hoekstra : le texte du Pacte d'Antalya est « inacceptable » en l'absence de référence à la sortie des fossiles",
+      "date_source": "2026-11-22"
+    },
+    {
+      "source_id": "le-monde-diplomatique",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": "Le Monde diplomatique : l'influence française dans les COP repose depuis Paris 2015 sur une capacité de médiation fragilisée par les turbulences intérieures",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "germanwatch",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": "Germanwatch : engagements financiers de la COP31 qualifiés de « dérisoires » ; incapacité répétée des COPs à tenir leurs promesses de financement",
+      "date_source": "2026-11-22"
+    },
+    {
+      "source_id": "france-info",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/echec-des-negociations-engagements-sur-l-electrification-financements-ce-qu-il-faut-retenir-de-la-cop31-d-antalya-sur-le-climat_8290226.html",
+      "titre": "Echec des négociations, engagements sur l'électrification, financements… Ce qu'il faut retenir de la COP31 d'Antalya",
+      "date_source": "2026-11-22"
+    },
+    {
+      "source_id": "onu",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://news.un.org/fr/story/2026/11/1159887",
+      "titre": "La COP31 s'achève sans accord final, les énergies fossiles au cœur des divergences entre États",
+      "date_source": "2026-11-22"
+    }
+  ]
+}
