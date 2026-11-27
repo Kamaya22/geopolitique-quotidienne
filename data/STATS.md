@@ -1,12 +1,12 @@
 # Statistiques des sources citées
 
-*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-11-26 05:16 UTC.*
+*Fichier généré automatiquement par `tools/build_stats.py` — ne pas éditer à la main. Dernière génération : 2026-11-27 05:12 UTC.*
 
 ## Résumé
 
-- **Période couverte** : 2026-06-12 → 2026-11-26
-- **Éditions analysées** : 164
-- **Citations totales** : 3316
+- **Période couverte** : 2026-06-12 → 2026-11-27
+- **Éditions analysées** : 165
+- **Citations totales** : 3341
 - **Sources distinctes citées** : 332
 - **Pays distincts** : 39
 - **Orientations distinctes** : 10
@@ -56,14 +56,14 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| France | 1607 | 48.5 % | ██████████ |
-| États-Unis | 687 | 20.7 % | ████ |
-| International | 389 | 11.7 % | ██ |
-| Qatar | 175 | 5.3 % | █ |
+| France | 1624 | 48.6 % | ██████████ |
+| États-Unis | 687 | 20.6 % | ████ |
+| International | 389 | 11.6 % | ██ |
+| Qatar | 177 | 5.3 % | █ |
 | Royaume-Uni | 126 | 3.8 % | █ |
-| Israël | 62 | 1.9 % |  |
+| Israël | 67 | 2.0 % |  |
 | Ukraine | 38 | 1.1 % |  |
-| Canada | 19 | 0.6 % |  |
+| Canada | 20 | 0.6 % |  |
 | Hong Kong | 17 | 0.5 % |  |
 | Chine | 16 | 0.5 % |  |
 | Suède | 14 | 0.4 % |  |
@@ -79,9 +79,9 @@
 | Myanmar | 7 | 0.2 % |  |
 | Australie | 6 | 0.2 % |  |
 | Brésil | 6 | 0.2 % |  |
-| Taïwan | 5 | 0.2 % |  |
-| Arabie Saoudite | 5 | 0.2 % |  |
-| Pays-Bas | 5 | 0.2 % |  |
+| Taïwan | 5 | 0.1 % |  |
+| Arabie Saoudite | 5 | 0.1 % |  |
+| Pays-Bas | 5 | 0.1 % |  |
 | Iran | 4 | 0.1 % |  |
 | Pakistan | 3 | 0.1 % |  |
 | Estonie | 3 | 0.1 % |  |
@@ -100,14 +100,14 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| centre | 1059 | 31.9 % | ██████ |
-| factuel | 697 | 21.0 % | ████ |
-| independant | 640 | 19.3 % | ████ |
-| gauche | 268 | 8.1 % | ██ |
-| centre-gauche | 151 | 4.6 % | █ |
-| a-verifier | 136 | 4.1 % | █ |
-| droite | 126 | 3.8 % | █ |
-| centre-droit | 97 | 2.9 % | █ |
+| centre | 1065 | 31.9 % | ██████ |
+| factuel | 702 | 21.0 % | ████ |
+| independant | 641 | 19.2 % | ████ |
+| gauche | 272 | 8.1 % | ██ |
+| centre-gauche | 152 | 4.5 % | █ |
+| a-verifier | 139 | 4.2 % | █ |
+| droite | 128 | 3.8 % | █ |
+| centre-droit | 100 | 3.0 % | █ |
 | droite-liberale | 76 | 2.3 % |  |
 | liberal | 66 | 2.0 % |  |
 
@@ -115,19 +115,19 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| presse | 1546 | 46.6 % | █████████ |
-| think-tank | 964 | 29.1 % | ██████ |
-| institution | 541 | 16.3 % | ███ |
+| presse | 1564 | 46.8 % | █████████ |
+| think-tank | 966 | 28.9 % | ██████ |
+| institution | 545 | 16.3 % | ███ |
 | revue | 120 | 3.6 % | █ |
-| agence | 118 | 3.6 % | █ |
+| agence | 119 | 3.6 % | █ |
 | media-etat | 27 | 0.8 % |  |
 
 ### Par sujet (France / Monde)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| FR | 1694 | 51.1 % | ██████████ |
-| Monde | 1605 | 48.4 % | ██████████ |
+| FR | 1711 | 51.2 % | ██████████ |
+| Monde | 1613 | 48.3 % | ██████████ |
 | monde | 10 | 0.3 % |  |
 | fr | 7 | 0.2 % |  |
 
@@ -135,17 +135,17 @@
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| texte | 2341 | 70.6 % | ██████████████ |
-| pour-aller-plus-loin | 964 | 29.1 % | ██████ |
+| texte | 2359 | 70.6 % | ██████████████ |
+| pour-aller-plus-loin | 971 | 29.1 % | ██████ |
 | perspective | 11 | 0.3 % |  |
 
 ### Par rôle (fait / analyse / opinion)
 
 | Valeur | Citations | Part | |
 |---|---:|---:|---|
-| analyse | 1423 | 42.9 % | █████████ |
-| fait | 1400 | 42.2 % | ████████ |
-| opinion | 476 | 14.4 % | ███ |
+| analyse | 1431 | 42.8 % | █████████ |
+| fait | 1414 | 42.3 % | ████████ |
+| opinion | 479 | 14.3 % | ███ |
 | Analyse juridique des enjeux probatoires du procès en appel : notion de décideur, standard de preuve, comparaison avec le dossier Le Pen | 1 | 0.0 % |  |
 | Chronologie du système incriminé et des décisions de justice successives dans l'affaire MoDem | 1 | 0.0 % |  |
 | Éclairage politique sur les craintes du camp centriste face au précédent du verdict Le Pen | 1 | 0.0 % |  |
@@ -168,18 +168,18 @@
 
 | Source | Citations | Part |
 |---|---:|---:|
-| Al Jazeera | 174 | 5.2 % |
-| IFRI — Institut français des relations internationales | 123 | 3.7 % |
-| Libération | 107 | 3.2 % |
+| Al Jazeera | 176 | 5.3 % |
+| IFRI — Institut français des relations internationales | 124 | 3.7 % |
+| Libération | 108 | 3.2 % |
 | France 24 | 106 | 3.2 % |
-| Le Figaro | 105 | 3.2 % |
-| Euronews | 78 | 2.4 % |
-| Agence France-Presse (AFP) | 71 | 2.1 % |
+| Le Figaro | 106 | 3.2 % |
+| Euronews | 78 | 2.3 % |
+| Agence France-Presse (AFP) | 72 | 2.2 % |
 | Franceinfo (France Télévisions / Radio France) | 67 | 2.0 % |
 | Institut Montaigne | 66 | 2.0 % |
-| Public Sénat | 62 | 1.9 % |
+| Public Sénat | 63 | 1.9 % |
 | Franceinfo | 59 | 1.8 % |
-| Fondation Jean-Jaurès | 50 | 1.5 % |
+| Fondation Jean-Jaurès | 51 | 1.5 % |
 | ECFR — European Council on Foreign Relations | 47 | 1.4 % |
 | CNBC | 46 | 1.4 % |
 | Terra Nova | 42 | 1.3 % |
@@ -193,4 +193,4 @@
 | 2026-08 | 31 | 640 | 26 | 10 |
 | 2026-09 | 30 | 604 | 28 | 10 |
 | 2026-10 | 31 | 619 | 24 | 10 |
-| 2026-11 | 26 | 554 | 25 | 10 |
+| 2026-11 | 27 | 579 | 25 | 10 |
