@@ -168,3 +168,4 @@ Une ligne par édition, ajoutée automatiquement par l'agent :
 - 2026-11-25 — FR : L'affaire libyenne à double détente : renvoi en procès de Sarkozy/Bruni et verdict d'appel dans cinq jours | Monde : Les Houthis frappent la tour du fonds souverain saoudien (PIF/KAFD) à Riyad
 - 2026-11-26 — FR : Budget 2027 : Lecornu opte pour le 49.3 face au compromis introuvable | Monde : COP31 d'Antalya : le Pacte rejeté, l'impasse du multilatéralisme climatique
 - 2026-11-27 — FR : L'affaire Bardella : nouvelles preuves d'antisémitisme face aux enjeux de 2027 | Monde : Israël : le compte à rebours d'Eisenkot pour former un gouvernement avant le 6 décembre
+- 2026-11-28 — FR : La France en récession officielle | Monde : Ebola en RDC : 12 000 cas, deuxième épidémie mondiale

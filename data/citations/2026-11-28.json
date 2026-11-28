@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-28",
+  "sujet_fr": "La France en récession officielle",
+  "sujet_monde": "Ebola en RDC : 12 000 cas, deuxième épidémie mondiale",
+  "citations": [
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-27"
+    },
+    {
+      "source_id": "banque-de-france",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "aft",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "ocde",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "fitch",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "standard-poors",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "le-figaro",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "l-opinion",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "institut-montaigne",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "liberation",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "terra-nova",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "cnews",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "financial-times",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "reuters",
+      "sujet": "FR",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "insee",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.insee.fr/fr/statistiques/9165918",
+      "titre": "Au troisième trimestre 2026, le PIB recule (−0,2 % après 0,0 %)",
+      "date_source": "2026-11-27"
+    },
+    {
+      "source_id": "france24",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.france24.com/fr/france/20261127-la-france-entre-en-r%C3%A9cession-le-pib-continue-de-reculer",
+      "titre": "La France entre en récession, le PIB continue de reculer",
+      "date_source": "2026-11-27"
+    },
+    {
+      "source_id": "ofce",
+      "sujet": "FR",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://www.ofce.sciences-po.fr/prev/prev2603/france/cadrage.html",
+      "titre": "Énergie, politique budgétaire et incertitudes : les vents contraires sur la croissance",
+      "date_source": "2026-04"
+    },
+    {
+      "source_id": "oms",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-27"
+    },
+    {
+      "source_id": "ecdc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-19"
+    },
+    {
+      "source_id": "africa-cdc",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "iom",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "fait",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "oms",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11-27"
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "analyse",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "msf",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": null
+    },
+    {
+      "source_id": "irc-rescueorg",
+      "sujet": "Monde",
+      "emplacement": "texte",
+      "role": "opinion",
+      "url": null,
+      "titre": null,
+      "date_source": "2026-05"
+    },
+    {
+      "source_id": "oms",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.who.int/news/item/27-11-2026-who-issues-updated-ebola-response-recommendations--calling-for-improved-security-and-accelerated-research",
+      "titre": "WHO issues updated Ebola response recommendations, calling for improved security and accelerated research",
+      "date_source": "2026-11-27"
+    },
+    {
+      "source_id": "un-news",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "analyse",
+      "url": "https://news.un.org/en/story/2026/11/1168797",
+      "titre": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+      "date_source": "2026-11"
+    },
+    {
+      "source_id": "ecdc",
+      "sujet": "Monde",
+      "emplacement": "pour-aller-plus-loin",
+      "role": "fait",
+      "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-19",
+      "titre": "Ebola disease caused by Bundibugyo virus — Disease Outbreak News",
+      "date_source": "2026-11-19"
+    }
+  ]
+}
